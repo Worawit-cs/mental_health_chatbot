@@ -1,0 +1,804 @@
+UniSA
+STUDENT MENTAL HEALTH
+FRAMEWORK
+1
+
+seu@unisa.edu.au | (08) 830 28999
+unisa.edu.au/smhf
+Correct at time of printing/publication (August 2024)
+2
+
+Mental health and wellbeing are valuable best maintain positive mental wellbeing,
+assets which can significantly affect health, introduce flexibility into how we assess learning,
+social, education and employment outcomes connect students to services and resources that
+on both an individual and community level. can help them, or be a listening ear when others
+are struggling while maintaining our boundaries.
+- Australian University Mental Health
+Our commitment to offer comprehensive and
+Framework Report
+compassionate support can only exist within
+a culture that sees positive student mental
+wellbeing as a core value.
+Foreword
+The UniSA Student Mental Health Framework (The
+Framework) prioritises student mental wellbeing
+The University of South Australia (UniSA) strives across all facets of students’ university experience,
+to create supportive environments where its including in programs and curriculum, in physical
+students feel valued and empowered to succeed. spaces, in our online community, and more.
+Mental wellbeing is beneficial to student This Framework represents a bold step toward
+academic success. Studies show that wherever realising our vision of establishing a consistent
+you find positive student mental wellbeing, you and extensive culture of empathy, resilience, and
+will also find academic achievement, positive inclusivity, where help-seeking is encouraged,
+relationships, better engagement, retention, and stigma is dismantled.
+overall health, completion of study, and so much
+more. In fact, there is growing recognition in the Each member of the UniSA community has a
+higher education sector that students truly thrive role to play in supporting a positive environment
+when the teaching, cultural and operational for student mental wellbeing. This Framework
+environments are proactively and strategically offers a blueprint for how each of us can
+aligned to create communities that support and contribute to making our University community
+promote positive mental wellbeing. a supportive one.
+In many ways, UniSA already demonstrates
+many aspects of good practice, knowledge,
+and expertise in mental health. Our institution
+Our commitment to
+boasts world-class experts and researchers who
+consistently and actively contribute to mental student mental health
+health research and initiatives nationwide.
+Furthermore, across our academic and central and wellbeing
+administrative units, we actively support over 110
+diverse initiatives that promote positive student
+UniSA is deeply committed to establishing a
+mental wellbeing.
+culture where student mental wellbeing is
+Yet, while we are doing incredibly well at championed by all members of our university
+supporting student mental wellbeing, we community and across our digital and physical
+commit to doing more. Staff and students share environments. Furthermore, UniSA will work to
+a collective responsibility to continue to shape eliminate mental ill-health stigma and promote
+environments and communities that destigmatise an inclusive atmosphere where the mental
+mental ill-health, promote self-care practices, and wellbeing of students is prioritised and integrated
+encourage help-seeking behaviours. Within our into how we engage internally and externally, our
+individual spheres of influence, we can do things programs, and our environment and community.
+such as speak openly and freely about our lived
+experience of mental health, share tips on how to
+3
+
+About this document Framework to better understand how they
+can contribute toward establishing a mentally
+resilient university environment for themselves
+This document is a guide for the UniSA and their peers.
+community on how to support and champion
+student mental wellbeing. It outlines the It is important to acknowledge the immense
+aspirations of the University, describes four key contributions of our staff and students in the
+principles by which student mental wellbeing development of services, resources, activities, and
+can be fully integrated into university life, and initiatives over the years that collectively support
+outlines eight domains that collectively the wellbeing of students. This Framework
+contribute toward positive mental wellbeing. honours these contributions and recognises that
+the wider University community is already in a
+supportive position because of these joint efforts.
+About the Framework
+Mental health is a state of mental wellbeing
+that enables people to cope with the stresses
+The UniSA Student Mental Health Framework of life, realize their abilities, learn well and
+clearly demonstrates a commitment to enhancing work well, and contribute to their community.
+and improving student mental wellbeing at the
+- World Health Organization
+University; creating an inclusive community where
+students can flourish.
+The Framework is predicated on the Australian 1 The Australian University Mental Health Framework
+University Mental Health Framework1 and was funded by the Australian Government Department
+of Health and developed in consultation with students,
+complements mental wellbeing support services,
+universities, the mental health sector and government.
+resources and activities that currently exist across
+the University. 2 Practical examples come from the UniSA Student
+Mental Health Framework Project Current State Analysis,
+The Framework is structured around four key which can be accessed from www.unisa.edu.au/smhf
+principles that intersect with eight domains of
+wellbeing, which collectively demonstrate how to
+integrate wellbeing considerations into multiple
+aspects of the University experience.
+Additionally, the Framework includes practical
+examples of activities and initiatives that exist
+within the University2 to illustrate how the
+principles and domains can be applied.
+All members of the UniSA community are
+encouraged to think about what they can do
+in their areas of influence to promote the best
+possible mental wellbeing for students. Staff,
+no matter their position, field of expertise, level
+of authority, or how much they interact with
+students, can use the Framework to aid their
+connection with students and other stakeholders
+in ways that promote student mental wellbeing.
+Likewise, students, no matter what year they are
+in, their level or program of study, can use this
+4
+
+A definition of positive
+mental wellbeing
+Positive mental wellbeing is all about feeling
+mentally resilient and being able to manage life’s
+challenges. Within the student context, it means
+students understand their own needs, wants
+and motivations.
+Positive mental wellbeing is essential for
+academic success, making good life choices,
+forming connections with peers and staff, and
+finding purpose in life. A clear indicator of good
+mental wellbeing in students is when they
+recognise those things that can harm their
+mental wellbeing and take proactive measures
+to minimise their impact.3
+Related terms and definitions
+» Mental health is a state of wellbeing that
+allows people to handle life’s stresses,
+recognise their abilities, learn effectively,
+work efficiently, and contribute to their
+community. It is a crucial part of overall
+health and wellbeing, and supports our
+ability to make decisions, build relationships,
+and influence the world around us.4
+» Mental ill-health, or mental illness, is a
+health problem that significantly affects how
+a person feels, thinks, behaves, and interacts
+with other people. It is diagnosed according
+to standardised criteria.5
+5 Based on the definition by the Australian
+Government Department of Health and Aged
+Care, 2024
+3 Based on the definition by the World Health
+Organization, 2022.
+4 Based on the definition by the World Health
+Organization, 2022
+5
+
+Principles and domains of mental wellbeing
+This Framework is built on four key principles of mental wellbeing, which help guide how the University
+community supports student mental wellbeing across all aspects of university life. Additionally, it
+encompasses eight interconnected domains that equally contribute to mental wellbeing and provide
+a holistic perspective of the various factors that can impact students’ mental wellbeing.
+Connectin
+g
+&
+m
+C
+u
+l o
+u
+l
+c l a
+i
+r b
+r
+u o
+C r
+a
+& t
+i
+n
+s
+m g
+a
+r
+g
+o s
+r
+r
+e
+P
+n
+t
+r
+a
+E P
+n
+s
+v
+a
+i
+r
+o s
+n t
+n
+m
+e
+e d
+n u
+t t
+, S
+C
+o
+m e
+m u r
+u
+nity & C
+ult
+6
+
+PRINCIPLE ONE
+STUDENTS AS PARTNERS
+We will work together with students on Principle in Action
+activities and initiatives that impact
+student mental wellbeing. When developing initiatives that bolster student
+mental wellbeing, we can increase positive and
+Students want to participate in the co-creation effective outcomes by:
+of activities and initiatives that affect their mental
+wellbeing. Engaging students as partners in » Keeping students informed using social
+meaningful ways considers their unique viewpoints media, email, newsletters, posters, and
+and perspectives, and creates a sense of shared digital media.
+investment, value and sense of belonging.
+» Co-designing and consulting students on
+Initiatives co-developed with students are more
+activities and initiatives that impact them,
+likely to be relevant and used by students.
+such as content development, student
+events, and policy reviews.
+Activities or initiatives that impact student
+mental wellbeing can be found in every unit » Include student representation on
+across the University. In each instance (and governance groups and recruitment panels.
+where appropriate), students can be involved in
+» Hiring students as casual staff.
+the design, development, implementation and/or
+evaluation phases. Students bring their unique » Co-designing curriculum and assessments.
+views and skills to project teams, governance
+» Inviting a variety of student perspectives,
+groups, planning committees and advisory
+including from students with lived
+boards, and can support efforts to communicate
+experience of mental ill-health.
+and engage with wider student cohorts. Students
+with lived experience of mental ill-health also
+offer valuable insights into the development of
+activities and initiatives that impact student The Student Advisory Group at UniSA Online
+wellbeing, and their involvement should be allows student representatives to discuss
+encouraged. It is crucial to also acknowledge that issues affecting the academic performance
+and mental wellbeing of peers.
+while some students prefer active involvement,
+others may simply wish to participate.
+Working with students to ensure that activities
+and initiatives remain relevant also requires good
+data. Ideally, this data should come directly from
+students, through formalised student feedback,
+where they can share their perspectives through
+mechanisms such as survey tools and focus
+groups. Student data from central units such as
+Student Academic Services, Student Engagement
+Unit, or Business Intelligence and Planning,
+can also provide excellent insight into student
+experiences and their engagement with
+University initiatives or support services.
+7
+
+PRINCIPLE TWO
+PROGRAMS AND CURRICULUM
+We will integrate mental wellbeing into Principle in Action
+teaching and learning to drive academic
+success. When designing curriculum and teaching
+activities that support student mental wellbeing,
+Academic success and positive student mental we can improve student academic outcomes by:
+wellbeing are deeply interlinked. In fact, our
+ability to create communities and environments » Considering trauma-informed pedagogy and
+conducive to academic success also requires that mental health literacy in curriculum design.
+mental wellbeing considerations be included in
+» Embedding information on mental wellbeing
+the design of curricula and teaching methods.
+services and resources into course
+information and content.
+Across the University, we can more effectively
+address those factors that contribute to » Where possible, exploring alternative
+academic stress—such as course structure, options to traditional WIL placements to
+assessment design, and academic misconduct— accommodate neurodiverse students.
+by recognising student wellbeing as an integral
+» Openly discussing and normalising the
+aspect of teaching and learning.
+impact of mental wellbeing on study and
+academic success.
+UniSA prides itself as an adaptive and dynamic
+tertiary institution that employs the latest » Offering student-facing staff mental
+research to inform our teaching and assessment health and wellbeing literacy training with
+practices. We regularly embrace opportunities a focus on recognising distress, facilitating
+to craft authentic assessments, aligned to best conversations about mental wellbeing,
+practices and allow students to demonstrate and referring students to support services
+their learning in various ways that do not create and resources.
+unnecessary distress.
+» Considering the student’s individual
+context when responding to and
+When we consider the impact of mental wellbeing
+accommodating extension requests.
+in our teaching and learning practices, we must
+investigate different avenues that encourage » Selecting course resources or textbooks
+positive mental wellbeing while maintaining that are low cost or free of charge.
+meaningful engagement. Doing so leads to more
+» Considering timing and student mental
+flexible and supportive learning environments
+wellbeing when undertaking academic
+where students can thrive. Flexibility positively
+misconduct or preclusion procedures.
+influences the wellbeing of students by validating
+their unique student experiences and allowing » Connecting students to wellbeing content.
+them to work to their strengths. Ultimately it
+leads to increased retention, better engagement
+and academic success.
+Students in the Social Work program receive
+additional resources focused on self-care to
+effectively address the potential impact of
+vicarious trauma.
+8
+
+PRINCIPLE THREE
+ENVIRONMENT, COMMUNITY
+AND CULTURE
+We will align our online and on-campus understanding of the services and resources
+learning, social and operational available to students at UniSA, allowing them to
+environments to establish a University effectively connect students to the help they may
+culture and community that supports require. This team-based approach between staff
+student mental wellbeing. and students helps to facilitate more authentic
+and holistic engagement with students.
+All members of the UniSA community play a
+role in normalising student mental wellbeing.
+When we communicate consistently and openly Principle in Action
+advocate for mental wellbeing, we reduce stigma,
+and we encourage students to prioritise their When shaping the environments, communities,
+mental wellbeing and seek help when needed. and cultures of our physical and virtual campuses,
+we can increase student engagement and con-
+Our culture is positively shaped to a significant nection by:
+degree by our prioritisation of student mental
+wellbeing, because inclusive and supportive » Incorporating student mental wellbeing
+communities are vital for student success. in strategic planning and the business
+Students should feel cared for by the wider functions of units and teams.
+University community, and this is best achieved
+» Having leaders and champions at all levels
+by students’ awareness and access to tailored
+of our units visibly commit to improving
+support services and resources, as well as the
+student mental wellbeing.
+unwavering allyship of all members of UniSA’s
+community. » Organising online-based events for
+external students.
+Recognising that mental health exists on a
+» Incorporating Aboriginal and Torres Strait
+spectrum and can impact anyone at any time,
+Islander languages in the names of our
+we reject the stigma of poor mental health from
+buildings, facilities and spaces.
+our metro, regional and online communities.
+We remain committed to positive student mental » Linking students with disability, chronic
+wellbeing by encouraging students to engage conditions, or caregiving responsibilities to
+in help-seeking behaviours and seek to be well- UniSA Access and Inclusion service.
+informed about mental wellbeing. Moreover, our » Facilitating students with access plans
+culture protects students who wish to discuss
+to on-campus sensory or multi-access
+their mental wellbeing challenges with peers and
+rooms for respite periods.
+staff without judgment or negative repercussions
+» Featuring more green and quiet spaces in
+to their academic or professional futures.
+infrastructure projects.
+UniSA’s staff are strong student advocates and
+continue to be committed to student wellbeing.
+By supporting staff to engage in student-focussed
+When designing multi-access suites across
+mental wellbeing training, our academic and
+metropolitan campuses, FMU engaged
+professional student-facing staff will be
+students in the design and development
+empowered to support students’ mental
+process to ensure the suites met their needs.
+wellbeing. Staff will also have a thorough
+9
+
+PRINCIPLE FOUR
+CONNECTING AND
+COLLABORATING
+Connecting students to services and supports, responsibility for supporting student success
+and collaborating effectively with internal and highlight the expertise our partners have
+experts, external partners, and the higher to offer. Similarly, both universities and vocational
+education sector. education and training (VET) institutions play
+a crucial role as collaborators and can share
+UniSA offers a wide range of high-quality mental insights into their strategies and research-backed
+wellbeing support services, resources, information, programs. By thinking broadly and collaborating
+and activities through its academic and central widely, we increase the relevance of student
+units. When students are looking to bolster their initiatives and the likelihood that students
+mental wellbeing—and more so when in crisis—it will engage with them.
+is crucial to ensure that they can easily access this
+support by providing clear information and links to
+available services and resources. Principle in Action
+Supporting student mental wellbeing also When collaborating with internal and external
+requires all members of our broad community to partners to support student mental wellbeing,
+engage collaboratively. Indeed, collaboration we can increase the likelihood of success by:
+advances a culture of shared learning, minimises
+replication of effort, encourages innovation, and » Promoting internal and external
+enhances efficiencies. When we seek to develop support services widely and continuously
+activities and initiatives that support student to students.
+mental wellbeing, we cannot afford to be myopic
+» Working with partner organisations to
+but must look to engage not just our students
+develop mental wellbeing-related initiatives,
+but also our mental wellbeing experts, partner
+research, training, and course content.
+organisations, and other tertiary institutions, to
+find and develop effective solutions. It starts from » Engaging with SEU and USASA student
+the top, with our leaders consistently expressing support services to strategically target
+their commitment to collaboration and student cohorts with mental wellbeing
+emphasising the benefits of working together information, tools, and resources.
+to achieve common goals and outcomes. » Collaborating with other higher education
+institutions to identify innovative practices.
+Involving staff with expertise in mental wellbeing
+in the development of evidence-based and
+effective student wellbeing initiatives is crucial
+for the overall success of those initiatives. After Universities Australia Suicide Prevention
+all, UniSA is a global leader in mental wellbeing e-learning modules offer all staff free training
+research, and our research can be found in to enhance their confidence in supporting
+practical applications across various industries student mental health and wellbeing.
+nationwide and overseas. Likewise, our external
+partner organisations play a pivotal role in
+designing and delivering broad-reaching
+initiatives, as well as offering supplementary
+services and resources to our students. Such
+partnerships recognise the collective
+10
+
+Domains of mental wellbeing
+Different aspects of our everyday lives can have a direct impact on the quality of our mental wellbeing.
+By having a better understanding of how these personal aspects—or domains—of life impact mental
+health, we are better placed to recognise and address students’ needs. The Ottawa Charter for Health
+Promotion indicates that “health is created and lived by people within the settings of their everyday life:
+where they learn, work, play and love.”6
+When students can reflect on the different areas of their lives, they are better equipped to take
+purposeful action to realign any areas that may be out of balance, which ultimately supports positive
+mental wellbeing and their ability to succeed academically and personally.
+Likewise, staff can affect positive outcomes for students by devising engagement strategies that
+not only integrate the Framework’s four Principles but also support one or more domains, thereby
+improving student mental wellbeing and cultivating an environment where students thrive academically
+and personally.
+6 Ottawa Charter for Health Promotion, p. 7, 1986
+11
+
+DOMAIN ONE
+Domain in Action
+EMOTIONAL WELLBEING
+» Organising mindfulness exercises, such
+The ability to understand and manage as meditation, deep breathing, or yoga.
+emotions.
+» Discussing how to identify and practice
+healthy coping mechanisms, such as
+Students with good emotional wellbeing
+journaling, drawing, or engaging in hobbies.
+understand and can manage their emotions,
+which has a direct and positive impact on their » Positively re-framing a student’s negative
+overall wellbeing and academic success. self-talk and supporting self-encouragement.
+Emotional wellbeing hinges on how aware and
+well one navigates both good and bad feelings,
+having effective strategies or tools to cope with
+The Counselling Service supports students
+negative emotions or when feeling overwhelmed,
+facing barriers to their studies as well as
+and recognising when professional support
+personal crises. The Service also works
+is needed.
+with third-party providers to support
+regional students.
+DOMAIN TWO
+Domain in Action
+SOCIAL WELLBEING
+» Encouraging students to balance study with
+The ability to have positive and meaningful regular engagement with family, friends, and
+relationships. support networks.
+» Providing a selection of clubs, groups,
+Social wellbeing is about students enjoying
+or communities that align with students’
+positive relationships in their lives and feeling a
+interests.
+sense of belonging. It is about feeling connected
+to family and friends, being part of a group, and » Organising on-campus or online events
+feeling valued and appreciated. Establishing good, and social gatherings so students can meet
+caring relationships, and truly connecting with new people.
+people is an important aspect of university life.
+When students carefully balance their social lives
+with their academic and work commitments, they
+USASA supports over 80 cultural, special
+can increase their confidence, feel more at ease in
+interest, academic and social justice clubs
+social settings, boost their self-esteem, improve
+and societies.
+their communication skills, and develop a greater
+sense of social trust.
+12
+
+DOMAIN THREE
+Domain in Action
+PHYSICAL WELLBEING
+» Providing students with information on
+The ability for our bodies to function at prioritising adequate sleep and rest.
+their best.
+» Sharing information about a healthy diet
+that incorporates minimally processed foods.
+Good physical wellbeing is about being able to
+complete daily activities without feeling overly » Encouraging physical activity, such as
+tired or stressed. For many students, good walking, jogging, sports, resistance training,
+physical health includes developing healthy yoga, etc.
+habits around sleep, diet, exercise, sexual health,
+substance use, and personal hygiene. For some
+students, it also requires taking care of physical
+UniSA Sport supports 27 intervarsity
+illness. When students understand how their
+sports clubs and endorses two community
+physical wellbeing is closely connected to their
+sport clubs.
+mental wellbeing and sense of happiness, they
+can begin to carefully consider and make
+changes to their daily habits.
+DOMAIN FOUR
+Domain in Action
+INTELLECTUAL WELLBEING
+» Championing the use of planners to organise
+The ability to learn and grow as lifelong tasks and prioritise important activities.
+learners.
+» Welcoming free speech through respectful
+discourse between students with different
+Intellectual wellbeing is when students
+perspectives and opinions.
+comfortably challenge themselves personally and
+academically and view setbacks as opportunities » Offering students time management and
+for growth. It’s about students understanding their procrastination minimisation training.
+preferred ways of learning and methods of study,
+which can ultimately lead to establishing a
+commitment to continual positive cognitive
+The Peer Assisted Study Sessions (PASS)
+challenge, being able to interact with people
+Program is a peer-led initiative that helps
+from diverse backgrounds and with varied
+students grasp key concepts in challenging
+perspectives and nurturing a positive mindset.
+courses.
+13
+
+DOMAIN FIVE
+Domain in Action
+SPIRITUAL WELLBEING
+» Incorporating community service or
+The ability to find meaning and purpose in life. volunteering work within the curriculum.
+» Supporting students’ engagement in
+Spiritual wellbeing involves actively seeking
+religious ceremonies, events, and prayer.
+purpose and meaning in life. For students, it
+includes discovering the values and principles » Connecting students to University Chaplains.
+that steer their actions, whether it is within a
+» Recommending books, e-books and
+religious belief system or in everyday life. It is
+podcasts on spirituality, philosophy
+about establishing a framework of beliefs that
+and/or personal growth to inspire
+infuse their lives with significance and direction
+personal reflection.
+and may even include feeling connected to
+something larger than themselves. When students
+explore their purpose, meaning, values, morals,
+and ethics, it enhances their overall wellbeing All campuses feature prayer rooms, and
+and greatly enriches their lives. metropolitan campuses have Chaplains who
+offer information on campus religious events
+and groups and provide pastoral care.
+DOMAIN SIX
+Domain in Action
+ENVIRONMENTAL WELLBEING
+» Providing tips on keeping clutter-free study
+The ability to thrive in our surroundings. spaces and sleep-supporting bedrooms.
+» Inviting students to contribute to the design
+Environmental wellbeing invites students to
+and planning of student spaces.
+consider the interconnection between their
+surroundings, environments, communities, and » Hosting lectures outdoors, ideally in
+themselves. On campus, it means students spend green spaces.
+time in spaces brightly lit by natural light, relaxing
+in green spaces in between classes, and seeking
+out quiet spaces for study and reflection. Off
+BEHL 1028 explores nature’s impact on
+campus and online, students with good
+psychological wellbeing and provides
+environmental wellbeing seek to create spaces
+students with practical tools for sustaining
+where they feel safe, calm, and comfortable, take
+mental health in life.
+breaks from devices, have clean air to breathe,
+and can ideally engage with nature to unwind.
+14
+
+DOMAIN SEVEN
+Domain in Action
+FINANCIAL WELLBEING
+» Providing training on how to budget and
+The ability to budget money and expenses. track income and expenses.
+» Encouraging money-saving advice, such
+Financial wellbeing is the ability to budget money
+as cooking at home rather than eating out.
+and resources sensibly and for students to live
+within their means. It means students creating » Establishing external partnerships that offer
+and sticking to a budget, tracking expenses, and students discounts on goods and services.
+where possible, avoiding debt and saving for
+the future. When income is tight, students are
+empowered to explore and apply for scholarships,
+USASA provide a financial wellbeing service
+grants and prizes that they may qualify for, and to
+for students that is confidential and designed
+seek help and advice on government support
+to enhance students’ financial literacy.
+they may be eligible to receive.
+DOMAIN EIGHT
+Domain in Action
+DIGITAL WELLBEING
+» Modelling constructive online habits and
+The ability to have a healthy relationship with consumption of news and social media.
+technology.
+» Offering tips and tricks on how to curate a
+social media feed that promotes positivity.
+Digital wellbeing requires taking a mindful
+approach when using technology to study and » Prioritising in-person over online
+interact with others. While digital devices have engagement if and where possible.
+become indispensable tools in our everyday
+» Scheduling daily time away from devices.
+lives, students with good digital health establish
+healthy habits, such as the ability to seek credible
+information, protect their personal information
+and privacy, interact safely online, take technology Lifeline have developed a webpage called
+breaks, and limit social media usage. ‘How to do a digital detox’ which provides
+a guide on how to effectively manage
+technology and media in our lives.
+15
+
+Applying the UniSA Student Mental Health Framework
+The table below showcases examples of initiatives that can be implemented and intersect with the principles
+and domains outlined in this framework.
+PRINCIPLES
+Principle 1: Students as Principle 2: Programs and Principle 3: Environment, Principle 4: Connecting and
+Partners Curriculum Community and Culture Collaborating
+We will work together with We will integrate mental We will align our online Connecting students to
+students on activities and wellbeing into teaching and on-campus learning, services and supports,
+initiatives that impact student and learning to drive social and operational and collaborating effectively
+mental wellbeing. academic success. environments to establish with internal experts, external
+a University culture and partners, and the higher
+community that supports education sector.
+student mental wellbeing.
+Domain 1: Emotional
+wellbeing
+The ability to understand and
+manage emotions.
+16
+SNIAMOD
+» Obtaining student » Checking in with students » Normalising discussions » Connecting students with
+feedback about activities weekly to gauge mental about mental wellbeing caregiving responsibilities
+and initiatives that impact wellbeing. in class. to the Access and Inclusion
+them. service.
+» Exploring the inclusion » Training staff to adopt
+» Providing student leaders of trauma-informed inclusive teaching » Including contact
+and student-facing staff practices in the delivery practices, offer mentorship information about
+with mental health training. of curriculum. and effectively respond to the Counselling Service
+students’ emotional needs. in course materials.
+
+PRINCIPLES
+Domain 2: Social wellbeing
+The ability to have positive
+and meaningful relationships.
+Domain 3: Physical
+wellbeing
+The ability for our bodies to
+function at their best.
+Domain 4: Intellectual
+wellbeing
+The ability to learn and grow
+as lifelong learners.
+Domain 5: Spiritual
+wellbeing
+The ability to find meaning
+and purpose in life.
+17
+SNIAMOD
+» Involving students in planning » Creating social clubs within » Contributing to USASA and » Engaging external partners
+social networking activities. each program allowing Student Life events that in hosting student functions.
+students in all years of study celebrate the diversity of
+» Scaffolding group work » Providing opportunities
+opportunities to socialise. student cultures and identities.
+activities for meaningful for students to engage in
+engagement of » Using social media and online » Establish safe virtual volunteer work with local
+neurodivergent students. platforms to create interactive spaces where open and community groups.
+spaces for students to discuss respectful dialogue is
+» Host ‘speed friending’ and
+and contribute to curriculum encouraged.
+icebreaker events within the
+development.
+first few weeks of a course.
+» Encouraging regular student » Hosting classes outdoors » Providing students with » Promoting UniSA Health
+feedback to help evaluate in nature and allowing rest nutrition, sleep, and stress Clinic and student-led clinics
+the effectiveness of health breaks during long lectures management support and to students.
+and wellbeing programs. and workshops. training.
+» Collaborating with national
+» Engaging students to » Exploring alternative options » Offering free or discounted gym franchises, recreational
+promote healthy habits such to traditional WIL placements gym and group fitness centres, and health
+as walking, cycling, and other to accommodate neurodiverse memberships to encourage organisations.
+recreational activities. students. student participation.
+» Including student » Allowing students a choice » Openly celebrating all forms » Linking students with learning
+representation in unit of assessments that cater of achievement, not just difficulties to Access and
+governance groups. to their strengths and learning academic. Inclusion service.
+differences.
+» Encouraging students to listen » Promoting information on » Engaging with religious,
+to the Study Room Podcast » Include assessment rubrics mental wellbeing services philosophical, and Aboriginal
+hosted by UniSA students. in course outlines. and resources. Elders to host or deliver
+seminars.
+» Inviting student perspectives » Inviting Aboriginal Elders » Promoting values such » Connecting HDR students
+on spirituality and personal and spiritual leaders to share as tolerance, mindfulness, to mentors and advisers in
+wellbeing into lectures and new perspectives. meaning, purpose, ethics, their field of study.
+discussions. forgiveness, and service
+» Encouraging reflective » Establishing peer-to-peer
+to others.
+» Organising interfaith seminars discussion in class about service that complements
+and cultural events. topics such as ethics, » Including information and the Counselling Service and
+mindfulness, spirituality, content on spiritual wellness allows students to provide a
+meditation, etc. in student media. listening ear to peers.
+
+PRINCIPLES
+Domain 6: Environmental
+wellbeing
+The ability to thrive in our
+surroundings.
+Domain 7: Financial
+wellbeing
+The ability to budget money
+and expenses.
+Domain 8: Digital wellbeing
+The ability to have a healthy
+relationship with technology.
+18
+SNIAMOD
+» Obtaining student feedback » Maintaining neat, clean, and » Having leaders and champions » Partnering with organisations,
+when designing new university ordered teaching physical and publicly commit to improving clubs, agencies, and affinity
+buildings and outdoor spaces. online spaces. student mental wellbeing. groups that promote
+environmental caretaking
+» Establishing a student » Hosting teaching activities » Incorporating more green and
+values.
+advisory committee that outdoors and in nature. quiet spaces in infrastructure
+offers advice on matters projects. » Collaborating with other
+» Utilising on-campus yarning
+that pertain to students. higher education institutions
+circles for group discussions.
+to identify innovative
+practices.
+» Conducting regular student » Developing financial literacy » Linking students to financial » Collaborating with large
+surveys to gather feedback training, services, or resources, aid and government welfare organisations, not-for-profits,
+on financial concerns and to help students budget or programs. and SMEs to provide enrolled
+needs. gain financial assistance. students with casual
+» Providing financial support
+employment.
+» Developing a peer-to-peer » Selecting course resources to students from marginalised
+service where students or textbooks that are low cost backgrounds. » Partnering with external
+mentor peers on money or free of charge. organisations to fund
+management. scholarships, grants, and
+prizes.
+» Obtaining student feedback » Providing information on » Supporting technology-free » Providing students with
+in the development of University support services engagement in class. free or discounted access
+student-facing IT systems. on webpages and learnonline to mental and physical
+» Providing resources on
+sites. wellbeing pay-per-use apps.
+» Co-designing digital how students can pursue
+resources and tools to » Developing resources on intentional and healthy » Connecting students with
+ensure they are user-friendly managing screen time, online relationships with technology. digital anxiety to a counsellor
+and resonate with students. privacy, and critical thinking or peer support.
+about digital media.
+
+The development of the UniSA Student Mental Health Framework was made possible through the
+critical feedback and input provided by a Student Consultative Group.
+The Student Consultative Group was comprised of the following students:
+» Alexander Michael Reynolds
+» Amanda Louise Balmer
+» Anisha Mahamad Rafik Sama
+» Avneet Kaur Hunjan
+» Bailey Hart
+» Chloe Bree Cameron
+» Elise Cox
+» Gabriele Raine Baljak
+» Georgia Marie June Deane (Student Chair)
+» Jessyka Shannyn Welch Kidner
+» Megan Peartree
+» Rhys Peden
+» Riya Mahajan
+» Tamanna Bakhtyari
+19
+

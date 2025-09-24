@@ -1,0 +1,746 @@
+[
+  {
+    "id": 1,
+    "text": "Guidance on mental health\npolicy and strategic action plans\nModule 5. Comprehensive directory of policy areas,\ndirectives, strategies and actions for mental health\n\nGuidance on mental health\npolicy and strategic action plans\nModule 5. Comprehensive directory of policy areas,\ndirectives, strategies and actions for mental health"
+  },
+  {
+    "id": 2,
+    "text": "Guidance on mental health policy and strategic action plans. Module 5. Comprehensive directory of policy areas, directives, strategies and\nactions for mental health\n(Guidance on mental health policy and strategic action plans. Module 1. Introduction, purpose and use of the guidance – Module 2. Key reform\nareas, directives, strategies, and actions for mental health policy and strategic action plans – Module 3. Process for developing, implementing,\nand evaluating mental health policy and strategic action plans – Module 4. Country case scenarios – Module 5. Comprehensive directory of\npolicy areas, directives, strategies and actions for mental health)\nISBN 978-92-4-010687-1 (electronic version)\nISBN 978-92-4-010688-8 (print version)\n© World Health Organization 2025"
+  },
+  {
+    "id": 3,
+    "text": "policy areas, directives, strategies and actions for mental health)\nISBN 978-92-4-010687-1 (electronic version)\nISBN 978-92-4-010688-8 (print version)\n© World Health Organization 2025\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence\n(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).\nUnder the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is\nappropriately cited, as indicated below. In any use of this work, there should be no suggestion that W H O endorses any specific\norganization, products or services. The use of the W H O logo is not permitted. If you adapt the work, then you must license your work"
+  },
+  {
+    "id": 4,
+    "text": "organization, products or services. The use of the W H O logo is not permitted. If you adapt the work, then you must license your work\nunder the same or equivalent Creative Commons licence. If you create a translation of this work, you should add the following disclaimer\nalong with the suggested citation: “This translation was not created by the World Health Organization (W H O). W H O is not responsible for\nthe content or accuracy of this translation. The original English edition shall be the binding and authentic edition”.\nAny mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World\nIntellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules/)."
+  },
+  {
+    "id": 5,
+    "text": "Intellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules/).\nSuggested citation. Guidance on mental health policy and strategic action plans. Module 5. Comprehensive directory of policy areas,\ndirectives, strategies and actions for mental health. Geneva: World Health Organization; 2025 (Guidance on mental health policy and\nstrategic action plans). Licence: CC BY-NC-SA 3.0 IGO.\nCataloguing-in-Publication (CIP) data. CIP data are available at https://iris.who.int/.\nSales, rights and licensing. To purchase W H O publications, see https://www.who.int/publications/book-orders. To submit requests for\ncommercial use and queries on rights and licensing, see https://www.who.int/copyright."
+  },
+  {
+    "id": 6,
+    "text": "commercial use and queries on rights and licensing, see https://www.who.int/copyright.\nThird-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or images, it\nis your responsibility to determine whether permission is needed for that reuse and to obtain permission from the copyright holder. The\nrisk of claims resulting from infringement of any third-party-owned component in the work rests solely with the user.\nGeneral disclaimers. The designations employed and the presentation of the material in this publication do not imply the expression of\nany opinion whatsoever on the part of W H O concerning the legal status of any country, territory, city or area or of its authorities, or"
+  },
+  {
+    "id": 7,
+    "text": "any opinion whatsoever on the part of W H O concerning the legal status of any country, territory, city or area or of its authorities, or\nconcerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which\nthere may not yet be full agreement.\nThe mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by W H O\nin preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are\ndistinguished by initial capital letters.\nAll reasonable precautions have been taken by W H O to verify the information contained in this publication. However, the published"
+  },
+  {
+    "id": 8,
+    "text": "distinguished by initial capital letters.\nAll reasonable precautions have been taken by W H O to verify the information contained in this publication. However, the published\nmaterial is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of\nthe material lies with the reader. In no event shall W H O be liable for damages arising from its use.\nDesign and layout: Jennifer Rose Fivefold Studio\nCover photo: Mountain range in Alaska. ©Tobias Funk"
+  },
+  {
+    "id": 9,
+    "text": "Contents\nForeword .............................................................................................................................................................vi\nAcknowledgements .........................................................................................................................................vii\nGlossary ..............................................................................................................................................................xi\nExecutive summary .........................................................................................................................................xiv"
+  },
+  {
+    "id": 10,
+    "text": "Executive summary .........................................................................................................................................xiv\nIntroduction ........................................................................................................................................................1\nPolicy areas and associated policy directives, strategies and actions ......................................................2\nPolicy area 2. Service organization and development .........................................................................................................8\nPolicy area 3. Human resource and workforce development ..........................................................................................15"
+  },
+  {
+    "id": 11,
+    "text": "Policy area 3. Human resource and workforce development ..........................................................................................15\nPolicy area 4. Person-centred, recovery-oriented and rights-based assessment, interventions and support ....18\nPolicy area 5. Mental health sector contributions to addressing social and structural determinants and\nsociety-wide issues impacting mental health and well-being .........................................................................................22\nReferences .........................................................................................................................................................24"
+  },
+  {
+    "id": 12,
+    "text": "Foreword\nThis Guidance on mental health policy and strategic action plans provides countries with a comprehensive\npathway to mental health policy reform. This is in line with an increasing consensus on the importance of\nembracing rights-based, person-centered, and recovery-oriented approaches that emphasize autonomy and\ndignity, while also engaging people with lived experience in planning and decision-making.\nOur collective vision is for a world where mental health is integrated into primary health care, and where services\nare accessible, respectful, and empowering. Mental health planning should also take into account the social and\nstructural factors such as poverty, housing, education, and employment, as well as the negative impact of stigma,"
+  },
+  {
+    "id": 13,
+    "text": "structural factors such as poverty, housing, education, and employment, as well as the negative impact of stigma,\ndiscrimination, and other systemic barriers. Addressing these interconnected issues is fundamental to achieving\nholistic and sustainable outcomes. Collaboration across sectors is essential to implement equitable and effective\ncommunity-based services.\nThis publication is a testament to the invaluable contributions of people with lived experience, whose voices\nand insights are central to this transformative agenda. It is their stories, resilience, and advocacy that underpin\nthe urgency of this work and inspire us towards a more inclusive and compassionate world. This Guidance is a"
+  },
+  {
+    "id": 14,
+    "text": "the urgency of this work and inspire us towards a more inclusive and compassionate world. This Guidance is a\nvital resource for policymakers, practitioners, and advocates alike, providing practical and actionable strategies\nto accelerate progress, while helping to protect the rights and dignity of those seeking care.\nDr Tedros Adhanom Ghebreyesus\nDirector-General\nWorld Health Organization\nvi"
+  },
+  {
+    "id": 15,
+    "text": "Acknowledgements\nThe development and coordination of this guidance was led by Michelle Funk, with the support of Dévora Kestel,\nof the Department of Mental Health, Brain Health and Substance Use of the World Health Organization (W H O).\nWriting team\nThis publication was written by Michelle Funk, Natalie Drew Bold, Maria Francesca Moro, and Celline Cole\n(Unit of Policy, Law and Human Rights in the Department of Mental Health, Brain Health and Substance Use, W H O);\nand Peter McGovern (Modum Bad, Vikersund, Norway). W H O would like to thank the following individuals and\norganizations for their valuable contributions, feedback and inputs:\nExternal contributors and reviewers"
+  },
+  {
+    "id": 16,
+    "text": "organizations for their valuable contributions, feedback and inputs:\nExternal contributors and reviewers\nAminath Ula Ahmed (Mental Health Support Group, Malé, Maldives); Catalonia, Spain); Marika Cencelli (NHS England, London, the United\nTsuyoshi Akiyama (World Federation for Mental Health, Japan); Ammar Kingdom); Francesca Centola (Mental Health Europe, Brussels, Belgium);\nHumaid Albanna (Al Amal Psychiatric Hospital, Emirates Health Services, Odille Chang (College of Medicine, Nursing and Health Sciences, Fiji\nDubai, United Arab Emirates); Abdulhameed Alhabeeb (National Center National University, Suva, Republic of Fiji); Fatma Charfi (Department of"
+  },
+  {
+    "id": 17,
+    "text": "Dubai, United Arab Emirates); Abdulhameed Alhabeeb (National Center National University, Suva, Republic of Fiji); Fatma Charfi (Department of\nfor Mental Health Promotion, Ministry of Health, Riyadh, Saudi Arabia); Child Psychiatry, Mongi-Slim Hospital, University of Tunis El-Manar, Tunis,\nMichaela Amering (World Association for Psychosocial Rehabilitation Tunisia); Andreas Chatzittofis (Medical School, University of Cyprus,\n(WAPR) and Medical University of Vienna, Austria); Caroline Amissah Nicosia, Cyprus); Roman Chestnov (H I V/ Health and Development Team,\n(Ministry of Health, Accra, Ghana); Action Amos (Pan African Network United Nations Development Programme (UNDP), Geneva, Switzerland);"
+  },
+  {
+    "id": 18,
+    "text": "(Ministry of Health, Accra, Ghana); Action Amos (Pan African Network United Nations Development Programme (UNDP), Geneva, Switzerland);\nof Persons with Psychosocial Disabilities (PANPPD), Blantyre, Malawi); Iva Cheung (Health Justice, Vancouver, British Columbia, Canada);\nGhida Anani (ABAAD MENA - Resource Center for Gender Equality, Beirut, Dixon Chibanda (The Friendship Bench, Harare, Zimbabwe); Jana Chihai\nLebanon); Jordi Blanch Andreu (Department of Health, Catalonia, Spain); (Nicolae Testemitanu State Medical and Pharmaceutical University, and\nVictor Aparicio Basauri (Public University of Lanús, Buenos Aires Trimbos Institute, Chisinau, Republic of Moldova); Kalaba Mulutula"
+  },
+  {
+    "id": 19,
+    "text": "Victor Aparicio Basauri (Public University of Lanús, Buenos Aires Trimbos Institute, Chisinau, Republic of Moldova); Kalaba Mulutula\nProvince, Argentina); Steven Appleton (Global Leadership Exchange, Chilufya (Resident Doctors Association of Zambia, Lusaka, Zambia);\nUnited Kingdom of Great Britain and Northern Ireland); Maria Magdalena Teodora Ciolompea (Mental Health Program, Drug Addiction Evaluation\nArchila (Ministry of Health, San Salvador, El Salvador); Gregory Armstrong and Treatment Center, Bucharest, Romania); Susan Clelland (National\n(Nossal Institute for Global Health, University of Melbourne, Victoria, Mental Health Program, Ministry of Public Health, Doha, Qatar); Jarrod"
+  },
+  {
+    "id": 20,
+    "text": "(Nossal Institute for Global Health, University of Melbourne, Victoria, Mental Health Program, Ministry of Public Health, Doha, Qatar); Jarrod\nAustralia); Emmanuel Asampong (University of Ghana, Accra, Ghana); Clyne (International Disability Alliance (IDA), Geneva, Switzerland);\nToshiaki Baba (Ministry of Health, Labour and Welfare, Tokyo, Japan); Pamela Collins (Department of Mental Health, Bloomberg School of\nRadmila Stojanović Babić (Susret, Zagreb, Croatia); Jo Badcock (Ending Public Health, Johns Hopkins University, Baltimore, Maryland, the United\nLoneliness Together, Pyrmont, New South Wales, Australia); Stojan States); Sarah Collinson (Sightsavers, London, the United Kingdom);"
+  },
+  {
+    "id": 21,
+    "text": "Loneliness Together, Pyrmont, New South Wales, Australia); Stojan States); Sarah Collinson (Sightsavers, London, the United Kingdom);\nBajraktarov (University Ss. Cyril and Methodius, Skopje, North Macedonia); Souleymane dit Papa Coulibaly (Centre Hospitalier Universitaire (CHR),\nJulia Bartuschka (Federal Ministry of Social Affairs, Health, Care and Le Ministre de la Santé et du Developpement Social, Bamako, Mali);\nConsumer Protection, Vienna, Austria); Rimma Belikova (Ministry of Cécile Crozet (Institutional Affairs, Support Girona, Catalonia, Spain);\nHealth, Riga, Latvia); Eleanor Bennett (Mental Health Unit, Ministry of Anderson da Silva Dalcin (CAPS III – Brasilândia, São Paulo, Brazil);"
+  },
+  {
+    "id": 22,
+    "text": "Health, Riga, Latvia); Eleanor Bennett (Mental Health Unit, Ministry of Anderson da Silva Dalcin (CAPS III – Brasilândia, São Paulo, Brazil);\nHealth and Wellness, Belmopan, Belize); Simona Bieliune (Ministry of Pere Bonet Dalmau (Special Adviser, Ministry of Health, Andorra La Vella,\nHealth, Vilnius, Lithuania); Johann Böhmann (Delmenhorst Institute for Andorra); Evans Danso (Mental Health Authority, Ministry of Health, Accra,\nHealth Promotion (DIG), Delmenhorst, Germany); Marit Borg (World Ghana); Maria-Luisa de la Puente (Mental Health Pact, Barcelona, Spain);\nAssociation for Psychosocial Rehabilitation (WAPR) and University of South- Shelley de la Vega (Institute on Aging, National Institutes of Health,"
+  },
+  {
+    "id": 23,
+    "text": "Association for Psychosocial Rehabilitation (WAPR) and University of South- Shelley de la Vega (Institute on Aging, National Institutes of Health,\nEastern Norway (USN), Drammen, Norway); Lisa Brophy (La Trobe Manila, Philippines); Linda Dervishaj (Delmenhorst Institute for Health\nUniversity, Bundoora, Victoria, Australia); Todd Buchanan (Loyalist College/ Promotion (DIG), Delmenhorst, Germany); Matrika Devkota (KOSHISH\nPeer Support South East Ontario (PSSEO), Kingston, Ontario, Canada); - National Mental Health Self-Help Organization, Kathmandu, Nepal);\nErnest Burés (Support Girona, Catalonia, Spain); Rochelle Burgess (UCL Hervita Diatri (Cipto Mangunkusumo General Hospital, Department of"
+  },
+  {
+    "id": 24,
+    "text": "Ernest Burés (Support Girona, Catalonia, Spain); Rochelle Burgess (UCL Hervita Diatri (Cipto Mangunkusumo General Hospital, Department of\nCentre for Global Non-Communicable Diseases, London, the United Psychiatry, University of Indonesia, Jakarta, Indonesia); Prianto\nKingdom); Cristina Carreno (Médecins sans Frontiers (MSF), Barcelona, Djatmiko (Adult Mental Health Division, Ministry of Health, Jakarta,\nSpain); Catherine Carty (Munster Technological University, Tralee, Ireland); Indonesia); Reine Dope Koumou (Centre National de Santé Mentale,\nMagda Casamitjana i Aguilà (National Mental Health Pact of Catalonia, Ministère de la Santé et des Affaires Sociales, Libreville, Gabon);\nAcknowledgements vii"
+  },
+  {
+    "id": 25,
+    "text": "S. Benedict Dossen (Mental Health Program, Ministry of Health, Monrovia, Gary Kiernan (Mental Health Commission, Dublin, Ireland); Nina Kilkku\nLiberia); Marianna Duarte (Médecins sans Frontiers (MSF), Paris, France); (European Psychiatric Nurses (Horatio), Faculty of Health Sciences, Institute\nJulian Eaton (CBM Global, London, the United Kingdom); Rabih El for Health, VID Specialized University, Oslo, Norway); Seongsu Kim (Dawon\nChammay (National Mental Health Programme, Ministry of Health, Beirut, Mental Health Clinic, Korean Open Dialogue Society, Suwon, Republic of\nLebanon); Javiera Paz Erazo Leiva (Disease Prevention and Control Korea); Hansuk Kim (Division of Mental Health Policy, Ministry of Health"
+  },
+  {
+    "id": 26,
+    "text": "Lebanon); Javiera Paz Erazo Leiva (Disease Prevention and Control Korea); Hansuk Kim (Division of Mental Health Policy, Ministry of Health\nDivision, Ministry of Health, Santiago, Chile); Carla Fadlallah (Support and Welfare, Sejong-si, Republic of Korea); Sarah Kline (United for Global\nGirona, Catalonia, Spain); John Farrelly (Mental Health Commission, Dublin, Mental Health, London, the United Kingdom); Martin Knapp (NIHR School\nIreland); Julia Faure (W H O QualityRights Program, Etablissement Public for Social Care Research, London School of Economics and Political Science,\nde Santé Mentale (EPSM) Lille Métropole - Centre collaborateur de l’OMS London, the United Kingdom); Manasi Kumar (Institute for Excellence"
+  },
+  {
+    "id": 27,
+    "text": "de Santé Mentale (EPSM) Lille Métropole - Centre collaborateur de l’OMS London, the United Kingdom); Manasi Kumar (Institute for Excellence\npour la Recherche et la Formation en Santé mentale, Lille, France); in Health Equity, New York University School of Medicine, New York, New\nEmma Ferguson (United Nations Children’s Fund (UNICEF), New York, York, the United States and Department of Psychology, University of Nairobi,\nNew York, the United States); Katherine Ford (University of Oxford, Oxford, Kenya); Zrinka Laido (Mental Health Department, Ministry of Social Affairs,\nthe United Kingdom); Arianne Foret (Support Girona, Catalonia, Spain); Estonia); Norman Lamb (South London and Maudsley NHS Foundation"
+  },
+  {
+    "id": 28,
+    "text": "the United Kingdom); Arianne Foret (Support Girona, Catalonia, Spain); Estonia); Norman Lamb (South London and Maudsley NHS Foundation\nMelvyn Freeman (University of Stellenbosch, Stellenbosch, South Africa); Trust, London, the United Kingdom); Jennifer Leger (Humanity and\nHarumi Fuentes (Office of the United Nations High Commissioner for Inclusion, Lyon, France); Valentina Lemmi (School of Health and Social\nHuman Rights (OHCHR), Geneva, Switzerland); Silvana Galderisi (University Care, University of Essex, Colchester, the United Kingdom); Yiu-hong\nof Campania “Luigi Vanvitelli”, Naples, Italy); Carlos Enrique Garavito Leung (Health Promotion Branch, Department of Health, Hong Kong"
+  },
+  {
+    "id": 29,
+    "text": "of Campania “Luigi Vanvitelli”, Naples, Italy); Carlos Enrique Garavito Leung (Health Promotion Branch, Department of Health, Hong Kong\nAriza (Non-Communicable Diseases Department, Ministry of Health and Special Administrative Region, China); Michelle Lim (Ending Loneliness\nSocial Protection, Bogotá, Distrito Capital, Colombia); Neha Garg (Mental Together, Pyrmont, New South Wales, Australia); Jutta Lindert (University\nHealth, Ministry of Health and Family Welfare, New Delhi, India); Gladwell of Applied Sciences, Emden, Germany); Laura Loli-Dano (Mood and\nGathecha (Division of Noncommunicable Diseases, Ministry of Health, Anxiety Ambulatory Services, The Centre for Addiction and Mental Health"
+  },
+  {
+    "id": 30,
+    "text": "Gathecha (Division of Noncommunicable Diseases, Ministry of Health, Anxiety Ambulatory Services, The Centre for Addiction and Mental Health\nNairobi, Kenya); Lynn Gentile (Office of the United Nations High (CAMH), Toronto, Ontario, Canada); Antonio Lora (Aziende Socio Sanitarie\nCommissioner for Human Rights, Geneva, Switzerland); Nariman Ali Territoriali (ASST) Regione Lombardia, Lecco, Italy); Nasser Loza (The\nGhader (Emirates Health Services, Dubai, United Arab Emirates); Neeraj Behman Hospital, Cairo, Egypt); Crick Lund (Centre for Global Mental\nGill (School of Medicine and Dentistry, Griffith University, Southport, Health, Institute of Psychiatry, Psychology and Neuroscience, King’s College"
+  },
+  {
+    "id": 31,
+    "text": "Gill (School of Medicine and Dentistry, Griffith University, Southport, Health, Institute of Psychiatry, Psychology and Neuroscience, King’s College\nQueensland, Australia); Ketevan Goginashvili (Health Policy Division, London, London, the United Kingdom); Ma Ning (National Mental Health\nMinistry of Internally Displaced Persons from the Occupied Territories, Project Office, National Medical Center for Mental Illness, Peking University\nLabour, Health and Social Affairs, Tbilisi, Georgia); Ximena Goldberg Sixth Hospital, Beijing, China); Alicia Malcolm (Behavioral Health Services\n(Barcelona Institute for Global Health (ISGlobal), Barcelona, Spain); Kristijan Department, Ministry of Health and Human Services, Cockburn Town,"
+  },
+  {
+    "id": 32,
+    "text": "(Barcelona Institute for Global Health (ISGlobal), Barcelona, Spain); Kristijan Department, Ministry of Health and Human Services, Cockburn Town,\nGrđan (Mental Health Europe (MHE), Zagreb, Croatia); Anne Guy (Beyond Turks and Caicos Islands, British Overseas Territory); Raj Mariwala\nPills Alliance, London, the United Kingdom); Bill Gye (Community Mental (Mariwala Health Initiative, Mumbai, India); Michael Marmot (UCL\nHealth Australia (CMHA), Rozelle, New South Wales, Australia); Ahmed International Institute for Society and Health, University College London,\nHankir (Western University, London, Ontario, Canada); Muhammad Ali London, the United Kingdom); Sergi Martínez (Support Girona, Baixos,"
+  },
+  {
+    "id": 33,
+    "text": "Hankir (Western University, London, Ontario, Canada); Muhammad Ali London, the United Kingdom); Sergi Martínez (Support Girona, Baixos,\nHasnain (United for Global Mental Health, London, the United Kingdom); Girona, Spain); Patience Mavunganidze (Mental Health Department,\nKarin Hechenleitner Schacht (Office of the United Nations High Ministry of Health and Child Care, Harare, Zimbabwe); Felicia Mburu\nCommissioner for Human Rights (OHCHR), Geneva, Switzerland); (Article 48 Initiative, Nairobi, Kenya); Shari McDaid (Mental Health\nVivian Hemmelder (Mental Health Europe (MHE), Brussels, Belgium); Foundation, London, the United Kingdom); Zul Merali (Brain and Mind"
+  },
+  {
+    "id": 34,
+    "text": "Vivian Hemmelder (Mental Health Europe (MHE), Brussels, Belgium); Foundation, London, the United Kingdom); Zul Merali (Brain and Mind\nHelen Herrman (Orygen Centre for Youth Mental Health, The University Institute, Aga Khan University, Karachi, Pakistan); Happiness Mkhatshwa\nof Melbourne, World Psychiatric Association, Melbourne, Victoria, Australia); (World Vision International, Mbabane, Eswatini); Tlaleng Mofokeng (Special\nZeinab Hijazi (United Nations Children’s Fund (UNICEF), New York, New Rapporteur on the right to physical and mental health, Johannesburg,\nYork, the United States); Mark Horowitz (UCL, London, the United South Africa); Cristina Molina Parrilla (National Mental Health Pact of"
+  },
+  {
+    "id": 35,
+    "text": "York, the United States); Mark Horowitz (UCL, London, the United South Africa); Cristina Molina Parrilla (National Mental Health Pact of\nKingdom); Ada Hui (Royal College of Nursing, London, the United Kingdom); Catalonia, Spain); Cristian Montenegro (Wellcome Centre for Cultures\nAsma Humayun (Ministry of Planning, Development and Special Initiatives, and Environments of Health, University of Exeter, the United Kingdom);\nIslamabad, Pakistan); Yoshikazu Ikehara (Tokyo Advocacy Law, Tokyo, Guadalupe Morales Cano (Fundación Mundo Bipolar, Madrid, Spain\nJapan); Elturan Ismayilov (Mental Health Center, Baku, Azerbaijan); and European Network of (Ex-)Users and Survivors of Psychiatry (ENUSP),"
+  },
+  {
+    "id": 36,
+    "text": "Japan); Elturan Ismayilov (Mental Health Center, Baku, Azerbaijan); and European Network of (Ex-)Users and Survivors of Psychiatry (ENUSP),\nGabriel Ivbijaro (World Mental Health Federation (WFMH), London, the Spain); Alejandra Moreira (Mental Health Care Program, Ministry of\nUnited Kingdom); Bernard Jacob (Federal Public Service Health (FPS Public Health, Montevideo, Uruguay); Natalia Muffel (United Nations\nHealth), Brussels, Belgium); Florence Jaguga (Alcohol and Drug Abuse Children’s Fund (UNICEF), New York, New York, the United States);\nRehabilitation Unit, Moi Teaching & Referral Hospital, Eldoret, Kenya); Fabian Musoro (Ministry of Health and Child Care, Harare, Zimbabwe);"
+  },
+  {
+    "id": 37,
+    "text": "Rehabilitation Unit, Moi Teaching & Referral Hospital, Eldoret, Kenya); Fabian Musoro (Ministry of Health and Child Care, Harare, Zimbabwe);\nLucy Clare Johnstone (Independent Trainer, the United Kingdom); Charity Muturi (Representative of service users and caregivers, Tunawiri,\nNev Jones (School of Social Work, University of Pittsburgh, Pittsburgh, Kenya); Takuya Nakamura (Ministry of Health, Labour and Welfare,\nPennsylvania, the United States); Simon Njuguna Kahonge (Mental Tokyo, Japan); Byambadorj Ninj (Ministry of Health, Ulaanbaatar, Mongolia);\nHealth, Ministry of Health, Nairobi, Kenya); Olga Kalina (European Network Michael Njenga (CBM Global, Nairobi, Kenya); Aikaterini Nomidou"
+  },
+  {
+    "id": 38,
+    "text": "Health, Ministry of Health, Nairobi, Kenya); Olga Kalina (European Network Michael Njenga (CBM Global, Nairobi, Kenya); Aikaterini Nomidou\nof (Ex-) Users and Survivors of Psychiatry (ENUSP), Tbilisi, Georgia); (Greek Association of Families/Carers and Friends for Mental Health, Athens,\nTimo Kallioaho (European Network of (Ex-) Users and Survivors of Greece); Zuzana Novakova (Ministry of Health, Bratislava, Slovakia);\nPsychiatry (ENUSP), Pentinmäki, Finland); Gregory Keane (Médecins Sans Nurashikin binti Ibrahim (National Centre of Excellence for Mental\nFrontières (MSF), Paris, France); Thomas Kearns (Faculty of Nursing and Health (NCEMH), Ministry of Health, Malaysia); Hauwa Ojeifo (She Writes"
+  },
+  {
+    "id": 39,
+    "text": "Frontières (MSF), Paris, France); Thomas Kearns (Faculty of Nursing and Health (NCEMH), Ministry of Health, Malaysia); Hauwa Ojeifo (She Writes\nMidwifery, Royal College of Surgeons in Ireland (RCSI), Dublin, Ireland); Woman, Abuja, Nigeria); Nasri Omar (Ministry of Health, Nairobi, Kenya);\nRene Keet (GGZ Noord-Holland-Noord, Heerhugowaa, Netherlands Bouram Omar (Mental Health Office, Ministry of Health and Social\n(Kingdom of the)); Tim Kendall (NHS England, London, the United Kingdom); Protection, Rabat, Morocco); Olivia Marie Angèle Awa Ouedraogo\nSaqui Khandoker (Shuchona Foundation, Dhaka, Bangladesh); (Ministry of Health, Ouagadougou, Burkina Faso); Aldemar Parra Espitia\nviii Guidance on mental health policy and strategic action plans: Module 5"
+  },
+  {
+    "id": 40,
+    "text": "(Non-Communicable Diseases Department, Ministry of Health and Social Nigeria); Michael Udedi (Ministry of Health and Population, Lilongwe,\nProtection, Bogotá DC, Colombia); Soumitra Pathare (Centre for Mental Malawi); Carmen Valle Trabadelo (IFRC Reference Centre for Psychosocial\nHealth Law and Policy, Pune, India); Marline Elizabeth Paz Castillo Support, Copenhagen, Denmark); Chantelle van Straaten (Booysen);\n(Ministerio de Salud Pública y Asistencia Social, Ciudad de Guatemala, (Independent Consultant and Advocate for Mental Health, South Africa);\nGuatemala); Claudia Pellegrini Braga (Faculty of Medicine, University Javier Vasquez (Washington College of Law, American University,"
+  },
+  {
+    "id": 41,
+    "text": "Guatemala); Claudia Pellegrini Braga (Faculty of Medicine, University Javier Vasquez (Washington College of Law, American University,\nof São Paulo, Brazil); Lorena López Pérez (Comisión Nacional de Salud Washington, District of Columbia, the United States); Sahar Vasquez\nMental y Adicciones, Secretaría de Salud, Mexico DF, Mexico); Núria Pi (Global Mental Health Peer Network, Belize); Alberto Vasquez Encalada\n(Support Girona, Baixos, Girona, Spain); Kathleen Pike (Global Mental (Center for Inclusive Policy (CIP), Peru); Simon Vasseur-Bacle (Ministère\nHealth Program, Columbia University, New York, New York, the United de la Santé et de la Prevention, France et Service de recherche et de"
+  },
+  {
+    "id": 42,
+    "text": "Health Program, Columbia University, New York, New York, the United de la Santé et de la Prevention, France et Service de recherche et de\nStates); Mohammad Reza Pirmoradi (School of Behavioral Sciences formation en santé mentale, Etablissement Public de Santé Mentale (EPSM)\nand Mental Health, Iran University of Medical Sciences, Tehran, Iran (Islamic Lille Métropole/Centre collaborateur de l’OMS pour la Recherche et la\nRepublic of)); Andrea Pregel (Sightsavers, Chippenham, the United Formation en Santé mentale, Lille, France); Joan Vegué (Mental Health\nKingdom); Marek Procházka (Psychiatric Hospital of Horni Berkovice, and Addictions Master Plan of Catalonia, Spain); Matej Vinko (National"
+  },
+  {
+    "id": 43,
+    "text": "Kingdom); Marek Procházka (Psychiatric Hospital of Horni Berkovice, and Addictions Master Plan of Catalonia, Spain); Matej Vinko (National\nCzechia); Benjamas Prukkanone (Department of Mental Health, Ministry Mental Health Programme, National Institute of Public Health, Ljubljana,\nof Public Health, Nonthaburi, Thailand); Dainius Pūras (Department of Slovenia); Andrej Vršanský (League for Mental Health, Bratislava, Slovakia);\nPsychiatry, Faculty of Medicine, Vilnius University, Vilnius, Lithuania); Ann Watts (International Union of Psychological Science, Durban, South\nJorge Quílez Jover (Department of Health, Catalonia, Spain); Gerard Africa); Douglas Webb (United Nations Development Programme, New"
+  },
+  {
+    "id": 44,
+    "text": "Jorge Quílez Jover (Department of Health, Catalonia, Spain); Gerard Africa); Douglas Webb (United Nations Development Programme, New\nQuinn (Centre for Disability Law and Policy, National University of Ireland, York, New York, the United States); Rick Peter Fritz Wolthusen\nGalway, Ireland; Anne Randväli (Ministry of Social Affairs, Tallinn, Estonia); (Department of Psychiatry and Behavioral Sciences, Duke University Medical\nSolomon Rataemane (World Association of Psychosocial Rehabilitation Center, Durham, North Carolina, the United States); Stephanie Wooley\n(WAPR), and University of Limpopo (MEDUNSA), South Africa); John Read (European Network of (Ex-) Users and Survivors of Psychiatry (ENUSP),"
+  },
+  {
+    "id": 45,
+    "text": "(WAPR), and University of Limpopo (MEDUNSA), South Africa); John Read (European Network of (Ex-) Users and Survivors of Psychiatry (ENUSP),\n(University of East London, London, the United Kingdom); Greg Roberts Paris, France); Miguel Xavier (National Coordination of Mental Health\n(Nossal Institute for Global Health, the University of Melbourne, Victoria, Policies, Ministry of Health, Lisbon, Portugal); Peter Yaro (BasicNeeds,\nAustralia); Ignas Rubikas (Mental Health Division, Ministry of Health, Accra, Ghana); Constantin Zieger (Competence Center Psychosocial Health,\nVilnius, Lithuania); Maria Rubio-Valera (Mental Health Pact, Parc Sanitari Federal Ministry for Social Affairs, Health, Care and Consumer Protection,"
+  },
+  {
+    "id": 46,
+    "text": "Vilnius, Lithuania); Maria Rubio-Valera (Mental Health Pact, Parc Sanitari Federal Ministry for Social Affairs, Health, Care and Consumer Protection,\nSant Joan de Déu, Barcelona, Spain); Oleg Salagay (Ministry of Health of Vienna, Austria); Martin Zinkler (Department of Psychiatry and\nthe Russian Federation, Moscow, Russian Federation); James Sale (United Psychotherapy, Gesundheit Nord gGmbH - Klinikverbund, Bremen,\nfor Global Mental Health, London, the United Kingdom); Liuska Sanna Germany); Thurayya Zreik (Public Health and Development Researcher,\n(Mental Health Europe, Brussels, Belgium); Martha Savage (School of Beirut, Lebanon). W H O would also like to acknowledge the coordinated"
+  },
+  {
+    "id": 47,
+    "text": "(Mental Health Europe, Brussels, Belgium); Martha Savage (School of Beirut, Lebanon). W H O would also like to acknowledge the coordinated\nGeography, Environment and Earth Sciences, Victoria University, Wellington, input received from the Australian Government Department of Health\nNew Zealand); Aminath Shahuza (National Mental Health Department, and Aged Care, to this publication.\nMinistry of Health, Malé, Maldives); Michael Shannon (Faculty of Nursing\nand Midwifery, Royal College of Surgeons in Ireland (RCSI), University of\nMedicine and Health Sciences, Dublin, Ireland); Dudu Shiba (Directorate\nof Mental Health and Substance Abuse Policy, Department of Health,\nPretoria, South Africa); Laura Shields-Zeeman (Trimbos Institute, Utrecht,"
+  },
+  {
+    "id": 48,
+    "text": "of Mental Health and Substance Abuse Policy, Department of Health,\nPretoria, South Africa); Laura Shields-Zeeman (Trimbos Institute, Utrecht,\nNetherlands (Kingdom of the)); Sarah Simpson (Nossal Institute for Global\nHealth, the University of Melbourne, Victoria, Australia); Laura Smart\nRichman (Population Health Sciences, Duke University, Durham, North\nCarolina, the United States); Josep Maria Solé (Support Girona, Catalonia,\nSpain); Chhit Sophal (Department of Mental Health and Substance Abuse,\nMinistry of Public Health, Nonthaburi, Thailand); Priti Sridhar (Mariwala\nHealth Initiative, Mumbai, India); Fabrizio Starace (Department of Mental\nHealth and Drug Abuse, Azienda Unità Sanitaria Locale di Modena, Italy);\nCharlene Sunkel (Global Mental Health Peer Network, Johannesburg,"
+  },
+  {
+    "id": 49,
+    "text": "Health and Drug Abuse, Azienda Unità Sanitaria Locale di Modena, Italy);\nCharlene Sunkel (Global Mental Health Peer Network, Johannesburg,\nSouth Africa); Kota Suzuki (Department of Health and Welfare for Persons\nwith Disabilities, Mental Health and Disability Health Division, Ministry of\nHealth, Labour and Welfare, Tokyo, Japan); Ingibjörg Sveinsdóttir (Ministry\nof Health, Reykjavik, Iceland); Angie Tarr-Nyakoon (Mental Health\nProgram, Ministry of Health and Social Welfare, Monrovia, Liberia); Dilorom\nTashmukhamedova (Committee on Youth, Culture and Sports, Senate\nof the Republic of Uzbekistan, Tashkent, Uzbekistan); Aracely Téllez\nOrellana (Programa de Salud Mental, Ministerio de Salud Pública y\nAsistencia Social, Ciudad de Guatemala, Guatemala); Murali Thyloth"
+  },
+  {
+    "id": 50,
+    "text": "Orellana (Programa de Salud Mental, Ministerio de Salud Pública y\nAsistencia Social, Ciudad de Guatemala, Guatemala); Murali Thyloth\n(World Association for Psychosocial Rehabilitation (WAPR), India);\nTor Helge Tjelta (Centre for Development Mental Health and Addiction,\nthe Norwegian Association for Mental Health and Addiction Care, and the\nEuropean Community-based Mental Health Service Providers Network\n(EUCOMS), Norway); Emanuela Tollozhina (Ministry of Health and Social\nProtection, Tirana, Albania); Catherine Townsend (Ford Foundation, New\nYork, New York, the United States); Joy Ubong (She Writes Woman, Abuja,\nAcknowledgements ix"
+  },
+  {
+    "id": 51,
+    "text": "W H O contributors and reviewers\nW H O headquarters staff and consultants\nBen Adams; Mirna Amaya; Annabel Baddeley; Rachel Baggaley; Nicholas Aiysha Malik; Gergana Manolova; Farai Mavhunga; Pauliina Nykanen-\nBanatvala; Daryl Barrett; Kenneth Carswell; Sudipto Chatterjee; Daniel Rettaroli; Miriam Orcutt; Barango Prebo; Giovanni Sala; Alison Schafer;\nChisholm; Nicholas James John Corby; Catarina Magalhães Dahl; Anne- Katrin Seeher; Chiara Servili; Tova Tampe; Tamitza Toroyan; Nicole Valentine;\nMarijn De Graaff; Tarun Dua; Alexandra Fleischmann; Brandon Gray; Rachel Mark Van Ommeren; Benoit Varenne; Kerri Viney; and Inka Weissbecker.\nMary Hammonds; Fahmy Hanna; Ernesto Jaramillo; Dzmitry Krupchanka;\nW H O review and coordination at regional level"
+  },
+  {
+    "id": 52,
+    "text": "Mary Hammonds; Fahmy Hanna; Ernesto Jaramillo; Dzmitry Krupchanka;\nW H O review and coordination at regional level\nFlorence Kamayonza Baingana (former, W H O Regional Office for Africa); Renato Oliveira e Souza (W H O Regional Office for the Americas); Cassie\nAndrea Bruni (W H O Regional Office for South-East Asia); Claudina Redlich (W H O Regional Office for Europe); Chido Ratidzai Rwafa\nCayetano (W H O Regional Office for the Americas); Eric Domingo (W H O Madzvamutse (W H O Regional Office for Africa); Khalid Saeed (W H O\nRegional Office for the Western Pacific); Jennifer Hall (W H O Regional Regional Office for the Eastern Mediterranean); Ana Maria Tijerino"
+  },
+  {
+    "id": 53,
+    "text": "Regional Office for the Western Pacific); Jennifer Hall (W H O Regional Regional Office for the Eastern Mediterranean); Ana Maria Tijerino\nOffice for Europe); Matias Irarrazaval (W H O Regional Office for the Inestroza (W H O Regional Office for Europe); Martin Vandendyck (former,\nAmericas); Ledia Lazeri (W H O Regional Office for Europe); Carmen W H O Regional Office for the Western Pacific); Cherian V. Varghese\nMartinez (W H O Regional Office for the Americas); Jason Maurer (W H O (former, W H O Regional Office for South-East Asia); Jasmine Vergara\nRegional Office for Europe); Melita Murko (W H O Regional Office for Europe); (W H O Regional Office for the Western Pacific).\nW H O staff and consultants in regions and countries"
+  },
+  {
+    "id": 54,
+    "text": "Regional Office for Europe); Melita Murko (W H O Regional Office for Europe); (W H O Regional Office for the Western Pacific).\nW H O staff and consultants in regions and countries\nIssifou Alassani (W H O Country Office for Togo); Ambroise Ané (W H O Chiedza Musanhu (W H O Country Office for Uganda); Joseph Muiruri\nCountry Office for Cote d’Ivoire); Murat Can Birand Apaydin (W H O Kibachio Mwangi (Country Office for South Africa); Thato Mxakaza\nRegional Office for Europe); Naye Bah (W H O Country Office for Gabon); (W H O Country Office for Lesotho); Alphoncina Nanai (W H O Country\nSadhana Bhagwat (W H O Country Office for Bangladesh); Rayan Butaita Office for Tanzania); Jérôme Ndaruhutse (W H O Country Office for"
+  },
+  {
+    "id": 55,
+    "text": "Sadhana Bhagwat (W H O Country Office for Bangladesh); Rayan Butaita Office for Tanzania); Jérôme Ndaruhutse (W H O Country Office for\n(W H O Country Office for Bahrain); Ashra Daswin (W H O Country Office Burundi); Nikolay Negay (W H O Country Office for Kazakhstan); Olivia\nfor Indonesia); Cheick Bady Diallo (W H O Regional Office for Africa); Nieveras (W H O Country Office for Thailand); Ishmael Nyasulu (W H O\nIssimouha Dille Mahamadou (W H O Regional Office for Africa); Barkon Country Office for Malawi); Brian Ogallo (W H O Country Office for Sudan);\nDwah (W H O Country Office for Liberia); Imane El Menchawy (W H O Milena Oikonomou (W H O European Office for Investment for Health"
+  },
+  {
+    "id": 56,
+    "text": "Dwah (W H O Country Office for Liberia); Imane El Menchawy (W H O Milena Oikonomou (W H O European Office for Investment for Health\nCountry Office for Morocco); Dalia Elasi (W H O Regional Office for the and Development); Edith Pereira (W H O Country Office for Cape Verde);\nEastern Mediterranean); Wafaa Elsawy (W H O Regional Office for the Hanitra Rahantarisoa (W H O Country Office for Madagascar);\nEastern Mediterranean); Rut Erdelyiova (W H O Country Office for Slovakia); Mamitahiana Rakotoson Ramanamahefa (W H O Country Office for\nMelania Angue Essiene Obono (W H O Country Office for Equitorial Madagascar); Sajeeva Ranaweera (W H O Regional Office for South-East"
+  },
+  {
+    "id": 57,
+    "text": "Melania Angue Essiene Obono (W H O Country Office for Equitorial Madagascar); Sajeeva Ranaweera (W H O Regional Office for South-East\nGuinea); Katoen Faromuzova (W H O Country Office for Tajikistan); Atreyi Asia); Vageesha Rao (W H O Regional Office for South-East Asia); Maura\nGanguli (W H O Country Office for India); Momodou Gassama (W H O Reap (W H O Country Office for the Republic of Moldova); Raoul Saizonou\nCountry Office for Gambia); Augustin Gatera (W H O Country Office for (W H O Country Office for Benin); Yasara Samarakoon (W H O Country\nRwanda); Leveana Gyimah (W H O Country Office for Ghana); Ishakul Office for Sri Lanka); Nabil Samarji (W H O Country Office for the Syrian"
+  },
+  {
+    "id": 58,
+    "text": "Rwanda); Leveana Gyimah (W H O Country Office for Ghana); Ishakul Office for Sri Lanka); Nabil Samarji (W H O Country Office for the Syrian\nKabir (W H O Country Office for Bangladesh); Hafisa Kasule (W H O Country Arab Republic); Reynold Burkrie George Senesi (W H O Country Office\nOffice for Uganda); Nazokat Kasymova (W H O Country Office for for Sierra Leone); Yutaro Setoya (W H O Country Office for India);\nUzbekistan); Olga Khan (W H O Country Office for Poland); Shabana Khan Mahmoud Ahmed Mohamed Farah Shadoul (W H O Country Office\n(W H O Regional Office for South-East Asia); Rusudan Klimiashvili (W H O for Sudan); Elena Shevkun (W H O Regional Office for Europe); Mekhri"
+  },
+  {
+    "id": 59,
+    "text": "(W H O Regional Office for South-East Asia); Rusudan Klimiashvili (W H O for Sudan); Elena Shevkun (W H O Regional Office for Europe); Mekhri\nCountry Office for Georgia); Aye Moe Moe Lwin (W H O Country Office Shoismatuloeva (W H O Country Office for Tajikistan); Tsitsi Siwela (W H O\nfor Myanmar); Debra Machando (W H O Country Office for Zimbabwe); Country Office for Zimbabwe); Thirupathy Suveendran (W H O Country\nTebogo Madidimalo (W H O Country Office for Botswana); Raquel Dulce Office for Sri Lanka); Rita Tayeh (W H O Country Office for Yemen); Win\nMahoque Maguele (W H O Country Office for Mozambique); Kedar Moh Moh Thit (W H O Country Office for Myanmar); Papy Tshimanga"
+  },
+  {
+    "id": 60,
+    "text": "Mahoque Maguele (W H O Country Office for Mozambique); Kedar Moh Moh Thit (W H O Country Office for Myanmar); Papy Tshimanga\nMarahatta (W H O Country Office for Nepal); Joseph Lou Kenyi Mogga Manji (W H O Country Office for Congo); Andrew Vernon (W H O Regional\n(W H O Country Office for South Sudan); Hasina Momotaz (W H O Country Office for the Americas); Asmamaw Bezabeh Workneh (W H O Country\nOffice for Bangladesh); Laurent Moyenga (W H O Country Office for Office for Ethiopia); Eyad Yanes (W H O Country Office for Libya); Edwina\nBurkina Faso); Siddharth Maitreyee Mukherjee (W H O Country Office Zoghbi (W H O Country Office for Lebanon).\nfor India); Julius Muron (W H O Country Office for Ethiopia); Christine\nFinancial support"
+  },
+  {
+    "id": 61,
+    "text": "Burkina Faso); Siddharth Maitreyee Mukherjee (W H O Country Office Zoghbi (W H O Country Office for Lebanon).\nfor India); Julius Muron (W H O Country Office for Ethiopia); Christine\nFinancial support\nW H O gratefully acknowledges generous financial support towards this publication. The Government of the Republic of Korea provided much of\nthe funding, alongside an additional contribution from the Government of Portugal.\nx Guidance on mental health policy and strategic action plans: Module 5"
+  },
+  {
+    "id": 62,
+    "text": "Glossary\nBiomedical model\nThe biomedical model views mental health conditions as primarily caused by neurobiological factors (1, 2). With\nthis approach the main focus of care is on diagnosis, medication, and symptom reduction, often overlooking\nthe social and structural factors affecting mental health and individuals’ needs and rights for inclusion, social\nprotection, among others (3).\nCommunity mental health care\nCommunity-based mental health care, including both specialized and non-specialized care, allows people to live\nand to receive care within their own communities, rather than in institutional settings (such as psychiatric\nhospitals or social care facilities), promoting equality and inclusion within society. Community mental health"
+  },
+  {
+    "id": 63,
+    "text": "hospitals or social care facilities), promoting equality and inclusion within society. Community mental health\ncare involves a network of interconnected services, including: mental health services integrated into general\nhealth care; community mental health centres; outreach, providing care at home or in public spaces; and access\nto key social and other support services. While there is no universal model for organizing these services, every\ncountry can take steps to restructure and expand community mental health care to uphold the right to live and\nbe included in the community (3).\nDeinstitutionalization\nDeinstitutionalization involves relocating individuals from institutional settings back into their communities and"
+  },
+  {
+    "id": 64,
+    "text": "be included in the community (3).\nDeinstitutionalization\nDeinstitutionalization involves relocating individuals from institutional settings back into their communities and\nclosing institutional beds to prevent further admissions. Successful deinstitutionalization requires comprehensive\ncommunity-based services, sufficient financial and structural investment, and a shift in mindsets and practices\nto value people’s rights to community inclusion, liberty, and autonomy (3).\nDisability\nAccording to the United Nations Convention on the Rights of Persons with Disabilities (C R P D), disability results\nfrom the interaction between individuals with impairments or health conditions and societal barriers that limit"
+  },
+  {
+    "id": 65,
+    "text": "from the interaction between individuals with impairments or health conditions and societal barriers that limit\ntheir full and equal participation. Article 1 of the C R P D defines “persons with disabilities” as those with long-term\nphysical, mental, intellectual, or sensory impairments that, when combined with barriers, hinder their full and\neffective participation in society. This reflects the social model of disability, which highlights the role of societal\nbarriers that give rise to disability, and the human rights model, which asserts that people with disabilities have\nthe right to demand the removal of these barriers to ensure equality and non-discrimination (4).\nGroups that face discrimination"
+  },
+  {
+    "id": 66,
+    "text": "the right to demand the removal of these barriers to ensure equality and non-discrimination (4).\nGroups that face discrimination\nThis refers to groups of people within a given culture, context and history, who face, or are at risk of, discrimination\nand exclusion due to unequal power relationships. These groups may face discrimination based on age, gender,\nsexual orientation, disability, migrant and refugee status, race and ethnicity, indigeneity, houselessness status,\nlanguage, religion, political or other opinions, education or income, living in various localities, or any other status\n(5). Discrimination on any such ground is prohibited in international human rights law.\nHuman rights-based approach"
+  },
+  {
+    "id": 67,
+    "text": "(5). Discrimination on any such ground is prohibited in international human rights law.\nHuman rights-based approach\nThis is an approach grounded in international human rights law, aimed at promoting and protecting human rights.\nIn mental health, it involves adopting legal and policy frameworks that comply with State obligations under international\nlaw. It equips both State and non-State actors to identify, analyze, and address inequalities and discrimination, and\nto reach those who are marginalized. It also provides avenues for redress and accountability when necessary (6).\nxi"
+  },
+  {
+    "id": 68,
+    "text": "Legal capacity\nThe C R P D defines legal capacity as “…the capacity to be both a holder of rights and an actor under the law. Legal\ncapacity to be a holder of rights entitles persons to full protection of their rights by the legal system. Legal capacity\nto act under the law recognizes the person as an agent with the power to engage in transactions, and create, modify\nor end legal relationships” (7). Legal capacity is an inherent and inalienable right, distinct from ‘mental capacity’\n(which refers to people’s decision-making abilities) since, regardless of a person’s perceived abilities to make decisions,\nunder the C R P D they nevertheless retain their right to exercise their legal capacity on an equal basis with others.\nL G B T I Q +"
+  },
+  {
+    "id": 69,
+    "text": "under the C R P D they nevertheless retain their right to exercise their legal capacity on an equal basis with others.\nL G B T I Q +\nL G B T I Q + is an acronym for lesbian, gay, bisexual, transgender, intersex and queer/questioning people. The plus\nsign represents people of diverse sexual orientation, gender identity, gender expression and sex characteristics\nwho identify with other terms. This acronym, adopted from a Western (predominantly Anglophone) context, has\nbecome a term of convenience in the realm of public health and health research, including for some normative\nstatements on human rights by W H O and other U N entities (8). While the acronym L G B T I Q + (or a derivation of"
+  },
+  {
+    "id": 70,
+    "text": "statements on human rights by W H O and other U N entities (8). While the acronym L G B T I Q + (or a derivation of\nit, such as L G B or L G B T) is widely used globally and in U N publications, it does not encompass the full diversity\nof terms used to describe sexual orientation, gender identity and expression, and sex characteristics.\nLived experience\nThis can refer to personal experience with mental health services, mental health conditions, or specific living\nconditions like poverty. It describes how someone has experienced and understands a particular situation,\nchallenge, or health issue.\nMental health and psychosocial support (M H P S S)\nThis is a composite term for any local or external support aimed at protecting or promoting psychosocial"
+  },
+  {
+    "id": 71,
+    "text": "challenge, or health issue.\nMental health and psychosocial support (M H P S S)\nThis is a composite term for any local or external support aimed at protecting or promoting psychosocial\nwell-being or preventing and treating mental health conditions (9).\nProcedural accommodation\nThis refers to necessary modifications and adjustments in the context of access to justice, ensuring equal\nparticipation for persons with disabilities and other groups. Unlike reasonable accommodations, procedural\naccommodations are not limited by the concept of disproportionate or undue burden (10).\nPerson-centred care\nThis focuses on aligning care with individuals’ preferences, needs, values, and strengths, and with people’s"
+  },
+  {
+    "id": 72,
+    "text": "Person-centred care\nThis focuses on aligning care with individuals’ preferences, needs, values, and strengths, and with people’s\nunique circumstances and goals in life. It requires that people actively participate in decisions about their\ntreatment and care, aiming to foster trusting partnerships, dignity, respect, and autonomy, while also addressing\nsocial and structural factors affecting mental health in order to provide holistic care (11).\nPsychiatric and social care institutions\nInstitutions are living environments where residents are separated from the broader community, are often\nisolated, and lack control over their lives and decisions affecting them. Such settings also often prioritize"
+  },
+  {
+    "id": 73,
+    "text": "isolated, and lack control over their lives and decisions affecting them. Such settings also often prioritize\ninstitutional over individuals’ needs (12). Institutions may include standalone psychiatric hospitals, social care\nhomes, and other facilities where people experience these restrictions. Even small, community-based facilities\ncan be considered institutional if they impose rigid routines, restrict autonomy, and fail to promote genuine\ncommunity inclusion. This definition does not include psychiatric units or services located in the community\nand integrated within general hospitals, and within the broader general healthcare system, provided that\nautonomy and rights are respected.\nxii Guidance on mental health policy and strategic action plans: Module 5"
+  },
+  {
+    "id": 74,
+    "text": "Psychosocial disability\nThis guidance adopts the definition of disability set out in the C R P D — see above. In this context, psychosocial\ndisability refers to the barriers (for example discrimination, stigma and exclusion) that arise from the interaction\nbetween individuals with mental health difficulties and attitudinal and environmental factors that hinder people’s\nfull and equal participation in society. This term emphasizes a social rather than a medical approach to mental\nand emotional experiences. While the C R P D uses the term “impairment”, this Guidance avoids this term in order\nto respect the diverse perspectives of people with lived experience of psychosocial disability, and the dynamic\nnature of mental and emotional states (3, 13, 14).\nReasonable accommodation"
+  },
+  {
+    "id": 75,
+    "text": "to respect the diverse perspectives of people with lived experience of psychosocial disability, and the dynamic\nnature of mental and emotional states (3, 13, 14).\nReasonable accommodation\nThe C R P D defines reasonable accommodation as necessary and appropriate modifications that do not impose\na disproportionate or undue burden, ensuring that persons with disabilities and other groups can enjoy and\nexercise all human rights and fundamental freedoms on an equal basis with others (15).\nRecovery\nThe recovery approach in mental health focuses on supporting people to regain or maintain control over their\nlives. Recovery is personal and different for each person, and can include finding meaning and purpose, living"
+  },
+  {
+    "id": 76,
+    "text": "lives. Recovery is personal and different for each person, and can include finding meaning and purpose, living\na self-directed life, strengthening self-worth, healing from trauma, and having hope for the future. Each person\ndefines what recovery means for them and decides which areas of life to focus on as part of their recovery\njourney. Recovery views the person and their context as a whole, rather than aiming for the absence of symptoms\nor a so-called cure (16).\nSubstitute decision-making\nThis refers to regimes where a person’s legal capacity is removed, and a substitute decision-maker is appointed\nto make decisions on their behalf, often based on what is perceived as the person’s best interests, rather than\ntheir own will and preferences (17).\nSupported decision-making"
+  },
+  {
+    "id": 77,
+    "text": "to make decisions on their behalf, often based on what is perceived as the person’s best interests, rather than\ntheir own will and preferences (17).\nSupported decision-making\nThe C R P D describes supported decision-making as regimes that provide various support options enabling a\nperson to exercise legal capacity and make decisions with support (18). Supported decision-making can take\nmany forms but does not remove or restrict legal capacity. A supporter cannot be appointed by a third party\nwithout the person’s consent, and support must align with the individual’s will and preferences (19).\nGlossary xiii"
+  },
+  {
+    "id": 78,
+    "text": "Executive summary\nMental health policy reform is urgent\nMental health has become a global priority, recognized as influencing every aspect of life — from emotional\nand social well-being to physical health, relationships, and community involvement. It is a vital asset that should\nbe protected and nurtured for individuals and societies to thrive. To achieve this, governments need to establish\nrobust policies and approaches to address the mental health needs of their populations, while continually acting\nto protect and promote mental well-being.\nIn response there is growing momentum for policies to adopt a rights-based, person-centred, and recovery-\noriented approach, in line with international human rights commitments, such as the Convention on the Rights"
+  },
+  {
+    "id": 79,
+    "text": "oriented approach, in line with international human rights commitments, such as the Convention on the Rights\nof Persons with Disabilities and the W H O Comprehensive mental health action plan 2013–2030 (20, 21). These\napproaches emphasize addressing stigma and discrimination and ensuring people’s autonomy, dignity, and\nrights are respected. They also stress that mental health should be integrated as a core component of Universal\nHealth Coverage (U H C) and the universal need for equitable access to comprehensive, quality mental health\nservices, regardless of people’s socioeconomic status or geographical location.\nDespite these global commitments, many countries still lack mental health policies and plans that fully align"
+  },
+  {
+    "id": 80,
+    "text": "services, regardless of people’s socioeconomic status or geographical location.\nDespite these global commitments, many countries still lack mental health policies and plans that fully align\nwith international human rights standards or address the broader societal factors affecting mental health. All\ncountries having endorsed W H O’s Comprehensive mental health action plan 2013–2030 are committed to developing,\nupdating, and implementing national policies and strategies, with a global target for 80% of countries to achieve\nthis alignment by 2030.\nA comprehensive framework for reform\nThis Guidance on mental health policy and strategic action plans was created to support countries in reforming"
+  },
+  {
+    "id": 81,
+    "text": "this alignment by 2030.\nA comprehensive framework for reform\nThis Guidance on mental health policy and strategic action plans was created to support countries in reforming\ntheir mental health policies and updating strategic action plans, placing human rights and the social and structural\ndeterminants of mental health at the core of all policy reform efforts. Grounded in international human rights\nframeworks, particularly the U N Convention on the Rights of Persons with Disabilities (C R P D), the Guidance calls\nfor mental health systems that promote legal capacity, non-coercive practices, participation, and community\ninclusion. It aims to ensure that all people are treated with dignity, respect, and on an equal basis with others."
+  },
+  {
+    "id": 82,
+    "text": "inclusion. It aims to ensure that all people are treated with dignity, respect, and on an equal basis with others.\nBy addressing broader social and structural determinants – such as poverty, housing insecurity, unemployment,\nand discrimination – and emphasizing multi-sectoral collaboration, the guidance promotes a holistic approach\nto mental health reform, advancing equity and social justice.\nThis Guidance serves as a valuable resource not only for policy-makers and planners but also for a wide range\nof stakeholders, including individuals and organizations involved in mental health advocacy and reform. It can\nhelp these stakeholders gain a better understanding of mental health systems, policy reform processes and"
+  },
+  {
+    "id": 83,
+    "text": "help these stakeholders gain a better understanding of mental health systems, policy reform processes and\nkey issues to be addressed in the development and implementation of rights-based mental health policy and\nstrategic actions.\nxiv"
+  },
+  {
+    "id": 84,
+    "text": "Structure of the Guidance\nThe Guidance discusses important policy areas for reform and outlines key steps that countries should work\nthrough in developing, implementing, evaluating and monitoring their mental health policy and strategic\naction plan. The Guidance is divided into five modules published as separate documents.\nModule 1. Introduction, purpose and use of the guidance\nThis module discusses the challenges related to mental health policy and the need for reform in line with the\ninternational human rights framework, highlighting essential considerations and new directions.\nModule 2. Key reform areas, directives, strategies, and actions for mental health\npolicy and strategic action plans"
+  },
+  {
+    "id": 85,
+    "text": "Module 2. Key reform areas, directives, strategies, and actions for mental health\npolicy and strategic action plans\nThis module details five key policy areas for reform together with associated directives, strategies and actions\nthat can be prioritized and adapted by policy-makers and planners according to each country’s specific contexts.\nKey policy areas for reform\nWithin each policy area, a menu of policy directives, strategies, and actions guides reform efforts, helping policy-\nmakers and planners prioritize and tailor policies to their specific context, in line with their available resources\nor organizational structures. At the end of each policy area, the Guidance highlights key issues requiring special"
+  },
+  {
+    "id": 86,
+    "text": "or organizational structures. At the end of each policy area, the Guidance highlights key issues requiring special\nconsiderations for diverse groups: children and adolescents, older adults, women, men and gender-diverse\npersons, the L G B T I Q + community, persons with disabilities, migrants and refugees, persons from minoritized\nracial and ethnic groups, Indigenous Peoples, and persons who are houseless or with unstable housing. Due\nto unique characteristics, life circumstances, or unmet needs, these groups may require specific support and\nattention beyond that of the general population.\nPolicy area 1. Leadership, governance, and other enablers\nPolicy area 1 discusses strengthening leadership and governance structures to ensure the sustainability,"
+  },
+  {
+    "id": 87,
+    "text": "Policy area 1. Leadership, governance, and other enablers\nPolicy area 1 discusses strengthening leadership and governance structures to ensure the sustainability,\naccountability, and effective implementation of mental policy reforms.\nPolicy directives\nꞏ coordination, leadership and accountability;\nꞏ financing and budget;\nꞏ information systems and research;\nꞏ people with lived experience, civil society, and communities;\nꞏ rights-based law reform.\nExecutive summary xv"
+  },
+  {
+    "id": 88,
+    "text": "Policy area 2. Service organization and development\nPolicy area 2 discusses development and implementation of comprehensive community-based mental health\nservices and support that are rights-based, person-centred and recovery-oriented; and reorganization of mental\nhealth systems to transition from institutionalized care to services in the community.\nPolicy directives\nꞏ coordinated rights-based community mental health services and support at all levels of care;\nꞏ integrated mechanisms that respond to social and structural factors and take rights-based approaches in\nmental health;\nꞏ partnerships for community inclusion, socioeconomic development, and for protecting and promoting rights;\nꞏ deinstitutionalization.\nPolicy area 3. Human resource and workforce development"
+  },
+  {
+    "id": 89,
+    "text": "ꞏ partnerships for community inclusion, socioeconomic development, and for protecting and promoting rights;\nꞏ deinstitutionalization.\nPolicy area 3. Human resource and workforce development\nPolicy area 3 discusses building a diverse, competent and resilient workforce capable of delivering person-\ncentred, rights-based, and recovery-oriented mental health services and support.\nPolicy directives\nꞏ a multidisciplinary workforce with task sharing, training and support;\nꞏ recruitment, retention and staff well-being;\nꞏ competency-based curricula for mental health.\nPolicy area 4. Person-centred, recovery-oriented and rights-based assessment,\ninterventions and support\nPolicy area 4 discusses providing assessment, interventions and support that is comprehensive, offers choice,"
+  },
+  {
+    "id": 90,
+    "text": "interventions and support\nPolicy area 4 discusses providing assessment, interventions and support that is comprehensive, offers choice,\nis responsive to individual support needs and is rights-based, person-centred and recovery-oriented.\nPolicy directives\nꞏ assessment of mental health and support needs by multidisciplinary teams;\nꞏ physical health and lifestyle, psychological, social and economic interventions;\nꞏ psychotropic drug interventions.\nPolicy area 5. Mental health sector contributions to addressing social and structural\ndeterminants and society-wide issues impacting mental health and well-being\nPolicy area 5 discusses expanding the mental health sector’s role to address the social and structural determinants"
+  },
+  {
+    "id": 91,
+    "text": "determinants and society-wide issues impacting mental health and well-being\nPolicy area 5 discusses expanding the mental health sector’s role to address the social and structural determinants\nthat shape mental health outcomes, promoting equity, human rights and inclusiveness.\nPolicy directives\nꞏ improved literacy and transformed mindsets to promote mental health and well-being and combat stigma,\ndiscrimination, and exclusion;\nꞏ joint actions on social and structural determinants and society-wide issues.\nxvi Guidance on mental health policy and strategic action plans: Module 5"
+  },
+  {
+    "id": 92,
+    "text": "Module 3. Process for developing, implementing, and evaluating mental health\npolicy and strategic action plans\nThis module outlines key principles and nine discrete and non-linear steps.\n1. Conduct high-level policy dialogue. Bring together high-level stakeholders from key sectors and civil\nsociety to establish commitment and engagement for mental health reform.\n2. Establish a multistakeholder advisory committee. This committee is important to oversee development\nand implementation of the policy and strategic action plan with input from all relevant sectors and stakeholders,\nincluding people with lived experience.\n3. Build understanding and new mindsets. It is key to address stigma and discrimination and resistance to\nrights-based approaches from the outset of policy development."
+  },
+  {
+    "id": 93,
+    "text": "3. Build understanding and new mindsets. It is key to address stigma and discrimination and resistance to\nrights-based approaches from the outset of policy development.\n4. Review international human rights obligations and commitments. Understanding key international\nhuman rights frameworks, including the U N Convention on the Rights of Persons with Disabilities (C R P D) is\nessential to inform policy development.\n5. Undertake situational analysis. Assess the current mental health context, identifying gaps, priorities, and\nchallenges to inform policy and strategic action plan development.\n6. Draft the mental health policy. Develop the mental health policy, including key areas for action and policy"
+  },
+  {
+    "id": 94,
+    "text": "challenges to inform policy and strategic action plan development.\n6. Draft the mental health policy. Develop the mental health policy, including key areas for action and policy\ndirectives based on a situational analysis, incorporating input from all relevant stakeholders.\n7. Draft the mental health strategic action plan. Develop a strategic action plan with defined strategies\nincluding timeframes, targets, indicators, specific actions, outputs, and costs to effectively implement the policy.\n8. Implement the policy and strategic action plan. Well-planned and sustainable implementation requires\nawareness-raising, dissemination, and communication; incremental and scaled up implementation processes;\nfundraising; and a realistic programme of work."
+  },
+  {
+    "id": 95,
+    "text": "awareness-raising, dissemination, and communication; incremental and scaled up implementation processes;\nfundraising; and a realistic programme of work.\n9. Monitor and evaluate. Set up mechanisms to continuously track progress, identify challenges, and adjust\nfor successful implementation.\nChecklists are also included to help planners assess and evaluate both pre-existing and newly drafted policies\nand strategic action plans.\nExecutive summary xvii"
+  },
+  {
+    "id": 96,
+    "text": "Module 4. Country case scenarios\nThis module provides three country case scenarios to illustrate the varied approaches countries can take when\nreforming their mental health policy, including how policy directives, strategies, and actions can be tailored to\nfit specific local contexts.\nModule 5. Comprehensive directory of policy areas, directives, strategies and\nactions for mental health (this document)\nThis module provides a quick access directory to material discussed in Module 2, enabling easy navigation.\nA pathway to action\nThis Guidance offers a comprehensive blueprint and framework for developing national mental health policies\nand strategic action plans and aligning them with international human rights standards. It outlines key policy"
+  },
+  {
+    "id": 97,
+    "text": "and strategic action plans and aligning them with international human rights standards. It outlines key policy\nareas for reform, including policy directives, associated strategies and actions that are adaptable and can be\nselected and prioritized in line with country-specific contexts. It also advocates a rights-based, person-centred,\nand recovery-oriented approach while addressing the social and structural determinants of mental health. By\npromoting multi-sectoral collaboration, the guidance provides a pathway to building equitable, inclusive mental\nhealth systems that respect autonomy and dignity.\nCountries are urged to implement this guidance to reform their mental health policies, so that these deliver\nlasting, evidence-based and rights-driven solutions for all."
+  },
+  {
+    "id": 98,
+    "text": "Countries are urged to implement this guidance to reform their mental health policies, so that these deliver\nlasting, evidence-based and rights-driven solutions for all.\nxviii Guidance on mental health policy and strategic action plans: Module 5"
+  },
+  {
+    "id": 99,
+    "text": "Introduction\nModule 5 of this Guidance provides a comprehensive directory of key policy areas, directives, strategies, and\nactions. It serves as a quick and easy, at-a-glance reference for stakeholders involved in mental health policy\nreform and implementation. This directory helps stakeholders efficiently navigate through policy areas, directives,\nand their corresponding strategies and actions, making it a practical tool for facilitating discussions on policy\nreform and planning with staff and key stakeholder groups.\nThe first diagram presents an overview of the five Policy areas and their associated policy directives, as discussed\nin Module 2 of the Guidance.\nThe subsequent diagrams delve deeper, linking each policy directive to its specific strategies, which are further"
+  },
+  {
+    "id": 100,
+    "text": "in Module 2 of the Guidance.\nThe subsequent diagrams delve deeper, linking each policy directive to its specific strategies, which are further\nbroken down into actions. This structure provides a clear overarching view of how policy directives and strategies\ncan be implemented effectively within each policy area.\nUsing this directory as a starting point, policy-makers can quickly identify which key elements are relevant,\nalready in place, missing, or require improvement within their mental health systems, policies, and strategic\naction plans.\nSee Module 2. Key policy areas, directives, strategies, and actions for mental health policy and strategic action plans\nfor more detailed discussion of policy areas and their key challenges, and for more in-depth information on each"
+  },
+  {
+    "id": 101,
+    "text": "for more detailed discussion of policy areas and their key challenges, and for more in-depth information on each\npolicy directive, and associated strategies and actions.\nModule 4 offers three country case scenarios, illustrating how situations might influence the choice of policy\ndirectives strategies and actions, and how these might also be modified to fit the context.\nRefer to Module 1. Introduction, purpose and use of the guidance for an introductory discussion of the challenges\nrelated to mental health policy and the need for reform in line with the international human rights framework.\nModule 3. Process for developing, implementing, and evaluating mental health policy and strategic action plans"
+  },
+  {
+    "id": 102,
+    "text": "Module 3. Process for developing, implementing, and evaluating mental health policy and strategic action plans\noutlines key principles for reforming mental health policy and nine discrete non-linear steps for achieving this.\n1"
+  },
+  {
+    "id": 103,
+    "text": "Policy areas and associated policy\ndirectives, strategies and actions\nPolicy areas for action\nPolicy area 2. Service organization and development\nPolicy directives\n2.1 Coordinated rights-based community mental health services and\nsupport at all levels of care\n2.2 Integrated mechanisms that respond to social and structural factors and\ntake rights-based approaches in mental health\n2.3 Partnerships for community inclusion, socioeconomic development, and\nfor protecting and promoting rights\n2.4 Deinstitutionalization\nPolicy area 1. Leadership, Policy area 3. Human resource and workforce development\ngovernance and other\nPolicy directives\nenablers\n3.1 A multidisciplinary workforce with task sharing, training and support\nPolicy directives 3.2 Recruitment, retention and staff well-being"
+  },
+  {
+    "id": 104,
+    "text": "governance and other\nPolicy directives\nenablers\n3.1 A multidisciplinary workforce with task sharing, training and support\nPolicy directives 3.2 Recruitment, retention and staff well-being\n1.1 Coordination, leadership\nand accountability 3.3 Competency-based curricula for mental health\n1.2 Financing and budget\n1.3 Information systems Policy area 4. Person-centred, recovery-oriented, and rights-based\nand research assessment, interventions and support\n1.4 People with lived Policy directives\nexperience, civil society,\n4.1 Assessment of mental health and support needs by\nand communities\nmultidisciplinary teams\n1.5 Rights-based law reform 4.2 Physical health and lifestyle, psychological, social and economic\ninterventions\n4.3 Psychotropic drug interventions"
+  },
+  {
+    "id": 105,
+    "text": "and communities\nmultidisciplinary teams\n1.5 Rights-based law reform 4.2 Physical health and lifestyle, psychological, social and economic\ninterventions\n4.3 Psychotropic drug interventions\nPolicy area 5. Mental health sector contributions to addressing social\nand structural determinants and society-wide issues impacting mental\nhealth and well-being\nPolicy directives\n5.1 Improved literacy and transformed mindsets to promote mental health\nand well-being and combat stigma, discrimination and exclusion\n5.2 Joint actions on social and structural determinants and society-wide issues\n2"
+  },
+  {
+    "id": 106,
+    "text": "Policy Area 1. Leadership, governance and other enablers\nPolicy directive 1.1 Coordination, leadership and accountability\nStrategy 1.1.1 Establish coordination Strategy 1.1.2 Strengthen mental health\nstructures and mechanisms within the sector leadership aligned with the rights-\nmental health sector and across sectors based, recovery-oriented and person-\nto strengthen leadership and governance centred approach\nfor mental health\nActions\nActions Provide leadership training for\nCreate a mental health department or managers and members of advisory\nsmaller unit within the ministry and/or boards and committees.\nclarify responsibilities and authority, while\nCelebrate successes and reward good\nimproving communication channels through\nleadership towards transformative change."
+  },
+  {
+    "id": 107,
+    "text": "clarify responsibilities and authority, while\nCelebrate successes and reward good\nimproving communication channels through\nleadership towards transformative change.\nto community-level mental health staff.\nCreate a coaching and mentoring\nEstablish a national advisory board for\nsystem that supports aspiring managers\nmental health and convene working groups\nand stakeholders.\nto advise on policy, legislative, strategic and\nevaluation issues.\nHold regular coordination meetings along\nthe chain of responsibility linking the national\nStrategy 1.1.3 Monitor service quality\nmental health department and regional,\nand rights protection, including via an\ndistrict, and community-level units or\nindependent monitoring committee and\nfocal staff.\ncomplaints mechanism\nEstablish a regular forum to gather"
+  },
+  {
+    "id": 108,
+    "text": "and rights protection, including via an\ndistrict, and community-level units or\nindependent monitoring committee and\nfocal staff.\ncomplaints mechanism\nEstablish a regular forum to gather\nstakeholder views.\nActions\nCreate an accessible information source for Identify or create an independent\nnavigating services, support and treatments. committee or mechanism for monitoring\nservice quality and human rights protections.\nEstablish a service monitoring framework with\na centralized reporting mechanism linked to\nthe appropriate accrediting organization.\nDefine and implement an independent\ncomplaints mechanism.\n3\nseigetartS\nsnoitcA\n1\n1.1"
+  },
+  {
+    "id": 109,
+    "text": "Policy Area 1. Leadership, governance and other enablers\nPolicy directive 1.2 Financing and budget\nStrategy 1.2.1 Build a sustainable funding Strategy 1.2.2 Reorient funding and\nbase for mental health, including within insurance schemes towards person-centred,\nuniversal health coverage recovery-oriented and rights-based services\nand initiatives for mental health\nActions\nAnalyse, formulate and report the budget and Actions\nmulti-year expenditure plan for mental health. Negotiate with government financing\nauthorities to fund mental health services\nMake the investment case for mental health,\nthrough publicly financed health protection\nhighlighting both short- and long-term\nschemes.\nreturns to the sector and wider society.\nExplicitly include mental health distress and"
+  },
+  {
+    "id": 110,
+    "text": "through publicly financed health protection\nhighlighting both short- and long-term\nschemes.\nreturns to the sector and wider society.\nExplicitly include mental health distress and\nExplore all opportunities to secure\nconditions, as well as treatments, support,\nthe funding base for mental health.\nand services, in essential care packages and\nCreate budget lines for mental health financial protection schemes, and remove\ninterventions and support within the discriminatory practices that limit access.\nhealth sector.\nReview financial incentives and disincentives\nto providing, using, and paying for rights-\nbased and evidence-based community\nmental health services and interventions.\nNegotiate and adjust financial incentives\nand disincentives in order to promote and"
+  },
+  {
+    "id": 111,
+    "text": "based and evidence-based community\nmental health services and interventions.\nNegotiate and adjust financial incentives\nand disincentives in order to promote and\nprioritize access to rights-based community\nmental health services.\nStrategy 1.2.3 Allocate sectoral budgets and financing to protect and promote mental health\naccording to both joint and sector-specific responsibilities\nActions\nMake sector-specific cases for investing in rights-based mental health interventions, estimating costs\nof inaction and potential benefits.\nTalk with government sectors at local, regional, and national levels to discuss budget allocations for\nmental health, and advocate for more resources.\nEstablish intersectoral funding mechanisms, including joint budgets, to facilitate collaboration."
+  },
+  {
+    "id": 112,
+    "text": "mental health, and advocate for more resources.\nEstablish intersectoral funding mechanisms, including joint budgets, to facilitate collaboration.\n4 Guidance on mental health policy and strategic action plans: Module 5\nseigetartS\nsnoitcA\n1.2"
+  },
+  {
+    "id": 113,
+    "text": "Policy Area 1. Leadership, governance and other enablers\nPolicy directive 1.3 Information systems and research\nStrategy 1.3.1 Establish indicators and Strategy 1.3.2 Set a prioritized research\ninformation systems to track progress for and evaluation agenda in collaboration\nmental health and well-being with stakeholder groups\nActions Actions\nIdentify and rank indicators that can Establish a research and evaluation agenda\ntrack progress. that is grounded in the human rights-based\napproach to mental health.\nIdentify appropriate information systems to\nstore and manage data. Establish commitment and consensus to\ninclude human rights criteria in research\nIdentify which data will be collected as well\nprojects.\nas where and how.\nCreate centres of research excellence that"
+  },
+  {
+    "id": 114,
+    "text": "include human rights criteria in research\nIdentify which data will be collected as well\nprojects.\nas where and how.\nCreate centres of research excellence that\nImprove mental health data collection with\nemploy and engage a multidisciplinary\nwalk-through analyses, reviews, and revised\nworkforce using participatory approaches.\nprocedures.\nStrengthen collaboration around research\nTransform manual information systems into\nand evaluation.\nelectronic systems where feasible.\nCollate, routinely report and use mental\nhealth data to improve outcomes.\nPolicy Area 1: Leadership, governance and other enablers 5\nseigetartS\nsnoitcA\n1.3"
+  },
+  {
+    "id": 115,
+    "text": "Policy Area 1. Leadership, governance and other enablers\nPolicy directive 1.4 People with lived experience, civil society, and communities\nStrategy 1.4.1 Build and invest in a\nnetwork of people with lived experience,\nand representatives from other stakeholder\ngroups, to contribute to high-level\ndecision-making as part of advisory boards\nand working groups on policy, law, strategy\nand evaluation\nActions\nEmploy people with lived experience in\nthe government department responsible\nfor mental health.\nEngage people with lived experience,\nand other stakeholder groups, on the main\ngovernment-led advisory board and working\ngroups and build their capacity to participate.\nEstablish mechanism(s) to maintain the\nindependence and autonomy of organizations\nof people with lived experience."
+  },
+  {
+    "id": 116,
+    "text": "groups and build their capacity to participate.\nEstablish mechanism(s) to maintain the\nindependence and autonomy of organizations\nof people with lived experience.\n6 Guidance on mental health policy and strategic action plans: Module 5\nseigetartS\nsnoitcA\n1.4\nStrategy 1.4.2 Implement standards\nso that people with lived experience can\nparticipate meaningfully in policy, law,\nservice delivery, training and research\nActions\nDraft standards collaboratively with\norganizations and individuals with lived\nexperience to broaden their representation\nand participation.\nIncentivize increased representation of\npeople with lived experience within policy\ndevelopment, service delivery, training\ninitiatives, and research.\nStrategy 1.4.3 Conduct national and\nlocal advocacy campaigns led by and"
+  },
+  {
+    "id": 117,
+    "text": "people with lived experience within policy\ndevelopment, service delivery, training\ninitiatives, and research.\nStrategy 1.4.3 Conduct national and\nlocal advocacy campaigns led by and\nfeaturing people with lived experience\nof mental health conditions and\npsychosocial disabilities\nActions\nPrepare campaigns and advocacy efforts\nfocused on pressing mental health issues.\nWork with traditional and social media to\npromote responsible coverage of mental\nhealth issues and actively educate against\nstereotypes and human rights violations."
+  },
+  {
+    "id": 118,
+    "text": "Policy Area 1. Leadership, governance and other enablers\nPolicy directive 1.5 Rights-based law reform\nStrategy 1.5.1 Conduct training for Strategy 1.5.2 Reform legislation related\nwide-reaching mindset change and to mental health to align it with human\nadvocacy for law reform rights standards, including the C R P D\nActions Actions\nImplement widescale capacity building with Undertake a rights-based analysis of\nkey stakeholders and the community to change current laws, policies, and services related to\nmindsets, reduce stigma and discrimination, mental health to understand alignment with\nand promote a rights-based approach in international human rights standards.\nmental health.\nRepeal, amend and draft laws for\nHold dialogues with the key stakeholder alignment with human rights standards"
+  },
+  {
+    "id": 119,
+    "text": "mental health.\nRepeal, amend and draft laws for\nHold dialogues with the key stakeholder alignment with human rights standards\ngroups to discuss the need for, and using multidisciplinary expertise and inputs\nimplications of, legislative reform towards from consultations.\na rights-based approach.\nFacilitate the legislative process during\nImplement awareness campaigns with the debate and adoption phases.\nmedia, highlighting the need for change.\nStrategy 1.5.3 Set up implementation\nmechanisms and actions including training\nActions\nEstablish an oversight agency and bodies\nfor monitoring and implementing the law.\nDraft and adopt regulations and codes of\npractices.\nRaise public awareness of the law.\nTrain stakeholders on rights and the law.\nEvaluate whether implementation meets the"
+  },
+  {
+    "id": 120,
+    "text": "Draft and adopt regulations and codes of\npractices.\nRaise public awareness of the law.\nTrain stakeholders on rights and the law.\nEvaluate whether implementation meets the\nnew legislation’s objectives and requirements.\nPolicy Area 1: Leadership, governance and other enablers 7\nseigetartS\nsnoitcA\n1.5"
+  },
+  {
+    "id": 121,
+    "text": "Policy area 2. Service organization and development\nPolicy directive 2.1 Coordinated rights-based community mental health\nservices and support at all levels of care\nStrategy 2.1.1 Create and expand Strategy 2.1.2 Create and expand rights-\nrights-based, short-term inpatient units, based crisis response services\noutpatient, and community outreach\nservices in general hospitals\nActions\nEstablish mental health-friendly\nActions environments and rights-based responses\nConsult with hospital authorities and in accident and emergency units.\nstakeholders on creating short-term\nEstablish crisis telephone line(s) with\ninpatient unit(s) or beds, outpatient units\nrights-based operational protocols.\nand community outreach services.\nEstablish mobile crisis team(s), their functions"
+  },
+  {
+    "id": 122,
+    "text": "inpatient unit(s) or beds, outpatient units\nrights-based operational protocols.\nand community outreach services.\nEstablish mobile crisis team(s), their functions\nIdentify appropriate space and designs for\nand rights-based operational protocols.\ninpatient and outpatient unit(s) in hospitals.\nEstablish crisis accommodation, its functions\nEstablish operational protocols for the\nand rights-based operational protocols.\nmental health services within the hospital.\nEstablish the range of specialized mental\nhealth services to be provided in general\nhospitals, based on the local context.\nRecruit and/or deploy trained multidisciplinary\nstaff in hospital mental health services.\nTrain and supervise other hospital staff\non rights-based care and support for\nmental health.\n8\nseigetartS\nsnoitcA\n2\n2.1"
+  },
+  {
+    "id": 123,
+    "text": "staff in hospital mental health services.\nTrain and supervise other hospital staff\non rights-based care and support for\nmental health.\n8\nseigetartS\nsnoitcA\n2\n2.1\nStrategy 2.1.3 Create and expand\nrights-based community mental health\ncentres and outreach services\nActions\nEstablish functions and operational protocols\nfor community mental health centres.\nEstablish functions and operational\nprotocols for community outreach mental\nhealth teams.\nEstablish the range of specialized services\nthat community mental health centres and\noutreach services will provide.\nRecruit and/or deploy trained multidisciplinary\nstaff to work in rights-based community mental\nhealth centre(s) and outreach service(s)."
+  },
+  {
+    "id": 124,
+    "text": "Policy area 2. Service organization and development\nPolicy directive 2.1 Coordinated rights-based community mental health\nservices and support at all levels of care continued\nStrategy 2.1.4 Create and expand Strategy 2.1.5 Integrate rights-based\nrights-based peer support services mental health approaches into primary\ncare and other health services\nActions\nCreate or expand one-to-one peer support. Actions\nIdentify and integrate mental health\nCreate or expand group peer support.\nfunctions and operational protocols into\nCreate or expand peer support for family primary care.\nmembers and caregivers.\nIdentify and integrate mental health\nfunctions into specialized health services.\nDefine tasks, roles and training of staff\nat primary care and at specialized health"
+  },
+  {
+    "id": 125,
+    "text": "members and caregivers.\nIdentify and integrate mental health\nfunctions into specialized health services.\nDefine tasks, roles and training of staff\nat primary care and at specialized health\nservices so they can provide rights-based\nmental health interventions.\nStrategy 2.1.6 Implement an integrated, comprehensive and sustainable approach in and\nacross services\nActions\nProvide wide access to assessments, interventions and support for service users and caregivers.\nPut in place a system and protocols to provide consistent access to psychotropic treatments.\nContinue liaison with government authorities and health insurance agencies, even once services are\nestablished, in order to secure long-term funding.\nDevelop high-quality and secure digital infrastructure for delivering online mental health"
+  },
+  {
+    "id": 126,
+    "text": "established, in order to secure long-term funding.\nDevelop high-quality and secure digital infrastructure for delivering online mental health\ninterventions and support.\nImplement referral, back referral and other coordination mechanisms.\nContinually monitor and evaluate services and publish the findings.\nAdvocate and promote the service with all stakeholders, and establish ongoing dialogue.\nPolicy Area 2: Service organization and development 9\nseigetartS\nsnoitcA"
+  },
+  {
+    "id": 127,
+    "text": "Policy area 2. Service organization and development\nPolicy directive 2.2 Integrated mechanisms that respond to social and\nstructural factors and incorporate rights-based approaches in mental health\nStrategy 2.2.1 Operationalize mechanisms Strategy 2.2.2 Uphold human rights,\nwithin services to address the social and eliminate coercion, and promote recovery\nstructural determinants of mental health while continuously improving service quality\nActions Actions\nDelineate ways to address social and Introduce policy guidelines and protocols\nstructural determinants of mental health for improving quality and embedding respect\nin service policy. for human rights into the service.\nEducate and train staff of all services Train service staff on understanding human"
+  },
+  {
+    "id": 128,
+    "text": "in service policy. for human rights into the service.\nEducate and train staff of all services Train service staff on understanding human\non addressing the social and structural rights, disability, and recovery in mental health.\ndeterminants of mental health.\nInvolve people with lived experience in\nEnsure that assessment, treatment and developing, delivering and managing the\nsupport in services directly address service, as well as making peer support an\nindividuals’ experiences of social and integral component.\nstructural determinants.\nIntroduce holistic recovery plans for people\nTask staff of services with supporting using services.\nindividuals to access social and economic\nSet up protocols that integrate supported\ninterventions, including disability and social"
+  },
+  {
+    "id": 129,
+    "text": "Task staff of services with supporting using services.\nindividuals to access social and economic\nSet up protocols that integrate supported\ninterventions, including disability and social\ndecision-making into the service and train all\nprotection benefits.\nstaff to understand and follow these.\nCreate safe spaces in services for discussing\nIntroduce advance directives/plans to promote\nhow social and structural factors influence\nthe right to legal capacity within the service.\nmental health.\nSet-up comfort and calming spaces within\nMaintain good knowledge of, and\nthe service.\ncollaboration with, local community and\nsupport services. Train staff on communication and\nde-escalation procedures.\nBuild environmentally-friendly and"
+  },
+  {
+    "id": 130,
+    "text": "Maintain good knowledge of, and\nthe service.\ncollaboration with, local community and\nsupport services. Train staff on communication and\nde-escalation procedures.\nBuild environmentally-friendly and\nsustainable services that help mitigate Set up response teams that can address\nclimate change and address climate hazards. difficult and conflictual situations.\nInclude nature-based interventions in Put in place comprehensive service\nservice delivery. assessments, monitoring, improvement/\ntransformation plans and reporting to assess\nquality and human rights conditions in services.\nDevelop an anonymous complaints\nmechanism that feeds into improvement/\ntransformation plans.\n10 Guidance on mental health policy and strategic action plans: Module 5\nseigetartS\nsnoitcA\n2.2"
+  },
+  {
+    "id": 131,
+    "text": "Policy area 2. Service organization and development\nPolicy directive 2.3 Partnerships for community inclusion, socioeconomic\ndevelopment, and for protecting and promoting rights\nPolicy Area 2: Service organization and development 11\nseigetartS\nsnoitcA\n2.3\nStrategy 2.3.1 Improve meaningful Strategy 2.3.2 Strengthen partnerships\nsocial connection for people using between mental health services and\nmental health services other sector services, including housing,\neducation, employment, justice, and\nsocial protection\nActions\nMap and connect with local opportunities for\nengagement and participation. Actions\nLiaise and collaborate with wide-ranging\nCreate or utilize support groups and social\npartners, and explore ways to formalize links\ncommunities (both face to face and online)"
+  },
+  {
+    "id": 132,
+    "text": "Liaise and collaborate with wide-ranging\nCreate or utilize support groups and social\npartners, and explore ways to formalize links\ncommunities (both face to face and online)\nand to strengthen referral pathways.\nto combat loneliness and reinforce social\nconnectedness. Organize joint training with various\norganizations and sectors so they better\nMobilize community-based workers or\nunderstand mental health, and rights-based\nvolunteers to assist people at risk of isolation,\nservices, actions and support.\nor who lack support networks.\nAdvocate for increased social sector\nSupport continued access to a range of\nfunding, services and programmes for\nservices and resources that maintain social\npeople with mental health conditions and\nconnectedness.\npsychosocial disabilities and for people"
+  },
+  {
+    "id": 133,
+    "text": "funding, services and programmes for\nservices and resources that maintain social\npeople with mental health conditions and\nconnectedness.\npsychosocial disabilities and for people\nbelonging to groups facing discrimination."
+  },
+  {
+    "id": 134,
+    "text": "Policy area 2. Service organization and development\nPolicy directive 2.3 Partnerships for community inclusion, socioeconomic\ndevelopment, and for protecting and promoting rights continued\nStrategy 2.3.3 Establish accessible Strategy 2.3.4 Develop tailored services\ndisability and social protection benefits and for people with long-term needs and\nschemes for people with mental health support requirements\nconditions and psychosocial disabilities\nActions\nActions Link to, or create diverse housing options\nEstablish dialogue with the social protection for varying support needs.\nsector to address gaps in disability benefits\nLink to, or create, supported education\nand social protection schemes for people\nservices and resources for varying\nwith mental health conditions and\nsupport needs."
+  },
+  {
+    "id": 135,
+    "text": "Link to, or create, supported education\nand social protection schemes for people\nservices and resources for varying\nwith mental health conditions and\nsupport needs.\npsychosocial disabilities.\nLink to, or create, supported programmes\nCollaborate with the social protection sector\nand services for work and income generation.\nto simplify procedures and establish support\nmechanisms that help people navigate social Link to, or create, programmes and services\nprotection and disability schemes. that provide personal assistance.\nStrategy 2.3.5 Engage with families and other informal care providers in local communities,\nincluding religious centres, family homes, schools, and villages\nActions\nMap and highlight community resources and support to address inclusion, socio-economic"
+  },
+  {
+    "id": 136,
+    "text": "including religious centres, family homes, schools, and villages\nActions\nMap and highlight community resources and support to address inclusion, socio-economic\ndevelopment, and rights.\nEngaging communities in mental health awareness and dialogue.\nEngage with stakeholders embedded in local communities to understand and address the local\ndrivers of poor mental health.\nCollaborate with and train families, traditional and faith-based leaders and healers, schools and\ncommunities to improve literacy on mental health and human rights, and to support people in distress.\n12 Guidance on mental health policy and strategic action plans: Module 5\nseigetartS\nsnoitcA"
+  },
+  {
+    "id": 137,
+    "text": "Policy area 2. Service organization and development\nPolicy directive 2.4 Deinstitutionalization\nStrategy 2.4.1 Establish the foundation\nand enabling environment for successful\ndeinstitutionalization\nActions\nDocument the characteristics and location of\ninstitutions and discuss deinstitutionalization\nwith staff to bring them on board.\nImplement a communication strategy to\nsupport deinstitutionalization.\nTrain service providers and key stakeholders\non the human rights-based approach in mental\nhealth and tackling stigma and discrimination.\nHold focused discussions in the new\ncommunity locations where people leaving\ninstitutions will be living, in order to assuage\ncommunity reservations and prepare for\ndeinstitutionalization.\nMake person-centred and rights-based"
+  },
+  {
+    "id": 138,
+    "text": "community locations where people leaving\ninstitutions will be living, in order to assuage\ncommunity reservations and prepare for\ndeinstitutionalization.\nMake person-centred and rights-based\ncommunity mental health and physical health\nservices available and accessible to people\nleaving institutions.\nCreate or link with a variety of services\nbeyond the health sector to facilitate\ncommunity inclusion and participation.\nBudget sufficient funds, including double\nfunding for the first phase of deinstitutionalization\nand eliminate financial barriers.\nPolicy Area 2: Service organization and development 13\nseigetartS\nsnoitcA\n2.4\nStrategy 2.4.2 Develop and implement\na deinstitutionalization plan for each\ninstitution that immediately improves\nrights and quality for all residents\nActions"
+  },
+  {
+    "id": 139,
+    "text": "seigetartS\nsnoitcA\n2.4\nStrategy 2.4.2 Develop and implement\na deinstitutionalization plan for each\ninstitution that immediately improves\nrights and quality for all residents\nActions\nEstablish a deinstitutionalization\nmanagement committee in each\ninstitution to develop and implement\nthe deinstitutionalization process.\nDevelop and implement a\ndeinstitutionalization plan for each institution.\nTrain staff working in institutions on rights-\nbased and recovery-oriented approaches in\nmental health.\nTrain staff to develop individualized plans for\npeople leaving institutions.\nIdentify community-based mental health\nservices to which staff can apply for work and\nbe deployed as part of deinstitutionalization\ntransitioning."
+  },
+  {
+    "id": 140,
+    "text": "Policy area 2. Service organization and development\nPolicy directive 2.4 Deinstitutionalization continued\nStrategy 2.4.3 Create individualized Strategy 2.4.4 Repurpose suitable\nsupport plans for each resident infrastructure, buildings and land into\ntransitioning to the community centres of excellence and/or community-\nbased services for rights-based integrated\ncare and support\nActions\nAssess each person’s need for support.\nActions\nProvide individuals with accessible and\nIdentify institutions whose infrastructure,\nunderstandable information on all aspects\nbuilding and land can be repurposed.\nof the deinstitutionalization process.\nDevelop a vision and concept paper for\nDevelop an individualized plan for each\nrepurposing institutions, to ensure that plans"
+  },
+  {
+    "id": 141,
+    "text": "of the deinstitutionalization process.\nDevelop a vision and concept paper for\nDevelop an individualized plan for each\nrepurposing institutions, to ensure that plans\nperson based on their active participation,\nalign with needs and a human rights-based\nsupport needs and choices.\napproach.\n(Re)establish and support contact with\nAppoint a multidisciplinary management and\nfamilies and other caregivers and general\nleadership team with demonstrated expertise,\nsocial networks if residents leaving\nand core values aligned with the centre’s\ninstitutions want this.\ngoals and a human rights-based approach.\nAssign everyone leaving institutions a focal\nCreate close partnerships with academic\npoint person to assist them through the\nand research institutions to support\ntransition process."
+  },
+  {
+    "id": 142,
+    "text": "Assign everyone leaving institutions a focal\nCreate close partnerships with academic\npoint person to assist them through the\nand research institutions to support\ntransition process.\nresearch, teaching and training.\nIdentify, secure and document each\nCollaborate with innovative services and\nperson’s living arrangements and\norganizations to develop, provide, and\npersonalised support needs.\nevaluate a person-centred rights-based\nConduct formal discussions with each community service.\nindividual and their service providers about\ntheir care plan before transitioning to the\ncommunity.\n14 Guidance on mental health policy and strategic action plans: Module 5\nseigetartS\nsnoitcA"
+  },
+  {
+    "id": 143,
+    "text": "Policy area 3. Human resource and workforce development\nPolicy directive 3.1 A multidisciplinary workforce with task sharing,\ntraining, and support\nStrategy 3.1.1 Leverage regulatory and Strategy 3.1.2 Implement staff training\nadministrative processes to introduce role initiatives across and within services\nand task sharing\nActions\nActions Identify (re)training requirements for services.\nAchieve consensus among professional\nSchedule in-person and online training and\ngroups, policy-makers and administrators\nassemble a diverse training team.\non role changes and task sharing needed to\nstrengthen mental health services and support. Set up a training mechanism within\neach service.\nUse current or newly-revised regulatory tools"
+  },
+  {
+    "id": 144,
+    "text": "on role changes and task sharing needed to\nstrengthen mental health services and support. Set up a training mechanism within\neach service.\nUse current or newly-revised regulatory tools\n(laws and proclamations, rules and regulations, Seek collaborations outside the country to\npolicies) to enable staff to practice their access and provide quality training.\nredefined roles.\nCreate job descriptions that align with new\nroles, responsibilities, and tasks.\nCreate or modify certification/accreditation/\nlicensing mechanisms for newly created staff\nroles.\nPrepare and implement continuing\nprofessional development (CPD) schemes.\nStrategy 3.1.3 Establish supervision and\nsupport for staff working within mental\nhealth and other health services\nActions\nIdentify and enable supervisory staff"
+  },
+  {
+    "id": 145,
+    "text": "professional development (CPD) schemes.\nStrategy 3.1.3 Establish supervision and\nsupport for staff working within mental\nhealth and other health services\nActions\nIdentify and enable supervisory staff\nfor each service or group of services.\nTrain supervisors.\nCreate one-to-one and group supervision\nmechanisms.\nUse referral pathways to improve staff\nknowledge and skills.\n15\nseigetartS\nsnoitcA\n3\n3.1\nCore mental healthcare workers can include:\npsychiatrists; nurses; medical doctors; psychologists;\npeer supporters and workers; social workers;\ncommunity health workers; occupational therapists;\ncounsellors; clinical staff; and community volunteers.\nIn addition, other important roles within a\nmultidisciplinary approach include: other health\nprofessionals such as nutritionists, physiotherapists,"
+  },
+  {
+    "id": 146,
+    "text": "In addition, other important roles within a\nmultidisciplinary approach include: other health\nprofessionals such as nutritionists, physiotherapists,\nand dentists; neurologists; pharmacists; employment\nand education specialists; physical activity trainers\nand sports coaches; art and music therapists; speech\ntherapists; legal advisers; traditional and faith-based\nleaders or healers.\nFamilies and other caregivers are crucial resources\nfor supporting people, and it is important that they\nreceive appropriate training and support to fulfil this\nrole (see Strategy 1.3.5 on engaging with families and\nother informal care workers). However, they are not\npart of the formal support system, unless they have\nbeen engaged as family/caregiver peer supporters"
+  },
+  {
+    "id": 147,
+    "text": "other informal care workers). However, they are not\npart of the formal support system, unless they have\nbeen engaged as family/caregiver peer supporters\n(see Strategy 2.1.4 on creating and expanding rights-\nbased peer support services)."
+  },
+  {
+    "id": 148,
+    "text": "Policy area 3. Human resource and workforce development\nPolicy directive 3.2 Recruitment, retention, and staff well-being\nStrategy 3.2.1 Recruit staff from a broad Strategy 3.2.2 Distribute staff equitably\narray of disciplines and ensure diversity across the country\nActions Actions\nDevelop a recruitment strategy and budget to Establish dialogues to explore solutions for the\ndiversify the workforce and fulfil recruitment challenges in recruiting and retaining staff in\nrequirements. less popular and rural areas.\nCollaborate with universities, training Develop flexible job roles that attract specialist\ninstitutions, government bodies and staff to hard-to-fill positions.\nprofessional organizations to encourage\nOffer professional, personal, and economic\ndiverse student enrolment."
+  },
+  {
+    "id": 149,
+    "text": "institutions, government bodies and staff to hard-to-fill positions.\nprofessional organizations to encourage\nOffer professional, personal, and economic\ndiverse student enrolment.\nincentives for working in under-served regions.\nStandardize recruitment processes\nCollaborate with universities and institutes\nand requirements to ensure quality\nfor higher training to develop regional training\nand accountability.\nschemes close to where mental health\nservices are provided.\n16 Guidance on mental health policy and strategic action plans: Module 5\nseigetartS\nsnoitcA\n3.2\nStrategy 3.2.3 Foster a positive and inclusive work environment, with equitable pay and\nconditions, and measures to promote staff mental health and well-being\nActions"
+  },
+  {
+    "id": 150,
+    "text": "seigetartS\nsnoitcA\n3.2\nStrategy 3.2.3 Foster a positive and inclusive work environment, with equitable pay and\nconditions, and measures to promote staff mental health and well-being\nActions\nCreate and implement a charter outlining the working conditions and support that staff can expect.\nImplement transparent and equitable pay scales as well as career progression pathways for all staff.\nImplement transparent and equitable staff performance incentives.\nImplement transparent and fair complaints mechanisms to deal with workplace harassment and disputes.\nProvide access to mental health care and support for service staff, including frontline workers."
+  },
+  {
+    "id": 151,
+    "text": "Policy area 3. Human resource and workforce development\nPolicy directive 3.3 Competency-based curricula for mental health\nStrategy 3.3.1 Develop or adapt Strategy 3.3.2 Implement competency-\ncore competency-based curricula based curricula for mental health\nfor mental health\nActions\nActions Establish an action plan with milestones and\nConvene stakeholders and get consensus for timeframes for implementing new curricula for\nchange. mental health.\nEstablish working groups responsible for Train staff from each academic institution in\ndeveloping or adapting curricula based on core new curricula.\nand on specialist competencies in mental\nLaunch an information and marketing\nhealth.\ncampaign for new curricula.\nEvaluate, update, or develop curricula for\nHold an official launch of new mental health"
+  },
+  {
+    "id": 152,
+    "text": "Launch an information and marketing\nhealth.\ncampaign for new curricula.\nEvaluate, update, or develop curricula for\nHold an official launch of new mental health\nmental health.\ncurricula well before the academic year in which\nCreate a framework for assessing students and they will be implemented.\ntrainees across various professions.\nIdentify and solve problems in the rollout\nRegularly convene the working groups to and implementation.\nreview progress.\nTopics to cover in curricula on mental health:\nꞏ human rights, community inclusion and recovery approaches;\nꞏ comprehensive assessment of mental health support needs;\nꞏ physical health and lifestyle, psychological, social and economic interventions;\nꞏ drug interventions;\nꞏ public health issues;"
+  },
+  {
+    "id": 153,
+    "text": "ꞏ comprehensive assessment of mental health support needs;\nꞏ physical health and lifestyle, psychological, social and economic interventions;\nꞏ drug interventions;\nꞏ public health issues;\nꞏ understanding and responding to the social and structural determinants of mental\nhealth in clinical and community settings;\nꞏ culturally appropriate approaches;\nꞏ responding to the needs of diverse groups including those that face discrimination;\nꞏ responding to emergencies;\nꞏ mental health and development issues across the lifespan;\nꞏ participatory approaches;\nꞏ interpersonal skills; and\nꞏ leadership and management.\nPolicy area 3: Human resource and workforce development 17\nseigetartS\nsnoitcA\n3.3"
+  },
+  {
+    "id": 154,
+    "text": "Policy area 4. Person-centred, recovery-oriented and rights-based\nassessment, interventions and support\nPolicy directive 4.1 Assessment of mental health and support needs\nby multidisciplinary teams\nStrategy 4.1.1 Develop a person-centred, Strategy 4.1.2 Implement the newly-\nrecovery-oriented and rights-based developed framework and guidelines\nframework and guidelines for assessing for assessing mental health and\nmental health and support needs support needs\nActions Actions\nRe-evaluate and broaden the approach to Develop multidisciplinary training on the\nassessing mental health. new assessment framework and guidelines\nfor all health and social care service staff.\nIdentify the areas and items to assess and\ndraft the guidelines. Train staff to use the new assessment"
+  },
+  {
+    "id": 155,
+    "text": "for all health and social care service staff.\nIdentify the areas and items to assess and\ndraft the guidelines. Train staff to use the new assessment\nframework and guidelines in a phased\nConsult with all stakeholder groups\napproach across the health and social\nand conduct pilot studies to finalize the\ncare system.\nassessment framework and guidelines.\nDomains to cover when assessing mental health and support needs.\nAssessments should cover:\nꞏ physical health and lifestyle;\nꞏ mental health, emotional well-being and coping mechanisms;\nꞏ meeting basic needs (for example, food, clothing, hygiene);\nꞏ relationships, family, and social networks (including social isolation and loneliness);\nꞏ other social and structural determinants;"
+  },
+  {
+    "id": 156,
+    "text": "ꞏ meeting basic needs (for example, food, clothing, hygiene);\nꞏ relationships, family, and social networks (including social isolation and loneliness);\nꞏ other social and structural determinants;\nꞏ community inclusion and access to community services and support;\nꞏ exercise of legal capacity;\nꞏ diagnosis, suicide risk or attempts, and how the person frames their mental health issues; and\nꞏ the person’s will and preference for receiving treatment, care and support.\n18\nseigetartS\nsnoitcA\n4\n4.1"
+  },
+  {
+    "id": 157,
+    "text": "Policy area 4. Person-centred, recovery-oriented and rights-based\nassessment, interventions and support\nPolicy directive 4.2 Physical health and lifestyle, psychological, social\nand economic interventions\nStrategy 4.2.1 Identify the physical health Strategy 4.2.2 Implement and scale up\nand lifestyle, psychological, social and physical health and lifestyle, psychological,\neconomic interventions for inclusion in social and economic interventions across\nUniversal Health Care and community all levels of the health system and through\ninitiatives and programmes community initiatives and programmes\nActions Actions\nIdentify the physical health and lifestyle, Prepare and conduct training for delivering\npsychological, social and economic physical health and lifestyle, psychological,"
+  },
+  {
+    "id": 158,
+    "text": "Actions Actions\nIdentify the physical health and lifestyle, Prepare and conduct training for delivering\npsychological, social and economic physical health and lifestyle, psychological,\ninterventions for integration into all levels social, and economic interventions.\nof the health and social care system and\nIntroduce online psychological and self-help\ncommunity initiatives.\ninterventions accessible through a dedicated\nDevelop a clear and coordinated system website.\nfor delivering the physical health and\nDevelop comprehensive and accessible\nlifestyle, psychological, social and economic\ninformation to guide people to interventions\ninterventions at all levels of health services\nand support.\nand within the community, including the\nnecessary collaborations."
+  },
+  {
+    "id": 159,
+    "text": "information to guide people to interventions\ninterventions at all levels of health services\nand support.\nand within the community, including the\nnecessary collaborations.\nIdentify the delivery mode for remote,\nin-person, and combined delivery interventions.\nPolicy area 4: Person-centred, recovery-oriented and rights-based assessment, interventions and support 19\nseigetartS\nsnoitcA\n4.2\nNote on electroconvulsive therapy (E C T)\nIn countries where electroconvulsive therapy (E C T) is used, this intervention must only be administered with\nthe written or documented, free and informed consent of the person concerned. E C T should only be administered\nin modified form: with anaesthesia and muscle relaxants. Using E C T for children is not recommended, and"
+  },
+  {
+    "id": 160,
+    "text": "in modified form: with anaesthesia and muscle relaxants. Using E C T for children is not recommended, and\nshould be prohibited through legislation."
+  },
+  {
+    "id": 161,
+    "text": "There are many interventions that promote and support mental health, and that provide effective treatment\nwithout the use of psychotropic drugs. This list is not exhaustive. For more sources of information, see Box 11\nin Module 2.\nPhysical health and lifestyle interventions: Psychological interventions:\nꞏ physical activity and sport; ꞏ cognitive behavioural therapy, interpersonal\nꞏ nutrition and healthy diet; therapy, behavioural activation therapy, brief\nꞏ sleep; psychodynamic therapy, third-wave therapies,\nꞏ sexual and reproductive health; trauma-informed approaches (for example,\nꞏ stress management and relaxation techniques (for psychotherapy with a trauma focus, eye movement\nexample, mindfulness-based interventions, yoga); desensitization and reprocessing), and — mainly in"
+  },
+  {
+    "id": 162,
+    "text": "ꞏ stress management and relaxation techniques (for psychotherapy with a trauma focus, eye movement\nexample, mindfulness-based interventions, yoga); desensitization and reprocessing), and — mainly in\nꞏ art and culture-based therapy; relation to alcohol or substance use — contingency\nꞏ nature-based green and blue interventions; management therapy, motivational interviewing\nꞏ harm reduction interventions (for example, and enhancement therapy, positive affect therapy,\nneedle and syringe programmes in relation to supportive expressive therapy;\nalcohol use or substance use); ꞏ eye movement desensitization and reprocessing\nꞏ screening, brief interventions, and referral to (E M D R);\ntreatment for hazardous substance use ꞏ family therapy (for example, parenting programmes"
+  },
+  {
+    "id": 163,
+    "text": "ꞏ screening, brief interventions, and referral to (E M D R);\ntreatment for hazardous substance use ꞏ family therapy (for example, parenting programmes\n(including alcohol) and substance use disorders; including home visits for pregnant or postpartum\nꞏ tobacco cessation; and mothers, their partner, and their children,\nꞏ collaboration/referral for screening and treatment couples therapy, family-focused interventions);\nof physical health conditions as appropriate (for ꞏ family and other care giver interventions\nexample, diabetes, C V D, cancer, H I V/AIDS). (for example, support interventions, education\nand guidance);\nSocial interventions: ꞏ problem-solving therapy and skills training;\nꞏ social prescribing; ꞏ psychoeducation;"
+  },
+  {
+    "id": 164,
+    "text": "and guidance);\nSocial interventions: ꞏ problem-solving therapy and skills training;\nꞏ social prescribing; ꞏ psychoeducation;\nꞏ housing assistance (for example, Housing First, ꞏ interpersonal and social skills, cognitive and\nother supported social housing programmes); organizational skills and self-regulation-based\nꞏ personal assistance (for example, supported interventions;\ndecision-making, assistance for daily activities); ꞏ cognitive stimulation therapy and cognitive\nꞏ peer support and mutual help groups (1:1, group training, mainly in relation to dementia;\nand online); ꞏ beginning-to-read interventions, early\nꞏ social support and community reinforcement communication interventions and specialized"
+  },
+  {
+    "id": 165,
+    "text": "and online); ꞏ beginning-to-read interventions, early\nꞏ social support and community reinforcement communication interventions and specialized\napproaches (including to build meaningful social instructional techniques, mainly for children\nconnection and combat isolation and loneliness); and adolescents; and\nꞏ occupational therapy; and ꞏ recovery, advance, and crisis response plans.\nꞏ community-led interventions and bottom-up\ninterventions. Economic interventions:\nꞏ access to income generation and employment\n(for example, individual placement and support,\nsupported employment and other employment\nschemes);\nꞏ housing assistance (for example, rental\nassistance programmes);\nꞏ cash transfer;\nꞏ personal budget; and\nꞏ disability allowances and concessions, (for"
+  },
+  {
+    "id": 166,
+    "text": "schemes);\nꞏ housing assistance (for example, rental\nassistance programmes);\nꞏ cash transfer;\nꞏ personal budget; and\nꞏ disability allowances and concessions, (for\nexample, disability pensions, living allowances,\ntax exemptions, discounts).\n20 Guidance on mental health policy and strategic action plans: Module 5"
+  },
+  {
+    "id": 167,
+    "text": "Policy area 4. Person-centred, recovery-oriented, and rights-based\nassessment, interventions and support\nPolicy directive 4.3 Psychotropic drug interventions\nStrategy 4.3.1 Identify psychotropic Strategy 4.3.2 Implement the guidelines\ndrug interventions and develop guidelines for safe prescribing, use and discontinuation\nfor their safe prescribing, use and from psychotropic drugs\ndiscontinuation, including managing\nadverse effects and withdrawal\nActions\nDevelop and implement training programmes\nActions on safe prescribing, use and discontinuation\nIdentify psychotropic drug interventions to from psychotropic drugs, including managing\nbe integrated into care across all levels of the adverse effects and withdrawal.\nhealth system.\nLink training programmes on safe drug"
+  },
+  {
+    "id": 168,
+    "text": "be integrated into care across all levels of the adverse effects and withdrawal.\nhealth system.\nLink training programmes on safe drug\nEstablish or designate a committee for prescribing, use and discontinuation from\nnational guidelines on safely prescribing, psychotropic drugs with professional bodies\nusing, and discontinuing psychotropic drugs. and professional accreditation processes.\nDevelop comprehensive and accessible\ninformation materials to educate service\nusers, their families and other caregivers\nabout psychotropic drug use, including\nbenefits, adverse effects, and withdrawal.\nPolicy area 4: Person-centred, recovery-oriented and rights-based assessment, interventions and support 21\nseigetartS\nsnoitcA\n4.3"
+  },
+  {
+    "id": 169,
+    "text": "Policy area 5. Mental health sector contributions to addressing social\nand structural determinants and society-wide issues impacting mental\nhealth and well-being\nPolicy directive 5.1 Improved literacy and transformed mindsets to\npromote mental health and well-being and combat stigma, discrimination\nand exclusion\nStrategy 5.1.1 Implement awareness Strategy 5.1.2 Implement initiatives\nstrategies for staff of all government within government sector programmes to\nsectors to transform mindsets, improve improve understanding and change\nunderstanding on mental health, and to negative attitudes on mental health\ncombat stigma and discrimination among the general population, including\ncombating stigma and discrimination\nActions\nEstablish commitment to raising awareness Actions"
+  },
+  {
+    "id": 170,
+    "text": "combat stigma and discrimination among the general population, including\ncombating stigma and discrimination\nActions\nEstablish commitment to raising awareness Actions\nand combating stigma and discrimination by Collaborate with each sector to develop and\nconvening senior staff to discuss the benefits. implement information campaigns in\ncommunities to improve understanding of\nSupport each sector to implement a\nmental health and change negative attitudes.\ncommunication strategy to tackle stigma and\ndiscrimination among government employees Partner with sectors to hold community\nforums at national, regional and local levels\nSupport each sector to implement a training\nto change mindsets and challenge stigma\nprogramme for all government employees to\nand discrimination."
+  },
+  {
+    "id": 171,
+    "text": "forums at national, regional and local levels\nSupport each sector to implement a training\nto change mindsets and challenge stigma\nprogramme for all government employees to\nand discrimination.\nimprove understanding of mental health and\ncombat stigma and discrimination. Provide opportunities for people with lived\nexperience to participate in and inform all\nsector initiatives and programmes.\nSectors for joint action include, among others: culture, art, and sports; defence and veterans’ services;\neducation; employment; environment, conservation and climate protection; finance and treasury; health; interior;\njustice; social protection; urban and rural development.\n22\nseigetartS\nsnoitcA\n5\n5.1"
+  },
+  {
+    "id": 172,
+    "text": "Policy area 5. Mental health sector contributions to addressing social\nand structural determinants and society-wide issues impacting mental\nhealth and well-being\nPolicy directive 5.2 Joint actions on social and structural determinants\nand society-wide issues\nStrategy 5.2.1 Advocate for policy Strategy 5.2.2 Collaborate to agree on,\nchanges in government sectors outside and implement changes to, government\nmental health to address key social and sector policies that address social and\nstructural determinants of mental health structural determinants of mental health\nActions Actions\nEstablish a coalition with civil society Organize planning meetings to discuss the\ngroups, professional groups and other case for change, drawing upon position papers"
+  },
+  {
+    "id": 173,
+    "text": "Actions Actions\nEstablish a coalition with civil society Organize planning meetings to discuss the\ngroups, professional groups and other case for change, drawing upon position papers\ncommunity groups. backed by evidence and rights obligations.\nPrepare position papers on mental health Collaborate to review sector-specific policies\nthat recommend policy actions for each and strategies, recommending changes that\ngovernment sector. reduce harm to mental health and promote\nwell-being.\nEstablish contact with senior politicians and\ngovernment managers to convey key Negotiate, obtain consensus on, and\nmessages and proposed policy changes. implement new or reformed policy.\nEngage traditional and social media to\ndisseminate information, evidence, and key\nmessages for change."
+  },
+  {
+    "id": 174,
+    "text": "messages and proposed policy changes. implement new or reformed policy.\nEngage traditional and social media to\ndisseminate information, evidence, and key\nmessages for change.\nStrategy 5.2.3 Co-develop and implement community prevention and promotion initiatives with\nother sectors to tackle social and structural determinants and society-wide issues affecting\nmental health and well-being\nActions\nHold public discussions and door-to-door conversations to identify and prioritize factors affecting\nmental health and well-being in the community.\nDevelop media campaigns to spur community action on society-wide issues.\nDevelop and implement community-level solutions for the main issues identified, working with a\nmultistakeholder group."
+  },
+  {
+    "id": 175,
+    "text": "Develop media campaigns to spur community action on society-wide issues.\nDevelop and implement community-level solutions for the main issues identified, working with a\nmultistakeholder group.\nPolicy Area 5. Mental health sector contributions to addressing social and structural determinants and 23\nsociety-wide issues impacting mental health and well-being\nseigetartS\nsnoitcA\n5.2"
+  },
+  {
+    "id": 176,
+    "text": "References\n1. Deacon BJ. The biomedical model of mental disorder: a critical analysis of its validity, utility, and effects on psychotherapy research. Clin\nPsychol Rev. 2013;33:846–61 (https://doi.org/10.1016/j.cpr.2012.09.007).\n2. Report of the Special Rapporteur on the right of everyone to the enjoyment of the highest attainable standard of physical and mental health,\nDainius Pūras, 28 March 2017 (A/HRC/35/21). Geneva: United Nations, Human Rights Council; 2017 (https://undocs.org/A/HRC/35/21, accessed\n10 December 2024).\n3. World mental health report: transforming mental health for all. Geneva: World Health Organization; 2022\n(https://iris.who.int/handle/10665/356119)."
+  },
+  {
+    "id": 177,
+    "text": "10 December 2024).\n3. World mental health report: transforming mental health for all. Geneva: World Health Organization; 2022\n(https://iris.who.int/handle/10665/356119).\n4. Convention on the Rights of Persons with Disabilities, preamble, para. 5 (A/RES/61/106). New York: United Nations, General Assembly; 2006\n(https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/convention-on-the-rights-of-\npersons-with-disabilities-2.html, accessed 10 December 2024).\n5. Marginalized groups. In: Glossary & Thesaurus [website]. Vilnius: European Institute for Gender Equality; n.d.\n(https://eige.europa.eu/thesaurus/terms/1280?lang=en, accessed 10 December 2024)."
+  },
+  {
+    "id": 178,
+    "text": "5. Marginalized groups. In: Glossary & Thesaurus [website]. Vilnius: European Institute for Gender Equality; n.d.\n(https://eige.europa.eu/thesaurus/terms/1280?lang=en, accessed 10 December 2024).\n6. Human rights-based approach. In: United Nations Sustainable Development Group [website]. New York: United Nations Sustainable\nDevelopment Group; n.d. (https://unsdg.un.org/2030-agenda/universal-values/human-rights-based-approach, accessed 10 December 2024).\n7. Convention on the Rights of Persons with Disabilities. General comment n°1 (2014), article 12: Equal recognition before the law; para. 12\n(CRPD/C/GC/1); 31 March–11 April 2014. Geneva: Committee on the Rights of Persons with Disabilities; 2014\n(https://undocs.org/CRPD/C/GC/1, accessed 10 December 2024)."
+  },
+  {
+    "id": 179,
+    "text": "(CRPD/C/GC/1); 31 March–11 April 2014. Geneva: Committee on the Rights of Persons with Disabilities; 2014\n(https://undocs.org/CRPD/C/GC/1, accessed 10 December 2024).\n8. Ending violence and discrimination against lesbian, gay, bisexual, transgender and intersex people. New York/Geneva: World Health\nOrganization; 2015 (https://www.who.int/news/item/29-09-2015-ending-violence-and-discrimination-against-lesbian-gay-bisexual-\ntransgender-and-intersex-people, accessed 10 December 2024).\n9. Mental health and psychosocial support in humanitarian emergencies: what should protection programme managers know? Geneva:\nInter-Agency Standing Committee (IASC) Global Protection Cluster Working Group and IASC Reference Group for Mental Health and"
+  },
+  {
+    "id": 180,
+    "text": "Inter-Agency Standing Committee (IASC) Global Protection Cluster Working Group and IASC Reference Group for Mental Health and\nPsychosocial Support in Emergency Settings; 2010 (https://interagencystandingcommittee.org/sites/default/files/migrated/2018-10/\nMHPSS%20Protection%20Actors.pdf, accessed 10 December 2024).\n10. International principles and guidelines on access to justice for persons with disabilities. Geneva: United Nations, Human Rights Special\nProcedures; 2020 (https://www.ohchr.org/EN/Issues/Disability/SRDisabilities/Pages/GoodPracticesEffectiveAccessJusticePersonsDisabilities.\naspx, accessed 10 December 2024).\n11. Boardman J, Dave S. Person-centred care and psychiatry: some key perspectives. BJPsych Int. 2020;17:65–8 (https://doi.org/10.1192/\nbji.2020.21)."
+  },
+  {
+    "id": 181,
+    "text": "aspx, accessed 10 December 2024).\n11. Boardman J, Dave S. Person-centred care and psychiatry: some key perspectives. BJPsych Int. 2020;17:65–8 (https://doi.org/10.1192/\nbji.2020.21).\n12. Šiška J, Beadle-Brown J. Transition from institutional care to community-based services in 27 EU Member States: Final report. Research report\nfor the European Expert Group on Transition from Institutional to Community-based Care. 2020 (https://deinstitutionalisationdotcom.files.\nwordpress.com/2020/05/eeg-di-report-2020-1.pdf, accessed 10 December 2024).\n13. Policy guidelines for inclusive Sustainable Development Goals. Good health and well-being; p. 35. Geneva: United Nations High Commissioner"
+  },
+  {
+    "id": 182,
+    "text": "13. Policy guidelines for inclusive Sustainable Development Goals. Good health and well-being; p. 35. Geneva: United Nations High Commissioner\nfor Human Rights; 2020 (https://www.ohchr.org/Documents/Issues/Disability/SDG-CRPD-Resource/policy-guideline-good-health.pdf,\naccessed 10 December 2024).\n14. Guidelines on deinstitutionalization, including in emergencies (2022) (CRPD/C/5); para. 76. Geneva: United Nations, Committee on the Rights of\nPersons with Disabilities; 2022 (https://www.ohchr.org/en/documents/legal-standards-and-guidelines/crpdc5-guidelines-\ndeinstitutionalization-including, accessed 10 December 2024).\n15. Convention on the Rights of Persons with Disabilities (A/RES/61/106). New York: United Nations, General Assembly; 2006 (https://www.un.org/"
+  },
+  {
+    "id": 183,
+    "text": "15. Convention on the Rights of Persons with Disabilities (A/RES/61/106). New York: United Nations, General Assembly; 2006 (https://www.un.org/\ndevelopment/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/convention-on-the-rights-of-persons-with-disabilities-2.\nhtml, accessed 10 December 2024).\n16. Recovery and the right to health: W H O QualityRights core training: mental health and social services: course guide. Geneva: World Health\nOrganization; 2019 (https://iris.who.int/handle/10665/329577).\n17. Convention on the Rights of Persons with Disabilities. General comment n°1 (2014), article 12: Equal recognition before the law; p. 27 (CRPD/C/"
+  },
+  {
+    "id": 184,
+    "text": "17. Convention on the Rights of Persons with Disabilities. General comment n°1 (2014), article 12: Equal recognition before the law; p. 27 (CRPD/C/\nGC/1); 31 March–11 April 2014. Geneva: Committee on the Rights of Persons with Disabilities; 2014 (https://undocs.org/CRPD/C/GC/1, accessed\n10 December 2024).\n18. Convention on the Rights of Persons with Disabilities. General comment n°1 (2014), article 12: Equal recognition before the law; para. 29\n(CRPD/C/GC/1); 31 March–11 April 2014. Geneva: Committee on the Rights of Persons with Disabilities; 2014 (https://undocs.org/CRPD/C/GC/1,\naccessed 10 December 2024).\n19. Report of the Special Rapporteur on the rights of persons with disabilities; Catalina Devandas Aguilar, 12 December 2017; para. 27 (A/"
+  },
+  {
+    "id": 185,
+    "text": "accessed 10 December 2024).\n19. Report of the Special Rapporteur on the rights of persons with disabilities; Catalina Devandas Aguilar, 12 December 2017; para. 27 (A/\nHRC/37/56). Geneva: United Nations, Human Rights Council; 2017 (https://undocs.org/en/A/HRC/37/56, accessed 10 December 2024).\n20. Comprehensive mental health action plan 2013–2030. Geneva: World Health Organization; 2021 (https://iris.who.int/handle/10665/345301).\n21. Framework on integrated, people-centred health services. Report by the Secretariat to the Sixty-ninth World Health Assembly, Geneva, 23–28\nMay 2016. Geneva: World Health Organization; 2016 (https://iris.who.int/handle/10665/250704).\n24 Guidance on mental health policy and strategic action plans: Module 5"
+  },
+  {
+    "id": 186,
+    "text": "World Health Organization\n20 Avenue Appia\nCH-1211 Geneva 27\nSwitzerland\nWebsite: https://www.who.int"
+  }
+]
