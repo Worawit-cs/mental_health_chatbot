@@ -1,0 +1,848 @@
+JMIR RESEARCH PROTOCOLS Xiao et al
+Protocol
+Suicide Prevention Among College Students Before and During
+the COVID-19 Pandemic: Protocol for a Systematic Review and
+Meta-analysis
+Yunyu Xiao1,2, MPhil, PhD; Rachel Hinrichs3, MS, MSLS; Nina Johnson1, MSW; Amanda McKinley1, MSW; Joan
+Carlson1, PhD; Jon Agley4, PhD; Paul Siu Fai Yip5, PhD
+1School of Social Work, Indiana University–Purdue University Indianapolis, Indianapolis, IN, United States
+2School of Social Work, Indiana University–Bloomington, Bloomington, IN, United States
+3IUPUI University Library, Indiana University–Purdue University Indianapolis, Indianapolis, IN, United States
+4School of Public Health, Indiana University Bloomington, Bloomington, IN, United States
+5Department of Social Work and Social Administration, University of Hong Kong, Hong Kong, China (Hong Kong)
+Corresponding Author:
+Yunyu Xiao, MPhil, PhD
+School of Social Work
+Indiana University–Purdue University Indianapolis
+902 W New York St, 4F
+Education/Social Work Building, ES 4119
+Indianapolis, IN, 46202
+United States
+Phone: 1 201 253 7264
+Email: yx18@iu.edu
+Abstract
+Background: Suicide is the second leading cause of death for college-aged individuals worldwide and in the United States.
+Recent studies have identified preliminary evidence of widening disparities in suicidal behaviors across sex, sexual orientation,
+race/ethnicity, age, and socioeconomic status among college students. Few systematic reviews and meta-analyses offer a
+comprehensive understanding of on-campus and off-campus suicide interventions, nor is collated information available for
+different types of screening, assessment, treatment, and postvention plans. Further challenges have been identified since the
+COVID-19 pandemic, calling for cost-effective and innovative interventions to address increased rates of suicidal behaviors
+among college students facing unprecedented stressors.
+Objective: This research protocol describes the first systematic review and meta-analysis to identify the most effective and
+cost-effective intervention components for universal and targeted (indicated and selected) suicide prevention among college
+students in a global context. Special attention will be placed on disparities in suicide prevention across sociodemographic subgroups,
+inclusive interventions beyond campus, global context, and intervention responses to the COVID-19 pandemic.
+Methods: A sensitive search strategy will be executed across MEDLINE (Ovid), EMBASE, PsycINFO (EBSCO), ERIC
+(EBSCO), Cochrane Library, Dissertations and Theses Global (ProQuest), Scopus, Global Index Medicus, SciELO, African
+Journals Online, Global Health (CABI), and Google Scholar. Data extraction and evaluation will be conducted by three independent
+researchers. Risk of bias will be assessed. A multilevel meta-regression model and subgroup analysis will be used to analyze the
+data and estimate effect sizes.
+Results: The initial search was completed in December 2020 and updated with additional other-language studies in March 2020.
+We expect the results to be submitted for publication in mid-2021.
+Conclusions: Despite increasing rates of suicidal behaviors among college students, few preventative efforts have targeted this
+population, and fewer focus on factors that might place specific demographic groups at heightened risk. The impact of COVID-19
+on suicidal behaviors among college students highlights and exacerbates the urgent need for rapid and effective interventions
+that might differ from traditional approaches. This equity-focused study will address these gaps and provide a valuable analysis
+of the effectiveness of suicide prevention programs and interventions. Findings will inform clinicians, researchers, policy makers,
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 1
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+families, and organizations about evidence-based interventions for reducing the gaps in the suicide crisis among college students
+from different sociodemographic groups.
+Trial Registration: PROSPERO CRD42020225429; https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=225429
+International Registered Report Identifier (IRRID): DERR1-10.2196/26948
+(JMIR Res Protoc 2021;10(5):e26948) doi: 10.2196/26948
+KEYWORDS
+suicide; suicidal prevention; college; university; health disparities; equity; suicidal ideation; suicide attempt; COVID-19; college
+student; young adult; disparity; review
+Further challenges for student mental health have been identified
+Introduction
+during the COVID-19 pandemic. In a recent CDC survey, young
+adults aged 18-24 years reported significantly greater rates of
+Background
+suicidal ideation than the general population during the
+Suicide is the second leading cause of death for college-aged
+pandemic (25.5% versus 10.7%) [18]. However, existing studies
+individuals worldwide and in the United States [1-7]. Globally,
+have focused on primary and secondary school students [19,20],
+results from the World Health Organization World Mental
+and actions to tackle the impact of the COVID-19 pandemic on
+Health International College Student Surveys indicated that
+mental health among college students has not been
+32.7% of college students seriously thought about suicide, and
+comprehensively understood. The new challenge calls for
+4.3% attempted suicide, between 2014 and 2017 [3]. In the
+proactive and effective responses from policy makers,
+United States, one-fifth of college student participants in a recent
+researchers, and the global community to prevent youth suicide
+national survey reported suicidal ideation, with 9% reporting
+[21,22]. Telepsychiatry interventions and digital tools (eg,
+suicide attempts [4]. Between 2007 and 2017, past-year suicidal
+mobile apps, internet chatbots, videoconferencing) have
+ideation among college students nearly doubled (from 5.8% to
+proliferated rapidly in response to the COVID-19 emergency
+10.8%) [7]. Based on the Household Pulse Survey by the Centers
+[23]. It is therefore important to review suicide prevention
+for Disease Control and Prevention (CDC) conducted from
+studies conducted after the onset of the COVID-19 pandemic
+February 17 to March 1, 2021, 42.2% of participants aged 18-29
+to address pandemic-specific suicide risk [21]. If such studies
+years reported indicators of depression in the past week [8].
+have been published, preliminary results should also be
+Notably, colleges and universities (hereafter “colleges”) have
+synthesized, and service gaps identified [22].
+been identified as potential sites for suicide clusters where a
+substantial number of suicides could occur rapidly within a Rationale
+short time frame [9]. The trauma associated with exposure to a Suicidal behaviors among college students can have
+young person’s suicide significantly increases widespread wide-ranging adverse effects on well-being and development,
+anxiety and panic, and causes prolonged grief across victims, including low academic achievement [24,25], chronic physical
+families, and communities [10]. There is an urgent need for health conditions [26], and reduced labor market performance
+research to develop effective, innovative, and accessible suicide [27]. Early identification, effective treatment, and appropriate
+prevention programs and interventions for college students. interventions for students have the potential to save students’
+lives and improve societal well-being and social capital [3].
+In addition, recent studies have identified preliminary evidence
+Despite recent attention to the alarming rates of suicidal
+of widening disparities in suicide across sex, sexual orientation,
+behaviors among college students [3,4,7,28], there has been
+race/ethnicity, age, and socioeconomic status subgroups among
+less research comparatively addressing suicide prevention and
+college students [4,11,12]. Since 2000, female college students
+early intervention for college students than for primary and
+have reported a higher prevalence of suicidal ideation, planning,
+secondary school students [29]. This is troubling because the
+and attempts than their male counterparts in the United States
+college years represent a critical and unique developmental
+[13,14]. Bisexual and transgender students were 2-3 times more
+stage [30] characterized by dynamic social role transitions, new
+likely to report suicidality than heterosexual and gay/lesbian
+living situations, and changing relationships [31]. It is important
+students in 2015 [4]. In 2017, Black college students reported
+to understand and design college-specific intervention programs
+the highest rate of suicide attempts among college students
+targeting the developmental stress-diathesis factors [32] during
+(2.6% versus 1.4% among White students) [11]. There are
+the transition from adolescence to emerging adulthood.
+sociodemographic differences in barriers to using mental health
+services on college campuses [12,15]. However, evidence-based Existing systematic reviews on suicide prevention among college
+suicide programs tailored to meet the unique needs of specific students are generally strong but are limited by their narrow
+demographic groups are few. There is a need to develop foci in terms of populations, interventions, comparisons, and
+culturally adaptive suicide interventions, given emerging outcomes, as well as a lack of guidance from a theoretical
+evidence that experiences of structural discrimination, minority framework. First, most previous reviews focus on symptomatic
+stress, adverse childhood experiences, social discord, and students [33], but evidence suggests a need for additional focus
+cultural sanctions might disproportionately affect the risk of on those at risk but undiagnosed or untreated. To address this
+suicidal behavior [16,17]. gap, this study will not be restricted to studies of students with
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 2
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+a current diagnosis. Second, many campus counseling centers Fifth, as one might expect, no reviews have examined the
+are underresourced, and college students have to use off-campus adaptability of suicide prevention programs in the context of
+mental health services [12,34]. However, previous reviews the COVID-19 pandemic. This information will be important
+predominantly focus on on-campus settings [35]. Conceptually, to inform the emerging transformation and proliferation of
+this may be related to a gap recently identified by the US telepsychiatry in terms of the ways in which it might increase
+Preventive Services Task Force: the lack of effective the accessibility of mental health services for college students
+interventions linking clinical and community resources [36,37]. [21-23,40]. Digital interventions provide the opportunity to
+This study will extend the previous review by deliberately reach at-risk college students who experience barriers to
+attempting to build a comprehensive understanding of available accessing traditional mental health services [41]. This study
+on-campus and off-campus services (eg, those in the community) will add a specific focus on suicide interventions implemented
+and interventions. Third, consideration of the disparities faced during the COVID-19 pandemic when available.
+by specific sociodemographic student groups is needed to
+Sixth, most existing reviews only consider studies conducted
+improve screening and referral systems targeting high-risk
+on college campuses in the United States [33,35,39], limiting
+groups [38]. Previous reviews exclude studies on interventions
+the chance to learn from other developed and developing
+targeting high-risk populations (eg, sexual minorities), and no
+countries. This study will not limit the search criteria by
+reviews have delineated differential intervention effects. This
+geographic location, potentially adding informative global
+study will add to existing knowledge by exploring suicide
+experiences to the existing body of knowledge. Finally, few
+interventions tailored to specific sociodemographic groups and
+reviews have adapted an evidence-based theoretical framework
+assess their intervention outcomes.
+to guide the synthesis, with selected exceptions. Reviews that
+Fourth, the interventions included in previous systematic reviews applied the two-paradigm framework (Clinical Intervention
+have been concentrated on gatekeeper programs with outcomes Zone, Prevention Zone) [35,39] and social-ecological model
+that do not directly measure suicidal behaviors (eg, many such [42,43] suggest the need for more theoretically sound reviews
+programs assess secondary outcomes, including knowledge, with public health perspectives to offer a rigorous evaluation
+skills, attitudes, or awareness) [33,35,39]. Our proposed study of existing efforts as a whole and within each level or paradigm.
+will include both primary suicide assessment (eg, suicidal None of the existing systematic reviews have adopted a health
+ideation, plan, planning, and attempts) and secondary outcomes equity framework [44,45] to guide the review process. This
+(eg, attitudes). Additionally, we plan to evaluate the study will use a logic framework (Figure 1) based on PRISMA-E
+cost-effectiveness (ie, costs of death prevented using the (Preferred Reporting Items for Systematic Review and
+incremental cost-effectiveness ratio [ICER]) of the interventions Meta-Analysis – Equity; Multimedia Appendix 1), relevant
+where data are available, which has not been attempted in guides, and previous empirical studies.
+previous reviews.
+Figure 1. Logic model depicting potential sources of disparity in response to suicide prevention among college students.
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 3
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+Objectives
+Methods
+This protocol articulates our plan to conduct a comprehensive
+systematic review and meta-analysis to identify the most Overview
+effective and cost-effective intervention components for
+This protocol was developed using the 2015 PRISMA-P
+universal and targeted (indicated and selected) suicide
+(Preferred Reporting Items for Systematic Review and
+prevention among college students. This project will accomplish
+Meta-Analysis Protocols) recommended checklist for systematic
+the following objectives: (1) analyze all student participants
+review protocols [61]. The systematic review and meta-analysis
+with a focus on disparities in suicide, (2) include on-campus
+will be conducted and reported in accordance with the PRISMA
+and off-campus programs (in-person and virtual), (3) examine
+statement [62] and the methods outlined in the Cochrane
+broader outcomes specific to suicidal behaviors, and other
+Handbook for Systematic Reviews of Interventions [63]. Given
+secondary outcomes that might reduce suicide (eg, knowledge,
+our specific focus on at-risk subpopulations (eg, racial/ethnic
+attitudes), (4) incorporate US and non-US studies, and (5) adhere
+minorities, sexual minority students) and interventions aimed
+to a theoretically developed logic framework (Figure 1). To
+at reducing barriers to seeking help among college students
+offer a breadth of program evolution across various eras, our
+across sex, race/ethnicity, sexual orientation, and socioeconomic
+review will not limit the study time frame, though it will focus
+status, we further adapted the PRISMA statement on
+on the development of novel interventions prior to and during
+equity-focused systematic reviews (PRISMA-E 2012) [46,64-67]
+the COVID-19 pandemic. If a paucity of studies during the
+to improve transparency and completeness in reporting health
+COVID-19 pandemic is identified, we will summarize the
+equity–focused systematic reviews, in addition to the previous
+existing findings and reinforce the importance of understanding
+PRISMA-E checklist developed by Moher and colleagues
+the potential effects of the COVID-19 pandemic on this body
+[68,69]. The review team is composed of researchers across
+of literature [59].
+disciplines with diverse backgrounds.
+We will attempt to clearly answer the following research
+Eligibility Criteria
+questions:
+Types of Participants
+1. What are the existing college-based and community-based
+suicide interventions for college students? This review will consider studies involving college students
+2. What are the common elements/types of suicide prevention (aged ≥18 years). We will also examine subpopulations across
+interventions for college students? age, race/ethnicity, sex, sexual orientation, and socioeconomic
+3. What are the health and social outcomes of interest of the status [70-73].
+selected interventions?
+Types of Interventions
+4. Is there sufficient variability in interventions concerning
+All programs that have at least one component intended to
+the population, interventions, controls, and outcomes, based
+address suicide are eligible for inclusion. This includes programs
+on the reported results and discussions?
+that address general suicidal thoughts and behaviors, specific
+5. Which components or combinations of components of
+suicidal thoughts and behaviors, awareness of suicidal behaviors,
+suicide interventions are effective, and for which outcomes
+help-seeking behaviors, or a combination of conditions. Included
+(primary versus secondary), demographic subgroups,
+interventions will be broadly defined and include universal,
+settings (on-campus versus off-campus), and delivery
+indicated, or selected interventions at the individual, family,
+method (in-person versus digital)?
+and school levels. Possible intervention mechanisms will include
+6. Are there existing suicide intervention programs tailored
+psychological (eg, cognitive behavioral therapy, psychodynamic
+to students from specific sociodemographic subpopulations?
+psychotherapy), pharmacological (eg, antidepressants) [74],
+If so, what elements of the intervention are tailored?
+psychosocial (eg, restricting access to lethal means, screening
+7. Which suicide intervention has been the most efficacious
+for high-risk persons), educational (eg, education and awareness
+and effective during the COVID-19 pandemic?
+programs for the general public and professionals; media
+8. Which suicide intervention is the most cost-effective based
+reporting of suicide), and physical (eg, exercise, occupational
+on standard economic evaluation?
+therapy) interventions to prevent/reduce suicidal ideation and
+Cost-effectiveness will be measured by the values of ICERs behaviors. Interventions targeting secondary outcomes such as
+that are available in the identified studies, or calculated given awareness of suicide and help-seeking behaviors will also be
+the availability of costs (eg, health care sector costs, nonmedical included. Interventions designed to primarily target behaviors
+costs, and costs of productivity losses) reported in the studies that are risk factors for suicidal behaviors (eg, substance abuse)
+[60]. but that do not specifically address any of the components above
+will be excluded. Interventions focusing on gatekeepers (eg,
+Knowledge generated from our study will identify gaps in the
+families, teachers, health care providers) will be included. We
+evidence base and inform college leaders, policy actors, health
+will include randomized controlled trials (RCTs), pseudo-RCTs,
+care practitioners, clinicians, parents, and society about feasible
+observational pretest/posttest designs, and ecological or
+approaches to screen and support at-risk college students across
+population-based studies that evaluate the effectiveness of
+sociodemographic characteristics.
+suicide interventions.
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 4
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+Types of Prevention Settings Search Strategy
+We will include all relevant settings, including campuses, The database search strategies were developed by a health
+community centers, digital tools, and hybrid (in-person and sciences librarian (RH) with expertise in literature searches.
+virtual) models. We will conceptualize digital tools, broadly, Known relevant articles collected by the authors were analyzed
+as internet-based interventions, chatbots, mobile device to select keywords and subject headings. An initial search
+interventions, and social media interventions. We will not strategy in MEDLINE Ovid was then iteratively developed by
+restrict inclusion criteria based on geographic location. adding or removing additional keywords and subject headings
+until all known relevant articles were retrieved by the search,
+Types of Outcomes
+and no new relevant articles were found. The final search terms
+The primary outcomes will include suicide-specific outcomes, incorporated numerous headings, keywords, and publication
+suicidal ideation, suicidal thoughts, and suicidal behaviors types associated with three main concepts: college students,
+(completed suicide or suicide attempts). If multiple measures suicide, and intervention/prevention. In keeping with the health
+of suicide are used, we will prioritize data extraction as follows: equity focus of the review, terms related to potentially
+(1) validated questionnaires (eg, the Columbia-Suicide Severity underresourced college populations, such as nontraditional,
+Rating Scale [75] or Beck Scale for Suicide Ideation [76]), (2) commuter, foreign, international, or first-generation, were
+clinician ratings, and (3) single-item analysis of other specifically included. Terms for prevention were purposely kept
+self-reported rating scales (eg, question 9 from the Patient Health broad to encompass a wide range of possible interventions. The
+Questionnaire-9 [77]). The secondary outcomes will include full search strategies for all information sources are provided
+changes in suicide-related knowledge, attitudes, and behaviors. in Multimedia Appendix 2.
+To examine equity-focused interventions, outcomes associated
+Study Records
+with inequality (eg, barriers to accessing care) will be included.
+Data Management
+Information Sources
+We conducted a systematic search of the following databases Identified articles are imported into EndNote 20 software
+from their inception until December 8, 2020: MEDLINE (Ovid), (Clarivate Analytics), where duplicate references are removed.
+EMBASE, PsycINFO (EBSCO), ERIC (EBSCO), Cochrane The remaining references are imported and managed in
+Library, Dissertations and Theses Global (ProQuest), Scopus, Covidence software (Veritas Health Innovation) for screening.
+and Google Scholar. For Google Scholar, all references on the
+Selection Process
+first 10 pages, excluding books, will be retrieved. Including
+A total of two reviewers (NJ and AM) will independently screen
+10-20 pages (100-200 items) of references is suggested to
+the studies for eligibility (making a yes or no selection).
+achieve an optimal collection of the most relevant references
+Potential discrepancies during any step of the screening for
+[78]. On March 25, 2021, we expanded our search to include
+inclusion/exclusion will be resolved by a third reviewer (YX).
+Global Index Medicus, SciELO, African Journals Online, and
+First, the reviewers will screen titles and abstracts identified in
+Global Health (CABI) in order to capture literature from low-
+the databases. The team will then obtain and screen full-text
+and middle-income countries. Including such information
+articles. Studies that do not meet the eligibility criteria will be
+sources may improve our ability to identify studies specifically
+moved to an exclusion folder. All reviewers will strictly adhere
+relevant to suicide risks among sociodemographic
+to the inclusion and exclusion criteria. Final selected articles
+subpopulations. Editorials, news items, conference proceedings
+will be approved by the consensus of all reviewers and sent to
+and abstracts, patents, legal findings, and commentaries will be
+an expert consultant for potential suggestions. The selection
+excluded. We will not restrict the search by language or
+process will be displayed in a PRISMA flowchart [81].
+publication date. We plan to use Google Translate (Google) for
+the purpose of data extraction of non–English language articles Logic Framework
+and to consult translators and colleagues proficient in the
+Figure 1 illustrates the logic framework that we will employ
+language, consistent with previous systematic reviews which
+during the review process. The logic framework recognizes that
+included worldwide study context [79,80]. Researchers from
+the causal chain of events linking preventative efforts to reduced
+our study team are native speakers of Chinese (YX) and
+suicidal behaviors can lead to differences in effects between
+proficient in Spanish (AM). We will screen relevant review
+socioeconomically disadvantaged and advantaged students in
+articles and the reference lists of all included studies (backward
+at least four ways: disparities in access/exposure,
+search) for additional eligible studies. We will further screen
+attention/retention, screening/response, and interventions.
+studies that cited the included studies and relevant reviews
+(forward search). We will perform hand searches. We will Data Collection Process
+include grey literature in ProQuest Dissertations and Theses
+Data abstraction will occur independently and in duplicate using
+dissemination from inception until December 8, 2020, in the
+a piloted standard data collection form. Data extraction will
+systematic review, but not in the meta-analysis. We will also
+include three categories: (1) study population and design, (2)
+contact three experts in suicide prevention that we have
+intervention, and (3) outcome. Specific items in the extraction
+identified to potentially obtain additional sources.
+form will include study design, participant characteristics,
+geographic location, sample size, intervention methods,
+comparison intervention methods, primary and secondary
+outcomes, theoretical basis, mode of delivery, suicide prevention
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 5
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+strategies, control condition, intensity and frequency of heterogeneity (I2<40% indicates insignificant heterogeneity)
+intervention, and treatment engagement (retention and attrition). [63], while T2estimates the between-study variance in a random
+Following PRISMA-E [44,45,67], we will include participant
+effects meta-analysis (T2>1 indicates substantial heterogeneity).
+characteristics mapped to PROGRESS (place of residence,
+race/ethnicity/culture/language, occupation, gender/sex, religion, Sensitivity analysis will be conducted by examining whether
+education, socioeconomic status, and social capital). excluding studies identified as having a greater risk of bias
+affects the effect sizes and comparisons between intervention
+Risk of Bias Assessment
+and control groups.
+For RCTs and pseudo-RCTs, reviewers will use the Cochrane
+Collaboration’s Risk of Bias tool [82]. Randomization Publication bias will be assessed by funnel plots and Egger test
+procedures, bias, allocation, outcome assessor, reporting of [86].
+findings, and losses to follow-up will be assessed. Studies will
+Sensitivity Analysis
+be classified as having a low, high, or unclear risk of bias. For
+With our comprehensive inclusion criteria, it is expected that
+non-RCTs (eg, controlled before/after designed studies),
+the selected studies will include multiple study designs (eg,
+reviewers will use the Risk of Bias in Non-randomized Studies
+RCTs, non-RCTs, and observational studies). Recent studies
+of Interventions (ROBINS-I) tool for evaluating the risk of bias
+report improved diagnostic accuracy after including different
+in estimates [83]. The ROBINS-I assesses confounding
+study designs in meta-analyses [86,87]. We plan to first conduct
+participant selection, classification of the intervention,
+an analysis among combined RCTs and pseudo-RCTs, followed
+departures from the intended intervention, missing data,
+by separate subgroup analyses by study design to investigate
+measurement of outcomes, selection of the reported results, and
+the impact on the magnitude of the effect size observed for the
+overall bias. Studies will be classified as being of low, moderate,
+included interventions.
+serious, or critical risk of bias.
+Subgroup Analysis
+Data Synthesis
+Given the focus of this study on investigating health disparities,
+Qualitative Synthesis
+we plan to conduct subgroup analyses by sociodemographic
+If the selected studies contain large amounts of heterogeneity characteristics and by pre-pandemic and pandemic periods when
+or lack sufficient numbers to conduct the meta-analysis, we will there are sufficient studies to do so. To increase the statistical
+follow the Narrative Synthesis in Systematic Reviews tool [84] rigor of our meta-analysis, we will include an independent
+and the PRISMA guidelines [81] to undertake a full narrative meta-analysis statistician to review all our work as a blinded
+review. Following the PRISMA-E checklist [64], we will report reviewer.
+both relative and absolute differences in intervention outcomes
+Evaluation of Cost-Effectiveness
+between sociodemographic groups. We will discuss the extent
+and limits of applicability to students across sex, race/ethnicity, We plan to evaluate the cost-effectiveness of the studies based
+age, and socioeconomic status. We will further provide on the reported ICER and the strength of evidence. We will
+implications for research, practice, or policy related to health classify interventions into cost-saving (better health outcomes
+equity in suicide prevention among college students where and costs less than controlled group) or cost-neutral (ICER=0);
+relevant (eg, types of interventions needed to address increasing very cost-effective ($0 < ICER ≤ $25,000 per quality-adjusted
+suicide attempts among young Black males). life-years [QALY] or life-years gained [LYG]); cost-effective
+($25,000 < ICER ≤ $50,000 per QALY or LYG); marginally
+Meta-analysis cost-effective ($50,000 < ICER ≤ $100,000 per QALY or LYG);
+Should we identify a sufficient number of articles with low or not cost-effective (>$100,000 per QALY or LYG) [60]. The
+heterogeneity, we will conduct a meta-analysis among the final strength of evidence (strong, supportive, or uncertain) will be
+selected studies. assessed using criteria from a previous systematic review [88].
+If there are no reported direct health care costs or evaluation of
+RevMan 5.3 will be used for all analyses. For continuous data,
+cost-effectiveness in the identified studies, we will summarize
+we will report the mean differences between groups and the
+the data as reported in a previous review on depression
+95% CI. We will calculate the standardized mean difference
+intervention [89].
+and 95% CI if different measurement tools were used for the
+same outcome, and the standard deviation if not reported [63]. Ethics and Dissemination
+We will use a random effects meta-analysis model given the
+No ethical approval is required for this protocol and proposed
+possibility that there will be different types of interventions,
+systematic review as we will only use data from previously
+heterogeneous characteristics of participants and comparators,
+published papers that have themselves received ethics clearance
+and different intervention effects.
+and used proper informed consent procedures. The results of
+We will use χ2, I2, and T2 to assess heterogeneity [85]. our systematic review and meta-analysis will be published in a
+peer-reviewed journal.
+Specifically, χ2 assesses the compatibility of observed
+differences in results (χ2 with P<.01 will be considered
+substantial heterogeneity). The I2 statistic represents the
+proportion of the total variation across studies due to
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 6
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+among college students from different sociodemographic
+Results
+subgroups.
+The systematic review and meta-analysis are currently in Limitations
+progress and expected to be finished by summer 2021. We
+Given the broad inclusion criteria, there may be high
+welcome comments from reviewers and will be flexible in
+heterogeneity among the included studies. There may also be
+adjusting based on concerns related screening and data analysis
+a small number of studies focused on newly developed
+to improve scientific rigor. Our final manuscript is expected to
+interventions (eg, mobile technologies), which may have limited
+be submitted to peer-reviewed journals by August 2021.
+representativeness. We plan to follow established guidelines
+Discussion for handling heterogeneity [63,81,90,91]. We are minimizing
+the potential risk of studies being excluded during selection by
+following a rigorous protocol, conducting a prescreening
+Principal Findings
+training, including multiple coders, and employing
+Suicide is a significant public health crisis among college
+cross-validation through a third reviewer. We will conduct
+students worldwide [1-7]. However, there is a lack of research
+sensitivity analysis by considering duplicate data extraction to
+pertaining to effective suicide prevention programs among
+minimize extraction errors [92,93]. We will include an external
+college students, particularly programs that could be tailored
+meta-analysis statistician to detect any scientific and statistical
+to target the unique needs of student subgroups (eg, sex, sexual
+errors during the meta-analysis [94]. We are also aware that
+orientation, race/ethnicity, age, and socioeconomic status).
+some community-based interventions may not have identified
+Although the impact of the COVID-19 pandemic on suicidal
+participants as college students, and thus, it may be difficult to
+behaviors among college students has been recognized [18],
+identify data to examine any potential differences between
+little is known about possible suicide prevention programs for
+on-campus and off-campus services. In such a case, we will
+college students during the pandemic and their differences in
+summarize findings from the existing studies that report college
+crisis management that differ from pre–COVID-19 intervention
+students as the study sample. By submitting our protocol for
+programs.
+review, we will also adjust for any critical threats not identified
+Our systematic review and meta-analysis will address a by the team prior to conducting the study.
+significant lack of outcomes research examining the efficacy
+Implication
+and effectiveness of available suicide prevention programs
+To the best of our knowledge, this will be the first systematic
+among college students. The strengths of our study are the
+review and meta-analysis to examine the effectiveness of suicide
+inclusion of intervention and prevention programs with various
+prevention interventions among college students in such a
+study designs, settings, and modes of delivery across countries,
+wide-ranging and comprehensive manner. In addition, if
+and a specific focus on health equity. Our findings will inform
+possible, comparing pre-pandemic interventions and
+clinicians, researchers, policy makers, families, and higher
+interventions during the pandemic could offer guidance for
+education organizations in reducing the gaps in the suicide crisis
+future initiatives and emerging needs.
+Authors' Contributions
+YX conceptualized, designed, and initiated the study, drafted the initial manuscript, and reviewed and revised the manuscript.
+RH contributed to the analytic plan. The other authors reviewed and revised the manuscript. All authors approved the final
+manuscript as submitted and agree to be accountable for all aspects of the work.
+Conflicts of Interest
+None declared.
+Multimedia Appendix 1
+Checklist of items for reporting equity-focused systematic reviews (PRISMA-E 2012).
+[DOCX File , 35 KB-Multimedia Appendix 1]
+Multimedia Appendix 2
+Search strategies and updated number of results on March 24, 2021.
+[DOCX File , 30 KB-Multimedia Appendix 2]
+References
+1. Centers for Disease Control and Prevention. Web-based Injury Statistics Query and Reporting System (WISQARS): Fatal
+Injury Data, Leading Causes of Death Reports 1981- 2016. National Center for Health Statistics (NCHS), National Vital
+Statistics System. 2018. URL: https://www.cdc.gov/injury/wisqars/fatal.html[accessed 2020-10-22]
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 7
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+2. Centers for Disease Control and Prevention. Underlying cause of death 1999-2019. CDC WONDER. 2020. URL: http:/
+/wonder.cdc.gov/ucd-icd10.html[accessed 2020-10-22]
+3. Mortier P, Auerbach RP, Alonso J, Bantjes J, Benjet C, Cuijpers P, WHO WMH-ICS Collaborators. Suicidal Thoughts
+and Behaviors Among First-Year College Students: Results From the WMH-ICS Project. J Am Acad Child Adolesc
+Psychiatry 2018 Apr;57(4):263-273.e1 [FREE Full text] [doi: 10.1016/j.jaac.2018.01.018] [Medline: 29588052]
+4. Liu CH, Stevens C, Wong SH, Yasui M, Chen JA. The prevalence and predictors of mental health diagnoses and suicide
+among U.S. college students: Implications for addressing disparities in service use. Depress Anxiety 2019 Jan 06;36(1):8-17
+[FREE Full text] [doi: 10.1002/da.22830] [Medline: 30188598]
+5. Duffy ME, Twenge JM, Joiner TE. Trends in Mood and Anxiety Symptoms and Suicide-Related Outcomes Among U.S.
+Undergraduates, 2007-2018: Evidence From Two National Surveys. J Adolesc Health 2019 Nov;65(5):590-598. [doi:
+10.1016/j.jadohealth.2019.04.033] [Medline: 31279724]
+6. Eisenberg D, Hunt J, Speer N. Mental health in American colleges and universities: variation across student subgroups and
+across campuses. J Nerv Ment Dis 2013 Jan;201(1):60-67. [doi: 10.1097/NMD.0b013e31827ab077] [Medline: 23274298]
+7. Lipson SK, Lattie EG, Eisenberg D. Increased Rates of Mental Health Service Utilization by U.S. College Students: 10-Year
+Population-Level Trends (2007-2017). Psychiatr Serv 2019 Jan 01;70(1):60-63 [FREE Full text] [doi:
+10.1176/appi.ps.201800332] [Medline: 30394183]
+8. Centers for Disease Control and Prevention. Mental Health - Household Pulse Survey. URL: https://www.cdc.gov/nchs/
+covid19/pulse/mental-health.htm[accessed 2020-10-22]
+9. Hawton K, Hill NTM, Gould M, John A, Lascelles K, Robinson J. Clustering of suicides in children and adolescents. The
+Lancet Child & Adolescent Health 2020 Jan;4(1):58-67. [doi: 10.1016/s2352-4642(19)30335-9]
+10. Heffel CJ, Riggs SA, Ruiz JM, Ruggles M. The Aftermath of a Suicide Cluster in the Age of Online Social Networking:
+a Qualitative Analysis of Adolescent Grief Reactions. Contemp School Psychol 2015 Jul 11;19(4):286-299. [doi:
+10.1007/s40688-015-0060-z]
+11. Lin H, Li M, Stevens C, Pinder-Amaker S, Chen J, Liu C. Self-Harm and Suicidality in US College Students: Associations
+with Emotional Exhaustion versus Multiple Psychiatric Symptoms. J Affect Disord 2021 Feb 01;280(Pt A):345-353 [FREE
+Full text] [doi: 10.1016/j.jad.2020.11.014] [Medline: 33221721]
+12. Horwitz AG, McGuire T, Busby DR, Eisenberg D, Zheng K, Pistorello J, et al. Sociodemographic differences in barriers
+to mental health care among college students at elevated suicide risk. J Affect Disord 2020 Jun 15;271:123-130. [doi:
+10.1016/j.jad.2020.03.115] [Medline: 32479307]
+13. American College Health Association. American College Health Association-National College Health Assessment III:
+Undergraduate Student Reference Group Executive Summary Spring. 2020. URL: https://www.acha.org/documents/ncha/
+NCHA-III_Fall_2020_Undergraduate_Reference_Group_Executive_Summary.pdf[accessed 2020-12-22]
+14. American College Health Association. American College Health Association-National College Health Assessment III:
+Graduate/Professional Student Reference Group Executive Summary Spring. 2020. URL: https://www.acha.org/documents/
+ncha/NCHA-III_Fall_2020_Graduate_Reference_Group_Executive_Summary.pdf[accessed 2020-12-22]
+15. Horwitz AG, Berona J, Busby DR, Eisenberg D, Zheng K, Pistorello J, et al. Variation in Suicide Risk among Subgroups
+of Sexual and Gender Minority College Students. Suicide Life Threat Behav 2020 Oct 15;50(5):1041-1053. [doi:
+10.1111/sltb.12637] [Medline: 32291833]
+16. Chu J, Robinett EN, Ma JKL, Shadish KY, Goldblum P, Bongar B. Cultural versus classic risk and protective factors for
+suicide. Death Stud 2019 May 03;43(1):56-61. [doi: 10.1080/07481187.2018.1430085] [Medline: 29394156]
+17. Chu JP, Goldblum P, Floyd R, Bongar B. The cultural theory and model of suicide. Applied and Preventive Psychology
+2010 Jun;14(1-4):25-40. [doi: 10.1016/j.appsy.2011.11.001]
+18. Czeisler M, Lane RI, Petrosky E, Wiley JF, Christensen A, Njai R, et al. Mental Health, Substance Use, and Suicidal
+Ideation During the COVID-19 Pandemic - United States, June 24-30, 2020. MMWR Morb Mortal Wkly Rep 2020 Aug
+14;69(32):1049-1057 [FREE Full text] [doi: 10.15585/mmwr.mm6932a1] [Medline: 32790653]
+19. Lee J. Mental health effects of school closures during COVID-19. The Lancet Child & Adolescent Health 2020 Jun;4(6):421.
+[doi: 10.1016/s2352-4642(20)30109-7]
+20. Christakis DA, Van Cleve W, Zimmerman FJ. Estimation of US Children's Educational Attainment and Years of Life Lost
+Associated With Primary School Closures During the Coronavirus Disease 2019 Pandemic. JAMA Netw Open 2020 Nov
+02;3(11):e2028786 [FREE Full text] [doi: 10.1001/jamanetworkopen.2020.28786] [Medline: 33180132]
+21. Moutier C. Suicide Prevention in the COVID-19 Era: Transforming Threat Into Opportunity. JAMA Psychiatry 2020 Oct
+16;78(4):433. [doi: 10.1001/jamapsychiatry.2020.3746] [Medline: 33064124]
+22. Niederkrotenthaler T, Gunnell D, Arensman E, Pirkis J, Appleby L, Hawton K, International COVID-19 Suicide Prevention
+Research Collaboration. Suicide Research, Prevention, and COVID-19. Crisis 2020 Sep;41(5):321-330 [FREE Full text]
+[doi: 10.1027/0227-5910/a000731] [Medline: 32716205]
+23. Shore JH, Schneck CD, Mishkind MC. Telepsychiatry and the Coronavirus Disease 2019 Pandemic-Current and Future
+Outcomes of the Rapid Virtualization of Psychiatric Care. JAMA Psychiatry 2020 May 11;77(12):1211. [doi:
+10.1001/jamapsychiatry.2020.1643] [Medline: 32391861]
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 8
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+24. Rose T, Lindsey MA, Xiao Y, Finigan-Carr NM, Joe S. Mental Health and Educational Experiences Among Black Youth:
+A Latent Class Analysis. J Youth Adolesc 2017 Nov 28;46(11):2321-2340. [doi: 10.1007/s10964-017-0723-3] [Medline:
+28755250]
+25. Auerbach RP, Mortier P, Bruffaerts R, Alonso J, Benjet C, Cuijpers P, WHO WMH-ICS Collaborators. WHO World Mental
+Health Surveys International College Student Project: Prevalence and distribution of mental disorders. J Abnorm Psychol
+2018 Oct;127(7):623-638 [FREE Full text] [doi: 10.1037/abn0000362] [Medline: 30211576]
+26. Scott KM, Lim C, Al-Hamzawi A, Alonso J, Bruffaerts R, Caldas-de-Almeida JM, et al. Association of Mental Disorders
+With Subsequent Chronic Physical Conditions: World Mental Health Surveys From 17 Countries. JAMA Psychiatry 2016
+Feb 01;73(2):150-158 [FREE Full text] [doi: 10.1001/jamapsychiatry.2015.2688] [Medline: 26719969]
+27. Goldman-Mellor SJ, Caspi A, Harrington H, Hogan S, Nada-Raja S, Poulton R, et al. Suicide attempt in young people: a
+signal for long-term health care and social needs. JAMA Psychiatry 2014 Feb 01;71(2):119-127 [FREE Full text] [doi:
+10.1001/jamapsychiatry.2013.2803] [Medline: 24306041]
+28. Lipson SK, Sonneville KR. Understanding suicide risk and eating disorders in college student populations: Results from a
+National Study. Int J Eat Disord 2020 Feb;53(2):229-238. [doi: 10.1002/eat.23188] [Medline: 31639232]
+29. Auerbach RP, Alonso J, Axinn WG, Cuijpers P, Ebert DD, Green JG, et al. Mental disorders among college students in
+the World Health Organization World Mental Health Surveys. Psychol Med 2016 Oct;46(14):2955-2970 [FREE Full text]
+[doi: 10.1017/S0033291716001665] [Medline: 27484622]
+30. Arnett JJ. Emerging adulthood: A theory of development from the late teens through the twenties. American Psychologist
+2000;55(5):469-480. [doi: 10.1037//0003-066X.55.5.469]
+31. Byrd DR, McKinney KJ. Individual, interpersonal, and institutional level factors associated with the mental health of college
+students. J Am Coll Health 2012 Apr;60(3):185-193. [doi: 10.1080/07448481.2011.584334] [Medline: 22420695]
+32. Mann JJ. Neurobiology of suicidal behaviour. Nat Rev Neurosci 2003 Oct;4(10):819-828. [doi: 10.1038/nrn1220] [Medline:
+14523381]
+33. Harrod CS, Goss CW, Stallones L, DiGuiseppi C. Interventions for primary prevention of suicide in university and other
+post-secondary educational settings. Cochrane Database Syst Rev 2014 Oct 29(10):CD009439. [doi:
+10.1002/14651858.CD009439.pub2] [Medline: 25353703]
+34. Gallagher RP. Thirty Years of the National Survey of Counseling Center Directors: A Personal Account. Journal of College
+Student Psychotherapy 2012 Jul;26(3):172-184. [doi: 10.1080/87568225.2012.685852]
+35. Wolitzky-Taylor K, LeBeau RT, Perez M, Gong-Guy E, Fong T. Suicide prevention on college campuses: What works
+and what are the existing gaps? A systematic review and meta-analysis. J Am Coll Health 2020 Mar 25;68(4):419-429.
+[doi: 10.1080/07448481.2019.1577861] [Medline: 30908123]
+36. The U.S. Preventive Services Task Force. Tenth Annual Report to Congress on High-Priority Evidence Gaps for Clinical
+Preventive Services. URL: https://www.uspreventiveservicestaskforce.org/uspstf/about-uspstf/reports-congress/
+tenth-annual-report-congress-high-priority-evidence-gaps-clinical-preventive-services[accessed 2020-12-22]
+37. LeFevre ML, U.S. Preventive Services Task Force. Screening for suicide risk in adolescents, adults, and older adults in
+primary care: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med 2014 May
+20;160(10):719-726. [doi: 10.7326/M14-0589] [Medline: 24842417]
+38. Goldsmith S, Pellmar T, Kleinman A, Bunney W. Reducing suicide: A national imperative. Washington, DC: The National
+Academies Press; 2002.
+39. Drum DJ, Denmark AB. Campus suicide prevention: bridging paradigms and forging partnerships. Harv Rev Psychiatry
+2012;20(4):209-221. [doi: 10.3109/10673229.2012.712841] [Medline: 22894730]
+40. Gunnell D, Appleby L, Arensman E, Hawton K, John A, Kapur N, et al. Suicide risk and prevention during the COVID-19
+pandemic. The Lancet Psychiatry 2020 Jun;7(6):468-471. [doi: 10.1016/s2215-0366(20)30171-1]
+41. Torok M, Han J, Baker S, Werner-Seidler A, Wong I, Larsen M, et al. Suicide prevention using self-guided digital
+interventions: a systematic review and meta-analysis of randomised controlled trials. The Lancet Digital Health 2020
+Jan;2(1):e25-e36 [FREE Full text] [doi: 10.1016/s2589-7500(19)30199-2]
+42. Cramer RJ, Judah MR, Badger NL, Holley AM, Judd S, Peterson M, et al. Suicide on college campuses: a public health
+framework and case illustration. J Am Coll Health 2020 Mar 24:1-8. [doi: 10.1080/07448481.2020.1739053] [Medline:
+32207665]
+43. Centers for Disease Control and Prevention. The Social-Ecological Model: A Framework for Prevention. 2021. URL: https:/
+/www.cdc.gov/violenceprevention/about/social-ecologicalmodel.html[accessed 2021-04-22]
+44. Welch V, Petticrew M, Petkovic J, Moher D, Waters E, White H, PRISMA-Equity Bellagio group. Extending the PRISMA
+statement to equity-focused systematic reviews (PRISMA-E 2012): explanation and elaboration. Int J Equity Health 2015
+Oct 08;14(1):92 [FREE Full text] [doi: 10.1186/s12939-015-0219-2] [Medline: 26450828]
+45. Welch V, Petticrew M, Tugwell P, Moher D, O'Neill J, Waters E, PRISMA-Equity Bellagio group. PRISMA-Equity 2012
+extension: reporting guidelines for systematic reviews with a focus on health equity. PLoS Med 2012 Oct 30;9(10):e1001333
+[FREE Full text] [doi: 10.1371/journal.pmed.1001333] [Medline: 23222917]
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 9
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+46. Tugwell P, Petticrew M, Kristjansson E, Welch V, Ueffing E, Waters E, et al. Assessing equity in systematic reviews:
+realising the recommendations of the Commission on Social Determinants of Health. BMJ 2010 Sep 13;341(sep13
+1):c4739-c4739. [doi: 10.1136/bmj.c4739] [Medline: 20837575]
+47. Armstrong R, Waters E, Doyle J, Rogers W. Reviews in public health and health promotion. In: Cochrane Handbook for
+Systematic Reviews of Interventions. Hoboken, NJ: John Wiley & Sons; 2008:593-606.
+48. Rogers P. Theory of Change: Methodological Briefs-Impact Evaluation No. 2. 2014. URL: https://www.unicef-irc.org/
+publications/747-theory-of-change-methodological-briefs-impact-evaluation-no-2.html[accessed 2020-12-22]
+49. Vogel I. Review of the Use of 'Theory of Change' in International Development. 2012. URL: https://www.theoryofchange.org/
+pdf/DFID_ToC_Review_VogelV7.pdf[accessed 2020-12-22]
+50. Anderson LM, Petticrew M, Rehfuess E, Armstrong R, Ueffing E, Baker P, et al. Using logic models to capture complexity
+in systematic reviews. Res Synth Methods 2011 Mar 10;2(1):33-42. [doi: 10.1002/jrsm.32] [Medline: 26061598]
+51. Niederdeppe J, Kuang X, Crock B, Skelton A. Media campaigns to promote smoking cessation among socioeconomically
+disadvantaged populations: what do we know, what do we need to learn, and what should we do now? Soc Sci Med 2008
+Nov;67(9):1343-1355. [doi: 10.1016/j.socscimed.2008.06.037] [Medline: 18691793]
+52. Williams M, Mitchell F, Thomson G. Examining the health disparities research plan of the National Institutes of Health:
+unfinished business. Washington, DC: National Academies Press; 2006:0309101212.
+53. US Preventive Services Task Force. Screening for Depression, Anxiety, and Suicide Risk in Adults, Including Pregnant
+and Postpartum Persons. 2020. URL: https://www.uspreventiveservicestaskforce.org/uspstf/draft-update-summary/
+screening-depression-anxiety-suicide-risk-adults[accessed 2020-12-22]
+54. Stone D, Holland K, Bartholow B, Crosby A, Davis S, Wilkins N. Preventing suicide: A technical package of policies,
+programs, and practice. Atlanta, GA: National Center for Injury Prevention and Control, Centers for Disease Control and
+Prevention; 2017. URL: https://www.cdc.gov/violenceprevention/pdf/suicidetechnicalpackage.pdf[accessed 2020-12-22]
+55. Suicide Prevention Resource Center. A Comprehensive Approach to Suicide Prevention. 2020. URL: https://www.sprc.org/
+effective-prevention/comprehensive-approach[accessed 2020-12-22]
+56. Mann JJ, Apter A, Bertolote J, Beautrais A, Currier D, Haas A, et al. Suicide prevention strategies: a systematic review.
+JAMA 2005 Oct 26;294(16):2064-2074. [doi: 10.1001/jama.294.16.2064] [Medline: 16249421]
+57. Zalsman G, Hawton K, Wasserman D, van Heeringen K, Arensman E, Sarchiapone M, et al. Suicide prevention strategies
+revisited: 10-year systematic review. The Lancet Psychiatry 2016 Jul;3(7):646-659 [FREE Full text] [doi:
+10.1016/s2215-0366(16)30030-x]
+58. Wong YJ, Maffini CS, Shin M. The Racial-Cultural Framework. The Counseling Psychologist 2013 Feb 12;42(1):13-54.
+[doi: 10.1177/0011000012470568]
+59. Holmes EA, O'Connor RC, Perry VH, Tracey I, Wessely S, Arseneault L, et al. Multidisciplinary research priorities for
+the COVID-19 pandemic: a call for action for mental health science. Lancet Psychiatry 2020 Jun;7(6):547-560 [FREE Full
+text] [doi: 10.1016/S2215-0366(20)30168-1] [Medline: 32304649]
+60. Lebenbaum M, Cheng J, de Oliveira C, Kurdyak P, Zaheer J, Hancock-Howard R, et al. Evaluating the Cost Effectiveness
+of a Suicide Prevention Campaign Implemented in Ontario, Canada. Appl Health Econ Health Policy 2020 Apr;18(2):189-201.
+[doi: 10.1007/s40258-019-00511-5] [Medline: 31535350]
+61. Moher D, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew M, PRISMA-P Group. Preferred reporting items for
+systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. Syst Rev 2015 Jan 01;4(1):1 [FREE Full text]
+[doi: 10.1186/2046-4053-4-1] [Medline: 25554246]
+62. Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group. Preferred reporting items for systematic reviews and
+meta-analyses: the PRISMA statement. Int J Surg 2010;8(5):336-341 [FREE Full text] [doi: 10.1016/j.ijsu.2010.02.007]
+[Medline: 20171303]
+63. Higgins J, Thomas J, Chandler J, Cumpston M, Li T, Page M. Cochrane Handbook for Systematic Reviews of Interventions
+version 6.2.: Cochrane; 2021. URL: www.training.cochrane.org/handbook[accessed 2020-12-22]
+64. Welch V, Petticrew M, Petkovic J, Moher D, Waters E, White H, PRISMA-Equity Bellagio group. Extending the PRISMA
+statement to equity-focused systematic reviews (PRISMA-E 2012): explanation and elaboration. Int J Equity Health 2015
+Oct 08;14(1):92 [FREE Full text] [doi: 10.1186/s12939-015-0219-2] [Medline: 26450828]
+65. Welch V, Petticrew M, Tugwell P, Moher D, O'Neill J, Waters E, PRISMA-Equity Bellagio group. PRISMA-Equity 2012
+extension: reporting guidelines for systematic reviews with a focus on health equity. PLoS Med 2012;9(10):e1001333
+[FREE Full text] [doi: 10.1371/journal.pmed.1001333] [Medline: 23222917]
+66. Welch V, Petkovic J, Jull J, Hartling L, Klassen T, Kristjansson E. Equity and specific populations. In: Higgins J, Thomas
+J, Chandler J, Cumpston M, Li T, Page M, et al, editors. Cochrane Handbook for Systematic Reviews of Interventions.
+Hoboken, NJ: John Wiley & Sons; 2019:433-449.
+67. O'Neill J, Tabish H, Welch V, Petticrew M, Pottie K, Clarke M, et al. Applying an equity lens to interventions: using
+PROGRESS ensures consideration of socially stratifying factors to illuminate inequities in health. J Clin Epidemiol 2014
+Jan;67(1):56-64. [doi: 10.1016/j.jclinepi.2013.08.005] [Medline: 24189091]
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 10
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+68. Moher D, Liberati A, Tetzlaff J, Altman D, PRISMA Group. Preferred reporting items for systematic reviews and
+meta-analyses: the PRISMA statement. PLoS Med 2009 Jul 21;6(7):e1000097 [FREE Full text] [doi:
+10.1371/journal.pmed.1000097] [Medline: 19621072]
+69. Moher D, Schulz KF, Simera I, Altman DG. Guidance for developers of health research reporting guidelines. PLoS Med
+2010 Feb 16;7(2):e1000217 [FREE Full text] [doi: 10.1371/journal.pmed.1000217] [Medline: 20169112]
+70. Xiao Y. Social network influences on trajectories of suicidal behaviors among adolescents transitioning to adulthood [PhD
+thesis].: New York University URL: https://www.researchgate.net/publication/
+341867488_Social_network_influences_on_trajectories_of_suicidal_behaviors_among_adolescents_transitioning_to_adulthood
+[accessed 2020-12-22]
+71. Xiao Y, Romanelli M, Vélez-Grau C, Lindsey MA. Unpacking Racial/Ethnic Differences in the Associations between
+Neighborhood Disadvantage and Academic Achievement: Mediation of Future Orientation and Moderation of Parental
+Support. J Youth Adolesc 2021 Jan 22;50(1):103-125. [doi: 10.1007/s10964-020-01319-6] [Medline: 32964380]
+72. Xiao Y, Romanelli M, Lindsey MA. A latent class analysis of health lifestyles and suicidal behaviors among US adolescents.
+J Affect Disord 2019 Aug 01;255:116-126. [doi: 10.1016/j.jad.2019.05.031] [Medline: 31150941]
+73. Xiao Y, Lu W. Cumulative Health Risk Behaviors and Adolescent Suicide: The Moderating Role of Future Orientation.
+Am J Health Behav 2019 Nov 01;43(6):1086-1102. [doi: 10.5993/AJHB.43.6.7] [Medline: 31662168]
+74. Kampling H, Baumeister H, Jackel W, Mittag O. Prevention of depression in chronically physically ill adults. Cochrane
+Database Syst Rev 2014;2014(8):CD011246. [doi: 10.1002/14651858.cd011246]
+75. Posner K, Brown GK, Stanley B, Brent DA, Yershova KV, Oquendo MA, et al. The Columbia-Suicide Severity Rating
+Scale: initial validity and internal consistency findings from three multisite studies with adolescents and adults. Am J
+Psychiatry 2011 Dec;168(12):1266-1277 [FREE Full text] [doi: 10.1176/appi.ajp.2011.10111704] [Medline: 22193671]
+76. Beck AT, Steer RA, Ranieri WF. Scale for suicide ideation: Psychometric properties of a self-report version. J Clin Psychol
+1988 Jul;44(4):499-505. [doi: 10.1002/1097-4679(198807)44:4<499::aid-jclp2270440404>3.0.co;2-6]
+77. Spitzer RL, Kroenke K, Williams JB. Validation and utility of a self-report version of PRIME-MD: the PHQ primary care
+study. Primary Care Evaluation of Mental Disorders. Patient Health Questionnaire. JAMA 1999 Nov 10;282(18):1737-1744.
+[doi: 10.1001/jama.282.18.1737] [Medline: 10568646]
+78. Bramer WM, Rethlefsen ML, Kleijnen J, Franco OH. Optimal database combinations for literature searches in systematic
+reviews: a prospective exploratory study. Syst Rev 2017 Dec 06;6(1):245 [FREE Full text] [doi: 10.1186/s13643-017-0644-y]
+[Medline: 29208034]
+79. Carson V, Kuzik N, Hunter S, Wiebe SA, Spence JC, Friedman A, et al. Systematic review of sedentary behavior and
+cognitive development in early childhood. Prev Med 2015 Sep;78:115-122. [doi: 10.1016/j.ypmed.2015.07.016] [Medline:
+26212631]
+80. Ng SC, Shi HY, Hamidi N, Underwood FE, Tang W, Benchimol EI, et al. Worldwide incidence and prevalence of
+inflammatory bowel disease in the 21st century: a systematic review of population-based studies. The Lancet 2017
+Dec;390(10114):2769-2778. [doi: 10.1016/s0140-6736(17)32448-0]
+81. Liberati A, Altman DG, Tetzlaff J, Mulrow C, Gøtzsche PC, Ioannidis JPA, et al. The PRISMA statement for reporting
+systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration. BMJ
+2009 Jul 21;339:b2700 [FREE Full text] [doi: 10.1136/bmj.b2700] [Medline: 19622552]
+82. Higgins JPT, Altman DG, Gøtzsche PC, Jüni P, Moher D, Oxman AD, Cochrane Bias Methods Group, Cochrane Statistical
+Methods Group. The Cochrane Collaboration's tool for assessing risk of bias in randomised trials. BMJ 2011 Oct 18;343:d5928
+[FREE Full text] [doi: 10.1136/bmj.d5928] [Medline: 22008217]
+83. Sterne JA, Hernán MA, Reeves BC, Savović J, Berkman ND, Viswanathan M, et al. ROBINS-I: a tool for assessing risk
+of bias in non-randomised studies of interventions. BMJ 2016 Oct 12;355:i4919 [FREE Full text] [doi: 10.1136/bmj.i4919]
+[Medline: 27733354]
+84. Popay J, Roberts H, Sowden A, Petticrew M, Arai L, Rodgers M. Guidance on the conduct of narrative synthesis in systematic
+reviews: A product from the ESRC Methods Programme Lancaster: Institute for Health Research, Lancaster University.
+2006. URL: https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/fhm/dhr/chir/
+NSsynthesisguidanceVersion1-April2006.pdf[accessed 2020-12-22]
+85. Schünemann H, Brożek J. GRADE Handbook.: Cochrane Collaboration; 2013. URL: https://gdt.gradepro.org/app/handbook/
+handbook.html[accessed 2020-12-22]
+86. Faber T, Ravaud P, Riveros C, Perrodeau E, Dechartres A. Meta-analyses including non-randomized studies of therapeutic
+interventions: a methodological review. BMC Med Res Methodol 2016 Mar 22;16:35 [FREE Full text] [doi:
+10.1186/s12874-016-0136-0] [Medline: 27004721]
+87. Parker LA, Saez NG, Porta M, Hernández-Aguado I, Lumbreras B. The impact of including different study designs in
+meta-analyses of diagnostic accuracy studies. Eur J Epidemiol 2013 Sep;28(9):713-720. [doi: 10.1007/s10654-012-9756-9]
+[Medline: 23269612]
+88. Li R, Zhang P, Barker LE, Chowdhury FM, Zhang X. Cost-effectiveness of interventions to prevent and control diabetes
+mellitus: a systematic review. Diabetes Care 2010 Aug 28;33(8):1872-1894 [FREE Full text] [doi: 10.2337/dc10-0843]
+[Medline: 20668156]
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 11
+XSL FO (page number not for citation purposes)
+•
+RenderX
+
+JMIR RESEARCH PROTOCOLS Xiao et al
+89. Churchill R, Hunot V, Corney R, Knapp M, McGuire H, Tylee A, et al. A systematic review of controlled trials of the
+effectiveness and cost-effectiveness of brief psychological treatments for depression. Health Technol Assess 2001;5(35):1-173
+[FREE Full text] [doi: 10.3310/hta5350] [Medline: 12387733]
+90. Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ 2003 Sep
+06;327(7414):557-560 [FREE Full text] [doi: 10.1136/bmj.327.7414.557] [Medline: 12958120]
+91. Higgins JPT, Thompson SG. Quantifying heterogeneity in a meta-analysis. Stat Med 2002 Jun 15;21(11):1539-1558. [doi:
+10.1002/sim.1186] [Medline: 12111919]
+92. Gøtzsche PC, Hróbjartsson A, Maric K, Tendal B. Data extraction errors in meta-analyses that use standardized mean
+differences. JAMA 2007 Jul 25;298(4):430-437. [doi: 10.1001/jama.298.4.430] [Medline: 17652297]
+93. Mbuagbaw L, Lawson DO, Puljak L, Allison DB, Thabane L. A tutorial on methodological studies: the what, when, how
+and why. BMC Med Res Methodol 2020 Sep 07;20(1):226 [FREE Full text] [doi: 10.1186/s12874-020-01107-7] [Medline:
+32894052]
+94. George B, Beasley T, Brown A, Dawson J, Dimova R, Divers J, et al. Common scientific and statistical errors in obesity
+research. Obesity (Silver Spring) 2016 Apr;24(4):781-790 [FREE Full text] [doi: 10.1002/oby.21449] [Medline: 27028280]
+Abbreviations
+CDC: Centers for Disease Control and Prevention
+ICER: incremental cost-effectiveness ratio
+PRISMA: Preferred Reporting Items for Systematic Review and Meta-Analysis
+RCT: randomized controlled trial
+ROBINS-I: Risk of Bias in Non-randomized Studies of Interventions
+Edited by G Eysenbach; submitted 05.01.21; peer-reviewed by J Bantjes, S Byrne; comments to author 09.03.21; revised version
+received 29.03.21; accepted 16.04.21; published 17.05.21
+Please cite as:
+Xiao Y, Hinrichs R, Johnson N, McKinley A, Carlson J, Agley J, Yip PSF
+Suicide Prevention Among College Students Before and During the COVID-19 Pandemic: Protocol for a Systematic Review and
+Meta-analysis
+JMIR Res Protoc 2021;10(5):e26948
+URL: https://www.researchprotocols.org/2021/5/e26948
+doi: 10.2196/26948
+PMID: 33878016
+©Yunyu Xiao, Rachel Hinrichs, Nina Johnson, Amanda McKinley, Joan Carlson, Jon Agley, Paul Siu Fai Yip. Originally
+published in JMIR Research Protocols (https://www.researchprotocols.org), 17.05.2021. This is an open-access article distributed
+under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Research
+Protocols, is properly cited. The complete bibliographic information, a link to the original publication on
+https://www.researchprotocols.org, as well as this copyright and license information must be included.
+https://www.researchprotocols.org/2021/5/e26948 JMIR Res Protoc 2021 | vol. 10 | iss. 5 | e26948 | p. 12
+XSL FO (page number not for citation purposes)
+•
+RenderX
+

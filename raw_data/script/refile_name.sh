@@ -1,3 +1,4 @@
+# This Module is refile name to correcting standard file name directed by Wit
 #!/bin/bash
 
 my_dir="/home/worawit/Documents/allProject/realProject/mental_health_chatbot/raw_data/pdf_data"

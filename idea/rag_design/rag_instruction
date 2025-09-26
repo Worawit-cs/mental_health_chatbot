@@ -5,7 +5,7 @@ Work Flow Data Engineer:
 Role Data Engineer(RAG Manager) Duty:
     *DB storage process:
 	|
-	|-->raw_data-->text_data-->chunking-->embed_vector-->store_vector_to_vector_data_base
+	|-->raw_data-->text_data-->chunking-->embed_vector-->store_vector_to_FAISS
     *Query Process:
 	|
 	|-->query-->embed_vector-->searching_nearest_neighbor-->respon_to_llm_with_nearest_doc

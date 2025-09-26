@@ -1,0 +1,893 @@
+STEPCHANGE:
+MENTALLY
+HEALTHY
+UNIVERSITIES
+
+2 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+Our shared vision is for
+UK universities to be places
+that promote mental health
+and wellbeing, enabling
+all students and all staff
+to thrive and succeed to
+their best potential.
+
+3 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+We will achieve our vision
+by all universities adopting
+mental health as a strategic
+priority and implementing
+a whole university approach.
+
+4 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+Stepchange: It calls on universities to adopt mental
+health as a strategic priority, to see it as
+mentally healthy
+foundational to all aspects of university
+life, for all students and all staff.
+universities forms
+This whole university framework,
+part of a refreshed
+co-developed with Student Minds’
+University Mental Health Charter,
+call to action
+provides a shared framework
+for change.
+for universities.
+
+5 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+MENTALLY HEALTHY
+ALIGNED ADAPTABLE
+UNIVERSITIES
+Recognising that working together to a Inviting adaptation to local contexts
+FRAMEWORK
+shared vision and approach is essential; and the needs of your population
+collaborating rather than competing, or institution.
+exchanging learning and celebrating
+To achieve our vision of
+each other’s successes.
+mentally healthy universities,
+this framework is:
+STRATEGIC SHARED EVOLVING
+Understanding that sustained effort Not belonging to any agency Developing in response to new
+is needed, now and in the long-term, or group, but is an agreed evidence, emerging practice and
+across sectors and with multiple approach to realise the changing policy conditions.
+agencies and perspectives. shared vision of mentally
+healthy universities.
+
+6 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+HOW DID
+WE GET HERE? 2016
+In 2016 UUK convened a proactive programme of work
+to develop and implement a whole university approach
+to mental health. The approach was informed by whole
+school and workplace initiatives as well as by the UK
+Healthy Universities Network. Direction was provided by
+2017
+the Mental Health in Higher Education Advisory Group.
+Stepchange was published in 2017 alongside Not by Degrees, an independent
+review of mental health in higher education by the Institute for Public Policy
+Research. The University of the West of England, the University of York and
+Cardiff University piloted the strategic framework in partnership with UUK
+and Student Minds, supported by funding from the Office for Students (OfS).
+At the same time, many universities have used the framework to develop
+their own mental health and wellbeing strategies.
+
+7 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+In 2018 additional, aligned frameworks
+were developed on suicide prevention
+(Suicide-Safer Universities) and the
+necessary partnerships between universities
+and the NHS (Minding our Future).
+The latter provided the basis for the
+commitment to student mental health
+in the NHS Long Term Plan (2019).
+Stepchange: mentally healthy universities is a
+refreshed framework. It builds on learning from
+2018
+the university pilots, from the development
+process of the Student Minds University
+Mental Health Charter and from additional
+focus groups on leadership and staff mental
+health. The thinking on strategy and leadership
+was tested further at the UUK Mental Health
+Leadership Learning Collaborative.
+
+HOW SHOULD
+WE THINK ABOUT
+NO MENTAL ILLNESS
+MENTAL HEALTH?
+We all have mental health.
+Within the student and staff
+community, different levels of need
+indicate different interventions.
+Discussions on mental health tend to focus on
+those experiencing mental illness who need care or
+support. Universities have a responsibility towards
+those students and staff as well as an opportunity
+to identify those at risk and intervene early.
+Mental health Mental health refers to a spectrum of
+and wellbeing: experience, from good mental health
+But we also have the opportunity to promote good
+dual continuum to mental illness and distress.
+mental health for the whole university population,
+improving the lives and outcomes of 2.3 million
+Wellbeing includes wider physical,
+students and 400,000 staff.
+social and economic experience.
+GNIEBLLEW
+LAMITPO
+GNIEBLLEW
+WOL
+8 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+High wellbeing High wellbeing
+living with and no mental
+mental illness illness
+MENTAL ILLNESS
+Mental No mental
+illness with illness but
+low wellbeing low wellbeing
+
+9 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+G E N
+E
+R AL
+SOCIOECO NOM
+H
+I
+O
+C
+U
+,
+S I
+C
+N
+U
+G
+LT U RAL AND
+N
+E
+U
+N
+TR
+V
+I
+I
+T
+R
+IO
+O
+N
+N MENTAL
+CON
+D ITIO
+N S
+UNIVERSITIES
+U
+NE
+MPLOY
+MENT
+S
+OCIAL AND COMMUNITY NETWORKS
+LIVING
+C O
+N D
+ITIO
+N
+S
+AS HEALTH W
+O R K
+I N
+DIVIDUAL LIFESTYLE FACTOR
+S
+SETTINGS N
+E D U C
+ATI O
+A
+G E, S EX
+AND HEREDITARY
+FA C TO R
+S
+S A
+N IT A TIO
+N
+E
+C A R C E S
+T
+H VI
+LR
+H E A S E
+Mental health is determined by a range
+of individual, interpersonal, community,
+environmental and structural factors.
+Whether we like it or not, universities are ‘Health is created and lived by
+health settings, with positive and negative people within the settings of their
+effects on all students and staff. Let’s make
+everyday life; where they learn,
+them healthy settings.
+work, play and love.’
+A health setting is a place or social context in which people engage in daily activities where
+WHO, Ottawa Charter for Health Promotion, 1986
+environmental, organisational, and personal factors interact to affect health and wellbeing
+(Health Promotion Glossary, 1998).
+
+10 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+CASE FOR There is a compelling case for
+universities to position mental
+ACTION
+health as a strategic priority.
+ATTAINMENT
+There is strong evidence that good mental
+health has a positive impact on a person’s
+learning, creativity, ability to concentrate
+and overall performance levels.
+The link between health and learning gain
+continues into employability. Just as employees
+expect healthy workplaces, employers want
+graduates who are health and wellbeing literate.
+THRIVING AT WORK
+Employers who invest in employee
+wellbeing see enhanced performance,
+reduced costs from sickness absence, lower
+staff turnover and higher levels of creativity.
+
+11 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+CASE FOR
+ACTION
+RESPONSIBILITY IMPACT OF MENTAL ILLNESS
+Universities have a responsibility Poor mental health has negative
+to the health and safety of students, consequences for the learning, work
+staff and visitors and a duty of and lives of students and staff.
+care to their students and staff.
+This is set out in health and safety, Suicide and serious mental illness have
+employment and consumer legislation. a devastating impact on families, friends
+and university communities.
+This responsibility should inform
+the risk profile of every institution. Students experiencing mental illness
+are more likely to withdraw from courses,
+or to underachieve, and are less likely
+to progress.
+The direct and hidden costs of staff
+experiencing poor mental health are less
+documented in universities but are likely
+to be substantial.
+
+12 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES ‘Leaders of schools, colleges, universities
+and community organisations [to] take a whole
+organisation approach to the mental health of their
+students, young people and staff, so that it permeates
+every aspect of their work and is embedded across
+WHOLE
+all policies, cultures, curricula and practice.’
+UNIVERSITY
+2035 Vision, Children and Young People’s Mental Health Coalition
+APPROACH
+Good mental health enables learning, Improving outcomes for students Universities cannot do this alone.
+work and community. It is fundamental to and staff experiencing mental illness They must continue to develop local
+the core mission of universities. The whole or mental health difficulties requires and national partnerships with the health
+university approach recommends that a whole university approach. and care system to improve access to and
+all aspects of university life promote and coordination of care. Equally, they need
+support student and staff mental health. This approach balances the opportunity to work with parents, schools, colleges
+for prevention and early intervention and employers to mitigate the risks
+The whole university approach: and the importance of open conversations of transitions.
+about mental health with the need for
+recognises the effect of culture and appropriately resourced and effective
+environment, and specific inequalities, support services.
+on mental health and wellbeing
+seeks to transform the university
+into a healthy setting.
+empowers students and staff to take
+responsibility for their own wellbeing
+
+13 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+WHOLE UNIVERSITY
+Learn
+APPROACH
+Support
+The Stepchange:
+mentally healthy
+universities
+model is formed
+of four domains.
+Work
+Live
+
+14 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+DOMAIN
+LEARN
+Universities transform   Curriculum and pedagogy: review the   Academic staff: clarify the role of
+lives through learning. design and delivery of the curriculum, academic staff in student mental
+teaching and learning to position health health through appropriate training
+Higher learning involves
+gain alongside learning gain. and development.
+challenge and new ways
+Learning communities and environments:   Assessment: make sure that
+of thinking: it can have a
+develop collaborative, safe and assessments stretch and test learning
+positive impact on a person’s
+supportive environments – including without imposing unnecessary stress.
+mental health and wellbeing
+digital environments – that have
+Fitness to study and fitness to practice:
+over a lifetime. However, the a positive impact on mental health.
+embed mental health support in all
+way learning is designed,
+Self-belief and confidence: support fitness to study/practice processes
+structured and provided students to develop the skills they need and ensure that there is consistency
+to thrive in everyday life. of approach across the university.
+may produce a positive
+or negative experience.
+
+15 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+SUPPORT SERVICES SHOULD BE:
+set within a whole university mental health
+DOMAIN strategy, alongside wider support for staff
+and students such as support for disability,
+SUPPORT
+harassment and bullying, faith, housing,
+and finance, learning and work
+The demand for mental health   designed through co-production with
+support among students and students and staff, delivered according
+to need, and responsive to changing need
+staff has increased significantly.
+Universities currently resource   safe and effective interventions that are regularly
+audited for safety, quality and effectiveness
+a wide range of services to
+support those experiencing   properly resourced, staffed and managed
+mental illness.
+accessible to all members of the university
+community, and appropriate to culture
+There is no definitive service offer. and context
+Mental health support services may cover
+prepared for a mental health crisis and suicide
+both students and staff or only students.
+by having clear plans in place
+They may include counselling, mental
+health teams, digital interventions,   working in partnership with local NHS and
+residential life teams, helplines and care services with effective working relationships
+after-hours support. and information sharing agreements in place
+
+16 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+DOMAIN
+SUPPORT
+Suicide-safer
+universities
+READ THE FULL REPORT
+WHAT DO WE KNOW?
+Does your institution
+At least 95 higher education students
+have a suicide safer strategy?
+died by suicide in 2016–17 in England
+Was it co-developed with students
+and Wales.
+and staff?
+Does it cover prevention,
+The rate is low – half that of in the wider
+intervention and postvention?
+age-adjusted population – but rising.
+‘One life lost
+Is it multi-agency, involving key
+Incidents of suicide are highest
+stakeholders from NHS, third sector is one life
+in January and lowest in the summer and local authorities?
+too many’
+months. They are higher in male
+Is it owned by a member of your
+students (Gunnell et al, 2019). senior team? Zero suicide alliance
+
+17 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+STAFF MENTAL HEALTH RESOURCES
+Develop and implement a strategy that   Charlie Waller Memorial Trust provide
+aligns staff and student mental health. free advice on staff training strategy
+as well as sector specific e-Learning.
+Promote mentally healthy workplaces.
+Mind’s Mental Health at Work Commitment
+Build mental health into
+is a comprehensive framework for
+DOMAIN performance regimes.
+workplace wellbeing. Their partnership
+WORK   Champion open conversations. with Goldman Sachs on a two year
+pilot programme with 10 universities,
+Deploy effective wellbeing interventions.
+Building Mentally Healthy Universities,
+Good mental health is   Train line managers and research will share learning and guidance with
+central to staff engagement, supervisors to promote mental health. the wider sector.
+productivity and creativity.
+Ensure that support is easy to access.
+The whole university
+STAFF SUPPORTING STUDENTS
+approach brings together
+staff and student mental   Training for staff to be aware of
+mental health difficulties and to
+health and wellbeing.
+respond appropriately must be set in
+a wider framework that sets out roles,
+boundaries and support available.
+Training should support the
+development of aware and
+compassionate communities
+that enhance mental health as
+well as responding to crises.
+
+18 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+‘We believe there is nothing more important
+than investing in the health and wellbeing
+of employees to create more good days
+at work. Healthier, happier people can do
+great things. It’s simple – a business filled
+with happier people having good days at
+work is a better business. That’s not too
+revolutionary if you think about it.’
+Professor Sir Cary Cooper,
+Professor of Organisational Psychology, University of Manchester
+
+19 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES ‘The healthy settings approach
+takes a whole system perspective
+and aims to make the places within
+which people learn, live, work and play
+supportive to health and wellbeing.’
+DOMAIN
+Healthy Universities Network
+LIVE
+MAKING UNIVERSITIES   Healthy community: work in partnership RESIDENTIAL ACCOMMODATION
+HEALTHY SETTINGS
+with students’ unions and guilds to
+Many of these issues come together in
+actively support the social integration of
+Health promotion: promote ways to improve student accommodation. Universities must
+students, support academic achievement
+staff and student wellbeing to encourage work closely with accommodation providers
+and retention, and reduce loneliness
+healthy behaviours (physical activity, and local authorities to ensure safety, good
+and improve wellbeing.
+healthy eating and sleeping) and to design standards, staff training. These are
+discourage unhealthy behaviours such   Visible leadership: senior leaders set out in the British Property Federation’s
+as abuse of alcohol and drugs. promoting open and supportive Student Wellbeing Guide.
+conversations is essential to bring
+Healthy culture: create safe and open cultures
+about and sustain change.
+that encourage inclusion and diversity and
+actively oppose bullying, harassment and
+marginalisation.
+Healthy environment: design work, learning
+and living spaces that promote good mental
+health, encourage access to nature and
+reduce physical risks.
+
+20 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+WHOLE
+UNIVERSITY
+APPROACH:
+ENABLERS
+Five cross-cutting
+themes to embed
+a whole university
+approach.
+L
+e
+a
+d
+ership
+Co-production
+Information
+n
+o
+Inclusivity ati
+Research
+and
+innov
+
+21 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+“The step change in student
+mental health begins with
+higher education leaders
+ENABLER
+adopting mental health as
+LEADERSHIP
+a strategic imperative.”
+STRONG AND VISIBLE   Influence organisational cultures, Professor Steve West, Vice-chancellor
+STRATEGIC LEADERSHIP
+policies and practices to address of the University of West England, Bristol
+cultural and structural risk factors
+Commit to mental health as a
+for poor mental health and to
+strategic priority across all aspects
+promote open conversations.
+of the university.
+Enhance knowledge about
+Develop a whole university mental
+mental health in higher education
+health strategy, co-produced with
+through support for evaluation,
+students and staff, that aligns student
+research and innovation at all levels.
+and staff mental health and wellbeing.
+Create strategic partnerships with
+Implement the strategy through
+local NHS and care services, to
+integrated, organisation-wide
+become involved with local initiatives
+improvement supported by clear
+and to contribute to the shaping
+governance, capacity building and
+of national policy.
+impact evaluation.
+
+22 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+ENABLER
+LEADERSHIP
+Q Q
+Questions for
+Is mental health a Is mental health
+senior leaders
+strategic priority for expressed as a priority
+your institution? in your strategic plan?
+YES NO YES NO
+A A
+YES Are you satisfied that NO Has it been discussed
+your vision will drive long- at senior executive and
+term change across every board level? Has this decision
+aspect of your institution been added to your risk
+for the benefit of all register? What mitigation
+students and all staff? has been agreed?
+
+23 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+ENABLER
+CO-PRODUCTION Co-production
+Collaboration and
+Co-production with students and staff is at joint decision making
+the core of the whole university approach.
+Participation
+Use co-production for:
+“No decision
+establishing a shared vision
+Taking an active role in defined activity
+about me
+strategy development
+without me”
+developing appreciation of the
+Involvement
+what effects of mental health
+service design and evaluation
+Opportunities to take an active role
+quality assured peer support
+Through effective co-production, students’ and Consultation
+staff unions and representative bodies have
+the opportunity to establish a non-adversarial
+Opportunities to provide perspectives
+space to improve outcomes.
+
+24 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+INFORMATION SHARING SHARING INFORMATION
+WITH FAMILY OR FRIENDS
+Effective information sharing within
+institutions is key to an integrated and It is good practice to mobilise all
+cohesive response to mental health. available resources – including family
+In particular, effective information or friends – to support those in mental
+sharing between academic, professional distress or at risk of suicide.
+services and support teams may be
+ENABLER
+critical in identifying students or Ideally, this should involve a
+INFORMATION staff experiencing difficulty. conversation about consent to avoid
+increasing risk, the negative effects
+Universities are extending of losing control over decisions
+learning or staff analytics to identify or overriding privacy.
+difficulties or encourage positive
+behaviours. These opportunities must Where this is not possible, a well
+be built on trust: co-production and governed judgement may be made
+clear governance are essential. in the best interests of the person
+who is causing concern.
+SHARING INFORMATION WITH THE NHS
+Confidentiality is fundamental to effective,
+safe and accessible mental health care.
+At the same time, sharing information
+and records – within effectively governed
+agreements – can address potentially
+dangerous gaps in care.
+
+25 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+CHALLENGES THAT ARE HIGHER AS PART OF YOUR WHOLE
+EDUCATION-SPECIFIC: UNIVERSITY APPROACH:
+students on professional   work with all students and all staff
+placement or placement abroad to understand their diverse needs
+postgraduate researchers and taught   promote inclusive and safe cultures
+postgraduate students
+ENABLER   develop targeted interventions
+commuter students
+INCLUSIVITY   ensure that support services are
+responsive to different characteristics,
+CHALLENGES THAT ARE PERSONAL,
+backgrounds and experiences
+CULTURAL, STRUCTURAL:
+Universities celebrate the
+see these interventions not in terms
+widening of participation   disabled students and staff
+of vulnerability, but as creating a more
+in higher education and
+mature students inclusive environment for the whole
+the diversity of our students university community
+LGBTQ+ students and staff
+and staff. However, we
+Black, Asian and minority ethnic
+recognise that people face
+students and staff
+unequal challenges to
+students from low-income backgrounds
+their mental health.
+international students and staff
+students or staff who speak English
+as an additional language
+care leavers and care-experienced
+students and staff
+carers
+
+26 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+ENABLER
+Every institution can be part
+These research and innovation gaps
+RESEARCH of this learning system by:
+are being addressed by a number
+AND INNOVATION of national research networks and
+embedding evaluation of
+what works infrastructure.
+interventions and services
+There are significant gaps   involving students and support
+WHAT WORKS WELLBEING
+in our knowledge of mental staff in prioritising the delivery
+of research
+health and wellbeing in
+SMARTEN
+higher education, for   encouraging an evidence-
+informed approach to designing
+example in:
+TASO
+interventions and services
+evidence of demand and need   encouraging cross
+in student and staff populations disciplinary approaches
+effectiveness of interventions,   promoting collaboration
+especially early intervention and open sharing of findings
+and prevention and effective practice
+emerging good practice in   shaping national strategy
+innovative services, approaches and policy
+and use of technology
+
+27 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+IMPLEMENTATION
+Implementation of the An integrated, organisation-wide
+whole university approach approach to improvement needs:
+to mental health means
+a shared vision of a mentally
+significant cultural and
+healthy university co-produced
+structural change.
+with staff and students
+visible leadership to drive the strategic   capacity building among staff
+Universities are complex purpose and to provide authority to and students to understand and
+organisations, rarely resource and sustain improvement facilitate change
+susceptible to linear, top-
+effective and transparent governance   infrastructure to capture and embed
+down models of change. to ensure that the vision is realised improvements, and to avoid duplication
+or inefficient use of time and resource
+open collaborative workplace cultures
+to encourage staff and student ideas   data collection to establish baselines
+and commitment and measure outcomes
+
+28 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+IMPROVEMENT
+The UUK self-assessment tool
+has been designed to encourage
+Data drives an integrated, focused conversations about
+organisation wide approach improvement. The tool maps onto
+the Student Minds University
+to improvement.
+Mental Health Charter.
+Smart data collection and SEE HOW YOU SCORE
+analysis, within effective and
+transparent governance, is
+fundamental to establishing
+baselines and measuring
+progress.
+
+29 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+Stepchange: mentally healthy
+universities pulls out two areas of
+focus where universities will need
+to develop and sustain strategic
+and operational partnerships:
+TRANSITIONS: WORKING WITH THE NHS:
+working with parents, schools, to improve access
+colleges and employers to to and coordination
+mitigate difficulties. of care.
+
+30 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+TRANSITIONS
+TRANSITION INTO UNIVERSITY PROGRESSION
+Transitions occur along
+Pre-entry: work with parents, schools It is increasingly recognised that a
+the educational journey: at
+and prospective students to provide structured approach to transitions between
+entry, from year-to-year, on
+information about mental health. years of study and across modes of study
+placements, study abroad and
+Recognise that certain groups benefit (such as placements) have a positive
+the progression into work. from additional attention, for example, impact on learning and wellbeing.
+students with autism.
+GRADUATION
+Induction: view induction as an Students and employers indicate the
+opportunity to build belonging, need for universities to take a similarly
+self-efficacy and wellbeing. structured approach to prepare students
+for employment and further study.
+Take an integrated approach: pre-application,
+recruitment, admissions and induction
+should all be seen as part of the
+transition into university.
+
+31 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+Universities provide significant support
+for students and staff experiencing mental
+illness, but we cannot do this alone.
+Minding our Future pointed to the gaps in
+care experienced by students and set out the
+WORKING
+aim of a stepped pathway between educational
+WITH THE NHS
+settings and mental health services.
+GAPS IN CARE FOR STUDENTS
+Experience of primary care is fragmented, Many of these issues reflect the
+especially when GPs are out of area, for need for local partnerships between
+example when a student goes to a GP at universities and NHS and care services.
+home during the holidays and to a campus-
+based practice during term-time. The NHS Long Term Plan (2019,
+England) includes the commitment
+There is variable access to secondary to student mental health: ‘to build the
+and specialist care which is indicative of capability and capacity of universities
+a wider treatment gap in young adult care to improve student welfare services
+that recent investment seeks to close. and improve access to mental health
+services for the student population,
+Information sharing between NHS services including focusing on suicide reduction,
+and universities is problematic. There are improving access to psychological
+cases, for example, of distressed students therapies and groups of students
+being discharged from hospital without with particular vulnerabilities.’
+university support services being notified.
+
+32 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES “We need to improve the links between
+local NHS services and the support that
+WORKING
+WITH THE NHS universities provide [via] a partnership
+approach at the local level to assess needs and
+to design and deliver services for students.”
+Paul Jenkins CEO Tavistock and Portman Mental Health Foundation Trust,
+Chair of UUK Minding our Future Working Group
+PRINCIPLES FOR WORKING WITH THE NHS
+Establish and sustain strategic links between   Encourage effective working relationships
+higher education and health leadership to between university support services and
+consider joint needs assessments, integrated different parts of the healthcare system,
+services and improved data sharing. including primary care, emergency
+care, secondary and specialised care
+Try to include higher education populations
+and third sector provision.
+in healthcare system needs assessments
+and commissioning and to embed student   Improve data sharing through
+and staff voices in the design and delivery agreements and working relationships.
+of local services.
+Consider hosting, co-locating or
+Promote a better understanding of student co-commissioning services.
+and staff needs and what university support
+services do to meet them, including wider
+support in accommodation or learning.
+
+33 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+WORKING
+WITH THE NHS
+UNIVERSITY-HEALTH SYSTEM PARTNERSHIPS
+Local NHS-university
+partnerships in Greater Greater Manchester Thrive Bristol is a 10-year and
+Manchester, Liverpool, Universities Student city-wide population health
+Sheffield, North London Mental Health Service programme to improve mental
+and Bristol – together with is a partnership between the health and wellbeing with
+partnerships in Belfast, Cardiff Greater Manchester Mental university mental health as
+and Edinburgh – are developing Health NHS Foundation a key priority. Its focus is not
+and evaluating new models Trust and the region’s five on service provision but on
+of care in a project led by the universities (University of mobilising public, private and
+University of West England, Bolton, University of Salford, third sector organisations
+Bristol and funded by the University of Manchester for health promotion.
+OfS. A national collaborative and Manchester Metropolitan
+convened by UUK with University and the Royal
+Student Minds and the AHSN Northern College of Music)
+Network will share learning opened in October 2019.
+and inform national policy.
+
+34 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+Supporting staff   The Office for Students Challenge
+Charlie Waller Memorial Trust Competition has awarded £6m, match
+e Learning funded to £8.5m, to 10 partnerships
+to improve mental health outcomes
+Mental Health First Aid MHFA
+for students
+Changing the culture
+Research England and the OfS
+Universities UK Changing the culture:
+RESOURCES awarded £1.5m support to 17 projects
+examining violence against women,
+to improve mental health outcomes
+harassment and hate crime affecting
+for Postgraduate Research students
+Whole university approach university students (2016)
+Student Minds University Mental Working with the NHS
+Accommodation
+Health Charter (2019)   UUK Minding our Future (2018), further
+British Property Federation Student
+developed as National Collaborative of
+UUK/Child Outcomes Research Wellbeing in Purpose-Built Student
+local university-NHS partnerships
+Consortium, Mental health self- Accommodation (2019)
+assessment tool , (2020) Transitions
+Research & innovation
+Education Transitions Network was
+Mind/Goldman Sachs Mentally   SMaRteN is a national research network
+established by the Secretary of State
+Healthy Universities Ten universities to improve the understanding of student
+for Education in 2019 to look at how
+pilot (2019) mental health in higher education.
+students going to university can be
+Suicide prevention   What Works Centre for Wellbeing better supported
+UUK/Papyrus Suicide Safer provides evidence, effective practice
+Student Minds Know before you go
+Universities (2018) and other resources on wellbeing
+supports the transition from school
+in higher education
+Workplace mental health to university
+Mind The Mental Health at Work   Transforming Access and Student
+City Mental Health Alliance Graduate
+Commitment (2019) Outcomes (TASO) provides evidence
+Health Programme relating to transition
+and effective practice on widening
+into the workplace
+participation and improving equality
+within the higher education sector
+
+35 STEPCHANGE: MENTALLY HEALTHY UNIVERSITIES
+ACKNOWLEDGEMENTS
+MENTAL HEALTH IN HIGHER EDUCATION ADVISORY GROUP MEMBERS
+The development of Stepchange: mentally   Chair: Steve West,   Mark Dooris,   Clare Lamb,
+healthy universities has been steered by University of West Healthy Universities Royal College
+the Mental Health in Higher Education England, Bristol Network of Psychiatrists
+Advisory Group. The group convenes
+Jayne Aldridge,   Hamish Elvidge,   Gary Loke,
+students, university leadership and
+AMOSSHE Matthew Elvidge Trust Advance HE
+professional services, research and clinical
+expertise, mental health leadership,   Eva Crossan Jory,   Gregor Henderson,   Faye McGuinness,
+third sector organisations, government National Union Mental Health, Mind
+departments, bodies and regulators to of Students Public Health England
+Amy Norton,
+provide strategic exchange and direction
+John de Pury,   Nancy Hey, Office for Students
+for mental health in higher education.
+Universities UK What Works
+Alan Percy,
+Centre for Wellbeing
+The framework has been co-developed   Nicola Byrom, Mental Wellbeing
+with the Student Minds’ Charter SMaRteN   Paul Jenkins, in Higher Education
+development team, Gareth Hughes and Mental
+Rebecca Dunn,   Richard Stewart,
+Leigh Spanner, and Chief Executive Health Network
+Department of Health National Union
+Rosie Tressler OBE.
+and Social Care   Dominic Kingaby, of Students
+Department
+Authors: John de Pury with Amy Dicks.   Marian Davis,   Rosie Tressler,
+for Education
+Royal College of GPs Student Minds
+
+Woburn House
+20 Tavistock Square
+London, WC1H 9HQ
+T: +44 (0)20 7419 4111
+E: info@universitiesuk.ac.uk
+W: universitiesuk.ac.uk
+Twitter, Facebook, Instagram:
+@UniversitiesUK
+ISBN: 978-1-84036-445-3
+Designed and typeset by Effusion
+

@@ -1,5 +1,5 @@
 '''
-This module is use for download pdf if you have source(URL) in .txt file use with input redirection
+This module is use for download pdf if you have source(URL) in .txt file use with input redirection directed by Wit
 '''
 import os
 import requests

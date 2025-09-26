@@ -1,0 +1,762 @@
+Learning Brief on Mental Health and
+Psychosocial Support (MHPSS) in Education
+
+Published by
+UNICEF Education Section, Programme Division
+3 United Nations Plaza
+New York, NY 10017
+www.unicef.org/education
+contact email: education@unicef.org
+Twitter @UNICEFEducation
+© United Nations Children’s Fund (UNICEF) 2022
+Special thanks to the UNICEF Country Offices, UNICEF Regional Offices,
+and the MHPSS Technical Group members that contributed to this learning brief.
+
+Contents
+01 What is Mental Health and Psychosocial
+Support in Education? ........................................... 1
+02 Who is this brief for? ............................................ 1
+03 What is the purpose of this brief? ......................... 1
+04 Defining the problem ............................................. 2
+05 Global data estimate .............................................. 4
+06 The solution ........................................................... 5
+07 MHPSS in Education: Six key programmatic
+priorities for 2022–2025......................................... 7
+08 A Theory of Change for Mental Health and
+Psychosocial Support in the Education sector ....... 8
+09 UNICEF Mental health and psychosocial
+support in education Country examples ...............14
+10 List of selected resources for MHPSS in
+Education programming ........................................15
+hgnojeD/9564950NU/FECINU
+©
+
+01 03
+What is What is the purpose
+Mental Health and of this brief?
+Psychosocial Support in
+This internal technical brief provides guidance to UNICEF
+Education? Education staff on mental health and psychosocial support
+programming in education. It aims to create a shared
+understanding among education colleagues about mental
+For this learning brief, Mental Health and Psychosocial
+health and psychosocial support across all settings where
+Support in Education is defined as a composite term that
+UNICEF works – from humanitarian to development contexts.
+is used to describe interventions carried out in schools and
+other learning environments. These interventions are aimed
+This document aligns with The UNICEF Education Strategy
+at promoting mental health and wellbeing and/or to prevent
+2019–2030, UNICEF’s Global Multisectoral Operational
+and respond to the mental health conditions of children,
+Framework for MHPSS and the UNICEF Technical Note
+adolescents, teachers and caregivers.
+on MHPSS. It also builds on existing UNICEF and partner
+frameworks, technical guidance, policy documents, and ongoing
+02 MHPSS UNICEF programmes and initiatives across the globe.
+Who is this brief for?
+This internal brief is to be used by UNICEF education
+teams worldwide. It may be of interest for other UNICEF
+programmes and divisions to establish alignment, synergies,
+and collaboration.
+1
+gneS/6203230NU/FECINU
+©
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+04
+Defining the problem:1
+The effects of mental health problems in childhood and
+adolescence can persist throughout the life course, with
+serious health, education and socio-economic implications.
+Mental health is fundamental to good health and wellbeing. It Emergencies, including conflict, disasters, and forced migration,
+can influence academic, social and economic outcomes across disrupt people’s lives and have negative effects on the
+one’s lifespan. In all countries, rich and poor, mental health psychosocial development of children. Children and adolescents
+conditions and the lack of caring responses remain the cause living in conflict-affected settings, many of whom are displaced
+of significant suffering for children and young people and a internally or across borders, are at risk of experiencing various
+top cause of death, disease, and disability. The relevance of forms of mental health problems. Recent developments in
+schools as a setting for mental health support and promotion neuropsychology reveal that children exposed to severe adversity
+is widely accepted; however, mental health and psychosocial often experience a physiological stress response that alters
+support interventions in schools often fail to be prioritized. how their brains process information, which can adversely
+affect their ability to learn and thrive.2
+The pandemic has exacerbated a pre-existing global learning
+crisis, depriving hundreds of millions of children and adolescents When mental health symptoms emerge even in first grade,
+of the right to education. It has also aggravated the burden academic performance can diminish within two years. Students
+of mental health conditions and raised vast concerns for challenged by mental health issues struggle academically and
+the mental health of an entire generation of children, their achieve lower levels of educational attainment3. Engaging
+teachers and caregivers. Populations with high rates of socio- in play and stimulation is also crucial for children’s mental
+economic deprivation end up having the lowest access to health and emotional wellbeing in the early childhood years.
+care. As a result, many children and adolescents are not Play provides a supportive context to help children cope with
+getting the support and services they need to enjoy good stress and anxiety. In these early years, a lack of preschool
+mental health and wellbeing. enrolment can indicate a risk for mental health outcomes.
+1 Data is extracted from the United Nations Children’s Fund, The State of the World’s Children 2021: On My Mind – Promoting, protecting and caring for children’s mental health,
+UNICEF, New York, October 2021.
+2 Anda, R.F., Felitti, V.J., Bremner, J.D. et al., ‘The enduring effects of abuse and related adverse experiences in childhood’, Eur Arch Psychiatry Clin Neurosci 256, 174186, 2006: https://
+2
+doi.org/10.1007/s00406-005-0624-4.
+3 Berberian, M., ‘School-Based Art Therapy.’ 2019: 10.4324/9781315229379-22.
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+Despite links between early learning opportunities and child
+development, about 81 percent of children in the least developed
+countries do not attend early childhood education. The failure
+to address mental health problems at their onset can have
+significant consequences throughout a child’s life, affecting their
+development and contributing to poor academic outcomes,
+higher rates of unemployment,and poorer physical health.4
+Absence from school or dropping out before finishing is linked
+to social isolation, which in turn can lead to mental health
+conditions, including self-harm, suicidal ideation, depression,
+anxiety and substance use. In 2019, nearly 200 million
+adolescents and young people of secondary school age were
+out of school. In addition, 12 per cent of boys and 22 per
+cent of girls aged 15–19 were not in education, employment
+or training.5
+The problem is that children and adolescents are not
+getting the support and services they need to enjoy good
+mental health and psychosocial well-being. This is due to
+gaps in data and evidence; poor and/ or inconsistent provision
+of, and access to, good quality services; insufficient human
+resources and capacity; low expenditure; and stigma around
+mental health. Global and national leaders invest far too little
+in promoting and responding to children’s mental health in
+education settings. Resources for promoting and protecting
+children and adolescents’ mental health (including programmes
+to support their caregivers and teachers) are scarce and unfairly
+distributed across countries, regions and communities.
+4 Choi, A., ‘Emotional wellbeing of children and adolescents: Recent trends and rel-
+evant factors’, OECD Education Working Papers, No. 169, OECD Publishing, Paris,
+2016, https://doi.org/10.1787/41576fb2-en.
+5 United Nations Children’s Fund, The State of the World’s Children 2021: On My Mind
+3
+– Promoting, protecting and caring for children’s mental health, UNICEF, New York,
+October 2021.
+gneS/6203230NU/FECINU
+©
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+05
+Global data Estimates:6
+50 per cent of all mental disorders begin by the age of
+14. Worldwide, it is estimated that more than 13 per cent of
+adolescents aged 10–19 live with a diagnosed mental disorder
+(89 million adolescent boys and 77 million adolescent girls
+aged 10–19).
+Suicide is the fifth most prevalent cause of death for
+adolescent boys and girls aged 10–19. Every year, almost
+46,000 children and adolescents between the ages of 10 and
+19 end their own lives – about one every 11 minutes.
+Children and young people also report psychosocial distress
+that may not rise to the level of epidemiological disorder but
+disrupts their lives, health, and prospects for the future.
+The annual loss in human capital arising from mental health
+conditions in children aged 0–19 is US$387.2 billion.
+In contrast, school-based interventions that address anxiety,
+depression and suicide provide a return on investment of
+US$21.5 for every US$1 invested over 80 years. A 2015 study
+in England found that over seven years, every US$1 invested
+in a school-based mental resilience programme generated
+a net return on investment of US$5.08.
+6 Global estimated are extracted from: United Nations Children’s Fund, The State of the
+4
+World’s Children 2021: On My Mind – Promoting, protecting and caring for children’s
+mental health, UNICEF, New York, October 2021.
+nworB/9102/FECINU
+©
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+06
+The solution:
+Supporting good mental health in schools and learning environments is vital in
+helping children and adolescents to learn and thrive.
+The UNICEF Education Strategy 2019-2030 focuses on schools and temporary learning spaces bring children and
+1) advancing equitable access to learning opportunities, adolescents together in safe environments where mental
+2) improving learning outcomes, 3) promoting universal health and psychosocial support can be provided. Referrals
+access to transferable skills development, and 4) promoting to specialist services can also be processed, and quality and
+intersectoral approaches using schools as platforms to continuity of learning can be guaranteed. Equally important is to
+deliver integrated services, including mental health and support parents/caregivers’ mental health, including the mental
+psychosocial interventions for children, adolescents and health of pregnant adolescents and adolescent caregivers,
+teachers. MHPSS in education in emergencies is also a as this directly impacts their ability to provide the nurturing
+fundamental part of UNICEF’s Core Commitments for Children care needed to ensure their children’s optimal development
+in Humanitarian Action, released in 1998 and revised in 2020. and wellbeing. This type of support can be integrated within
+The importance of education for individuals, families, and the education sector.
+communities affected by emergencies is emphasized in the
+IASC Guidelines on MHPSS in Emergencies. It states that: School-based mental health interventions can take various forms.
+“loss of education is often among the greatest stressors These range from whole-of-school programmes to promote
+for learners and their families, who see education as a path mental wellbeing and initiatives aimed at improving teachers’ and
+toward a better future”. Access to formal and non-formal school staff’ mental health literacy, to targeted interventions
+education in a supportive environment builds learners’ focusing on at-risk students. By ensuring the wellbeing of
+intellectual and emotional competencies, provides social both student and teacher, schools experience better results,
+support through interaction with peers and educators, and including better mental health and education outcomes and
+strengthens learners’ sense of control and self-worth. increased retention.
+A growing body of evidence7 confirms the importance of Schools and learning environments that intentionally promote
+evolving the capacity of schools and early childhood education students’ mental health and wellbeing, attendance and
+services to promote mental health and assist children and attainment, give children and adolescents the best possible
+families dealing with mental health problems. Schools, mobile chance to fulfil their potential. For instance, social and emotional
+5
+7 Dray, J. And cols., ‘Systematic Review of Universal Resilience-Focused Interventions Targeting Child and Adolescent Mental Health in the School Setting’. Journal of the American
+Academy of Child and Adolescent Psychiatry, 56(10), pp. 813–824, 2017, https://doi.org/10.1016/j.jaac.2017.07.780.
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+learning approaches that include whole-of-school interventions, MHPSS in education must build on the strengths of
+and specific interventions for at-risk children and young people, children, caregivers, and communities and be informed
+have proven effective.8 by the social-ecological framework (see Figure 1), which
+posits that child development and wellbeing are embedded
+Mental health services, when embedded within educational within the context around them. This context includes friends
+systems, create a continuum of integrative care that can and families, schools and communities, sociocultural influences,
+promote health, mental health, and educational attainment. as well as broader political and economic factors. Addressing
+Mental health promotion and prevention interventions in schools each of these components is critical for safeguarding children’s
+can enhance psychological wellbeing and prevent the onset mental health and wellbeing.
+and burden of mental health conditions. Likewise, schools
+are also critical to help identify and provide early interventions There is no one-size-fits-all approach to school-based mental
+for children and adolescents facing multiple stressors due health and psychosocial support. Strengthening education
+to prolonged exposure to conflicts, forced displacement, or systems to respond to the mental health and psychosocial
+climate change-related crisis. support needs of students and education personnel will
+mean different things to different countries. Schools and early
+childhood education services can be equipped to address
+children, caregivers and teachers’ mental health needs by
+creating a supportive learning environment. An environment
+that safeguards mental health, where all children and education
+Enabling Environment
+professionals feel included, supported, and valued. Such an
+environment also promotes a culture in which mental health
+and wellbeing is talked about openly, and where programmes
+and curricula that increase mental health literacy and promote
+the development of transferable skills are implemented. This
+approach supports early identification and intervention for
+those needing additional mental health support (ensuring
+linkages to community-based mental health care), while also
+increasing caregivers and community engagement to support
+children’s learning and overall wellbeing. It is also essential
+to encourage cross-sectoral collaboration between health,
+social protection and child protection actors and systems at
+the national and sub-regional levels.
+8 United Nations Children’s Fund, The State of the World’s Children 2021: On My Mind – Promoting, protecting and caring for children’s mental health, UNICEF, New York, October 2021.
+(culture, society, policy & systems)
+Community
+Child
+Cognitive
+Physical
+Development
+Development
+Social, Spiritual,
+Enabling Environment
+Protective Risk
+Factors Factors
+Family / Caregiver
+Emotional Development
+(culture, society, policy & systems)
+Community
+Child
+Cognitive
+Physical
+Development
+Development
+Social, Spiritual,
+Figure 1
+The social ecological model
+Original Adjusted
+has the child as its centre
+Protective Risk
+Factors Factors
+Family /
+Caregiver
+Emotional Development
+6
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+07
+01 Increase mental health literacy among children and adolescents, their teachers
+and caregivers. Talking openly about mental health in schools and other learning
+MHPSS in Education: environments by developing and implementing a school curriculum that includes
+physical, social–emotional and psychological aspects of student health, safety,
+Six key programmatic nutrition and well-being. Providing opportunities to strengthen teachers’ and
+caregivers’ abilities to promote and protect children´s mental health and wellbeing,
+priorities for 2022–2025 encouraging positive, healthy family/caregiver relationships.
+The following are the six key programmatic priorities
+02 Embedding transferable skills in the curriculum from early childhood to adolescence.
+to promote and respond to children’s, adolescents, Promoting universal access to transferable skills for children and adolescents of all ages, gender,
+and teachers’ mental health and psychosocial wellbeing and abilities in formal and non-formal learning environments.
+in learning environments.
+03 Workforce development. Building the capacity of teachers and other school staff so they can support
+children (of all ages, gender and abilities) and their mental health and wellbeing.
+04 Integrating MHPSS in Education disaster preparedness for effective response and to ‘build back
+better’ in recovery, rehabilitation, and reconstruction. Children and adolescents affected by war, extreme
+violence and natural disasters often see their education disrupted and face multiple and prolonged stressors.
+A proportion of children and adolescents exposed to great adversity might experience mental health
+problems. UNICEF supports the implementation of MHPSS activities in schools and learning environments to
+meet the immediate and critical MHPSS critical needs of children and adolescents, caregivers, and teachers
+(based on needs and community priorities). This includes scaling MHPSS services in schools, increasing
+support to teachers, building resilient systems, strengthening coordination, coherence, and ensuring
+collaboration between humanitarian and development work.
+05 Supporting teacher well-being. Policies, tools, and support to promote the mental health and
+wellbeing of education staff.
+06 Increased access to MHPSS services through schools. Providing direct mental
+health and psychosocial support services in schools and learning environments
+or ensuring linkages with MHPSS services outside schools. Ensuring effective
+collaboration across sectors to develop and implement tools, referral pathways, and
+7
+practical protocols to refer children and adolescents to the specialized services they
+might require.
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+08
+A Theory of Change for Mental Health and
+Psychosocial Support in the Education sector
+The overarching vision of the Education Strategy 2019–2030 The ToC stipulates that,
+is improved learning and skills development for boys and girls,
+if if if
+from early childhood to adolescence, particularly for the most
+marginalized and those affected by humanitarian situations.
+Consequently, the overarching vision of the Mental Health and children and adolescents the education workforce countries have strengthened
+Psychosocial Support in Education programming is: from early have increased access to is strengthened to respond education systems with
+childhood to adolescence, boys and girls improve learning promotive, preventive, and to the learning, safety and a focus on integrating
+and skills development within a safe learning environment responsive mental health mental health and psychosocial promotive, preventive, and
+that promotes and responds to their mental health and and psychosocial support support needs of children responsive MHPSS services
+psychosocial wellbeing needs in all contexts. services in schools and learning and adolescents in schools for children, adolescents,
+environments across the and learning environments caregivers, and teachers,
+The ToC for mental health and psychosocial support in the humanitarian to development across the humanitarian to across the humanitarian to
+education sector is an application and adaption of UNICEF’s nexus. development nexus. development nexus.
+Global Multisectoral Operational Framework for Mental
+Health and Psychosocial Support of Children, Adolescents
+and Caregivers Across Settings. The Global Multisectoral
+…then,
+more children and adolescents, particularly the most
+Framework for MHPSS provides a shared framework across
+health, education, social welfare and protection.The Education marginalized and vulnerable, have improved mental
+MHPSS TOC should be used along with the Global Framework
+health and psychosocial wellbeing, and are more
+to ensure strong a strong multisectoral approach to MHPSS
+at UNICEF. likely to remain in school, improve learning and
+skills, and realize their full potential within a safe
+The following Theory of Change (ToC) diagram presents the
+vision and change pathway on how each outcome will be learning environment.
+8
+achieved in the education sector.
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+Mental Health and Psychosocial Support in the Education sector
+From early childhood to adolescence, boys and girls improve learning and skills development within a safe learning environment that promotes and responds to their mental health and psychosocial
+IMPACT
+wellbeing needs across the humanitarian to development nexus.
+Improved access to MHPSS in learning environments Improved MHPSS capacity of the education workforce Strengthened care systems for MHPSS services
+1. Children and adolescents have increased access to promotive, 2. The education workforce is strengthened to respond 3. An increased number of countries have strengthened
+LONG-TERM preventive and responsive mental health and psychosocial support to the learning, safety and mental health and psychosocial education systems for equitable access to promotive,
+OUTCOMES services in learning environments, in development, humanitarian support needs of children and adolescents in schools and preventive, and responsive MHPSS services from
+and fragile contexts. learning environments, in development, humanitarian and early childhood to adolescence, including teachers and
+fragile contexts. caregivers in learning environments in development,
+humanitarian, and fragile contexts.
+1.1. Children aged under-5 and their caregivers have increased 2.1. Teachers and other education professionals have 3.1. Countries have increased availability of data,
+access to holistic care, including early childhood education increased access to MHPSS capacity development research, and intervention evidence around MHPSS
+and community as well as education support networks focused on opportunities, tools, supervision, and technical support to programming in education, including impact on education
+improving mental health and wellbeing. respond to children and adolescents’ MHPSS needs. outcomes.
+1.2. Children and adolescents have increased access to transferable 2.2. Increased mental health and psychosocial support 3.2. Countries design risk-informed education sector
+skills (also called SEL, life skills) development programmes in all workforce in schools and learning environments. plans that includes promotive, preventive, and responsive
+learning environments. MHPSS service for children, adolescents, caregivers, and
+2.3. Teachers and other education professionals teachers in learning environments
+INTERMEDIARY 1.3. Children and adolescents are equipped with knowledge that have access to support systems for developing and
+OUTCOMES contributes to caring for themselves and others’ mental, emotional, maintaining positive mental health. 3.3. Countries develop and/or strengthen evidence-
+social, and physical wellbeing. (mental health literacy) based policies, programmes and strategies to deliver
+promotive, preventive and responsive mental health and
+1.4. Children and adolescents affected by humanitarian crises and
+psychosocial support services for children, adolescents,
+fragile contexts are provided with gender- and age-appropriate
+caregivers, and teachers in learning environments.
+targeted support to meet their learning and MHPSS needs
+(CCC’s).
+1.5. School communities are actively engaged in building safe,
+non-violent, inclusive, and effective learning environments that
+promote all children and adolescents’ mental health and wellbeing.
+ASSUMPTIONS BARRIERS
+• There is political will from governments to invest in promoting the mental health and psychosocial well-being of children, • Limited resources to implement promoting, preventing and responsive
+adolescents, caregivers and teachers. mental health and psychosocial support services in schools and learning
+• Donors, the private sector, and governments prioritize investments in school-based mental health and psychosocial support environments.
+interventions. • Stigma around how society reacts towards individuals with mental health
+• Education authorities are willing to make the required changes in terms of inclusion and roll-out of new adapted curricula, problems. Mental health problems represent a taboo for many communities
+collaboration across ministries, support communities in enhancing children, adolescents and teachers’ mental health and and there is a poor understanding of mental health in general.
+psychosocial well-being. • Children, caregivers and teachers’ lack knowledge about mental health and
+• All education partners, including communities, are capacitated and willing to use data and evidence to plan and monitor school- services. This includes knowing when and where to seek help.
+based mental health and psychosocial support interventions. • Students may not access support because they do not believe they need
+• Improved capacity of government and partners to integrate promotive, preventive, and responsive MHPSS services in learning support
+environments. • In some contexts, it is unclear what mental health care involves.
+• Increased capacity of health, education and social welfare workers to coordinate and collaborate to ensure access to different • Limited mental health resources and services are available to meet
+9 MHPSS services for children, adolescents, and caregivers across sectors. population mental health care needs.
+• Data, research, and implementation evidence is increasingly available to inform policy and programming for children and • Limited investment in MHPSS services in schools and learning
+adolescents’ mental health and psychosocial well-being in schools and learning environments. environments.
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+Key interventions (outputs) Note: For illustrative purposes only. Specific outputs should be developed at the country-level in response to needs and priorities.
+01
+Children and adolescents have increased access to promotive, preventive
+and responsive mental health and psychosocial support services in learning
+environments, in development, humanitarian and fragile contexts.
+• Promote programmes to increase pre-school enrolment and
+to support caregivers to strengthen their skills in responsive
+caregiving, improving their abilities to monitor and respond
+to children’s emotional and other development needs.
+• Support programmes that provide vulnerable families with
+structured activities to enhance mother/father/caregiver-
+infant positive interaction through play, reading, learning
+together, etc.
+• Transferable skills programmes are one type of intervention
+within the broad category of MHPSS support. Build, adapt
+and implement contextualized transferable skills programmes
+for children of all ages, gender, and abilities in schools and
+other learning environments, including building contextualized
+digital solutions to deliver transferable skills programmes
+for children and adolescents.
+• Enhance the role of education systems in developing the skills
+of children, including adolescents and youth, to participate
+in their communities and make meaningful contributions to
+community resilience, social cohesion and peace, particularly
+in education in emergency contexts.
+hazajI/
+3047050NU/FECINU
+©
+10
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+• Increase mental health literacy among children and Some additional considerations to respond to the MHPSS
+adolescents by supporting education authorities to develop needs of children, adolescents and teachers in education in
+and implement a school curriculum,9 which includes physical, emergency contexts:
+social-emotional, and psychological aspects of student health,
+safety, nutrition, and wellbeing. a. Integrate MHPSS considerations into planning, design,
+• Increase/ develop programmes that engage communities in implementation, and analysis of multi-cluster/sector
+building safe, non-violent, inclusive, and effective learning assessments.
+environments that promote all children and adolescents’ b. Advocate that education in emergencies responses ensure
+mental health and wellbeing inclusive and equitable quality education, with a focus on
+• Support education authorities with comprehensive guidance responding to the immediate and critical MHPSS needs
+for school management, teachers, and other education of children, adolescents, caregivers, and teachers affected
+personnel to implement inclusive health, mental health, and (e.g., psychological first aid, identification of children that
+wellbeing curricula in pre-primary, primary, and secondary need specialized support, etc.)
+schools and other non-formal learning environments. c. Identify children and adolescents struggling to cope with
+• Support the implementation of psychological group the crisis and provide a strengths-based approach targeted
+interventions10 led or supervised by mental health support to promote mental wellbeing, facilitating referrals
+professionals in schools and learning environments. to other services as needed.
+• To increase the mental health literacy of children and d. Engage systematically with affected groups, especially
+adolescents, develop and promote educational materials out-of-school children, including adolescents and young
+to equip children with the knowledge and skills they need to people, as well as marginalized communities, to identify
+safeguard their mental health and wellbeing (while meeting their educational and MHPSS priorities and exert influence
+the diverse needs of children of different ages, genders, on the setting and infrastructure of educational services.
+and disabilities). e. Collaborate with communication for development (C4D)
+• Advocate for budget allocation to implement minimum teams to develop and disseminate action-oriented key
+MHPSS services in schools/learning environments. messages for the whole school community to help teachers,
+• Ensure linkages between humanitarian and development parents and caregivers understand normal and common stress
+coordination mechanisms (e.g., education sector working reactions, also to promote culturally and age-appropriate
+group, development partners’ group, local education group) coping mechanisms and provide accurate information around
+to ensure continuity and scale-up of MHPSS services in the child and family centered MHPSS services available.
+schools and learning environments. f. Ensure responses are in line with the Inter-agency Network
+• Advocate and engage with health, child protection and other for Education in Emergencies (INEE) Minimum Standards for
+relevant authorities and partners to strengthen the country’s Education: Preparedness, Response and Recovery, including
+capacity to integrate MHPSS in disaster risk reduction and the INEE PSS/SEL technical note.
+resilience programmes in the education sector.
+9 The curricula are universally designed to ensure that children and adolescents develop knowledge and understanding, skills, and attitudes they need to care for themselves and
+11
+others’ mental, emotional, social, and physical wellbeing, including when and where to seek help. Training curriculum design considers age, gender, abilities, and culturally sensitive
+appropriate subject contents.
+10 This type of intervention aims to support and improve the mental health and psychological well-being of children that have been exposed to great adversity and traumatic events and
+are demonstrating difficulties to cope with the situation.
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+02
+The education workforce is strengthened to respond to the learning, safety and
+MHPSS needs of children and adolescents in schools and learning environments,
+in development, humanitarian and fragile contexts.
+• Support education authorities to design and implement a • Support education authorities and partners to develop and
+needs assessment, strategy, and implementation plan for implement classroom teaching materials to equip children
+the professional development of teachers around MHPSS. of all ages with the knowledge and skills they need to
+• Support the design and implementation of pre-service safeguard their mental health and wellbeing.
+and in-service teacher training aimed at increasing their • Advocate for the inclusion of MHPSS dedicated staff12
+knowledge, capacity and helping skills competency to and resources in the national/subnational school system
+assist children and adolescents in learning about mental planning and budget, including special considerations to
+health, developing healthy habits, as well as developing respond to crisis (school attacks, natural disasters, and
+transferable skills.11 other emergencies, etc.).
+• Develop the capacity and support teachers and other • Advocate and provide technical support to Education
+education professionals to better support their own mental authorities and other relevant stakeholders for the inclusion
+health and wellbeing and implement classroom activities of teacher wellbeing in national education policies, including
+to promote their students’ mental health and wellbeing. advocacy and policy support for adequate pay, appropriate
+• Advocate for more incentives so that the education workforce working conditions, equity, parental leave.
+increasingly participates in training and other MHPSS capacity • Support policies and programmes to enhance teacher
+development opportunities. wellbeing.
+• Support education authorities and partners to develop and
+assess digital solutions (apps/smartphones/helplines) to
+deliver transferable skills programmes.
+11 Evidence suggests that professional development is most effective when it is focused on a specific subject, tailored to topics relevant to the local context, and provides supporting
+materials, coaching, and collaboration opportunities to complement the training.
+12 School mental health and psychosocial support professionals include school psychologists, school counsellors, school social workers, and other qualified mental health and psycho-
+12
+social support service providers. Where MHPSS qualified staff are unavailable, a high-capacity individual (such as a teacher or a headteacher) can be trained and supported (including
+through the adjustment of the tasks allocated) to fulfil the role of MHPSS focal point, providing support, identifying needs and referring as appropriate.
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+03
+An increased number of countries have strengthened education systems
+for equitable access to promotive, preventive and responsive MHPSS services
+from early childhood to adolescence, including teachers and caregivers in learning
+environments in development, humanitarian, and fragile contexts.
+• Support education authorities to develop/strengthen/scale-up • Advocate and advance legislation that establishes the
+national/subnational strategies/plans and policies to address guidelines and standards for promotive, preventive and
+the MHPSS needs of children, adolescents, and teachers responsive MHPSS services in schools and learning
+in schools and learning environments. The strategies/plan/ environments, and reduces disparities in mental health
+policies are informed by analysis of the MHPSS needs of service delivery, especially among underserved populations.
+children, adolescents and teachers. • Strengthen the country’s capacity to integrate MHPSS in
+• Support education authorities to consider the MHPSS needs the conflict/disaster risk reduction/climate national plans,
+of children, adolescents, teachers, and caregivers in education including coordinating multi-tier approaches to service
+sector analysis, planning, budgeting and monitoring. delivery to address children, adolescents, caregivers, and
+• Support education authorities to assess the current education teachers’ immediate MHPSS needs during emergencies.
+system challenges and to identify opportunities to strengthen • Contribute to cross-sectoral initiatives to gather evidence and
+and support the education workforce to promote the mental conduct systematic analysis around children, adolescents,
+health and psychosocial wellbeing of the school community. caregivers and teachers’ mental health and psychosocial
+• Support education authorities to develop a national/ support needs, availability, and barriers to access MHPSS
+subnational action plan with incremental steps to deliver/ services.
+scale-up/innovate and finance MHPSS services in schools • Support education authorities to improve data collection
+and learning environments. and intervention evidence around MHPSS interventions
+• Support education authorities to develop and implement in schools and learning environments.
+tools, referral pathways, and practical protocols to refer • Foster public and private partnerships to develop, pilot, and
+children and adolescents to the specialized services they to scale cost-effective solutions to deliver MHPSS services
+might require. for children, adolescents, caregivers and teachers in schools
+• Support the development of referral pathways with other and learning environments.
+sectors to ensure children and adolescents have access to
+mental health and psychosocial support services within or
+outside of schools/ learning environments.
+13
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+09
+UNICEF Mental health and psychosocial support in education
+Country examples
+©UNICEF/Colombia/2020/Romero ©UNICEF/2019/Brown
+©UNICEF /2021/Pelden ©UNICEF/Brazil/2021/Alessandro Potter ©UNICEF China/2021 UNICEF EDUCATION © UNICEF Ecuador /2021/Kingman UNICEF EDUCATION
+BhUNuICEtF aEDUnCA TION BrUaNICzEFi ElD UCATION ChUNiInCEFa ED UCATION CMoenltaol Hmealthb anida Ps ychosocial Support Case Study EcUuNICaEF dEDUoCArTIO N JMaenmtal Haeailtch aand Psychosocial Support Case Study
+E c f d a o a n e a u B E o S t o d m w M 2 r h 8 d v a f f e t r e H e e r e M r v c c e l e n l n e l h l a n y f U a n b t e o l r i r y t a o g e l e e c u T d a l h p i : w t n : n n dr A l h h m v 2 e l d g e e H 0 i n a N r o e 2 n a e So ’ e t 2 n sa l i i n t n a e o t h m , g l n p t n t a t e h n l n i r d a m t l v o s n - e d b i n P r n e s e o y Pdwsepphc Iei2C Dwsstwa n n h h o ue n c e mraa a – a a e g c e i h e o i c v tpt d r r rv B rn l v l t 5 l h e e e l ov h d u e o e i el p y iw e ab h n h i n r n t h d g l i d o y l l e l i oe u n a c o g e t o t o o o o e ie r e c i s v h p c i t w s l n t p n r n t o p a a n a ’ e c l m i o t n g e d a l g t t d p r f s n s hd ea r h s e o u l t d a fi e , e n a h s f a o ( e t p d r wr o c C n i n o U n ds r o i t f n i a u n l i m o r u d h t d e e F t N o r y N dt c c y u r , c c c e p a l C 2 o o d g s a i a l f e a I h n o nb n r oa o 0 C u ) u t t r v n i a i s d n ge t i m i1 t f e l n p p o o E e d s a i t e t j ,i 9 n c gt tg u r t n p a n n l F ’ in e h o s h a d , s l g i e cn o g y a l v tc n e t p t l e e t i mk i d c e l r e es i e h h a e i t ma m vt a r tP ev i t S r g x il e . n v e n i s l g o s I e o c v d h a e p a y u ,t e v l u d ’ e N e a l o rn rn e t l s s i h u p e e t ma . r r l hc p d m a rk o o n o e a w p n t n o i ae t ie i p e r n g e l a p o t n ir e r i l i n i o a n mi m s n r m i e b t f r n gnv n ef r n h c t t i n i f e ee g p t t l p o i e a s e a u a e a i n o e a c t t r n r s l n n l l s n d Eh s y g l e l t o l i e o h n d P t t , i i d e h d d p v v r . s a t s t e o a s e o e e e T u u p h o d n p n i t r a k r p c m b a h c c r e i t e d r t t l i n c c l t oe t t e l l a o a h e a n l l t h n e h p e y G f s tn t t s y ht r t a e i i i l w p i e i t l t o oe h v o a t t m n C d a ci a r s c i o a e n n p n m o v e o g t r r m t c l w g i . e i a w d e d . g i l e o b P a i v e rT E r r e r e i x e n u e e w n t r tht n a t d s wp h o o t i l i s n m ce t l m e h ul . d ee b r e g d a e a t t e o c M u nl m i ee t e r h m l l ln k a s t i d a b l r v i a n o e r h g i n oe t s e m a s e o i e n o t n i r e g yr o n p l io g p f S e c t e n t m g e n t t h o o s o n f hr n a o g a u p a e a y i f k m en i v n P l i t l i d c r c s l i m d i d Ul e d i l e h s r e n t i e l t e c u c o e h s r i e g h N i f p t g h , c vd nc s a g s s a n a n e er i e s I e r t l d l ’ r o l, Ct d ai d s pe s l t vt a v t o t v hp h n e . s i r E a i em e o s h c d t p e e y T s a c e v rd h F l a a e e n o y h te t m y r e a c e a n ’ l h n ’ s c v n p e l s e h n t t d d o a e h e e c t m orn i C d n a p s s l o e e s t p d c h a r u d i a o e e l f i n o s e h e r o bh c e o m r r n n e y g n i t ih g v e al l r l n a e hs t p n c d e p i i i s f . v la u g c l h u ’ f r s r d s , l c e a A o an e a e s s o r r s f a p l c e n l u w d m i h a c , e s o n ur ta a d g d a t o o n e r i c g e k p ie r n v h w y v c h g e t en l p e n d a l i e h o i i b i n t x a po n o l l g v t v i e y ud e p t l e wr er e e a s t e trt i l s rh e n d a n l r i is sn n yi a n g e n g g d tt . t n o a t y h P a a re d n r 1o P a m p r M B i e 6 o d n r r o R o e i o D e d o n p t e A p n r e a t e c il t a c t d e r n Z i t a l m ez o p i I h i e o l i l b n L e e n H e t g s a r s r c a e l c 2n i t e s h a 0 h n o z 2 i s l cl t a 1 t c d s i h n h r ’ i e d ot n e a n n o n ’ el s s d g n g P c s t y FmhatAesrbctfpcs Iptp2t t n o o o o o h c l e oe o x c a o l r r0 d e a s c r u o o e o cv p n nr l y r 2 t t d o e n l v e t f t s h c h h e o i s e t n 0 e E e n l i e p h i i t e n s w e e s t c r e w v s g c d a o i i p a s e a s o e ae l c es t g i s p u d n e c o f o n a i l h s ’ t n s il t f o u tae a c r oo e i d r n e g o e an s e c c e n n r n a d t np n s c r f h v e g n t Jt e t n d e a a t e t i o a n i e 6 h e a a v s o egu e t l l o s a , g y e y s – n e y ii , n dat m ot t c n n , U e 1 e c u r u yn 5m t i r f r n n o d e iP 7d t ci , d e r a t N i o d 6 v h c e n o i i r o o rs o o ( s e a o e d6. I i l a e i s m y a pm u C .r p s d n n r i– t C o e e d d i e n - e 2 o c E m t m 1 fs a . P td . a o l t s r t h, n 0 l 0n Fhe r r e n s r o m p co ai y i 2 , o t o ec n t e s d s S f B a o e n r u1 a t t p t s c a c s e c t e n g mo r d p , d o ht o e h n h a t g c t e r u g h e e s r U u o m n e d a z au r oo t s r l e oy n ov i n o o s t l N n t l n m C S s n f p t eu e i s d l b m i o s n s FI , c i ea O t t p C c i a ap r a r n ri h w dc e d e p a a t gp l a ) V a E t uc l gt , ie ou n y u n p o m o aa n t e hc I F a . e nl D d r t p m nl n t o r e l a t i i n a e e M h g d t e s nd e i t - s zi pl x s s w a 1 i ey a ge t s s e r v r c h o r i e r i 9 r s e e v t r o o n h i d n t y e s a r t urte e r e o t p v r p to i a v m t n a t y n n . l c u k I l o i a l i a o m dl ad s l c p g o I , ea t C o e rta n n p d he c e te r n , l w d b i s n a p l d e h e e d s y d s N s u t f a ai o g a e d a h o c n d r t u k c n f h c u ea e n e o t m e i o f oi l c a to t d t f o l a t s v s r t s d ll h f s hh r t a ss i d e s r e t s c e i m a a p i r m t c o h n o m e c p ce r, d i n t t u s h o n e e l t h f e h re B e a t y c a n i e b n o . m l e o n e C t v c f d o n r gi d e v s g O i S v u d o t a h e o Or o a l i r a u e a t e e z d l b o l w n f n i r d u o l V n i 2 i r d ra n d e y s d l t ts h i r e h p i t I e 0 o r h s i o t r e e D a on n a t e u o e m h ad 2 r l e c h , s l e u n a i a p d - p 0 s n s i 1 e a d e e s c t a p d l e u i a d c t ,e g i d 9 c e c d nl l ot h n d h n c o p o a c , i l e c s u t n c o y s a o d o i s a y v ,d e e i mn r u n h c s t n n e n o ee b mo a s g ip p t a i s o d de l l ar r s e l t d t C .i p ui e o n e l c o en s n i 5 c o r o B f o e t hs uo n e m e t oa o tp e n t r c s c ea i m nm t e d n rm lh t r s de . a li a t e d d o a c , e o a w i s l i m h r F n e d l n n . f o e v l i n e h a t o e t e i r T u e t d o e r v u ns d o n e er a sa h h n c e e hn r . n n t a l p r si e a a o p e a tn r i n A e i 1e l a i h l r g t n x t t t u r o i 4 7 o s i c i a l h i o Nn a i e d o o s o n r a t 0 0 t c s i , t g m l t m s n e o e n f n a s e o e i a s n p d v h c a l d t ac p r rp s n oa h e e a t l d o w v u bt l r i n d e y i e m r o w i i lh i n oo n c d o a d s , n d nu e g s b r i , t e t s e h r r : o l S e p c s h c m s u M C 2 S s l p w c a a h e i 8 y h o p s u p a w e H l i e c y M p p l r l i c d d l h o n n r p o o a I bch o r o N i r t o - e p e n c o a e a l h r i n e g c l A m nh t r t l o o - h 2 i g t s n a H g 0 o o h e i c n 2 g i t o e r h c 2 o o d i o l f o a t o a h u l r n o n l e g t a l l a n h h t l o a i p n a t n d g h p l P g s i y r c l Aalwaa UaaattTsmhhadAia r e n ho d db dnn t n c h ao a c N a s c u i a e n e t o oo odd s i d e l c d o s tl l i h dn h I ay u s l lu l o a C ee te e e b o pl t ep a t t d e t t n r e i vd ai a 3s s Es ei g r p nr d o oi c a d m t e o c o c c u n 0 c e F e s i t h n d - n t l e e t -j e c g d n o a m o e e i c e a s m s f gh a i v n n a n el s u p o t i ec l c S o i i r t t t e i v t t m i t o t t r S o n a t i s s l n ws o E l a i o o s e n l e e in tf f E e n o c p L r a n l t or o td o b s c a o a e , h L e o d n n l c s . r s e e l c p s r p o a s d r k d u t e i u f P o m e u t c i e e m o gn o u e i m r t a s h b n c r t rn r y c w c a e r d l c r e e e r e i e ti j g o e i b s t m p n r h i l e n n e v l a n d c o s n f u u n e l g h c a w d g e e c u r t e r a t n r t h o , t e e e ch S n m l e a sw g f i t s u a h n n U i n d a t t i e h t n h ln c v h o m i g a ia o e l a e t N o d r t i h a u i g i t d m r a r n o o n h d l h r i s n i n , o o k I io c t o e t u u n u C a e d i t p u o 6 e p a a n lo n i r a g g n r l t ea E n n t r n p l 2 a r a h a f g n a - h d s o e ls f F l c m d 5 i t l p e d d o m n e v c e h p o s f a s l o r p e e o i i x w s e i r S c r m n an t l c e o s l d e o w e a u a c a n h e p o n g g i en e l h n r r r bl d m t o s r c i o h t n g c lt rs n r o a o g l l s m y c n o i a e b v r i o i ’ u a g c l o s c s n e t e l l i m o e i s l l a - m n h c c p et le n g f h r c m s fe i n a o e i a o e e s nb s - t a , t e e C v n s m u s m m s , y i o c d . g o c s n a e n c d a , T t l e r r u t e l c h r iw p s t wo o e l t a h r t l1 c x e s a n E y o n h . e o h a u s 1 e u t i l i i d t l m n n o e t r f d as s t s c l l p a h h a oa e p c t e C y o g l e o u l r o ee sc b r o o r r i e a lO t o p t l n h r a o uu t da l o h mh t 1 p e a b r i e g tV v r l br o u r e e7 e p t e b a l r a a i e I e j h an c s n i n S n S r dD e i o c t l y Ms n n a o m ts a i c i h , E c r i u a e n h o - e t i dl a ae 1 t t o - a n t L i i l a g s , n h r L c o n as t 9 s n nr d e s n i a , h u r e a n i o s r i , s x . s a , s s n l e e w , n a m w nc p i t n I , o p d v s op s m r d t h m r .r a d t i e n f a e e o u o o y i o ro i r d U s s n c o oi d lo a s s e u m i n y l o e o n bt d v p g t n , a r d a r e g g l o m f e c ti e o g e m a t 2 e s n l se t r m e E e i n t ( o , 5 o v i t c g n cg i S c i e i d a n d n ge f o m hp e g l r p E a d nd b u h g il a s oa n C c co m e a tL a e e a c a t t co , o t a e p c h r t i t - ) r a r y s k n i e e l l e e n h e s a e l i c o t P a n i ga g , f a d c n i h i l e d e n o f l o r g p a o s l d e u t e ai s o . s n Sd n t p n e h r s r r i b c sh o j t o d E n e e , a e e e t t l S ( a a - m o a i n e M L . n r i c l m nn t v e E p u n f ’ d d t I s g eo d d a i n g . r L o b c n o t t f g e E lt t e i a j l eo o e ) e d s s c . t S a d c C 1 S l s d r c h en e 5 e h o e u u a f O J i c v u p l u r i d e n ni g o pd L v r l e p i e - o l o e n O e 2 e r p d n g 0 m t e 2 m a M i i p 1 a n n o n sn e g r t d B C d n l i o t o o m e t o ho I n l o A e o i a g f m l r n p r c a b t n ia t i m i o n - g e e OVTeeipV TesIatlfs Dlfga Tlemp n e e e t o o a t s c c s m u r d d a h h h e s i u a a a v m l r o a h h 2t p l a i u u a e e e n w r r r r e a d fl i d g o t o o n 0m n i n n n e c c e i r g n r g e e C V l L et r e y a o o 2 y i i i r a a m z i ae n n n g 5 r t l x a - e o i o c l i u l l t t 1 o u l b m l t n f . g g g i . t l i i a n k s c l bi C . o a e o o 6 u a e pa o m e i r y o a Tm g t i ( l l l n n s n p O d s hm n e sl a m n t m h o s l m o e h e e g , a s s e d e V t i o f 1 a ( w1 , i b a d n i e “ m s y y d m s l . y e t f n e ,I c w 1 l i t m h D g 3 V s s i - a u vh a 1 d n c a o 1 f m u u ie t t n 6 e o i r t e o n s 3 s a - g e n e e t C l p i t 1 s i m w t n o 9 h n l r , d h a s r e a G m m o i c 9 t i r e - v y l e g r r o g oe h e i a m i p d ht g , o e l t i c z . r l w i s a n i f h a s m s t o i r U i n v 1 f u l a l g u Ho i h e a u g n a e t t g e o 5 i g t n e n fl N i g u n n ed e e v o g u t ds f r r l a s , l e a e d s a n e an e p l I w e a s t c d s f c e C p x a l t l n ”e y i h t e m r g e u h c d o u f m p i i s e o r t ) E s e m b o o r e p h ie r l d t o h e ve a l o g s o a i F e f l r d p o i , a x p o r e es e n o s n m g i r n u s r r r n r s n a r l o ec s a n r d n t e i e o y r d r c st , o e m cd al lse d t a f o e f n p g b a u i c m e s c s u y tn u s h d a m m s i r r o r e h , i , h e a a n l ( n eg g o o p a ar 2 sa 4 i o d i i b n a e i g a e i m n e m v st l l n c rn 0g t d9 k u e n r d e l o rs s t i a e h c u p . 1 d d r a s r e m d d t e c o b p c a l e e l A W t 6 n , w e u a u r i a m r w n o l e t fi n L p e ei e , s t e a s n d r m o s r te t m r h e l n w o f e o s l d i r s s s c a f t e u n e e c a a t , a c n o h . o y o n m gh u m i ao g g m h ni e t m r ei t g r n e f c n s s n ei r h f e a n u s v u s s n t i te i m l t i A b i i g o v a e U g h t h e , l n i r , n 3 i e d n x e e i r p p - r e n e g n g a j m i N 0 s r a wu e a o t d p t e s a b i i c l i gt n m r a n u l e m I C e u e d p e , u : t e dt i o lC t g t t s t u f i r s e ne a i L d d a t a h v o o o o r n t E a ) e rc . o n d c r d e g e i s r k a t e n t a w t s F h a A l d i c e a h n o ts y f l e p o t y w d c i ’ a e d o e r l is r s e t g v . s r n t l d b c p b n s s c l ro a i f h c n u i T t a t e r g u e B c e o h i e f n p i v h t e n 7 e b w l o h l e s i f a n r i o e o i l t i p g g n r u m a e d r dn s n l p a a e o k f e i l n o d g i a y m e i u c n t e r o C a l r v n t da t e io fl d i g m e a e o s s d o g h n p a a n i g at v ar b e e e e s r n e e g pr l s y t c t i t 1 e i g i e l ) l f d a s h e a s d , e o y l b c d o 4 n t a e b s a i u i n e , rv o . h ra l a o u u c , r a h 7 o i s n a t c f i a l n i c n ro d n t R u t f s o i r l C r d a l i p d a o t o i ik r e s nn e o d n o n o o e t o i o n r r s e d , i sg e o a c i in ge d p m o f n tr l d o1 r i i o t a s d ei a n n s u s ns l d t e i 2 n c pe ma t o T lo u s t u c b . a i s c .i et a e s l s a n p o h c l po A n l h t b Iu e c e i r td t a o ae t- h c p d n a h k n i d d j r u l t a n i o e o o n i v a r o s i i s n . p o n os i f r i c g f n. c g i n t g u et ob e e h g nl s s e e h , M p s th e s 1e M a w a e M E e 8 y r n r d C e e e O e d u l n l c iv U c n - n n p tc t a b o a t t s A e t e e b a l y i i i o e g hh c l D n t r ncr h e g H a 2d O a o s 0 a t s e l s e o y 2 t R e e o a h 1 d s r u c t l v l i e t i n i a s h m c s l e t c h h a s o e n d a e a c P t s r a y i Evti1(wnC ICwocetapawus i n M n o e h o 0 n f i c x o f o s c eO o t d f e i i a i a u l p – t t d i e u t 2 t a h I u l c n o i l h h m V h e d a N1c a l e c a l 0 o a l n - g m n i bI n r 9a t b t r 1 n d E l n w s D s e i e u i l t t o - o e 4 p e o y s o i D e ye i n t E a - r c d a , n i , r t n r 1 s t e p l n s ´ r U u e c e l l l u i s s s a 9 e c n t . i i a u ng n v u s d v r t n C e r i O r o b w t i l h en g p h e - a e u o n e to h a o) i n l a h n a d g n ’ a l n p i g e g f o a ( l c h et n h en t d o e D t t c l i t p c di a l sn s i e w d i i d v s sr - of h n g e a a v i o’ b l ’ n o e c f e i t s a n i h f p e f g t fi f o m e l h v u E t a f t m r d s m l a i e e e c i oai ti o y r r j v c n . r r eh r o u l t d c r i i l o e o e l su t n e c s h g m Mp s ne i t l ua n n n l t a . a ,i a t .s r t a r n i mc t o a m e S , d o D e e a s p e h I n g a f a t t d l a u o n s n r fe e E d h t e r o o e t h d c , r r et i i u n e e C e h n o n e a r c m o b e oo c s y t m f e n t t l s E e h o n n o o a lf f s e o s e p e i o d S il rs y s l o g s a l t lt l s g n f e r w d n h u n s i h c y n l- t s c d f o p a t n h . a e r e s s , i d u t l h s a e ae e n b a a t g U s s t s p n u l e u l nt 2 s e i b a o r o s z o C s h N c r s m o r d l r t0 , m l l t e v e a y s e t e c o h 1 h f a b Ie i d i r c l , C d i o a . 6 v n a e n - i a s e u n h d s a T l o t n s E i s r td t n r t s tn o e i n m u h h r r d s he s tF m u c a ss ad h sd e b a e e t j C e r u i a o e r t h ae e s ss e e o n tt rs D l n c r‘ e n e h t it n e a a f Dí a g , s t i d i e t a o a E d q d t a t a n o h G e c n p e e r s f l c C u i s p E s a o Ec s i s m p g B s h w fid a a s E t s o cu y ec o a i s V e ci k re y t o ic s S n e t n u e f r u e p u e a r ) c h sh t t m e n d l t . s a c s l n d l m h s i e rio s -T a i s d h n t u tb y t i o a l uol s a h a e o S o e a m o p e a r s ia e p n t n e e m a r e r n rg p e i i o o s ’ p y t n e d y p ds d t y o o t n i c p p o l g n i i s e , i t )o f a o r n i s t nM f a u r a e r t u , t h a a f c o (f u n g t t a c e l D a p a r n e h e w c i t r e s l tt w r n d m n e c p ed e o d E h e dt h e i c h ia d u c o n s e m q C n e r t r s n t i u t y d or t i l h i l u otl ae nE e o s E l t r a p s e g e - f a a yl s i b d g c t S c e t t a r a s n a t p k i e h ie i e uo n ) o rt a l t a c e r s o c s u a n a i a n y o t l fa n n o s c r o f c c o a i d . wf n n e E h g d m , h c h t e d oU r g d a b i o h l d e o i o s e e a o p r p t t e o i N, u r rs hn n ( p e ls a f r os d k i l c c o i . I e n p s t d s s d c o c n . er Ch o a m a y i r o s e h Tn e rt. a t b e nE n c l n h n i a h i a n i r o c l f y o a t h d d F d e d a m u le r h t t t s n a o e i r t t e i l e s b i D n s t e l h o s l s w d c e d d u a gn e o r an , a , r i t f i t . c s g e e n t i t an h i ko n a ,g , l A i w m 2 A a l a J e 5 p n A a M w p d r a e n r h M w r w o c i op n h a e l A g 2 c l e l 0 l h , - l b 2 rs I s 1 h e b t C c a o i oh f n A e o i g m o t e o y vl p r l i oe e n ve - g l s e c oc(sa Ii(tsss SbappS Mhae5aia m m s n So e n t n r c d c o a a f o r rr c0 W W u e u oa i W o hf a x d d m m o r w p p n c 1 , e c d c e 0 m s d u o o n o 5 P P g l a h h a t e t e P e i m s t 0 e a eo n uc o n r i B Bo c e mp c t v n a B J l 0 a m nl tr i t t m o u a t s s I I e e x o n e t h a s e v I S S co e gd s n . s t p S s r i s n x m a i i c r h , c f p n e e Sr e i p, e i i f a t r ) a s n o t o t s i p a u h u t s a t c a a i m l i c o t r i n e F e n d i h n ol o o c i s n y o n i c a a h l s e , d r c s t y r e m i n h o sr s l h c a n g c o ie e t i n a . s s t r s m i p o r m t h i dd ir o c n t n e ec t A t o iv e s o v i r o a o o e s i u a h a ´ l e v n s e o e u e t s , c c e l t l n r d s l e s e s a . t M n u m t w n h p s y h d n fi as s w t e o c ed m V t d c S o ai i t i n , g l s , o o n l o i f cv a i o ie d h e f n e o c o f l o d e c ha t m r t o f a t e l e t l rn o i x l h - k i n lh ln s s t e n n n a c e a t b r r p a c t os .o es s t o h t e g e t n g r e d d ne n o r . e S p l o a e s a r o s as n y a n i a ci d m I e r h p a n g u il n p n, l nt nf n r i a r - t e - o e r e a og e o l W g i r y c s e d a f m t d c t g e J v f n s o r d i h i c c g l e s r a lc a o b a e e d i , E s c e i r e u c a i t e t d n i n c l r mm u v , a yf e 2 p i v d l h d s n o a v e e d o u p d e s l p a e 0 a r p i u i c l m u e sa v l m l t ey l t d s t d l u1P w m o s c c i i s e i r i i e n co o y s e oa o 4 r n e p : e oa n m l m s i e s a y c e o f l d jl t n , g l t s s c s e oe a S n n , h i n c v uu U , t s p ) s t io e o n sr t t , 8 o e o rW i t i n c a i a in a uo c c a N c ot a t v c a s 5 s ai t nh o l i , e l e i l t ola e n o m n t s d Pn o e I ti a da Y p e n h C e n i s ir p d e n c i B o n n B t b n o p p n e t e s t h E r a u i d c s n d g I r a s e e eu r o d ra , i d S b t F i e , o p , u l b n h i t l h r r a c e f v o n e t l o v h s a e s e p i u hi h i on a he ei m c n n l x eu f lo ms e pv t av a c a , n a l p p o s e p l y w p a s i t s o i n o e m s e n at o o a oh c u r p e l c t c o r n ,f n d l o h b l i u h se i n a t u o e n o e c e o p c p d c f o er e o a i n i I n i n s n n r r i s n r r e n aa c m a e l t d I u o d o e i d t g c e h n h a l t m . f l h ls n l i a l l r g , o e e a y n mt l t t o L c p i . v 6 s r o i e l e r r a r d s s t ma dm m i p a I e i e e m n e k 0 c e r r m ck t u yn p r m r e v e s y te i r n e a i ee i n p e i p t a e l n e v s s d r o w d l t t i s n a s o g v s p t s n e e e e g , n u t e i a n b , e . n o i o i f g r h r n c lu . t oa s o c l y o s d -y n i g e r n c o . c t A n t o n e a u n c t r i t o t o l t e m s o i t d n d , b e t i a p ( e h n e a o i - cl M a e n n t o e ll o a p p r o f g a a t , p e n e o t c i f n rd e yr e o o c n t b E l c ,e a m o o t a e; h s t a he u l d t h e c t bc Y hs r n x t c a i o e e r se f h t o e h i tu e i n I d S t o h r a e m l r s ) v e na i l o y b a s M e n l o a n u d a b i d v r m a o r a , o i o r w d p o s g m e i iy ns t E l o n y f p e e e g a e . d u s g Y s o n d l n a r y, r Ir c n t d a t o e l
+©UNICEF/2019/Georgiev KaUNzICaEF hEDUsCAtTIaONn ©UNICEF/2021/Babajanyan MUoNInCEFg EDoUCAlTiIOaN ©UNICEF/2018/ Odgerel Myagmar MUoNIzCEFa EDmUCATbIONique ©UNICEF/Mozambique/2019/Potter NiUcNIaCEFr EaDUgCATuIONa ©UNICEF/2021/Hernandez N U M N eon IC tr E al F t H E he D a U l t C hM A a T n I d O a P N scycehodsocoial nSupipaort Case Study StUaNICtEeF E DoUCAfT IOPNalestine ©UNICEF/2021/Palestine/PMRS
+M a s n c M K 2 M p s ih e n 8 d u r e A o e i M s c n m c n i a o n Z t h d r t a o c o e A a l h t s o i l h po t o 2 K l e H r s 0 n e 2 a u H a e v 2 a l l t e a S n h sn l d l i T t t h i c A o h n a N n i d d e Ps e a y (trioaaso BasBsPa Iw Sd m A n he wlt dc c d c f r e a i e i s o i n as g l M h a g o or v p i 2 s t oa m r tp c t h a l o w e m l l rc 0l en l r e e H e d o n a o p o he l 1 de o es s , i a F n i v 1 o S r l on m z 2 s r c c t p e o, o i s p d u , i s P oe n 0 . n e e v n u i u s p K a s 1 n ls g ) t I g n nh i i nn d o n2 as ac 2 c pt t t ta h t d o o e c n- d zi , l s h s 0 r h v 2 d u a r a a o o s d 1 U e a e e sd 0 e d ( a i t k g m c m 51 i r 1 t i s N t o s i p i h o i 1 e rr n – w mn 8 ci lea m h u p i s I 6 n n e 2 a gh t C , m a n i b l t a p , g r e s 0 g e o u a 4 e Ua s l E p g l l c 1 y gh i mm e o n n n 6 cc a l F t N e 8 t r m l h i a d i 4 r h ar t p e d h e n , h I ea h i m e y t C e S s n e a . e t t tb e e nn a ns h h k T d E t a n n p o a l d d s t ’ e e v e h n t t t l F u a t y a o o t mi h a h a c i a h d i s fi n h A N s g n u t d t o e e e c d e p r i r c M n p a e t C p i o p l a a a n l r n o A n n s u a r r n r e nM l t og H t m t a e o e o p d db b i a s a hi o f t t f fn g o oo S H l c c i li e o e p c i 1 n t o t c r o lr h a P h i1 a h t r s e r a a o n (a r h u a e , 5 e r h s e N mst i n a w n e n n e s h d r e i , a e c o l ea 5 he d g m e i l nde a a a p t s s te t n d3 i n s h i l d n m g rt c o r t d o t a e w 6 or e sh o h h d t hf l p u i n C a s i fb f e i i v o i g e M v e d s i n t e c at f , l u e m h o ie i o s o a s l e dr o r a a a t r e r t l l r t t t s C a i n ss t d na n u e i n n p c t h a i o t i) ea l o i d s o m g d g h o t s g d e in l a o n a n n h y m i o m t 1 g s i i e a a t f l t a t G c n a r t a l r e .w m , e H a e lm ht o n e e 1 s o l o h r t i d o s o e d n a n 2 s m w o v f u o o S w c s r a e t e 4 e 1 n t n s h f e e o a o o l h d c 4 i r g t e it e n s l n M n c n t t h e t – h r c yh a m e o t i m a e i a 1 a u t t . he a A l e s r s ds g t o t 7 l n T e a o ne n h s a t M uo i r nr h l r n d o o dn t a - i l , i il a n t r es s a e ce t n i c l H t h a s t s a k g S ye l i s rs e y d i c o A S l s , o s H d l u c a h g o s i e f h r t i M bt Ps e s i c n e o e e y i e c K e e s u. mn r g s a o a m i r t H o a d s a iI t a o t l 4 c l l t t os l s d z e m -e S i ’ c t h h t 7 bs a d s p r h i m o yP a n i ) t 7 aP a k n o a n , a ag fi n g w s t w a h r g r p eb w s l e f e e v e t i d s o t r st i o en o e r v d 2 ld o h y h d t i r i r ce r e t a a t 3 g i e r k r k y 1 i o h r c r r l nn e de 2 e s r e a s s 5 h n ic a t s t eg s , , t r h s t – i o 0 d a m e s t s oo h ni a p o 1 h o b p 0a . s n a t n o p 9 m e y n r a i 0 v f d n i y s . s c n y e e s . i i a t n e t yn h g d e A r a e d s M M 2 A c r i a m m m e 8 o r d o s e m e M o p O p s n p n l r a u s o e t ol N r t - a l s n c v s t a e u l h c i s G e o i - l e h n e 2 l c e n e H g 0 O t t v 2 o s t a l o e n 2 e l r L t t a a l h , I l l c A i t s h - e l a e e nd n v P t s t y e MPcispp UawaEsdnpFaaem os d c dn a e a v c oar rr a d N s me o o oo h o e u m o t od r c c u u l ig I d v h gm o n n s l o i l t l uC c b e e e fi t i o i r u r o g e i l n c m o l a a n e y ao s s E c t r l l o o swe a t i e s m s l ’ c c m g . i t -F e i n l l l s o i s e e( i o s e e n a n i a g a tm A m n s n h n n , v f e rt g n w c g w a e c o h e t t t i ae d ta d o e e o ’ h s c p e w s a l e c en s e u cm , s s r o r s o h s r m s h d m o ra a c e o e w c r o ws 1 e a e u a n t ur da S c p 0 i g h o m p r p e o e l t d g mi c i i e l i o – n ti c e s r e ia p t r r v h a n h f o a 1 w g e i y g s l o on o e e t c - d i v 4o - a t w hn s n rg r ne s i o l t h i e )u n m n t n e e og e e c a r m e o s e at t i c m r a z e ds c r h e S d e r cg n U v t e ev m n k i t o ’ h h g n n i r s e d i ( o a se t c d N pno M l e o r fl t h n u e i u r er s a l a ‘ w a I o au w o s a e t p M n sC h o t o l n . l t l . b e e cr i is p i c E r h i M W E c n r d o g y A tl n da e e i e ah e S g F o a v h t i c n W o os n t i i p i a c i ) i - t t e n r e n i m dt p e n r d n i o h o l o i s n g t s o t n i o m e a g n s s o h u o n o e g a t r c r t ta n e ao c f l n e g rn d . o o a w d r s a o g h s o d l p s d a i i , r n t’e n a q z o e e A d as i e i t o u s t v o e (c d n t e o u d t u a h dl l c t e u o l n o d i s l a s i o c g c b d e G w n n 1i f a n f c l l c e i e u C c i a i o 0 e g i i l o td at os e i n m d v s a m i i d y f s – l v l o d a tm e l g m d p l i e 1 e m 1 a a p rn o g b i m a a a i l y 9 m s 5 d n r o r i a m l e n r - a c e n e e o u . n– e o s g ld h s d i n i l su m s v n n t a p y C 1i n l c u n d y i , e n a i c , t g e p 8 p h n s to l e s g a p s d e e i m a . r b ) o r o t g m u l n , o c e n o o n i l u a r o e h h r e t e s g e t a a h lt S r r p i l s e a e s l p nse o i n dr r d e e f d n o s s a s , ar . e t au t o a i o e u b a c m i t T nl a d n c a n n l t a s l m e l e e nt h hg n i l e d u n d ju m h fi sh s u n i g d e d v n d i i cao c e c pn rc t U i a e e g n oc d a l s y e a a ag i t i a n b l s d N f t ’ g l u e o l n r il e i a t d e l , my c e em v r n a a p I y h t tr e C e c i n s c c s h i e t p t m i p e n a s nl oh n k i k E t e i i s e l p i t n g i s t i e e n F l e l el y is p o h l E i l a l t , n i e m r s g n pc a r n a r f e c s a t t t f a n h o nt u l hg eo p i . s e t e s c at c m m o d h b e gr P r t y u d n y l i e o l e n l r s o a p A h u t i i o o Mb o a m c ga a e c r a g e p c t s s h s t u n e l r h de n t e a hi i a o t p e a i in c d n h a o l t d d l e m r l c d t p r a t i i e t . o t o s e o h l a o a s i r li ii m n m l t v f n s e n n ’ l n s e s r t ag e i r t v d h yd u e lu e n o i , a s e a n p ps d o t a l k n r eh t p p fn i y ‘ i c a l n n e o oMl d s e t g r r t t , y l R e t p p d e m r s u e 2 a o R m – c m p b a M M 1 a y f s e e r b t u e s p D y e f O s e u o n l c c a e p vr i n t e i r t c h c i c Z l o e c p a n d t e p i o n r t , a A l m l h i i s e y i n d d s h h r l o b M g ed u i e e t H g e n c o o s r m a g r t i e g i a B e e l n 2 p o t e l a a t 0 g h e r I r o , s n c 2 o Q , l g e u r a h 1 t v a e s h n p e U i n n dsd p r a d d c s e a n E o m i ’ o n e r ’ t s n d i c n c P c d s e i y i IjdwoCca3tatce 1 Cppapt g u e n h h h hn t l n c a i r 6 d as r O h a sse e e oe i a D d nyd l M . u d s l r tp e r 5 V vy d h P c o n d c e s e n 3 l A fi a oi E % h rI a a n n a e n r s o 8 De s v t u s o ( o c r o t i c m D e t h r 5t c a n c e i - ee g s o r t s p e i o o 1 e e h r o , 4h v e o m i u l m v s w s n f 9 s c d r c y 6 0 e c u c a s c o s e d e t t h s . e d r h h p 0 ã i n t b l o 9 a fe e n o d u n a e i a o a , d e 2 i l s c 0t l e fP n , v t t v mn k y o f h 0 s t c r o y 0 A e r a a o e o s r a s d o l a u e 4 a 2 - d n s v i i 0 f , r p b n c le i i a b f p 6 1 h t l n e i d e c i ar – t s e d i m c c a o o i p n , i , i a l o i f g cr s l a a o i c n f f o a u t d r d l it u c h 2e r t e f y l c y d f i r w p e h a u fih e c n o n f l u 0c e t s , l i e mt r e t r s co g 1 g t f t s h E s S e (s o i c i r c e n M o h 9 d n w o c . 9 ad y a th t u s g n l t , h g T e o m g s m c eH o u h . h n w , a M t a o h d 1 e d o m ç o b t o i h a o t a P o i h ãr h a i u sp t l o 1 s m a t p t n o r S t l o a r e o h r t s ) c 4 v h z t d e i a h l S l C r s h e a e . e e m w p p w 1 l a o e 1 ) a i c m d b t l d u, b f r d h u f i o o t ee 3 e p n n t i bh u o e b t 3 yr i rs D e rr e 8 n lo e t e ep g la ee d c e i a 8 d e e i r 0 q t r c n n e n l u r n s r a g t 2 i r u e pc se h c a s n s v t l a , ( 1 t l d e m r td e n e 7 u em o et c h n i r o . m e r 5 . h n 1 i r , s n e n w d e c s d i e o 6 s 7 A o t C e a r t a e t , r a m o i r i a t S p s s o g d s o otl e r e r r s e t l s l h r tp o e y l e i f n h p d t a i sil a f n a t vl u - l t y g n s o s p i i a e s h o t at a d t a e d r t m i c r c r C s c oo a e i r n tn n c i ld e i n o b h e u m m e s e n n as dh d e r n e e t o m cp o s b u a r o i i i a o 5 t t m k l o p ne 2 4 . l ro d l s e r t s 0 0 c l s fo i , b r y s b 2 n 1r n t S p D a o t 0 a a ey i p 1 y a e es 8 . t n s o c p g f , n h e e l s r 0 ed e 9 h c c d o f a e i t n t t lo 0 a c h g . h y o r c f d2 m cu 9 u n u u c 0o a I e s i . m 0 n l t c , s l d r d a )o o ey o 6 A2 . i v l t l s t o l d o a c b n y u n 1 t 0 F i d y d s s o ( . d ie r t 9 r e , a um , d d e e r e a e g l O d a y o l s e a r ai a v l t , c t i to t w n o n e f n t am e i h h I h h e fo i r d d m c a o e e le ee ee a d o n a a e c n c e a r n l t r u p h s a g h l i tm , t h s - l h l c m t t u i b e a e 82 n p e o h c i a a o n n e d r n 0 n 1 g a e l s n t r C d d i , w a o 9 0 ri n e n . c ot o n ri s O 1 , g n i K , t i e r D ( n 0 f v a d d u i 5 V c c e d sf e m l 0 u s e r l 7 o s l o i I n y er u u 0 s e s D a e % r in d n sl o d - 8 p p d n l r at - pfl t i e i v 1 p r e o a d i o ) n f m ei n e t f i 9 c o m a n o c g h e o a f t t c r J) i e uo h c l p d t a h fi i lu ia s t s n u ie t nl g o e v e e ln r r o y e n e r i d , d n f s d e, A a p s p t s u2 A a t w s t M N c 0 h e t p y p e u a c e I S e p C l o d c d e l r o n p - h m e c p o b A r s t e n t a y e e a m r t c R e o m c i s h s m l n h u h A b H g a n o t e n o i s G n e o r a o t d o 2 y f a s U c 0 - u l m b 2 i t c p a t A 1 s a h l p s s o e a h r d o n t u d a c P t n sy o n i INdaracttiptcbCaiee12e n d n e rh h p sh r i e r e xd))d c a o i m d e e c o e e c a p i p t i v i u tu n i u wl t i n n o a m h a h d h v s er e s c c sp l n tg t og r e ee r i e l ra a e f i a dr o t s e t o N f an a i o o l d t t o o e i g i p u e p t ln p s c c d i i a i rm a e o o z n u r a a l r m h ’ a m p l i t s o i o c s n n f s i n c a s l ns i t , o n r y r o r m m a iea c e go l i g f o u t t c p te e o n t l aa s h i n m h n c o o o o i s r P a n t a c m o s u eti a i h ,i m t n t r o d l a e ro e t c n p i i tn o o w e au o i o M Sr ll n t l p o . m u y - i i o f i g c t e p a nn i n t e t t t i o o f i f c im r r te s r e T a g s u s n va a i r o o o s o t c or a n e h t n i b am t u p sf ct f a s a m i a n e l v s n e u i l c . d e o e n t n t c u v r s i m g g r d y e p o r T e s r i h d d a n e y p S m o , i t e g a m t s c h n li e s a a s u h n l a w d f n n i de tp t t n e v o o P ne m a m s a e ( u i u t i r r o a e h c S m f c s t ds l Se n o v d a f e u ne r o u ’ Ca t a n d e o C v e s n e p i4 h n an l s w n f C , i e o l l p n n C n f ) o l l e w i t a e 2 o t a e - f P t e s t s p g i p P n oy s w 0 s m , w l d c e o t c l )t s m - d f l . h 1 a r o t t b d i - r h p - h l it p o ac h b s ka W e 7 n n l la t p s ue o r e e t r e c s e u ho – d g s e o u cn o r e s oe h h r i n eg 2 e e a i nb g v q bt lc m r a n f o s o c ir . 0 d t e t i g i e f r u l e a e n ; c i i o h l o I 2 h h c o fa o e a n wm n a v g3 e l f e r 1 u n P n t - l r t C n e t s i c ) o r i d o e t , m s t m s s o l r e d r o c h a y s s f , r m la t o y n b - l r o e n o y m i t h a e a - s l a s o p c o va r b y s o nn d e c e o n i a in ra f l m h e e o tc n r - e h s t n f d n e w e c tc d Ml ai o h - t c e v o n g u e t c eo m e’ i s n e e f l s n se e a o g i t h n i m n a g g n n t h a r l n f . l , i i i s M m wl e tn r o n i l t i - t eo t e c c d S s a e a b i x i e i u i S e t n h o i a t v or nt t r r f i hn e t l i d i t e r r e e s e i v l i o e , m o E g e h i t y n i f d s n n t c e a t t m n t s e t g y p a h a m o o o p o g i a t ’ s a a n r u d p l s e a r n f h p a t a l p p n u e g g o e i p h h n n e r n y E s wp M a d 2 n e f o v r d e n g d c u s i d o r r a t 0S i e t a c e e t t a o o i p so u a c d s 1 c i i lh c i l y dr r e c o m a p n E l c a c e o h o s 5 h i i o c s p f l a h op v a p t d c l .o o p s h e lo s b em r o t . raa e ip r To r o at i t a . r a e c l o T t a s t a i v t hl e n l t i n f W s i h n o - n h er o c r h t e o Ce i n e t e t i s e , u e i g n p e e e d r i s m ( ti n o od c a t t M n y r s d p h c h ts m a w i p a od a t op s o r h o a i n s o n o r p amo o d t : ta h m n e i r l d h f i d E l p i l g e o t w o i d s e v o l e i ar t ) ur u e l s n t r t e s o h t t e a h n i e o o n fn h i a c t c n a e m n a o o n f i d e l e t t ct d g . y i w a m n h o e k t n r e e s e s , l l h - ip; L e c c 2 L a s c f N M h u r 8 e k r m e n e A t i a d O u lea p A l r r s i r t n e i a e l R e C l m i i 2 s s n n 0 a d o T 2 g E o f b r p 1 o t H r s r D r i ti n e o o g r t c - n O c hes h e i i a t c i a i e l N l h o d l r n os r n I e o A n n l g b a s r l i Ihecbbefin IMewccd Itpetdtmf on n ne r h h g h oo s u o u r r e d q d d e y o e co r e e m a i no n N 2 r m w v ii u u u u o m l ln r he f e c d d e dp a 0 i c c c s e e u o g p e ns e t bf h i m l u 1 o a a a e s g n s o o r p , p v i o d e r o c t t t c 8 t c k c r s e h g e u p h e s i i i o i e f h a o r o a o o o i ci , i n t g sn v a o m o r n t d n p a l e d ,n n n U M e i e ln u d c n s o s a i r n . o . e w a s a N a i ol a s p e au n w r t a a D a i T n o n n i t op t e f l r t , i p d I l re c i t i e l t h o t o l d i u C o d l o oc y U ic t h p a a e yd l ld s i g c he r n e t n o s E o c e l o d3 u N i s o u q f r a n v a f r d m aF l m e c o r a o i 7 i c – r o l r u r I ne ol g t r.y e a m i C r n a n u rs o p p a c s l o n p s M t lr o t y t l i m i e E a u n o l s e l t l e n a t o a me h i u a p r y i t q p i d F o g , a t l g o r r o e e t t t y d m e s u s , e p l a j y f u h 9 r i, n n s c n e o v e . o n . w e i s t o e t 8 m e a p e e g t t e a r i s a r c . ao o o r a l m p n n r e i r fi G p e t c t T r o t n nr d s e t t e h rl l c h i n i r e n y h e o i n e ai d o d o fn f a s o e d t r i e fv a f o o g n v c t i n n f o f g u m i c nc t e r ot e r n i r d h f d h c c o tn n n s a e r r c o l e g t s p ii h o e u t n d l ls u e n a o p pc m u d u ra sr i y p p m o i o l a t e l h m M r l n n h c c d e aw m o p u so c d h o i h g c d o e rd ln a k m v h o n r i d u e fe e e e a n o e n e r , i i f e r d r c l n n d c s s t r r p r i d u n t t l. t oe s i r s e o t h , s s , e o c p t ns o r i a n t ,e m o i c i c g o r n t ’ h i v l o f g t ’t l t d d u h y o n s o h a a h m t e y i f e N o e u r r a g t r n r - e s o a o e ap d h g t o f s r s t op c n i i e c f i f n s r c e e n t u , m n a r e p 3 i e h a uL e t a a t r e w gt i t r a i Uh c i -n d i r e l a v t e e e ec v ho s t n a o h gh a b e y n K n t v - M o e c on n a e i s n i , o t e n c 6 h c s c a u t s d G a e c n d p s a u ii m g s h a r o k o t e la h d t o e p co r a b im o a h ns a t - s o l a e e u e r v r l a t u p l r es a o er o y e n f e c n d e r n t e c l u , lo a s d a l n t h s r d o n s d p s h s p b el s r s n r tu g dt i u n t u r i i e l r l m t i h S l m e e a c d r i i a o odp i h p c m a o p a l e a s o ´ n n b grp o e p s c e u r h r p , e c d t a s c ee r o t a h l o n o p e b l p r yan i i r i n g- o a r e i r t p a f s y a m e r mp t e t , e c l i a n re n r l n e f t r s o t s a i o P hn t t n a m t d a s - i h s n o ih m c nf e p ih g m o d l i r l vn p h d g d e r y i t r dw a rc lo na i i e i e d e r o u h r c n s m e h t s o r m p o e a s e . h o e i o y e c v y i c d v r l c n l s a C v e l d a oe e n l e o h o o i ah - ,m r e d w r h r l s d n m o n c fy o t l e e l r i y e i h ot n o e o c il N p r n o t o d e p s g e un l ho , ; r o t r w i nt i i e f t nn r n oa h t n t g i g g r t h a y h a t l P s l c a e u o d r a 1 o P p a l d c i M S e n 6 p m o r n r s u T a i o D y s e A d G r r r v i e c e n v n T n a p i h s c n p l i d E g z t e n r o f a i o a e m g o n s c O p i m l o o r g b ri F o d H e c m e a o n r s i P a d t a e o p 2 i d A o l n a 0 o r i i l s L 2 g n c e l u g n u 1 t E e t s u n h p S s c d p s e T e i a g o n n I n N n a r t g r t s d E n e n d P p s t y a Masptectdmcepesa Taape d i o h o ri i l uc nn c v s s u os rf s g r o e f e e e a c e s c y c tp dd r s e h r n s n i h n in p e c ua n e me p r n c a n u i si y h e t a fi l s m m t s s o t v g a e rad c s a rs o p s o c p e e r P t e a h l e s t p . t t s e ea o s w e t r a hh d o T v t n l on y d o a l ( . s n e l a s y ee M n o e h e i ec tt g t d m n T p a el h t e l n e s h gi i 6 o y i h h a nH c lh c d o s t t a t 0 e io g l s e e d i c o i l he s P l s n t m on 0 y c n w u s rh s s i i s t c cS i v e st tt r ,tn m i e a ie pe 0 h l io i l ee a i s u i a S i n s d l n t x a i0 e t u l p t a m r r tke i ) g r l r c ee p e c e - i c 0r e r e se x b s o M r t o r o e s s h p n l t t o i h s e s e c n s sa u h g , s r i r a H d , u l r oi c i s tn s d r et a r U n e r s a S v i u c nh n h a e t u P nd t rd k g c i nN o r m e do c e G q fg S s t 2 t . i f e vm t e n u n io i i I o u e n W S v r 5 o m C i r s trs g l o e o r i s g- o0 p a l s t t E i a e l p n l n e h n , r m i i n i 1 , oe c s n e g f F e t t a 0 e c s i g t 0 h ed u h h n l s e r o s i0 e e e p G – o - c n n e e c i fs t a n 0 d s w 2 o c o r o e hi d i i t a e d n r r a o s s h h o 1 l lf z r f s t i c e l s o g n f e m l m o e h a i e a a h e e s o l r M l xg , d b r a e w , n e e r i a r f e p l p d r t o i c h d d s r t a n e s e t e a e n r d e n e h h r c i r o y u c d n g r n d a t z t o e e e r v i i e e , e o t a o n l r i m ot h i u s e d n e r C e n n i 2 e l gn a l l lc i a l p r n e e i a gt m g h 0 d o r c g e a g s r c a s e s aG n e 2 a pt h o n t a g we ed n e ca r e q i a e a 1 m a t t n o n r r e d d d da u r l i e t s s d i z a t n d n i c t e h n a e n n i a h c v h d w f r c g t a c t e n d g e t e e s a l o u o s w i v a tt e t e ta vx t c i i r h na l e , nm e h v p l a o r it h i c h u l n d , n e fl ra d d i e - S f r t s i e o t e b e n i f g o d l g i o n o i d s c eM x s e p b m u e n l i v d r te s r i c a C e . t s s y r i t a n i a e f n i t d t e g sc a i m y n On n r u e n e t c g ce a l e e ce io d v d o r V s d e e . n hh r P n s f i s b t o d n u r I g p on n i O eo t s a br Dn o e t a fl c r lt t y as, l a y n e c f l m e n o s t a - a i y i lo b a c e 1 e r t n o , v sl p m e t e hc n l t 9 d i e c f i th e t a t s o - r i na d ih o r h a e d o ne r a Ec i n t e s r r n t e l te . h n n ea a a o d i e e l f d c w T w a e l l do n m u 1 u c t d a c u h ut l h r 1 xe tr c a t e e o a p l ei c ii i e i a s i a s l ns n a de l na sn d l e n r gx r - t ir e g t e s y t b e c a s d d i t p n ty c o i s c a ’ y r r n e n i s o w w v i os e a n h s n ds t v u i w i sr n n uh c a o o a g e h y i u e u o r h g c s ma d s l h l , eo p s e l r ff e o e t.o v e e r r n t n a a r o d e a e Rc n e r m n s t c e t g l i r o d i e a o t e c s ia e w h c l l e e r ne e e yt n t
+14
+noitacudE ni )SSPHM( troppuS
+laicosohcysP
+dna
+htlaeH
+latneM no feirB gninraeL
+
+10
+List of selected resources for MHPSS
+in Education programming
+Developing a multi-sectoral MHPSS framework Transferable skills (also called SEL) programming • Education in Emergencies Competency Framework
+• UNICEF¨s Global Multi-sectoral Operational Framework • UNICEF Global Framework on Transferable Skills (INEE, 2020).
+for Mental Health and Psychosocial Support of (UNICEF, 2019). • Psychosocial Support – Social and Emotional Learning
+Children, Adolescents and Caregivers Across Settings • UNICEF adolescent education and skills site Training Module. (INEE, 2019).
+(Demonstration Version) (UNICEF, 2021). (UNICEF Web). • SEL and PSS Measurement and Assessment Tools in
+• UNICEF’s updated Evidence and Practice Review on • The Easel Lab from Harvard Graduate School of Education. Education in Emergencies: Identifying, Analyzing, and
+MHPSS, • Life Skills and Citizenship Education Initiative Middle East Mapping Tools to Global Guidance Documents.
+• A Common Monitoring and Evaluation Framework for and North Africa (UNICEF, 2017). (INEE, 2020).
+Mental Health and Psychosocial Support in Emergency • Best Practices on Effective SEL/Soft Skills Interventions in • Technical Note, Linking Disaster Risk Reduction (DRR)
+Settings, (IASC, Geneva, 2017). Distance Learning (USAID, 2020). and Mental Health and Psychosocial Support (MHPSS)-
+• INEE Measurement Library. • Social-Emotional Learning Distance Learning Activity Pack Practical Tools, Approaches and Case Studies.pdf
+(Save the Children, 2020). (IASC, 2020).
+Gathering evidence and conducting analysis • Education in Emergencies - Child Protection Collaboration
+• UNICEF Guidance around Situation Analysis of Children’s MHPSS in education in emergencies Framework (Global Education Cluster, 2020).
+Rights and Well-being, UNICEF’s Updated Evidence and • INEE Background Paper on Psychosocial Support and • Operational Considerations for Multi-sectoral Mental
+Practice Review on MHPSS, (UNICEF, 2021). Social and Emotional Learning for Children and Youth. Health and Psychosocial Support Programmes during the
+• IASC Reference Group MHPSS Assessment Guide (INEE, 2018). COVID-19 Pandemic. (IASC,2020).
+(IASC, 2012). • Mental Health and Psychosocial Support MINIMUM • MHPSS in Humanitarian Emergencies: What Should
+• Recommendations for Conducting Ethical Mental Health SERVICE PACKAGE. Humanitarian Health Actors Know, booklet. (IASC, 2010).
+and Psychosocial Research in Emergency Settings • UNICEF’s Operational Guidelines on Community-Based • Advocacy Package, IASC Guidelines on Mental Health and
+(IASC, 2014). Mental Health and Psychosocial Support in Humanitarian Psychosocial Support in Emergency Settings (IASC, 2011).
+Settings (UNICEF, 2018). • Global Alliance for Disaster Risk Reduction and resilience
+• INEE Guidance Note on Psychosocial Support in the education Sector.
+(INNE, 2018).
+• INEE PSS-SEL Training Module (INNE, 2019).
+15
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+MHPSS implementation packages for children and Children and adolescent participation Teacher wellbeing
+adolescents • Protocol for Safe and Meaningful Participation of Young • Teachers in Crisis Contexts Peer Coaching Pack
+• Help Adolescents Thrive (HAT): Guidelines on mental People Focusing on Mental Well-being (field test version, (INEE,2018).
+health promotive and preventive interventions for June 2021). • Promising Practices in Teacher Management, Professional
+adolescents (UNICEF and WHO, 2020). • UNICEF MHPSS and Participation Guidance. (UNICEF, Development, and Well-being (INEE, 2019).
+• UNICEF Caring for the Caregiver Package (UNICEF, 2019). 2020). • TPD Approach Teacher Well-being and Motivation Tool
+• I Support My Friends: Peer-to-Peer Psychological First Aid • Engaged and Heard! Guidelines for adolescent (Save the Children,2018).
+Training for Children and Adolescents. (UNICEF, 2020). participation and civic engagement (UNICEF, 2020). • Teacher Well-being Focus Group Discussion Guide (Right
+• The Adolescent Kit: Adapted Resource Package for • IASC Guidelines on Working with and for Young People in to Play, 2020).
+COVID-19 (UNICEF, 2020). Humanitarian and Protracted Crises (IASC, 2020). • Education Technical Note: Teacher Well-being (Right to Play,
+• IRC’s Safe Healing and Learning Spaces Toolkit. • Linking the article 15 Resource Kit to Child Well-being. 2020).
+(IRC, 2016). (CERG et al., 2012).
+• Boxes of Wonder (Save the children, 2018). • YouCreate toolkit – Participatory Arts-based action Health-promoting schools
+• Safe Healing and Learning Spaces Toolkit (SHLS) Research for Well-being and Social Change (Tdh and • WHO Guideline on School Health Services (WHO and
+(IRC, 2016). IICRD, 2020). UNESCO, 2021).
+• Helping Hands at School and in the Community: Guidance • Making Every School a Health-Promoting School – Global
+for School-Based Psychosocial programmes for Teachers, Children with disabilities standards and indicators (WHO and UNESCO, 2021).
+Parents and Children in Conflict and Post-Conflict Areas • Different. Just like you: A Psychosocial Approach • Making Every School a Health-Promoting School –
+(WTF, 2012). Promoting the Inclusion of Persons with Disabilities. Implementation Guidance (WHO and UNESCO, 2021).
+• Psychological First Aid: A guide for Field Workers Training Guide (IFRC,2015).
+(WHO, 2011). • A Rights-Based Approach to Disability in the Context of
+• Unboxing: A hopeful, healthy and happy living and learning Mental Health (UNICEF, 2021).
+toolkit (APSSI, REPSSI, 2021).
+16
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
+inawjnaP/6276150NU/FECINU
+©
+17
+noitacudE
+ni
+)SSPHM(
+troppuS
+laicosohcysP
+dna
+htlaeH
+latneM
+no
+feirB
+gninraeL
+
