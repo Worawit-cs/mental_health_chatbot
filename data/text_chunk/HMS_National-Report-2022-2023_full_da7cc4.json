@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "2022-2023 Data Report ABOUT THE HEALTHY MINDS STUDY (HMS) STUDY TEAM Principal Investigators: Daniel Eisenberg, PhD, Sarah Ketchen Lipson, PhD, Justin Heinze, PhD,   Sasha Zhou, PhD, MPH, MHSA Study Coordinators: Brenda Vyletel, MSE, Haley Henry, BA, Juliana Fucinari, MPH, Mac Murphy, MPH, MSSW, Erin Voichoski, MPH   Julia Bell, MPH REPORT TEAM Report Automation: Andy Inscore TABLE OF CONTENTS STUDY PURPOSE 1 STUDY DESIGN 1 ABOUT THIS REPORT 2 KEY FINDINGS 3 SAMPLE CHARACTERISTICS 4 PREVALENCE OF MENTAL HEALTH PROBLEMS 5 HEALTH BEHAVIORS AND LIFESTYLE 7 ATTITUDES AND BELIEFS ABOUT MENTAL HEALTH SERVICES 8 USE OF SERVICES 9 REFERENCES 11 APPENDIX: DESCRIPTIVE STATISTICS FOR SURVEY ITEMS 13 STUDY PURPOSE The Healthy Minds Study provides a detailed picture of mental health and related issues"
+  },
+  {
+    "id": 2,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "SERVICES 8 USE OF SERVICES 9 REFERENCES 11 APPENDIX: DESCRIPTIVE STATISTICS FOR SURVEY ITEMS 13 STUDY PURPOSE The Healthy Minds Study provides a detailed picture of mental health and related issues in college student populations. Schools typically use their data for some combination of the following purposes: to identify needs and priorities; benchmark against peer institutions; evaluate programs and policies; plan for services and programs; and advocate for resources. STUDY DESIGN The Healthy Minds Study is designed to protect the privacy and confidentiality of participants. HMS is approved by Advarra. To further protect respondent privacy, the study is covered by a Certificate of Confidentiality from the National Institutes of Health. SAMPLING Each participating school provides the HMS"
+  },
+  {
+    "id": 3,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "by Advarra. To further protect respondent privacy, the study is covered by a Certificate of Confidentiality from the National Institutes of Health. SAMPLING Each participating school provides the HMS team with a sample of currently enrolled students over the age of 18, either randomly selected or their entire student population. Schools with graduate students typically include both undergraduates and graduate students in the sample. DATA COLLECTION HMS is a web-based survey. Students are invited and reminded to participate in the survey via emails, which are timed to avoid, if at all possible, the first two weeks of the term, the last week of the term, and any major holidays. The data collection protocol begins with an email invitation, and non-responders are contacted up to three times"
+  },
+  {
+    "id": 4,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "the first two weeks of the term, the last week of the term, and any major holidays. The data collection protocol begins with an email invitation, and non-responders are contacted up to three times by email reminders. Reminders are only sent to those who have not yet completed the survey. Each communication contains a URL that students use to gain access to the survey. NON-RESPONSE ANALYSIS A potential concern in any survey study is that those who respond to the survey will not be fully representative of the population from which they are drawn. In the HMS, we can be confident that those who are invited to fill out the survey are representative of the full student population because these students are randomly selected from the full list of currently enrolled students. However it is still"
+  },
+  {
+    "id": 5,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "invited to fill out the survey are representative of the full student population because these students are randomly selected from the full list of currently enrolled students. However it is still possible that those who actually complete the survey are different in important ways from those who do not complete the survey. It is important to raise the question of whether the percentage of students who participated are different in important ways from those who did not participate. We address this issue by constructing non-response weights. The non-response weights adjust specifically for the fact that female students have consistently higher response rates than male students in our survey (and in most other survey studies). We construct the weights by comparing the female-male composition"
+  },
+  {
+    "id": 6,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "that female students have consistently higher response rates than male students in our survey (and in most other survey studies). We construct the weights by comparing the female-male composition of our respondent sample to the reported female-male ratio for the full student population at each institution (which is typically available from basic enrollment statistics). If the respondent sample has a smaller percentage of males and larger percentage of females, as compared to the composition of the full student population, then male students in our sample are assigned a higher non-response weight value than female students. This means that weighted estimates are representative of the female-male distribution in the full student population. For students with nonbinary gender identities, we"
+  },
+  {
+    "id": 7,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "value than female students. This means that weighted estimates are representative of the female-male distribution in the full student population. For students with nonbinary gender identities, we are not able to use this same process, however, because we are generally not able to obtain accurate statistics on the representation of these groups in the full student population. Therefore, rather than making assumptions, we assign a weight value to students with nonbinary identifiers that leaves their representation in the weighted sample the same as in the unweighted sample. In the future, if and when more reliable information becomes available at the full student population level, we will be able to incorporate that information into sample weights for groups other than female and male"
+  },
+  {
+    "id": 8,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "if and when more reliable information becomes available at the full student population level, we will be able to incorporate that information into sample weights for groups other than female and male gender identities. Finally, note that these sample weights give equal aggregate weight to each school in the national estimates. An alternative would have been to assign weights in proportion to school size, but we decided that we did not want our overall national estimates to be dominated by schools in our sample with very large enrollments. 1 ABOUT THIS REPORT This data report provides descriptive statistics (percentages, mean values, etc.) from the national sample of respondents for a set of key measures. In addition to the key measures highlighted in this report, an appendix is also"
+  },
+  {
+    "id": 9,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "statistics (percentages, mean values, etc.) from the national sample of respondents for a set of key measures. In addition to the key measures highlighted in this report, an appendix is also included with descriptive statistics for each survey item (see below). APPENDIX The appendix includes values for most measures in the three standard survey modules that are administered on all participating campuses: Demographics, Mental Health Status, and Mental Health Services Utilization Help-Seeking. For each measure, the data tables display the following information: the value for the national sample and the 95  confidence interval for this value. All values in the appendix have been weighted to be representative of the full student populations to which they refer (see Non-response Analysis)."
+  },
+  {
+    "id": 10,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "and the 95  confidence interval for this value. All values in the appendix have been weighted to be representative of the full student populations to which they refer (see Non-response Analysis). Also note that for some measures, respondents were allowed to check more than one response category (e.g., they might have gone to more than one type of provider for mental health services), so the percentages sometimes add up to more than 100  across response categories. The 95  confidence intervals give a sense of how much uncertainty there is about each estimated value. This uncertainty exists because our estimates are based only on a random sample of students, rather than a complete census of the student population. However, some schools that had less than 4,000 students (the typical"
+  },
+  {
+    "id": 11,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "because our estimates are based only on a random sample of students, rather than a complete census of the student population. However, some schools that had less than 4,000 students (the typical requested sample size), provided their entire population. For consistency sake, these schools were not treated any differently than those schools that provided a 4,000 student sample of their full population. Essentially, the confidence interval tells us that there is a 95  probability that the true population value is within this particular range. 2 KEY FINDINGS This section offers a quick look at results from key survey measures. Estimated values of selected measures Percentage of students Major depression (positive PHQ-9 screen) 20  Depression overall, including major and moderate (positive"
+  },
+  {
+    "id": 12,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "results from key survey measures. Estimated values of selected measures Percentage of students Major depression (positive PHQ-9 screen) 20  Depression overall, including major and moderate (positive PHQ-9 screen) 41  Anxiety disorder (positive GAD-7 screen) 36  Eating disorder (positive SCOFF screen) 14  Non-suicidal self-injury (past year) 29  Suicidal ideation (past year) 14  Lifetime diagnoses of mental disorders 46  Psychiatric medication (past year) 29  Mental health therapy counseling (past year) 36  Any mental health therapy counseling and or psychiatric medication among students with positive 59  depression or anxiety screens (past year) Personal stigma: agrees with \"I would think less of someone who has received mental health 6  treatment.\" Perceived public stigma: agrees with"
+  },
+  {
+    "id": 13,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "positive 59  depression or anxiety screens (past year) Personal stigma: agrees with \"I would think less of someone who has received mental health 6  treatment.\" Perceived public stigma: agrees with \"Most people would think less of someone who has received 41  mental health treatment.\" 3 SAMPLE CHARACTERISTICS (N 76406) Age (years) Gender Living Arrangement 20  17  15  15  14  11  10  8  8  54  Female 30  Campus residence hall 5  5  41  Male 1  Fraternity or sorority house 3  4  Transgender and non-binary 8  Other university housing 32  Off-campus, non-university housing 26  Parent or guardian's home 18 19 20 21 22 23-25 26-30 31-35 36-40 41  4  Other Race ethnicity 70  WHI White or Caucasian 61  60  BLA African American Black LAT Hispanic Latino 50  AMIN American Indian Alaskan Native 40"
+  },
+  {
+    "id": 14,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "home 18 19 20 21 22 23-25 26-30 31-35 36-40 41  4  Other Race ethnicity 70  WHI White or Caucasian 61  60  BLA African American Black LAT Hispanic Latino 50  AMIN American Indian Alaskan Native 40  ARAB Arab Middle Eastern or Arab American 30  ASIAN Asian Asian American PAC Pacific Islander 20  16  16  12  OTH Other 10  2  2  1  2  WHI BLA LAT AMIN ARAB ASIAN PAC OTH Class format Degree program 70  60  54  INP All In-Person 61  ASS Associate's degree HYB Hybrid 60  BA Bachelor's degree 50  ONL All Online 50  MA Master's degree 40  33  OTH Other JD JD 40  30  MD MD 30  22  PHD PhD or equivalent 20  11  20  ND Non-degree student 10  10  1  10  1  2  3  2  3  OTH Other INP HYB ONL OTH ASS BA MA JD MD PHD ND OTH 4 PREVALENCE OF MENTAL HEALTH PROBLEMS DEPRESSION SCREEN"
+  },
+  {
+    "id": 15,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "22  PHD PhD or equivalent 20  11  20  ND Non-degree student 10  10  1  10  1  2  3  2  3  OTH Other INP HYB ONL OTH ASS BA MA JD MD PHD ND OTH 4 PREVALENCE OF MENTAL HEALTH PROBLEMS DEPRESSION SCREEN DepressionismeasuredusingthePatientHealthQuestionnaire-9(PHQ-9),anine-iteminstrumentbasedonthesymptoms provided in the Diagnostic and Statistical Manual for Mental Disorders for a major depressive episode in the past two weeks (Spitzer, Kroenke,   Williams, 1999). Following the standard algorithm for interpreting the PHQ-9, symptom levels are categorized as severe (score of 15 ), moderate (score of 10-14), or mild minimal (score  10). Severe depression Moderate depression Any depression 20  20  41  ANXIETY SCREEN Anxiety is measured using the GAD-7, a seven-item screening tool for screening"
+  },
+  {
+    "id": 16,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "of 10-14), or mild minimal (score  10). Severe depression Moderate depression Any depression 20  20  41  ANXIETY SCREEN Anxiety is measured using the GAD-7, a seven-item screening tool for screening and severity measuring of generalized anxiety disorder in the past two weeks (Spitzer, Kroenke, Williams,   Lowe, 2006). Following the standard algorithm for interpreting the GAD-7, symptom levels are categorized as severe anxiety, moderate anxiety, or neither. Severe anxiety Moderate anxiety Any anxiety 17  19  36  EATING DISORDER SCREEN LONELINESS Eating disorders are measured using How often do you feel... the written U.S. version of the SCOFF, a five-item screening tool designed to identify subjects likely to have an eating disorder (Morgan, Reid,   Lacey, 1999). you lack isolated from"
+  },
+  {
+    "id": 17,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "do you feel... the written U.S. version of the SCOFF, a five-item screening tool designed to identify subjects likely to have an eating disorder (Morgan, Reid,   Lacey, 1999). you lack isolated from companionship left out others Eating disorders 34  29  29  Hardly ever 14  37  39  36  Some of the time 19  22  25  Often 5 SUICIDALITY AND SELF-INJUROUS BEHAVIOR Suicidal ideation (past year) Suicide plan (past year) Suicide attempt (past year) Non-suicidal self-injury (past year) 14  6  2  29  LIFETIME DIAGNOSES OF MENTAL DISORDERS Have you ever been diagnosed with any of the following conditions by a health professional (e.g. primary care doctor, psychiatrist, psychologist, etc.)? (Select all that apply) 30  Depression or other mood disorders (e.g., major depressive disorder, persistent"
+  },
+  {
+    "id": 18,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "by a health professional (e.g. primary care doctor, psychiatrist, psychologist, etc.)? (Select all that apply) 30  Depression or other mood disorders (e.g., major depressive disorder, persistent depressive disorder) 3  Bipolar (e.g., bipolar I or II, cyclothymia) 36  Anxiety (e.g., generalized anxiety disorder, phobias) 3  Obsessive-compulsive or related disorders (e.g., obsessive-compulsive disorder, body dysmorphia) 10  Trauma and stressor related disorders (e.g., posttraumatic stress disorder) 12  Neurodevelopmental disorder or intellectual disability (e.g., attention deficit disorder, attention deficit hyperactivity disorder, intellectual disability, autism spectrum disorder) 5  Eating disorder (e.g., anorexia nervosa, bulimia nervosa) 1  Psychosis (e.g., schizophrenia,"
+  },
+  {
+    "id": 19,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "disorder, attention deficit hyperactivity disorder, intellectual disability, autism spectrum disorder) 5  Eating disorder (e.g., anorexia nervosa, bulimia nervosa) 1  Psychosis (e.g., schizophrenia, schizo-affective disorder) 2  Personality disorder (e.g., antisocial personality disorder, paranoid personality disorder, schizoid personality disorder) 2  Substance use disorder (e.g., alcohol abuse, abuse of other drugs) 54  No, none of these POSITIVE MENTAL HEALTH ACADEMIC IMPAIRMENT In the past 4 weeks, how many days have you felt that emotional or mental difficulties have hurt your academic performance? Positive mental Positive mental health (psychological health well-being) is measured using The Flourishing Scale, an eight-item summary measure of the respondent's self-perceived success"
+  },
+  {
+    "id": 20,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "performance? Positive mental Positive mental health (psychological health well-being) is measured using The Flourishing Scale, an eight-item summary measure of the respondent's self-perceived success in important areas such as relationships, 19  None self-esteem, purpose, and optimism (Diener, 36  29  1 - 2 days Wirtz, Tov, Kim-Prieto, Choi, Oishi,   23  3 - 5 days Biswas-Diener , 2009). The score ranges from 8-56, and we are using 48 as the threshold 22  6 or more days for positive mental health. 6 HEALTH BEHAVIORS AND LIFESTYLE Drug use Over the past 30 days, have you used any of the following drugs? (Select all that apply) 23  Marijuana 1  Cocaine (any form, including crack, powder, or freebase) 0  Heroin 0  Opioid pain relievers (such as Vicodin, OxyContin, Percocet, Demerol,"
+  },
+  {
+    "id": 21,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "following drugs? (Select all that apply) 23  Marijuana 1  Cocaine (any form, including crack, powder, or freebase) 0  Heroin 0  Opioid pain relievers (such as Vicodin, OxyContin, Percocet, Demerol, Dilaudid, codeine, hydrocodone, methadone, morphine) without a prescription or more than prescribed 1  Benzodiazepenes 0  Methamphetamines (also known as speed, crystal meth, or ice) 1  Other stimulants (such as Ritalin, Adderall) without a prescription or more than prescribed 0  MDMA (also known as Ecstasy or Molly) 0  Ketamine (also known as K, Special K) 0  LSD (also known as acid) 2  Psilocybin (also known as magic mushrooms, boomers, shrooms) 0  Kratom 0  Athletic performance enhancers (anything that violates policies set by school or any athletic governing body) 1  Other drugs without a"
+  },
+  {
+    "id": 22,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "(also known as magic mushrooms, boomers, shrooms) 0  Kratom 0  Athletic performance enhancers (anything that violates policies set by school or any athletic governing body) 1  Other drugs without a prescription 76  No, none of these Binge drinking Exercise The following questions ask about how much you drink. In the past 30 days, about how many hours per week on average A \"drink\" means any of the following: did you spend exercising? (include any exercise of moderate or higher intensity, where \"moderate intensity\" would be roughly A 12-ounce can or bottle of beer equivalent to brisk walking or bicycling) A 4-ounce glass of wine A shot of liquor straight or in a mixed drink 29  Less than 1 During the last two weeks, how many times have you 21  1-2 had 4 (female), 5 (male), 4 or 5 (other"
+  },
+  {
+    "id": 23,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "or bicycling) A 4-ounce glass of wine A shot of liquor straight or in a mixed drink 29  Less than 1 During the last two weeks, how many times have you 21  1-2 had 4 (female), 5 (male), 4 or 5 (other gender) or more drinks in a row? 14  2-3 12  3-4 51  Reporting no alcohol use in past 24  5 or more 2 weeks (\"No alcohol use\") 17  Reporting yes to alcohol use, but 0 times having  4, 5, or 4 5 drinks in past 2 weeks 12  Once 9  Twice 8  3 to 5 times 2  6 to 9 times 1  10 or more times 7 ATTITUDES AND BELIEFS ABOUT MENTAL HEALTH SERVICES KNOWLEDGE Knowledge of campus mental health resources Perceived need (past year) If I needed to seek professional help for my mental or In the past 12 months, I needed help for emotional or emotional health, I would know where to go to access mental health"
+  },
+  {
+    "id": 24,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "need (past year) If I needed to seek professional help for my mental or In the past 12 months, I needed help for emotional or emotional health, I would know where to go to access mental health problems such as feeling sad, blue, resources from my school. anxious or nervous. 21  Strongly agree 25  Strongly agree 25  Agree 17  Agree 18  Somewhat agree 15  Somewhat agree 6  Somewhat disagree 5  Somewhat disagree 8  Disagree 12  Disagree 5  Strongly disagree 13  Strongly disagree Perceived need (current) I currently need help for emotional or mental health problems such as feeling sad, blue, anxious or nervous. 15  Strongly agree 14  Agree 17  Somewhat agree 6  Somewhat disagree 5  Disagree 2  Strongly disagree SCHOOL CLIMATE Anti-racism I believe my school actively works towards combating"
+  },
+  {
+    "id": 25,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "or nervous. 15  Strongly agree 14  Agree 17  Somewhat agree 6  Somewhat disagree 5  Disagree 2  Strongly disagree SCHOOL CLIMATE Anti-racism I believe my school actively works towards combating racism within the campus community. 87  Agree 8 USE OF SERVICES Psychotropic medication use, all students (past year) In the past 12 months have you taken any of the following types of medications? Please count only those you took, or are taking, several times per week. (Select all that apply) 7  Psychostimulants (e.g., methylphenidate (Ritalin, or Concerta), amphetamine salts (Adderall), dextroamphetamine (Dexedrine), etc.) 20  Anti-depressants (e.g., fluoxetine (Prozac), sertraline (Zoloft), paroxetine (Paxil), escitalopram (Lexapro), venlafaxine (Effexor), buproprion (Wellbutrin), etc.) 1"
+  },
+  {
+    "id": 26,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "(Dexedrine), etc.) 20  Anti-depressants (e.g., fluoxetine (Prozac), sertraline (Zoloft), paroxetine (Paxil), escitalopram (Lexapro), venlafaxine (Effexor), buproprion (Wellbutrin), etc.) 1  Anti-psychotics (e.g., haloperidol (Haldol), clozapine (Clozaril), risperidone (Risperdal), olanzapine (Zyprexa), etc.) 9  Anti-anxiety medications (e.g., lorazepam (Ativan), clonazepam (Klonopin), alprazolam (Xanax), buspirone (BuSpar), etc.) 3  Mood stabilizers (e.g., lithium, valproate (Depakote), lamotrigine (Lamictal), carbamazapine (Tegretol), etc.) 4  Sleep medications (e.g., zolpidem (Ambien), zaleplon (Sonata), etc.) 3  Other medication for mental or emotional health 71  None Psychotropic medication use among students with positive depression or anxiety screens (past year) In the past 12"
+  },
+  {
+    "id": 27,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "zaleplon (Sonata), etc.) 3  Other medication for mental or emotional health 71  None Psychotropic medication use among students with positive depression or anxiety screens (past year) In the past 12 months have you taken any of the following types of medications? Please count only those you took, or are taking, several times per week. (Select all that apply) 10  Psychostimulants (e.g., methylphenidate (Ritalin, or Concerta), amphetamine salts (Adderall), dextroamphetamine (Dexedrine), etc.) 30  Antidepressants (e.g., fluoxetine (Prozac), sertraline (Zoloft), paroxetine (Paxil), escitalopram (Lexapro), venlafaxine (Effexor), buproprion (Wellbutrin), etc.) 2  Anti-psychotics (e.g., haloperidol (Haldol), clozapine (Clozaril), risperidone (Risperdal), olanzapine (Zyprexa), etc.) 14"
+  },
+  {
+    "id": 28,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "(Lexapro), venlafaxine (Effexor), buproprion (Wellbutrin), etc.) 2  Anti-psychotics (e.g., haloperidol (Haldol), clozapine (Clozaril), risperidone (Risperdal), olanzapine (Zyprexa), etc.) 14  Anti-anxiety medications (e.g., lorazepam (Ativan), clonazepam (Klonopin), alprazolam (Xanax), buspirone (BuSpar), etc.) 5  Mood stabilizers (e.g., lithium, valproate (Depakote), lamotrigine (Lamictal), carbamazapine (Tegretol), etc.) 7  Sleep medications (e.g., zolpidem (Ambien), zaleplon (Sonata), etc.) 4  Other medication for mental or emotional health 60  None 9 Mental health counseling therapy, all students Informal help-seeking (past year) In the past 12 months have you received counseling or support for In the past 12 months have you received counseling your mental or emotional health from any"
+  },
+  {
+    "id": 29,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "Informal help-seeking (past year) In the past 12 months have you received counseling or support for In the past 12 months have you received counseling your mental or emotional health from any of the following sources? or therapy for your mental or emotional health from a (Select all that apply) health professional (such as psychiatrist, psychologist, social worker, or primary care doctor)? 15  Roommate 42  Friend (who is not a roommate) 36  32  Significant other 41  Family member 4  Religious counselor or other religious contact Mental health counseling therapy among 2  Support group students with positive depression or anxiety screens (past year) 6  Faculty member professor In the past 12 months have you received counseling or 3  Staff member therapy for your mental or emotional health"
+  },
+  {
+    "id": 30,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "with positive depression or anxiety screens (past year) 6  Faculty member professor In the past 12 months have you received counseling or 3  Staff member therapy for your mental or emotional health from a health professional (such as psychiatrist, psychologist, 1  Other non-clinical source social worker, or primary care doctor)? 31  None of the above Barriers to help-seeking 46  Inthepast12months,whichofthefollowingfactorshavecaused youtoreceivefewerservices(counseling,therapy,ormedications) foryourmentaloremotionalhealththanyouwouldhaveotherwise received? (Select all that apply) Mental health counseling therapy, all students 5  I haven't had the chance to go but I plan to (lifetime) 35  No need for services Have you ever received counseling or therapy for mental health concerns? 21"
+  },
+  {
+    "id": 31,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "counseling therapy, all students 5  I haven't had the chance to go but I plan to (lifetime) 35  No need for services Have you ever received counseling or therapy for mental health concerns? 21  Financial reasons (too expensive, not covered by insurance) 24  Not enough time 15  Not sure where to go 53  11  Difficulty finding an available appointment 21  Prefer to deal with issues on my own or with support from family friends Mental health counseling therapy among 4  Privacy concerns students with positive depression or anxiety screens (lifetime) 7  People providing services don't understand me Have you ever received counseling or therapy for mental 4  Other health concerns? 13  No barriers 65  10 REFERENCES MENTAL HEALTH SCREENS Center for Collegiate Mental Health (2015). CCAPS User"
+  },
+  {
+    "id": 32,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "me Have you ever received counseling or therapy for mental 4  Other health concerns? 13  No barriers 65  10 REFERENCES MENTAL HEALTH SCREENS Center for Collegiate Mental Health (2015). CCAPS User Manual. University Park, PA. Diener, E., Wirtz, D., Tov, W., Kim-Prieto, C., Choi, D., Oishi, S.,   Biswas-Diener, R. (2009). New measures of well-being: Flourishing and positive and negative feelings. Social Indicators Research, 39, 247-266. Morgan, J. F., Reid, F.,   Lacey, J. H. (1999). The SCOFF questionnaire: assessment of a new screening tool for eating disorders BMJ, 319(7223), 1467-1468. Spitzer, R. L., Kroenke, K., Williams, J. B.,   Patient Health Questionnaire Primary Care Study Group. (1999). Validation and utility of a self-report version of PRIME-MD: the PHQ primary care study."
+  },
+  {
+    "id": 33,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "Spitzer, R. L., Kroenke, K., Williams, J. B.,   Patient Health Questionnaire Primary Care Study Group. (1999). Validation and utility of a self-report version of PRIME-MD: the PHQ primary care study. JAMA, 282(18), 1737-1744. Spitzer, R. L., Kroenke, K., Williams, J. B.,   L we, B. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. Archives of Internal Medicine, 166(10), 1092-1097. SELECTED ARTICLES PUBLISHED WITH HMS DATA Eisenberg, D., Golberstein, E., Hunt, J. (2009). Mental Health and Academic Success in College. B.E. Journal of Economic Analysis   Policy 9(1) (Contributions): Article 40. Cohen, K., Manikandan, D., Jirsa, M., Gatto, A.,   Zhou, S. (2023). Mental healthcare on college campuses during COVID-19: Comparing Telehealth, In-person, and Hybrid"
+  },
+  {
+    "id": 34,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "(Contributions): Article 40. Cohen, K., Manikandan, D., Jirsa, M., Gatto, A.,   Zhou, S. (2023). Mental healthcare on college campuses during COVID-19: Comparing Telehealth, In-person, and Hybrid modes of delivery. Journal of American College Health (in press). Eisenberg, D., Hunt, J.B., Speer, N., Zivin, K. (2011). Mental Health Service Utilization among College Students in the United States. Journal of Nervous and Mental Disease 199(5): 301-308. Eisenberg, D., Chung, H. (2012). Adequacy of Depression Treatment in College Student Populations. General Hospital Psychiatry 34(3):213-220. Eisenberg, D., Speer, N., Hunt, J.B. (2012). Attitudes and Beliefs about Treatment among College Students with Untreated Mental Health Problems. Psychiatric Services 63(7): 711-713. Eisenberg, D., Hunt,"
+  },
+  {
+    "id": 35,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "D., Speer, N., Hunt, J.B. (2012). Attitudes and Beliefs about Treatment among College Students with Untreated Mental Health Problems. Psychiatric Services 63(7): 711-713. Eisenberg, D., Hunt, J.B., Speer, N. (2013). Mental Health in American Colleges and Universities: Variation across Student Subgroups and across Campuses. Journal of Nervous and Mental Disease 201(1): 60-67. Halladay, J, Freibott, C, Lipson, S, Zhou, S,   Eisenberg, D (2022). Trends in co-occurrence of substance use and mental health symptomatology in a national sample of US post-secondary students from 2009-2019. Journal of American College Health. Lipson, S., Gaddis, S.M., Heinze, J., Beck, K., Eisenberg, D. (2015). Variations in Student Mental Health and Treatment Utilization Across US Colleges and Universities."
+  },
+  {
+    "id": 36,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "of American College Health. Lipson, S., Gaddis, S.M., Heinze, J., Beck, K., Eisenberg, D. (2015). Variations in Student Mental Health and Treatment Utilization Across US Colleges and Universities. Journal of American College Health, 63(6): 388-396. Lipson, S., Zhou, S., Wagner, B., Beck, K., Eisenberg, D. (2016). Major differences: Variations in student mental health and service utilization across academic disciplines. Journal of College Student Psychotherapy, 30(1), 23-41. Lipson, S, Zhou, S, Abelson, S, Heinze, J, Jirsa, M, Morigney, J, Patterson, A, Singh, M,   Eisenberg, D (2022). Trends in college student mental health and help-seeking by race ethnicity: findings from the national Healthy Minds Study, 2013-2021. Journal of Affective Disorders. Lipson, S, Phillips, M, Winquist, N,"
+  },
+  {
+    "id": 37,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "in college student mental health and help-seeking by race ethnicity: findings from the national Healthy Minds Study, 2013-2021. Journal of Affective Disorders. Lipson, S, Phillips, M, Winquist, N, Eisenberg, D,   Lattie, EG (2021). Community college student mental health: a national study comparing prevalence and service use at community colleges and four-year institutions. Psychiatric Services. 11 REFERENCES CONTINUED SELECTED ARTICLES PUBLISHED WITH HMS DATA Lipson, S, Raifman, J, Abelson, S,   Reisner, S (2019). Gender minority mental health in the U.S.: results of a national survey on college campuses. American Journal of Preventive Medicine, 57(3), 293-301. Lipson, S, Lattie, E,   Eisenberg, D (2018). Increased rates of mental health service utilization by U.S. college students:"
+  },
+  {
+    "id": 38,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "college campuses. American Journal of Preventive Medicine, 57(3), 293-301. Lipson, S, Lattie, E,   Eisenberg, D (2018). Increased rates of mental health service utilization by U.S. college students: 10-year population-level trends (2007-2017). Psychiatric Services, 70(1), 60-63. Sonneville, K,   Lipson, S (2018). Disparities in eating disorder diagnosis and treatment according to weight status, race ethnicity, socioeconomic background, and sex among college students. International Journal of Eating Disorders, 51(6), 518-526. Zhou, S., Banawa, R.,   Oh, H. (2023). Stop Asian Hate: The Mental Health Impact of Racial Discrimination Among Asian Pacific Islander Young and Emerging Adults during COVID-19. Journal of Affective Disorders (in press). Zhou, S., Banawa, R.,   Oh, H. (2021). The"
+  },
+  {
+    "id": 39,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "Health Impact of Racial Discrimination Among Asian Pacific Islander Young and Emerging Adults during COVID-19. Journal of Affective Disorders (in press). Zhou, S., Banawa, R.,   Oh, H. (2021). The mental health impact of COVID-19 racial and ethnic discrimination against asian american and pacific islanders. Frontiers in Psychiatry, 12, 1950. Email: healthyminds umich.edu Website: www.healthymindsnetwork.org 12 APPENDIX: DESCRIPTIVE STATISTICS FOR SURVEY ITEMS MEASURE All Students 95  CONFIDENCE INTERVAL Respondent Characteristics Sample N 76406 Response Rate 9  Gender Female 54  (53 , 55 ) Male 41  (40 , 42 ) Other 4  (3 , 4 ) Race Ethnicity White   Caucasian 61  (61 , 62 ) Black   African American 16  (16 , 17 ) Hispanic   Latino 16  (16 , 17 ) American Indian 2  (2 , 2 ) Arab   Middle"
+  },
+  {
+    "id": 40,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "41  (40 , 42 ) Other 4  (3 , 4 ) Race Ethnicity White   Caucasian 61  (61 , 62 ) Black   African American 16  (16 , 17 ) Hispanic   Latino 16  (16 , 17 ) American Indian 2  (2 , 2 ) Arab   Middle Eastern 2  (2 , 2 ) Asian   Asian American 12  (11 , 12 ) Pacific Islander 1  (1 , 1 ) Other 2  (2 , 2 ) Country US Resident   Citizen 93  (93 , 93 ) International 7  (7 , 7 ) Residence Campus residence hall 30  (29 , 30 ) Fraternity   sorority house 1  (1 , 1 ) Other campus housing 8  (8 , 8 ) Off-campus   non-university housing 32  (31 , 33 ) Parent or guardian's home 26  (25 , 26 ) Other 4  (3 , 4 ) Academic level Associates 22  (22 , 23 ) Bachelors 61  (60 , 61 ) Masters 10  (9 , 10 ) JD 1  (1 , 1 ) MD 2  (2 , 2 ) PhD or equivalent 3  (3 , 4 ) Other 3  (3 , 3 ) Non-degree 2  (1 , 2 ) Age"
+  },
+  {
+    "id": 41,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": ", 4 ) Academic level Associates 22  (22 , 23 ) Bachelors 61  (60 , 61 ) Masters 10  (9 , 10 ) JD 1  (1 , 1 ) MD 2  (2 , 2 ) PhD or equivalent 3  (3 , 4 ) Other 3  (3 , 3 ) Non-degree 2  (1 , 2 ) Age 18-22 68  (68 , 69 ) 23-25 11  (10 , 11 ) 26-30 8  (8 , 9 ) 31  12  (12 , 13 ) Highest educational attainment of either parent Less than high school degree 5  (5 , 6 ) High school degree 26  (26 , 27 ) College degree 37  (37 , 38 ) Graduate degree 31  (30 , 31 ) Current financial situation Always stressful 18  (17 , 19 ) Often stressful 25  (24 , 25 ) Stressful 34  (33 , 34 ) Rarely Stressful 17  (17 , 18 ) Never Stressful 7  (6 , 7 ) 13 Respondent Characteristics MEASURE All Students 95  CONFIDENCE INTERVAL Financial situation growing up Always stressful 14  (13 , 14 ) Often stressful 19  (18"
+  },
+  {
+    "id": 42,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": ", 18 ) Never Stressful 7  (6 , 7 ) 13 Respondent Characteristics MEASURE All Students 95  CONFIDENCE INTERVAL Financial situation growing up Always stressful 14  (13 , 14 ) Often stressful 19  (18 , 20 ) Stressful 27  (27 , 28 ) Rarely Stressful 25  (25 , 26 ) Never Stressful 14  (14 , 15 ) Sexual orientation Heterosexual 73  (73 , 74 ) Bisexual 13  (13 , 13 ) Gay   lesbian 3  (3 , 3 ) Queer 4  (4 , 4 ) Questioning 3  (3 , 3 ) Self-identify 2  (2 , 2 ) Mental Health Measures Positive Mental Health Flourishing Scale (8-56) 43.0 (42.8, 43.1) Depression (PHQ-9) Overall score (0-27) 9.0 (8.9, 9.1) In moderate range (10-14) 18  (18 , 19 ) In moderately severe range (15-19) 11  (10 , 11 ) In severe range (20-27) 7  (7 , 8 ) Major depression (positive screen) 20  (20 , 21 ) Other depression"
+  },
+  {
+    "id": 43,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "9.1) In moderate range (10-14) 18  (18 , 19 ) In moderately severe range (15-19) 11  (10 , 11 ) In severe range (20-27) 7  (7 , 8 ) Major depression (positive screen) 20  (20 , 21 ) Other depression (positive screen) 20  (20 , 21 ) Depression overall 41  (40 , 42 ) Impairment from depression (1) Not difficult at all 23  (22 , 23 ) Somewhat difficult 54  (53 , 55 ) Very difficult 16  (16 , 17 ) Extremely difficult 7  (6 , 7 ) Generalized anxiety (GAD-7) Overall score (0-21) 7.9 (7.8, 8.0) In moderate range (10-14) 19  (18 , 19 ) In severe range (15-21) 17  (16 , 17 ) Probable anxiety disorder (positive screen) 36  (35 , 36 ) Depression Anxiety Depression or anxiety disorder 49  (49 , 50 ) Disordered eating and body image Probable eating disorder (3  on SCOFF) 14  (14 , 15 ) Need to be very"
+  },
+  {
+    "id": 44,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "screen) 36  (35 , 36 ) Depression Anxiety Depression or anxiety disorder 49  (49 , 50 ) Disordered eating and body image Probable eating disorder (3  on SCOFF) 14  (14 , 15 ) Need to be very thin to feel good about self 30  (29 , 31 ) Think you are very underweight 2  (2 , 2 ) Academic impairment from mental health, past 4 weeks (2) None 19  (18 , 19 ) 1-2 days 29  (28 , 30 ) 3-5 days 23  (22 , 24 ) 6 or more days 22  (22 , 23 ) (1) How difficult have these problems made it for you to do your work, take care of things at home, or get along with other people? (2) How many days have you felt that emotional or mental difficulties have hurt your academic performance? 14 Self-Injury and Suicide MEASURE All Students 95  CONFIDENCE INTERVAL Non-suicidal self-injury, past year Any 29  (28 , 30 )"
+  },
+  {
+    "id": 45,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "emotional or mental difficulties have hurt your academic performance? 14 Self-Injury and Suicide MEASURE All Students 95  CONFIDENCE INTERVAL Non-suicidal self-injury, past year Any 29  (28 , 30 ) Cutting self 6  (6 , 7 ) Burning self 2  (2 , 3 ) Punching or banging self 11  (11 , 12 ) Scratching self 11  (11 , 12 ) Pulling one's hair 10  (10 , 11 ) Biting self 6  (6 , 7 ) Interfering with wound healing 11  (10 , 11 ) Carving words or symbols in skin 1  (1 , 1 ) Rubbing sharp objects on skin 4  (3 , 4 ) Punching or banging wall or object 9  (8 , 9 ) Other 2  (2 , 2 ) Suicidality Seriously thought about attempting suicide, 14  (14 , 15 ) past year Made a plan for attempting suicide, past 6  (6 , 7 ) year Attempted suicide, past year 2  (2 , 2 ) 15 Previous Diagnoses of Mental Disorders"
+  },
+  {
+    "id": 46,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "thought about attempting suicide, 14  (14 , 15 ) past year Made a plan for attempting suicide, past 6  (6 , 7 ) year Attempted suicide, past year 2  (2 , 2 ) 15 Previous Diagnoses of Mental Disorders MEASURE All Students 95  CONFIDENCE INTERVAL Mental disorders Any 46  (45 , 47 ) Depression or mood disorder Any 30  (29 , 31 ) Major depression 16  (15 , 16 ) Dysthymia 3  (2 , 3 ) Premenstrual dysphoric disorder 1  (1 , 1 ) Bipolar and related disorders Any 3  (3 , 4 ) Bipolar I disorder 1  (1 , 1 ) Bipolar II disorder 1  (1 , 2 ) Cyclothymic disorder 0  (0 , 0 ) Anxiety disorder Any 36  (35 , 37 ) Generalized anxiety disorder 29  (28 , 29 ) Panic disorder 5  (5 , 6 ) Agorophobia 1  (0 , 1 ) Specific phobia 1  (1 , 1 ) Social anxiety disorder or social phobia 8  (8 , 9 )"
+  },
+  {
+    "id": 47,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "Any 36  (35 , 37 ) Generalized anxiety disorder 29  (28 , 29 ) Panic disorder 5  (5 , 6 ) Agorophobia 1  (0 , 1 ) Specific phobia 1  (1 , 1 ) Social anxiety disorder or social phobia 8  (8 , 9 ) Obsessive-compulsive or related disorders Any 6  (6 , 7 ) Obsessive-compulsive disorder 5  (5 , 5 ) Trauma and stressor related disorders Any 10  (10 , 10 ) Posttraumatic stress disorder 8  (8 , 9 ) Acute stress disorder 1  (1 , 1 ) Psychotic disorder Any 1  (1 , 1 ) Schizophrenia 0  (0 , 0 ) Neurodevelopmental disorder or intellectual disability Any 12  (12 , 12 ) ADHD 10  (10 , 11 ) Other intellectual disability 1  (1 , 1 ) Autism spectrum disorder 2  (2 , 3 ) Eating disorder Any 5  (5 , 5 ) Anorexia nervosa 2  (2 , 3 ) Bulimia nervosa 1  (1 , 1 ) Binge eating disorder 1  (1 , 1 ) Personality"
+  },
+  {
+    "id": 48,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "disability 1  (1 , 1 ) Autism spectrum disorder 2  (2 , 3 ) Eating disorder Any 5  (5 , 5 ) Anorexia nervosa 2  (2 , 3 ) Bulimia nervosa 1  (1 , 1 ) Binge eating disorder 1  (1 , 1 ) Personality disorder Any 2  (1 , 2 ) Substance abuse disorder Any 2  (2 , 2 ) Alcohol abuse disorder 1  (1 , 1 ) Opioid Use Disorder 0  (0 , 0 ) 16 Health Behaviors and Lifestyle MEASURE All Students 95  CONFIDENCE INTERVAL Substance use, past 30 days Cigarettes 8  (7 , 9 ) Vape pen or E-Cigarette 2  (2 , 2 ) Marijuana 23  (22 , 24 ) Cocaine 1  (1 , 1 ) Heroin 0  (0 , 0 ) Opioid pain relievers without a prescription 0  (0 , 1 ) or more than prescribed Benzodiazepenes 1  (1 , 1 ) Methamphetamines 0  (0 , 0 ) Other stimulants without a prescription or 1  (1 , 2 ) more than prescribed MDMA (also known as Ecstasy"
+  },
+  {
+    "id": 49,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "0  (0 , 1 ) or more than prescribed Benzodiazepenes 1  (1 , 1 ) Methamphetamines 0  (0 , 0 ) Other stimulants without a prescription or 1  (1 , 2 ) more than prescribed MDMA (also known as Ecstasy or Molly) 0  (0 , 0 ) Ketamine (also known as K, Special K) 0  (0 , 0 ) LSD (also known as acid) 0  (0 , 1 ) Psilocybin (also known as magic 2  (2 , 2 ) mushrooms, boomers, shrooms) Kratom 0  (0 , 0 ) Athletic performance enhancers (anything 0  (0 , 0 ) that violates policies set by school or any athletic governing body) Other drugs without a prescription 1  (1 , 1 ) In the past 2 weeks, about how many times did you have 4 [female] 5 [male] 4 or 5 [not female or male] or more alcoholic drinks in a row? (1 drink is a can of beer, a glass of wine, a wine cooler, a shot of liquor, or a mixed"
+  },
+  {
+    "id": 50,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "how many times did you have 4 [female] 5 [male] 4 or 5 [not female or male] or more alcoholic drinks in a row? (1 drink is a can of beer, a glass of wine, a wine cooler, a shot of liquor, or a mixed drink.) More than one time 32  (31 , 32 ) More than 3 times 10  (10 , 11 ) Attitudes and Beliefs about Services ...think less of someone who has received mental health treatment. I... 6  (6 , 7 ) Most people... 41  (40 , 42 ) I know where to go to access resources. Agree or strongly agree 76  (76 , 77 ) 17 Help-Seeking MEASURE All Students 95  CONFIDENCE INTERVAL Think you needed help for emotional or mental health problems, past year Strongly agree 25  (25 , 26 ) Agree 17  (17 , 18 ) Somewhat agree 15  (15 , 16 ) Somewhat disagree 5  (5 , 6 ) Disagree 12  (12 , 13 ) Strongly disagree 13  (12"
+  },
+  {
+    "id": 51,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "or mental health problems, past year Strongly agree 25  (25 , 26 ) Agree 17  (17 , 18 ) Somewhat agree 15  (15 , 16 ) Somewhat disagree 5  (5 , 6 ) Disagree 12  (12 , 13 ) Strongly disagree 13  (12 , 13 ) Psychotropic medication use Any, current 24  (23 , 24 ) Psychostimulants 7  (7 , 7 ) Anti-depressants 20  (20 , 21 ) Anti-psychotics 1  (1 , 2 ) Anti-anxiety 9  (8 , 10 ) Mood stabilizers 3  (3 , 3 ) Other 3  (3 , 3 ) Prescriber (among those with any past-year medication use) General practitioner nurse 58  (56 , 59 ) practitioner primary care physician Psychiatrist 40  (39 , 42 ) Other type of health provider 4  (4 , 5 ) No prescription 4  (3 , 4 ) Don't know 2  (1 , 2 ) Discussed medication with provider, past year (among those with medication use) Not at all 8  (7 , 10 ) 1-2 times 34"
+  },
+  {
+    "id": 52,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "of health provider 4  (4 , 5 ) No prescription 4  (3 , 4 ) Don't know 2  (1 , 2 ) Discussed medication with provider, past year (among those with medication use) Not at all 8  (7 , 10 ) 1-2 times 34  (33 , 35 ) 3-5 times 28  (27 , 30 ) More than 5 times 27  (26 , 28 ) Whom you would talk to, if you were experiencing serious emotional distress Professional clinician 36  (36 , 37 ) Roommate 16  (15 , 16 ) Friend (who is not a roommate) 44  (44 , 45 ) Significant other 35  (34 , 35 ) Family member 46  (45 , 46 ) Religious counselor   other religious contact 6  (6 , 7 ) Support group 4  (3 , 4 ) Other non-clinical source 2  (1 , 2 ) No one 10  (10 , 11 ) Therapy or counseling for mental health Past year 36  (35 , 36 ) Current 20  (19 , 20 ) Visits in past year, among those with any 1-3 32"
+  },
+  {
+    "id": 53,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": ") Other non-clinical source 2  (1 , 2 ) No one 10  (10 , 11 ) Therapy or counseling for mental health Past year 36  (35 , 36 ) Current 20  (19 , 20 ) Visits in past year, among those with any 1-3 32  (31 , 33 ) 4-6 19  (18 , 20 ) 7-9 13  (13 , 14 ) More than 10 8  (7 , 8 ) Use of specific providers for therapy or counseling for mental health Campus Provider A 15  (15 , 16 ) Campus Provider B 2  (2 , 2 ) Campus Provider C 0  (0 , 0 ) Psychiatric emergency services 2  (2 , 2 ) Inpatient psychiatric hospital 2  (2 , 3 ) Partial hospitalization program 1  (1 , 1 ) Provider in the local community (not on 13  (12 , 13 ) campus) Provider in another location (such as 26  (26 , 27 ) hometown) Other 6  (5 , 6 ) 18 Help-Seeking MEASURE All Students 95  CONFIDENCE INTERVAL Any medication or therapy"
+  },
+  {
+    "id": 54,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "(not on 13  (12 , 13 ) campus) Provider in another location (such as 26  (26 , 27 ) hometown) Other 6  (5 , 6 ) 18 Help-Seeking MEASURE All Students 95  CONFIDENCE INTERVAL Any medication or therapy for mental health Past year 46  (45 , 46 ) Current 34  (33 , 34 ) Any medication or therapy, among those with positive depression or anxiety screen Past year 59  (58 , 60 ) Current 46  (45 , 47 ) Received counseling or support for mental health from these sources, past year Roommate 15  (15 , 16 ) Friend (other than roommate) 42  (42 , 43 ) Significant other 32  (31 , 32 ) Family member 41  (40 , 41 ) Religious contact 4  (4 , 4 ) Support group 2  (2 , 3 ) Other non-clinical source 1  (1 , 1 ) None of the above 31  (31 , 32 ) How helpful, overall, do you think the medication(s) was or has been"
+  },
+  {
+    "id": 55,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": ") Religious contact 4  (4 , 4 ) Support group 2  (2 , 3 ) Other non-clinical source 1  (1 , 1 ) None of the above 31  (31 , 32 ) How helpful, overall, do you think the medication(s) was or has been for your mental or emotional health? Very helpful 10  (9 , 10 ) Helpful 7  (7 , 8 ) Somewhat helpful 5  (5 , 6 ) Not helpful 2  (2 , 2 ) How helpful, overall, do you think therapy or counseling was or has been for your mental or emotional health? Very helpful 16  (15 , 16 ) Helpful 12  (12 , 13 ) Somewhat helpful 12  (11 , 12 ) Not helpful 6  (6 , 6 ) 19 Satisfaction with Therapy, Campus Providers MEASURE All Students 95  CONFIDENCE INTERVAL Convenient hours Very dissatisfied 4  (3 , 4 ) Dissatisfied 6  (5 , 7 ) Somewhat dissatisfied 9  (9 , 10 ) Somewhat satisfied 20  (19 , 21 ) Satisfied 39"
+  },
+  {
+    "id": 56,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "MEASURE All Students 95  CONFIDENCE INTERVAL Convenient hours Very dissatisfied 4  (3 , 4 ) Dissatisfied 6  (5 , 7 ) Somewhat dissatisfied 9  (9 , 10 ) Somewhat satisfied 20  (19 , 21 ) Satisfied 39  (38 , 41 ) Very satisfied 21  (20 , 23 ) Location Very dissatisfied 2  (2 , 3 ) Dissatisfied 3  (2 , 3 ) Somewhat dissatisfied 5  (4 , 5 ) Somewhat satisfied 13  (12 , 14 ) Satisfied 46  (45 , 47 ) Very satisfied 31  (29 , 32 ) Quality of therapists Very dissatisfied 4  (4 , 5 ) Dissatisfied 6  (5 , 6 ) Somewhat dissatisfied 8  (7 , 9 ) Somewhat satisfied 17  (16 , 18 ) Satisfied 34  (33 , 36 ) Very satisfied 30  (29 , 31 ) Respect for privacy concerns Very dissatisfied 2  (1 , 2 ) Dissatisfied 2  (1 , 2 ) Somewhat dissatisfied 2  (2 , 3 ) Somewhat satisfied 9  (8 , 10 ) Satisfied 41  (39 ,"
+  },
+  {
+    "id": 57,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "Very satisfied 30  (29 , 31 ) Respect for privacy concerns Very dissatisfied 2  (1 , 2 ) Dissatisfied 2  (1 , 2 ) Somewhat dissatisfied 2  (2 , 3 ) Somewhat satisfied 9  (8 , 10 ) Satisfied 41  (39 , 42 ) Very satisfied 45  (43 , 46 ) Scheduling appointments w o long delays Very dissatisfied 6  (6 , 7 ) Dissatisfied 7  (6 , 8 ) Somewhat dissatisfied 8  (8 , 9 ) Somewhat satisfied 15  (14 , 16 ) Satisfied 34  (33 , 35 ) Very satisfied 29  (28 , 31 ) Respect and consideration for my cultural background Very dissatisfied 1  (1 , 2 ) Dissatisfied 2  (1 , 2 ) Somewhat dissatisfied 2  (2 , 3 ) Somewhat satisfied 9  (8 , 10 ) Satisfied 41  (39 , 42 ) Very satisfied 45  (43 , 46 ) Note: the confidence intervals are wide for these numbers, because the sample sizes are small (these questions were"
+  },
+  {
+    "id": 58,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "satisfied 9  (8 , 10 ) Satisfied 41  (39 , 42 ) Very satisfied 45  (43 , 46 ) Note: the confidence intervals are wide for these numbers, because the sample sizes are small (these questions were only asked of service users). 20 Satisfaction with Therapy, Non-Campus Providers MEASURE All Students 95  CONFIDENCE INTERVAL Convenient hours Very dissatisfied 3  (3 , 4 ) Dissatisfied 4  (3 , 5 ) Somewhat dissatisfied 7  (7 , 8 ) Somewhat satisfied 19  (18 , 20 ) Satisfied 40  (39 , 41 ) Very satisfied 26  (25 , 27 ) Location Very dissatisfied 3  (3 , 3 ) Dissatisfied 4  (4 , 5 ) Somewhat dissatisfied 6  (6 , 7 ) Somewhat satisfied 16  (15 , 17 ) Satisfied 40  (39 , 41 ) Very satisfied 30  (29 , 31 ) Quality of therapists Very dissatisfied 5  (4 , 5 ) Dissatisfied 6  (5 , 6 ) Somewhat"
+  },
+  {
+    "id": 59,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "dissatisfied 6  (6 , 7 ) Somewhat satisfied 16  (15 , 17 ) Satisfied 40  (39 , 41 ) Very satisfied 30  (29 , 31 ) Quality of therapists Very dissatisfied 5  (4 , 5 ) Dissatisfied 6  (5 , 6 ) Somewhat dissatisfied 9  (8 , 9 ) Somewhat satisfied 16  (15 , 17 ) Satisfied 31  (30 , 32 ) Very satisfied 34  (33 , 35 ) Respect for privacy concerns Very dissatisfied 3  (2 , 3 ) Dissatisfied 2  (2 , 2 ) Somewhat dissatisfied 3  (3 , 4 ) Somewhat satisfied 10  (9 , 11 ) Satisfied 36  (34 , 37 ) Very satisfied 47  (45 , 48 ) Scheduling appointments w o long delays Very dissatisfied 5  (4 , 5 ) Dissatisfied 4  (4 , 4 ) Somewhat dissatisfied 7  (6 , 7 ) Somewhat satisfied 15  (14 , 16 ) Satisfied 34  (33 , 35 ) Very satisfied 35  (34 , 36 ) Respect and consideration for my cultural background Very"
+  },
+  {
+    "id": 60,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "4  (4 , 4 ) Somewhat dissatisfied 7  (6 , 7 ) Somewhat satisfied 15  (14 , 16 ) Satisfied 34  (33 , 35 ) Very satisfied 35  (34 , 36 ) Respect and consideration for my cultural background Very dissatisfied 2  (2 , 2 ) Dissatisfied 1  (1 , 1 ) Somewhat dissatisfied 3  (2 , 3 ) Somewhat satisfied 10  (9 , 10 ) Satisfied 37  (36 , 38 ) Very satisfied 47  (46 , 48 ) 21 Barriers and Facilitators to Help-Seeking MEASURE All Students 95  CONFIDENCE INTERVAL Reasons for receiving no or fewer services for mental health I haven't had the chance to go but I plan to. 5  (5 , 5 ) No need for services 35  (34 , 36 ) Financial reasons 21  (20 , 21 ) Not enough time 24  (24 , 25 ) Not sure where to go 15  (15 , 16 ) Difficulty finding an available appointment 11  (11 , 12 ) Prefer to deal with issues on"
+  },
+  {
+    "id": 61,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "(34 , 36 ) Financial reasons 21  (20 , 21 ) Not enough time 24  (24 , 25 ) Not sure where to go 15  (15 , 16 ) Difficulty finding an available appointment 11  (11 , 12 ) Prefer to deal with issues on my own or 21  (20 , 21 ) with support from family friends Other 4  (4 , 5 ) No barriers 13  (13 , 14 ) Reasons for seeking help Decided on my own 74  (74 , 75 ) Friend encouraged or pressured me 17  (17 , 18 ) Family member encouraged or pressured 35  (34 , 36 ) me Other person encouraged or pressured me 5  (5 , 5 ) A campus advisor mandated me to seek 1  (1 , 1 ) help by campus staff I acquired more information about my 1  (1 , 1 ) options A campus advisor referred me to seek help 4  (3 , 4 ) Health professional recommended help 15  (14 , 16 ) Other reasons 4  (3 , 4 ) Source of health"
+  },
+  {
+    "id": 62,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "more information about my 1  (1 , 1 ) options A campus advisor referred me to seek help 4  (3 , 4 ) Health professional recommended help 15  (14 , 16 ) Other reasons 4  (3 , 4 ) Source of health insurance None (uninsured) 5  (4 , 5 ) Parent's employer 50  (49 , 51 ) Own employer 7  (7 , 8 ) Spouse's employer 3  (3 , 3 ) Student plan 8  (7 , 8 ) Embassy or other international source 0  (0 , 0 ) Individual market 2  (2 , 2 ) Public insurance 11  (10 , 11 ) Uncertain whether insured 1  (1 , 1 ) Insured but uncertain of source 3  (3 , 4 ) Plan provides any coverage for local mental health visits (among those with a plan) Yes, it definitely would 25  (25 , 26 ) I think it would but am not sure 22  (22 , 23 ) I have no idea 24  (23 , 24 ) I think it would not but am not sure 6  (5 , 6 ) No, it"
+  },
+  {
+    "id": 63,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "(among those with a plan) Yes, it definitely would 25  (25 , 26 ) I think it would but am not sure 22  (22 , 23 ) I have no idea 24  (23 , 24 ) I think it would not but am not sure 6  (5 , 6 ) No, it definitely would not 3  (2 , 3 ) Plan meets needs for mental health services (among those with a plan) Have not needed plan to cover services 19  (18 , 20 ) Yes, everything I have needed is covered 23  (22 , 23 ) No, the coverage is inadequate to meet my 6  (6 , 7 ) needs 22 Supportiveness of Academic and Social Environment MEASURE All Students 95  CONFIDENCE INTERVAL Talked with any academic personnel 18  (17 , 19 ) about mental health problems affecting performance Supportiveness of response by academic personnel Very supportive 8  (8 , 9 ) Supportive 6  (6 , 6 ) Not supportive 1  (1 , 1 )"
+  },
+  {
+    "id": 64,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "18  (17 , 19 ) about mental health problems affecting performance Supportiveness of response by academic personnel Very supportive 8  (8 , 9 ) Supportive 6  (6 , 6 ) Not supportive 1  (1 , 1 ) Very unsupportive 0  (0 , 0 ) Whom would you talk to about mental health problems affecting academic performance Professor from one of classes 33  (32 , 33 ) Academic advisor 28  (27 , 28 ) Another faculty member 6  (5 , 6 ) Teaching assistant 2  (2 , 2 ) Student services staff 11  (10 , 11 ) Dean of Students or Class Dean 5  (4 , 5 ) Other 4  (4 , 4 ) No one 31  (31 , 32 ) Persistence retention Am confident I will finish my degree no 82  (82 , 83 ) matter the challenges Ethnicity Subcategories Black African 15  (14 , 16 ) African American 74  (72 , 75 ) African Caribbean 14  (13 , 15 ) Afro-Latina"
+  },
+  {
+    "id": 65,
+    "source": "HMS_National-Report-2022-2023_full_da7cc4",
+    "text": "I will finish my degree no 82  (82 , 83 ) matter the challenges Ethnicity Subcategories Black African 15  (14 , 16 ) African American 74  (72 , 75 ) African Caribbean 14  (13 , 15 ) Afro-Latina o x 5  (4 , 6 ) Other 4  (3 , 4 ) Asian East Asian (eg Chinese, Japanese, Korean, 40  (38 , 41 ) Taiwanese) Southeast Asian (eg Cambodian, 15  (14 , 16 ) Vietnamese, Hmong) South Asian (eg Indian, Pakistani, Nepalese, 34  (33 , 35 ) Sri Lankan) Filipina o x 14  (13 , 15 ) Other 3  (3 , 4 ) Hispanic Mexican Mexican American 52  (50 , 54 ) Central American 11  (10 , 12 ) South American 17  (16 , 18 ) Caribbean 15  (14 , 16 ) Spanish Portuguese 7  (6 , 8 ) Other 8  (7 , 9 ) 23"
+  }
+]

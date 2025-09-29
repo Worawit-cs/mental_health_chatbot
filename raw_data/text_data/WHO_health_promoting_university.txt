@@ -1,0 +1,5145 @@
+World Health Organization
+Regional Office for Europe
+Copenhagen
+Health Promoting
+Universities
+Concept, experience and
+framework for action
+Edited by
+Agis D. Tsouros, Gina Dowding,
+Jane Thompson & Mark Dooris
+1
+
+ISBN 92 890 1285 4 EUR/ICP/CHVD 03 09 01
+1998 ENGLISH ONLY
+EDITED
+TARGET 14
+SETTINGS FOR HEALTH PROMOTION
+By the year 2000, all settings of social life and activity, such as the city, school,
+workplace, neighbourhood and home, should provide greater opportunities for
+promoting health.
+Abstract
+Institutions of higher education have long been concerned about promoting health among
+students. The settings-based approach to health promotion can potentially enhance the
+contribution of universities to improving the health of populations and to adding value in
+the following ways: 1) by protecting the health and promoting the wellbeing of students,
+staff and the wider community through their policies and practices, 2) by increasingly
+relating health promotion to teaching and research and 3) by developing health promotion
+alliances and outreach into the community. This working document provides conceptual
+and practical guidance on how to set up and develop a health-promoting university proj-
+ect. It combines a series of innovative case studies from the United Kingdom and the
+outcome of a WHO round table meeting on the criteria and strategies and operational
+attributes of the Health Promoting Universities project and an action framework for a
+European Network of Health Promoting Universities.
+Keywords
+UNIVERSITIES
+HEALTH PROMOTION
+PROGRAMME DEVELOPMENT
+PUBLIC HEALTH – trends
+SUSTAINABILITY
+HEALTH FOR ALL
+HEALTHY CITIES
+EUROPE
+Cover design: Graphic design consultants:
+Matthew J. Sumbland Rowland & Hird, Lancaster, United Kingdom
+© World Health Organization
+All rights in this document are reserved by the WHO Regional Office for Europe. The document may
+nevertheless be freely reviewed, abstracted, reproduced or translated into any other language (but not for
+sale or for use in conjunction with commercial purposes) provided that full acknowledgement is given to
+the source. For the use of the WHO emblem, permission must be sought from the WHO Regional Office.
+Any translation should include the words: The translator of this document is responsible for the accuracy
+of the translation. The Regional Office would appreciate receiving three copies of any translation. Any
+views expressed by named authors are solely the responsibility of those authors.
+3
+
+This document was text processed in Health Documentation Services
+WHO Regional Office for Europe, Copenhagen
+
+Contents
+Page
+Preface......................................................................................................i
+Foreword................................................................................................iii
+Introduction.............................................................................................1
+Agis D. Tsouros
+1. Context
+The historical shift in public health...........................................................5
+John Ashton
+From the healthy city to the healthy university:
+project development and networking.....................................................11
+Agis D. Tsouros
+The settings-based approach to health promotion....................................21
+Mark Dooris, Gina Dowding, Jane Thompson & Cathy Wynne
+2. Health and higher education
+Universities and health in the twenty-first century...................................33
+Nicholas Abercrombie, Tony Gatrell & Carol Thomas
+A common agenda? Health and the greening of higher education.............41
+Peter Toyne & Shirley Ali Khan
+3. Case studies
+Action learning for health on campus:
+muddling through with a model?
+University College of St Martin, Lancaster..............................................45
+Alan Beattie
+Creating a healthy medical school
+University of Newcastle..........................................................................57
+Martin White
+5
+
+Public health education for medical students:
+a problem-based curriculum and new opportunities
+University of Liverpool...........................................................................69
+Gillian Maudsley
+Embracing organizational development for
+health promotion in higher education
+Lancaster University...............................................................................77
+Gina Dowding & Jane Thompson
+The healthy university within a healthy city
+University of Portsmouth.........................................................................95
+Camilla Peterken
+The university as a setting for sustainable health
+University of Central Lancashire...........................................................105
+Mark Dooris
+4. The way forward
+Strategic framework for the Health Promoting Universities project.............121
+Agis D. Tsouros, Gina Dowding & Mark Dooris
+A framework for action by a European Network
+of Health Promoting Universities.........................................................139
+Agis D. Tsouros & Gina Dowding
+Glossary of terms related to higher education
+and the health care system in the United Kingdom...............................137
+Contributors..........................................................................................141
+
+Preface
+Universities can do many things to promote and protect the health of
+students and staff, to create health-conducive working, learning and
+living environments, to protect the environment and promote
+sustainability, to promote health promotion in teaching and research
+and to promote the health of the community and to be a resource for
+the health of the community. The challenge is to develop health-
+promoting university projects that encourage all these aspects. There is
+considerable enthusiasm for and interest in the concept of the health-
+promoting university. Demand for guidance is also growing. This is a
+working document that explores, visualizes and develops the health-
+promoting potential of universities using the settings-based approach
+to health promotion.
+The development of the strategic framework for health-promoting
+university projects and networks has drawn on a number of sources: ex-
+pertise developed by the WHO Healthy Cities Project Office; the experi-
+ence of health-promoting university ongoings, especially those at Lan-
+caster University and the University of Central Lancashire in England; the
+experiences of other settings-based projects, such as Health Promoting
+Schools and Health Promoting Hospitals; the ideas and papers presented
+at the First International Conference on Health Promoting Universities in
+Lancaster, England in 1996; and the WHO round table meeting on the
+criteria and strategies for a new European Network of Health Promoting
+Universities in 1997.
+The commitment and active engagement of senior university ex-
+ecutives is essential to the success of health-promoting university proj-
+ects. I am therefore delighted that two inspired and committed vice-
+chancellors (rectors) in the United Kingdom have endorsed this docu-
+ment.
+I would like to express my gratitude and appreciation to Gina Dow-
+ding for her valuable contribution as the principal technical adviser in
+drafting the papers on strategy and in the preparation of this book. Many
+thanks are also due to Mark Dooris and Jane Thompson, the other two co-
+editors of the book, for their input. Appreciation and many thanks are due
+to the following people whose initial commitment to the idea of the
+i
+
+Preface
+health-promoting university enabled this document to become reality:
+John Ashton (NHS Executive Office North West), Aislinn O’Dwyer
+(NHS Executive Office North West), Tony Gatrell (Lancaster Univer-
+sity Institute for Health Research), Sarah Andrew (Lancaster Univer-
+sity Department of Biological Sciences) and Cathy Wynne (More-
+cambe Bay Centre for Health Promotion). A special word of thanks
+goes to Dominic Harrison, English Health Promoting Hospitals Na-
+tional Network Coordinator, for his support. I thank Birgit Neuhaus for
+valuable editorial assistance. Many thanks to David Breuer for im-
+proving the language and the style of the book.
+Agis D. Tsouros
+Regional Adviser for Urban Health Policies
+Coordinator, Healthy Cities project
+Head, Urban Health Centre
+WHO Regional Office for Europe
+ii
+
+Foreword
+We are very pleased to endorse this book, which provides a timely in-
+troduction to the concept and practice of the health-promoting univer-
+sity.
+Lancaster and Central Lancashire were two of the very first
+universities in Europe to establish health-promoting university projects.
+Though very different – Lancaster is an “old” university, whereas Central
+Lancashire is a “new” university, and Lancaster is a campus university
+some five kilometres from the city, whereas Central Lancashire is situated
+in the heart of the town of Preston – the processes involved in setting up
+and developing the projects have had many similarities. These are
+reflected in the case studies later in the document. Both situated in the
+north-west of England, the two universities have been well placed to
+exchange ideas and experiences. This collaborative approach to the
+development of good practice has been a refreshing expression of the
+projects’ underlying principles within an increasingly competitive
+environment.
+The heart of any health-promoting university initiative must be a
+top-level commitment to embedding an understanding of and com-
+mitment to sustainable health within the organization in its entirety.
+This means a number of things.
+• As large institutions, universities can build a commitment to
+health into their organizational culture, structures and practices –
+creating supportive working, learning and living environments.
+• As major employers, universities can promote staff wellbeing
+through appropriate management, communication and opera-
+tional policies.
+• As creative centres of learning and research, universities have the
+potential to develop, synthesize and apply health-related knowl-
+edge and understanding.
+• As educators of future generations of decision-makers, universi-
+ties have the potential to develop a critical understanding of sus-
+iii
+
+Foreword
+tainable health and a sense of personal and community steward-
+ship – which will affect society at large.
+• As settings within which students become independent, universi-
+ties have both a responsibility and the potential to enable healthy
+personal and social development.
+• As a resource for and a partner in local, national and global com-
+munities, universities have a crucial role in advocating and medi-
+ating for healthy and sustainable public policy.
+As the twenty-first century approaches, universities occupy a unique
+position in society, drawing on a rich educational and cultural heritage,
+while being at the cutting edge of technological and other innovative
+developments. As such, they are ideally placed not only to be part of
+the part of the exciting and expanding movement for health-promoting
+settings but also to provide a testing ground for critically applying,
+evaluating and further developing this approach.
+Brian Booth Bill Ritchie
+Vice-Chancellor Vice-Chancellor
+University of Central Lancashire Lancaster University
+Preston Lancaster
+England England
+United Kingdom United Kingdom
+iv
+
+Introduction
+Agis D. Tsouros
+Universities committed to the principles of health for all and sustain-
+able development can be a tremendous asset to their staff and students,
+to the communities in which they are located and to the wider society
+where their students and trainees will eventually assume professional
+roles.
+This is a working document that explores, visualizes and develops
+the health-promoting potential of universities. It aims to provide con-
+ceptual and practical guidance on how to set up and develop a health-
+promoting university project. Many people intuitively understand the
+concept of a health-promoting university. The meaning, however, the
+scope and focus of university actions aiming at promoting health, can
+vary widely. This variation can be partly explained by differences in
+the perception of health and its determinants and partly by the inter-
+ests, strategic choices and the power and authority of the health advo-
+cates for the university.
+The approach and guidance offered in this document are firmly
+rooted in the principles of health for all and sustainable development,
+the Ottawa Charter for Health Promotion and the theory of and experi-
+ence with settings-based projects. Introducing such concepts as the
+settings approach to health promotion and organizational development
+for health promotion could be impossible without first grasping health
+in its broadest sense. Indeed, broadening the understanding of health
+among university executives and academic disciplines is a crucial step
+in any attempt to introduce and encourage comprehensive health-
+promoting university projects.
+This document is mainly the result of two key events: the First
+International Conference on Health Promoting Universities, in 1996,
+which was organized by Lancaster University in collaboration with the
+WHO Regional Office for Europe and a WHO round table meeting on
+the criteria and strategies for a new European Network of Health Pro-
+1
+
+Introduction
+moting Universities in 1997. The WHO support and input was pro-
+vided through the Healthy Cities Project Office.
+The document blends practice with theory, experience with
+potential and vision with pragmatism. Section 1 concentrates on the
+theory, the principles and the strategic elements that underpin the
+development of the healthy settings approach to public health and
+health promotion. All three chapters of this contextual and guiding
+section draw on the expertise from and experiences with a wide range
+of settings-based projects including healthy city, healthy prison and
+health-promoting hospital projects.
+Sections 2 and 3 unfold into a fascinating account of visions and
+efforts to enhance the health of universities in the United Kingdom
+and their role in working for health. They are used as a comprehensive
+example and source of inspiration, to allow the reader to appreciate the
+multifaceted aspects of the health-promoting university in a real-world
+context and through the specific experiences of several actors. The
+United Kingdom has always provided fertile ground for a host of inno-
+vative health promotion and healthy settings initiatives.
+Section 2 explores the role of health in higher education from the
+perspective of university leaders. The opportunities and constraints for
+the health-promoting university in are discussed in the context of
+national policies and organizational realities. Section 3 consists of a
+set of case studies from six universities. They offer an interesting mix
+of approaches and solutions addressing most aspects of university life
+and activity. Some of them represent fully fledged efforts to translate
+and apply the healthy settings and organizational development theory
+into practice. The reader will find plenty of valuable insights and
+innovative ideas in this section. A glossary of terms related to higher
+education and the health care system in the United Kingdom is
+provided at the end of the document.
+Section 4, consisting of two chapters, provides a strategic framework
+for developing health-promoting university projects and also the terms of
+engagement and the standards for a new European Network of Health
+Promoting Universities. The first chapter covers the aims, objectives, pro-
+cesses, infrastructures and expected outcomes of the Health Promoting
+Universities project. This is not meant to be prescriptive but a guiding
+framework for those interested in developing health-promoting university
+2
+
+Introduction
+projects based on health for all and a settings-based approach to health
+promotion. Networking is a powerful means for promoting commitment,
+change and innovation. Enthusiasm and demand are growing for guid-
+ance on and support to developing the health-promoting university in
+Europe today. This area of development has a very promising future.
+3
+
+The historical shift in
+public health
+John Ashton
+INTRODUCTION
+The idea of a health-promoting university is not really novel. The
+original universities, rooted as they were in the ecclesiastical tradi-
+tion, were concerned with the development of the whole and spiri-
+tual person – and their academic years were synchronized with na-
+ture through the agricultural cycle.
+As with many aspects of people’s fragmented lives today, urbani-
+zation and industrialization probably lies behind the demise of this
+vision of universities as institutions committed to providing truly ho-
+listic education. Yet even with the current emphasis on providing mar-
+ketable skills to equip students for a global market, such a viewpoint
+can be challenged on cost-effectiveness and other grounds if anything
+other than a short-term perspective is applied. Human and personal
+development must run hand in hand with economic development and
+with custodianship of the environment.
+There are eight universities and five degree-awarding colleges in
+the north-west of England and, like those in other regions and other
+countries, they all have the potential to promote health through insti-
+tutional activities, research, teaching and training. The National Health
+Service Executive North West gives a great deal of support for the idea
+and practice of the health-promoting university, which is a natural ex-
+pression of the new public health thinking.
+5
+
+Context
+THE EVOLUTION OF PUBLIC HEALTH:
+FROM THE SANITARY IDEA TO THE SETTING
+The nineteenth-century public health movement centred on the squalor
+of industrial towns and cities. It was geographic in its focus, environ-
+mental in its emphasis and mechanistic in its thinking – the driving
+force being the sanitary idea with its concern to separate human and
+animal waste from food and water. The response was a locally driven
+public health movement backed up in time by public health legislation
+– the streets were paved, sewers were built and safe water was sup-
+plied. A significant impact was made on the problems of the day – and
+if the rivers were polluted downstream of the city limits or plumes of
+industrial smoke from the tall chimneys came to blacken the country-
+side some distance away, what price was that to pay if urban lives
+were saved?
+In time, the environmental emphasis was modified by the advent
+of new technologies such as immunization, vaccination and birth con-
+trol and by an emphasis on individual health and hygiene education.
+This combination of environmentalism and personal prevention led to
+a blossoming of public health characterized by the establishment of
+training courses, professional societies and public health departments
+(1).
+During the 1920s, public health entered its wilderness period –
+which was to last for some 30 or 40 years – as science began to provide
+an array of pharmaceutical treatments that previous generations could
+only have dreamt of. The assumption that the decline in the death rate
+from infectious diseases and the introduction of new pharmaceutical
+agents were causally rather than coincidentally related encouraged a shift
+away from the earlier foci on the environmental determinants of health
+and personal prevention.
+The credit for the renaissance of public health and for the rise of
+what has come to be known as the new public health is shared by a range
+of critics who challenged the ascendancy of what was seen as a
+reductionist and deficient approach to the existential dilemma of life,
+health and death (2–7). Of particular importance was McKewan’s
+analysis of the decline of deaths and infectious diseases in England and
+Wales between 1830 and 1970, which showed that most of the decline in
+6
+
+Context
+deaths from infectious diseases such as tuberculosis in England and
+Wales occurred before any specific prevention or treatment was available
+and that one third of the decline occurred before the cause was known.
+This argument for refocusing on the environmental determinants of health
+and personal prevention coincided with an emerging emphasis on
+ecological thinking that moved beyond the mechanistic sanitary approach
+of the old public health. This new movement for public health found
+expression in three related WHO initiatives: the 1977 Declaration of
+Alma-Ata (8) – which described a vision of primary health care
+integrating public health, population and environmental concerns; the
+strategy for health for all by the year 2000 (9) – with its emphasis on
+equity, public participation, intersectoral collaboration and the need to
+reorient heath systems and services; and the 1986 Ottawa Charter for
+Health Promotion (10) – with its focus on supportive environments and
+public policies to support health development.
+The new and ecological public health has led naturally to a focus
+on settings as environments or habitats within which people live and
+work. One of the first practical attempts to operationalize the new way
+of thinking on a systematic basis came with the WHO Healthy Cities
+project, the intention of which was to take the health for all strategy off
+the shelves and into the streets of Europe (11,12). This has been fol-
+lowed and complemented by a developing focus on other settings, as
+witnessed by the publication of a national health strategy for England
+(13) that specifically advocated action within homes, schools, cities,
+workplaces, hospitals, prisons and environments. In some ways this
+can be seen as a shift from vertical thinking – whereby individual
+public heath problems remain compartmentalized, to horizontal
+thinking – whereby links and interactions are made explicit and a syn-
+ergistic approach is adopted through coordinated action on a range of
+health determinants.
+DEVELOPING SETTINGS
+Although each setting is unique, drawing on the experience of other set-
+tings-based work is valuable in developing the concept of the health-
+promoting university. The framework developed in the north-west of
+7
+
+Context
+England for healthy prisons (14) offers one possible model – looking at
+the setting from the perspective of five parameters: demography, the built
+environment, organizational culture, medical issues and relationships
+with the community.
+Demography
+It is necessary to know about the population that spends time in the
+setting – their characteristics, health beliefs, cultural values and risk
+factors. Without a baseline of demographic knowledge, it is difficult to
+address health needs effectively and efficiently.
+The built environment
+Many people spend more than 90% of their time indoors or between
+buildings. The built environment can affect health and wellbeing
+through such factors as access, air quality, energy consumption, ap-
+propriate use of materials and aesthetics.
+Organizational culture
+In order to be effective, settings-based projects must understand, work
+with and, when necessary, seek to change the cultural values of the
+institution.
+Medical issues
+Like any other setting, universities have specific medical issues that
+affect their particular populations and that are obvious foci for health
+promotion work. Examples include contraception, sports injuries, sub-
+stance misuse and stress.
+Relationships with the community
+The relationship of the university to its community is an essential
+component of a settings-based project. Does it sit there like a visiting
+spaceship with no relationship to its community, or is it an inherent
+part of its community and a resource to it?
+Universities are educating an increasing number and diversity of
+students; they are centres of excellence in research and they are large-
+scale employers. These characteristics, together with the rapid pace of
+8
+
+Context
+change within the higher and further education sectors, offer enormous
+potential for improving the public health. The pioneering work of Lan-
+caster, Central Lancashire and other universities in developing health-
+promoting university projects presents a timely opportunity to reflect
+on their experience, develop methods and apply them to other higher
+education institutions.
+REFERENCES
+1. Ashton, J. & Seymour, H. The new public health. Milton Keynes,
+Open University Press, 1988.
+2. McKeown, T. The role of medicine: dream, mirage or nemesis?
+London, Nuffield Provincial Hospitals Trust, 1876.
+3. Cochrane, A. Effectiveness and efficiency: random reflections on
+health services. London, Nuffield Provincial Hospitals Trust,
+1972.
+4. Morris, J. Uses of epidemiology. Edinburgh, Churchill Living-
+stone, 1975.
+5. Illich, I. Medical nemesis: the expropriation of health. London,
+Calder & Boyers, 1975.
+6. Townsend, P. Inequality and the health service. Lancet, i: 1179–
+1190 (1974).
+7. Lalonde, M. A new perspective on the health of Canadians.
+Ottawa, Information Canada, 1974.
+8. Alma-Ata 1978. Primary health care. Geneva, World Health
+Organization, 1978 (“Health For All” Series No. 1).
+9. Global strategy for health for all by the year 2000. Geneva,
+World Health Organization, 1981 (“Health For All” Series,
+No. 3).
+10. Ottawa Charter for Health Promotion (1986). Health promotion
+international, 1(4): iii–v (1986) and Canadian journal of public
+health, 77(6): 425–430 (1986).
+11. Ashton, J. et al. Healthy Cities – WHO’s new public health initia-
+tive. Health promotion international, 1(3): 319–323 (1986).
+12. Tsouros, A.D., ed. World Health Organization Healthy Cities
+project: a project becomes a movement. Review of progress 1987
+9
+
+Context
+to 1990. Copenhagen, FADL Publishers and Milan, SOGESS,
+1991.
+13. Secretary of State for Health. The health of the nation. A strategy
+for health in England. London, H.M. Stationery Office, 1992.
+14. Squires, N. & Strobl, J. Healthy prison: a vision for the future.
+Report of a conference 24–27 March 1996. Liverpool, University
+of Liverpool, 1997.
+10
+
+From the healthy city to
+the healthy university:
+project development and
+networking
+Agis D. Tsouros
+INTRODUCTION
+The strategy and operation of the WHO Healthy Cities project offer a
+useful framework for developing health-promoting university projects.
+This chapter outlines the strategy and operations and provides insight
+and guidance for strategies for implementing such projects.
+The concept of the health-promoting university is powerful. The
+challenge is to give it, from the very start, a broad and strategic scope,
+objectives that reflect the philosophy and principles of health for all
+and sustainability and tools that are appropriate for a settings-based
+approach to health promotion. The concept of the health-promoting
+university means much more than conducting health education and
+health promotion for students and staff. It means integrating health
+into the culture, processes and policies of the university. It means un-
+derstanding and dealing with health in a different way and developing
+an action framework that blends such factors as empowerment, dia-
+logue, choice and participation with goals for equity, sustainability and
+health-conducive living, working and learning environments.
+Universities can potentially develop into model health-promoting
+settings. They have the intellectual capacities, the skills, the authority and
+the credibility for this purpose. Universities are also a valuable resource
+for the communities in which they are located. Investing in the health-
+promoting university is above all an investment in the future.
+11
+
+Context
+CONCEPT AND PROCESSES:
+THE MAKING OF A NEW PROJECT
+Health is everybody’s business. One of the most important aspects of
+the settings-based approach to health promotion is that it creates proc-
+esses that enable many new actors and systems encouraging initiative,
+participation and creativity to contribute. Perhaps the most difficult
+barrier to overcome is the tendency to perceive health only as the ab-
+sence of disease, unhealthy behaviour or the application of safety stan-
+dards. The new public health movement inspired by the strategy for
+health for all and the experience with health-promoting settings such
+as the healthy city and the health-promoting school and hospital have
+generated a climate that is much more favourable to change than was
+the climate a few years ago.
+Defining the concept of the health-promoting university and the pro-
+cess by which it can be developed is not an academic exercise. It is a
+strategic exercise that should combine visionary thinking with pragma-
+tism and clear principles with tangible outcome. Failing to give the
+health-promoting university project a holistic breadth on the basis of (nar-
+row-minded) pragmatism would be as erroneous as presenting the project
+as an abstract exercise in organizational development without spelling out
+what benefits it will bring.
+A project is used to implement the concept. Projects, in the mod-
+ern sense of the term, are important tools for achieving change, dealing
+with uncertainty and building alliances across sectors and depart-
+ments.
+The strategies and experience of healthy city projects can be used
+as a reference framework for developing the concept of health-
+promoting university projects. The following aspects thus need to be
+defined and developed:
+• aim and mission statement
+• philosophy and principles
+• objectives
+• the qualities of the health-promoting university
+• processes for change and development
+• expected outcome
+• monitoring and evaluation
+12
+
+Context
+• project infrastructure
+• project leadership and management
+• start-up process.
+The first three aspects are just as related to scope and clarity as they are
+about to marketing the idea. Being able to capture the imagination of uni-
+versity leaders, sponsors and the mass media is essential. Being able to
+capture the imagination of students is also important. The idea of a
+healthy university may not be terribly appealing to young people who just
+left home (or anyone else) if it is interpreted as establishing control over
+and policing lifestyles. For all these reasons it is important to define the
+qualities of a health-promoting university: describing and visualizing the
+institution in terms of a set of desirable attributes.
+The 11 qualities of a healthy city (1) have contributed signifi-
+cantly in explaining and developing the Healthy Cities project. Im-
+plementing strategies based on settings for health promotion and
+health for all requires explicit political commitment, enabling infra-
+structure, openness to innovation and institutional reform, broadly
+based ownership and effective leadership. Box 1 shows the four key
+aspects of the process of developing healthy city projects. They are
+clearly relevant and adaptable to the health-promoting university.
+Given the breadth and scope of such a project, endorsement of and
+political support for the project by the top executive and academic of-
+ficers and bodies of the university is crucial.
+13
+
+Context
+Box 1. The process of creating a healthy city
+A healthy city project strives to achieve its goals through a process that
+involves:
+• securing political commitment – providing the necessary leadership,
+legitimacy, direction and resources for the project;
+• giving visibility to health – promoting wide appreciation and recogni-
+tion of the major health challenges in the city and the economic, physi-
+cal and social factors that influence them;
+• making institutional changes – encouraging and establishing inter-
+sectoral partnerships, modernizing public health structures and proc-
+esses and promoting the active involvement of the community; and
+• developing innovative actions for health – such as promoting equity
+and sustainability, addressing the health needs of elderly people and
+women, mobilizing action to tackle environmental pollution and accidents
+and developing healthy municipal policies and integrated health plans.
+Making health visible is necessary to promote awareness, dia-
+logue, participation and trust. For example, investigating stress among
+staff and students, absenteeism or inequity in health and publicizing
+reports can generate momentum and commitment to address the prob-
+lems seriously.
+Health for all and sustainable development can only be achieved
+through institutional changes at all levels. Integrating health (in its
+broadest sense) into the university culture and creating horizontal co-
+operation and decision-making processes is a long-term process. Nev-
+ertheless, integrated approaches to health policy and planning based
+on participation and cooperation across sectors and departments can-
+not be implemented without creating enabling mechanisms and the
+capacity for managing and implementing the project. These project-
+linked enabling mechanisms should provide the basis for exploring
+and developing permanent organizational solutions in the longer term.
+Balancing the development of long-term strategic plans with
+short-term deliverables (through a series of carefully chosen projects)
+is an essential aspect of the viability and sustainable future of the proj-
+ect. Innovation must be evident not only in the large visionary exer-
+cises. Innovation means:
+14
+
+Context
+• tackling a problem or issue in a new way (such as by involving
+new actors or by addressing its cause rather than focusing on
+treatment);
+• legitimizing action for an issue about which there was little or no
+recognition or appreciation before (such as addressing inequality);
+and
+• introducing new ways of working, making decisions and ensuring
+accountability as well as new ways of making policy and plan-
+ning.
+Defining the project in terms of specific outcomes and deliverables
+over a specified period will provide the basis for developing indicators
+and targets as well as a framework for monitoring and evaluation.
+Settings-based projects must have adequate implementation ca-
+pacity. To fulfil their objectives they require space, time, resources,
+leadership and management skills. They need to be strategically lo-
+cated within the institution and they need easy access to senior man-
+agement. Developing and coordinating such projects is a complex and
+demanding full-time job and requires people that can provide leader-
+ship and enjoy the respect of senior management.
+An aspect of project development that is often overlooked or un-
+derestimated is the need to invest in creating the preconditions for
+change through a carefully thought out start-up process. Having a good
+understanding of university power and decision-making structures,
+identifying and convincing the key stakeholders, including the stu-
+dents, negotiating resources for the project and producing briefings
+and supporting evidence for different groups are some of the important
+actions in exploring and preparing the ground for the official launch of
+the project. Twenty steps for developing a healthy cities project (2)
+can provide useful strategic guidance in this context.
+15
+
+Context
+PROMOTING COMMITMENT AND ENGAGEMENT THROUGH
+NETWORKING
+Networks represent key mechanisms for change and innovation. Net-
+works are organizational forms that provide for collective learning
+processes and can thus reduce uncertainty in the implementation of
+innovation. Networks provide an ideal basis for promoting commit-
+ment, creating legitimacy for change and promoting solidarity and
+mutual support. Networks can help their members avoid repeating
+mistakes or having to reinvent the wheel. The WHO Healthy Cities
+project in Europe has used networking as its principal tool for pro-
+moting innovation and commitment. It does this through a system of
+interconnected networks (Box 2) and a set of concrete terms of en-
+gagement (standards) that cities committed to comprehensively devel-
+oping the concept of the Healthy Cities project should endorse.
+The project has developed over two phases (1988–1992 and
+1993–1997) and is now entering its third phase (1998–2002) with a
+renewed set of goals and standards. The WHO project cities network
+represents the forefront of innovation and commitment and a source of
+valuable experience and expertise. It is relatively small so that it can
+be managed appropriately. National and subnational network cities can
+also follow suit and develop fully fledged projects.
+Judging from the enthusiasm expressed so far, the idea of the
+health-promoting university is likely to become very popular in
+Europe. It would be a good idea to set up a small manageable network
+of committed universities from across Europe to work together to
+16
+
+Context
+Box 2. The main operational elements (networks) of the
+Healthy Cities project in the European Region
+The WHO project cities network
+The project cities network comprises 35–40 cities across Europe commit-
+ted to a comprehensive approach to working towards and attaining the
+goals of the project, including a process of joint decision-making, exchange
+of experience, systematic monitoring and evaluation.
+National and subnational networks of healthy cities
+National and subnational networks of healthy cities link cities that are also
+implementing healthy city projects but are not necessarily committed to
+developing all aspects of the project. These networks facilitate the ex-
+change of information and advocacy at the national level and support
+member cities through training initiatives, specialist consultations and in-
+formation packages.
+Multi-city action plans
+Multi-city action plans are implemented by subnetworks of cities working
+together on specific issues of common concern. There are multi-city action
+plans for accidents, local Agenda 21, AIDS, alcohol, active living, nutrition,
+women, drugs and tobacco-free cities.
+Cities participating in a multi-city action plan must have an overall commitment
+to the principles and goals of the Healthy Cities project.
+further develop and implement all aspects of the project while encour-
+aging and supporting the development of national or regional networks
+in parallel. Thematic subnetworks (the equivalent of multi-city action
+plans) will probably emerge at a later stage.
+The WHO Healthy Cities Project Office is committed to support-
+ing the development of health-promoting university projects. One op-
+tion would be to launch a new European Network of Health Promoting
+Universities, and the other is to launch the projects under the umbrella
+of a Healthy Cities multi-city action plan, as was done in the first
+phase of the Health Promoting Hospitals project. The former option
+requires substantial in-house and external resources for support and
+coordination that may not be available at the start. The latter option is
+probably more realistic for starting up this project.
+17
+
+Context
+REQUIREMENTS FOR PARTICIPATING IN THE NETWORK
+Project cities participating in the WHO Healthy Cities network need to
+demonstrate commitment to a set of standards that represent the
+building blocks for action for the whole project (Box 3).
+Box 3. Healthy Cities standards: the four elements of action
+Endorsement of project principles and philosophy and political
+commitment to implementing its goals
+The requirements include a letter by the mayor and resolution by the city
+council endorsing the principles of health for all and sustainable development
+and demonstrating commitment to implementing the goals of the project.
+Endorsement of project objectives, products, deliverables and
+outcomes
+The requirements include demonstrating commitment to developing prod-
+ucts such as city health profiles and health development policies and plans
+or introducing measures that reinforce accountability or policies that ad-
+dress equity.
+Commitment to establishing project infrastructure and management
+capacity
+The requirements include setting up a project office, appointing a full-time co-
+ordinator, establishing an intersectoral steering committee and securing re-
+sources for the project.
+Commitment to international cooperation, networking, monitoring
+and evaluation
+The requirements include an obligation to contribute to and participate in
+regular business meetings and information exchange events and to sup-
+port the development of national networks and twinning links with other
+cities, especially in the countries of central and eastern Europe and the
+newly independent states of the former Soviet Union. Cities are encour-
+aged to invest in formal and informal networking at the local, metropolitan,
+regional, national and international levels.
+Engagement in and designation of cities to a European Network
+of Health Promoting Universities could be based on a set of standards
+similar to that used for the Healthy Cities network of project cities.
+18
+
+Context
+Settings-based projects are dynamic processes that are shaped
+through a continuous process of experimentation, learning and inno-
+vation. The project should define clear conceptual and strategic
+frameworks but should also allow flexibility and adaptation to local
+cultures and circumstances. The three key words that run through all
+settings projects are leadership, strategic scope and ownership. Uni-
+versities have a unique potential to make all this happen.
+Finally, a health-promoting university project is not and should
+not be seen as some sort of luxurious and trendy thing to do at times of
+prosperity – on the contrary, investing in such projects at times of fi-
+nancial difficulties can prove a tremendous asset for protecting and
+promoting the health of students and staff, for ensuring adequate at-
+tention to policies of equity and sustainability and for promoting a
+healthy dialogue, trust-building and participatory decision-making.
+REFERENCES
+1. Tsouros, A.D., ed. World Health Organization Healthy Cities
+project: a project becomes a movement. Review of progress 1987
+to 1990. Copenhagen, FADL Publishers and Milan, SOGESS,
+1991.
+2. Twenty steps for developing a Healthy Cities project. 3rd ed. Co-
+penhagen, WHO Regional Office for Europe, 1997 (document
+EUR/ICP/HSC 644(2)).
+19
+
+The settings-based
+approach to health
+promotion
+Mark Dooris, Gina Dowding,
+Jane Thompson & Cathy Wynne
+INTRODUCTION
+The concept of the health-promoting university has emerged as part of
+the movement for health-promoting settings. This chapter provides an
+overview to the settings-based approach to health promotion and at-
+tempts to summarize:
+• the historical development of the theory and practice to date; and
+• the key characteristics of the settings-based approach, based on
+the interpretations and definitions currently in use.
+The theoretical and practical development of health promotion spans
+progression from biomedical models of health education to a socioe-
+cological paradigm, informed by a more holistic understanding of the
+influences on, and prerequisites for positive health (1–3). Although the
+emergence of the settings-based approach is sometimes portrayed as a
+result of linear developments in health promotion (4), a review of the
+literature suggests that the reality is far more complex. The theoretical
+underpinning to the settings-based approach is both sparse and dispa-
+rate, and its practical development has been characterized by a diver-
+sity of perspectives and emphases.
+21
+
+Context
+ORIGINS AND DEVELOPMENT OF THEORY AND PRACTICE
+Health promotion has been concerned with settings for many years –
+most commonly in terms of carrying out health promotion within a
+setting, for example, in schools and workplaces. However, the concept
+of an actual settings-based approach has begun to take shape only in
+the last 10 years. It is widely accepted that its roots lie within the
+WHO strategy for health for all (5,6), which during the 1980s in-
+creasingly came to be seen as a coherent and balanced framework for
+the new public health.1
+The publication of the Ottawa Charter for Health Promotion in
+1986 (8) was a critical point in the development of settings in that it
+reflected a growing consensus that health is not primarily the outcome
+of medical intervention but is a socioecological product arising from a
+complex interplay of social, political, economic, environmental, ge-
+netic and behavioural factors. The natural corollary of this under-
+standing was a shift of focus away from problems – as characterized
+by specific types of unhealthy behaviour (for example, unsafe sex or
+smoking), by specific at-risk groups (for example, gay men or pregnant
+women) – and towards environments and settings.
+The Ottawa Charter drew on the principles and concepts of health
+for all and on the work of a number of theorists concerned not so much
+with avoiding ill health as with creating positive health – what Anto-
+novsky (9,10) has called salutogenic research. The Ottawa Charter
+stated that (8):
+Health is created and lived by people within the settings of
+their everyday life; where they learn, work, play and love.
+1 “The new public health” is defined in a health promotion glossary commis-
+sioned by the WHO Regional Office for Europe (7): “Professional and public concern
+with the effect of the total environment in health.” The term builds on the old (espe-
+cially 19th century) public health, which struggled to tackle health hazards in the physi-
+cal environment (for example, by building sewers). It now includes the socioeconomic
+environment (for example, high unemployment). “Public health” has sometimes been
+used to include publicly provided personal health services such as maternal and child
+care. “The new public health” tends to be restricted to environmental concerns and to
+exclude personal health services, even preventive ones such as immunization or birth
+control.
+22
+
+Context
+Health is created by caring for oneself and others, by being
+able to take decisions and have control over one’s life cir-
+cumstances, and by ensuring that the society one lives in cre-
+ates conditions that allow the attainment of health by all its
+members.
+This focus on the creation of environments supportive to health was
+strengthened by the publication of a number of publications and docu-
+ments by the WHO Regional Office for Europe during the late 1980s and
+early 1990s (11–13) and further reinforced by the 1992 United Nations
+Conference on Environment and Development and the resulting Rio
+Declaration and Agenda 21, which highlighted the convergence of the
+sustainable development and health agendas (14,15).
+The emergence of the settings-based approach, then, has been in-
+fluenced by a range of developments within health promotion, public
+health and environmental and social policy. It has increasingly been
+guided by a recognition that health gain2 can be most effectively and
+efficiently achieved by investing outside the health care sector. Inter-
+ventions in a range of social systems in ways that take account of the
+processes of personal, organizational and political development are
+essential for improving the health of populations (17).
+The first and best known example of settings-based health promo-
+tion is Healthy Cities (18). Beginning as a small WHO project in 1987
+with the aim of taking the rhetoric of health for all and the Ottawa Charter
+“off the shelves and into the streets of European cities” (19), Healthy
+Cities rapidly expanded to become a major global movement (18). The
+late 1980s and early 1990s saw parallel initiatives take root in a number
+of smaller settings. These initiatives included the Health Promoting Hos-
+pitals project, coordinated by the European Office of WHO (20), and the
+Health Promoting Schools project (Ziglio, E. How can the health pro-
+moting school contribute to the current role of education in society to-
+day? Unpublished conference presentation) – a collaborative initiative of
+the European Union, WHO and the Council of Europe.
+2 Health gain has been defined as: “a measurable improvement in health status, in
+an individual or population, attributable to earlier intervention” (16).
+23
+
+Context
+Within the United Kingdom, the settings-based approach was
+given further legitimacy when the Government of the United Kingdom
+published The health of the nation – a strategy for health in England
+in 1992 (21). This document stated that:
+Opportunities to work towards the achievements of the tar-
+gets, and indeed of other health gains, will be ... enhanced if
+action – above all joint action – is pursued in various discrete
+“settings” in the places people live and work. Such settings
+include “healthy cities”, healthy schools, healthy hospitals,
+healthy workplaces, healthy homes [and] healthy environ-
+ments. They offer between them the potential to involve most
+people in the country.
+Although this list did not explicitly mention universities, it was only a
+matter of time before initiatives were set up to explore what it might
+mean to apply the settings-based approach to health promotion within
+a higher education context.
+Attempts to develop settings-related ideas into a defined and con-
+ceptually coherent approach have accompanied and grown out of,
+rather than preceded or necessarily informed, early practice, creating a
+praxis-based theory. For instance, the growing interest in organiza-
+tional development and management of change within Healthy Cities
+has emerged out of the experience of cities seeking to introduce new
+ways of working in sectoral and compartmentalized structures. In the
+past few years, writers such as Baric (4,22,23), Kickbusch (17) and
+Grossman & Scala (24) have drawn extensively on the work of man-
+agement, organization and systems theorists, and this sparse but
+growing body of literature on settings-based health promotion has
+proved to be an important influence in guiding recent practice.
+CHARACTERISTICS OF THE SETTINGS-BASED APPROACH
+The ideas of the above writers and other theorists and practitioners
+(Dooris, M., personal communication, 1996) (25,26) provide the basis
+to outline the main characteristics of the settings-based approach to
+24
+
+Context
+health promotion in terms of principles and perspectives, processes
+and techniques and key elements of health-promoting settings.
+PRINCIPLES AND PERSPECTIVES
+The settings-based approach is underpinned by a number of principles
+and perspectives, drawn largely from health for all, the Ottawa Charter
+for Health Promotion and Agenda 21.
+A holistic and socioecological understanding of health
+A holistic, positive (salutogenic) and socioecological model of health
+promotion takes account of the dynamic interaction between personal
+and wider environmental factors in determining health and recognizes
+that the settings in which people live, work and play have a key deter-
+mining role in their health.
+Focus on populations, policy and environments
+A primary focus on populations rather than individuals leads naturally
+to a focus on building healthy organizational policy to facilitate the
+creation of supportive environments.
+Equity and social justice
+A commitment to equal opportunities ensures that organizations work
+for justice and protect human rights and that settings-based invest-
+ments and developments promote equity in health.
+Sustainability
+Human health depends on sustaining global resources, and thus it must
+be ensured that institutions practise environmentally and socially sustain-
+able development, taking account of the wider impact of their policies
+and practices on people and environments locally, nationally and globally.
+25
+
+Context
+Community participation
+Community participation enables people from all parts and all levels of a
+community or an organization to get involved, to articulate their concerns
+and needs, to be listened to, to assess their capacities and to participate
+actively in every stage of the process.
+Enablement and empowerment
+Individuals, groups and communities need to be enabled to take in-
+creased control over their lives and to take action for change.
+Cooperation
+Building effective interdisciplinary, interdepartmental and interagency
+cooperation harnesses the imagination, innovation and mutual support
+that can come from working across professional and organizational
+boundaries.
+Consensus and mediation
+Organizations and society as a whole are characterized by divergent
+interests, and it is thus important to mediate for a new means of
+decision-making that gives priority to conflict resolution and
+consensus-building, rather than token consultation and power-
+wielding, in the process of change.
+Advocacy
+The capacity and responsibility of organizations for advocating and
+speaking out on public health issues should be acknowledged and de-
+veloped.
+Settings as social systems
+A setting is a social system in which people live, work, learn, love and
+play – characterized by a particular organizational culture, structure,
+functions, norms and values – into which health must enter through
+appropriate entry points (25).
+26
+
+Context
+Sustainable integrative actions
+Mechanisms should be incorporated that ensure sustained develop-
+ment and impact beyond the life of a discrete project, through integra-
+tive rather than additive actions (27).
+Settings as part of an interdependent ecosystem
+All settings are interconnected, and each setting is a distinct but not
+separate part of a wider, interdependent ecosystem.
+PROCESSES AND TECHNIQUES
+Resulting from the above principles and perspectives, the settings-
+based approach is characterized by the use of particular processes and
+techniques drawn from organizational, management and systems the-
+ory. Grossman & Scala (24) use systems theory in recommending or-
+ganizational development for health promotion. They argue that the
+so-called health services provide a ready-made system for addressing
+illness in many societies, but no particular system exists to address
+health (Fig. 1). The consequence of this is that health must enter each
+system – finding a place within institutions and organizations created
+and structured for other (problem-solving) purposes. Organizational
+development is the overall means of achieving this. The organizational
+development process seeks to identify how health can make the system
+perform better and how a commitment to and investment in health can
+Illness
+Politics
+Health
+Science
+services
+Health Education Family
+Economics
+27
+
+Context
+be embedded within the structures, mechanisms, culture and routine
+life of the learning organization (28).
+Fig. 1. There is no particular system for health.
+Health must enter each system.
+Grossman & Scala (24) also argue that organizational development
+can be most effectively put into operation through project manage-
+ment. Establishing and managing a defined project with its own or-
+ganizational structure, within or between existing organizations,
+makes it possible to facilitate innovation, cooperation, mobilization,
+development and change. Key processes in the management of a set-
+tings-based health promotion project include:
+• sensitive and planned management of change within organiza-
+tional cultures, structures and processes;
+• policy development and the introduction of health as a key crite-
+rion in organizational decision-making;
+• Sthouer che:a rrenperinstseidn wgi tho fp eermxiissstioinn gfr,o ma nGdro stshmea nd &e vSecalolap (m24)e.nt of new knowl-
+edge and skills, in what Baric (29) has called retrofitting; and
+• the development and integration of health into quality, audit and
+evaluation procedures – which ensure clear accountability and
+enable the development of a foundation for settings-based work,
+built on evidence related to health gain (22).
+KEY ELEMENTS
+Baric (23) has argued that the settings-based approach is characterized
+by three key elements: a healthy working and living environment, inte-
+grating health promotion into the daily activities of the setting and
+reaching out into the community.
+28
+
+Context
+A healthy working and living environment
+A health-promoting setting seeks to create and maintain the health and
+wellbeing of staff, clients (consumers) and other participants, through
+taking action within the organization to create supportive working,
+social and living environments. Good practice in this area would seek
+to apply the above principles, perspectives and processes.
+Integrating health promotion into the daily activities of the
+setting
+A health-promoting setting seeks to integrate an understanding of and
+commitment to health within its routine activities and procedures. A
+health-promoting manufacturer thus focuses on its products and pro-
+duction systems. Do the products themselves promote or damage
+health? Are the materials used healthy and sustainable?
+A health-promoting university focuses on its education and re-
+search. Where does health feature in the curriculum? Do the educa-
+tional methods reflect principles such as participation and
+empowerment? Does the research profile reflect a commitment to
+health promotion?
+Reaching out into the community
+A health-promoting setting seeks to develop its role as a key influence for
+health within the wider community in a number of ways, which include
+building partnerships and alliances, providing resources for the local
+community, reviewing its impact on the local, national and global com-
+munities – through its purchasing, financial management and other prac-
+tices (30) – and practising advocacy and mediation roles.
+CONCLUSION
+The settings-based approach to health promotion is characterized by
+the dynamics of ongoing praxis-based development. Nevertheless, key
+distinguishing characteristics can be summarized in terms of principles
+and perspectives, processes and key elements. Like any new develop-
+ment, it can only benefit from critical analysis and reflection – and a
+29
+
+Context
+survey of the literature suggests that such a critique is beginning to
+emerge (31–34).
+Settings, when put into operation in accordance with the under-
+pinning principles and perspectives outlined above, have the potential
+to make a powerful contribution to health promotion practice and ul-
+timately to population health. In the lead-up to the twenty-first century,
+universities – with their particular culture, their position in society and
+their unique mix of skills – offer an ideal testing ground to apply,
+evaluate and further develop health promotion.
+REFERENCES
+1. Bunton, R. & Macdonald, G. Health promotion: disciplines &
+diversity. London, Routledge, 1992.
+2. Katz, J. & Peberdy, A. Promoting health: knowledge & practice.
+London, Macmillan/Open University, 1997.
+3. Naidoo, J. & Wills, J. Health promotion: foundations for prac-
+tice. London, Baillière Tindall, 1994.
+4. Baric, L. Evaluation and monitoring of outcomes. In: Health Educa-
+tion Authority, ed. Health promoting hospitals: principles and
+practice. London, Health Education Authority, 1993, pp. 12–14.
+5. Global strategy for health for all by the year 2000. Geneva,
+World Health Organization, 1981 (“Health For All” Series,
+No. 3).
+6. Health for all targets – the health policy for Europe. Copenha-
+gen, WHO Regional Office for Europe, 1993 (European Health
+for All Series, No. 4).
+7. Nutbeam, D. Health promotion glossary. Health promotion, 1(1):
+113–127 (1986).
+8. Ottawa Charter for Health Promotion (1986). Health promotion
+international, 1(4): iii–v (1986) and Canadian journal of public
+health, 77(6): 425–430 (1986).
+9. Antonovsky, A. The salutogenic model as a theory to guide health
+promotion. Health promotion international, 11(1): 11–18 (1996).
+10. Antonovsky, A. Unraveling the mystery of health. San Francisco,
+Jossey-Bass, 1987.
+30
+
+Context
+11. Environment and health. The European Charter and commen-
+tary. Copenhagen, WHO Regional Office for Europe, 1990
+(WHO Regional Publications, European Series, No. 35).
+12. Helsinki Declaration on Action for Environment and Health.
+Second European Conference on Environment and Health, Hel-
+sinki, Finland, 20–22 June 1994. Copenhagen, WHO Regional
+Office for Europe, 1994 (Document No. EUR/ICP/CEH 212).
+13. Environmental Health Action Plan for Europe. Second European
+Conference on Environment and Health, Helsinki, Finland, 20–
+22 June 1994. Copenhagen, WHO Regional Office for Europe,
+1994 (Document No. EUR/ICP/CEH 212(A)).
+14. Agenda 21: Earth Summit – the United Nations Programme of
+Action from Rio. New York, United Nations, 1992.
+15. Agenda 21: Rio Declaration – Forest Principles. New York,
+United Nations, 1992.
+16. Brambleby, P. Cited in: Simnett, I. Managing health promotion:
+developing healthy organisations and communities. Chichester,
+John Wiley, 1995.
+17. Kickbusch, I. An overview to the settings-based approach to
+health promotion. In: Theaker, T. & Thompson, J., ed. The set-
+tings-based approach to health promotion: report of an interna-
+tional working conference, 17–20 November 1993. Hertfordshire,
+UK: Hertfordshire Health Promotion, 1995, pp. 3–9.
+18. Tsouros, A.D., ed. World Health Organization Healthy Cities
+project: a project becomes a movement. Review of progress 1987
+to 1990. Copenhagen, FADL Publishers and Milan, SOGESS,
+1991.
+19. Ashton, J. Rising to the challenge. Health service journal, 98(20
+October): 1232–1234 (1988).
+20. Tsouros, A. Health promoting hospitals: European perspectives.
+In: Health Education Authority, ed. Health promoting hospitals:
+principles and practice. London, Health Education Authority,
+1993, pp. 4–6.
+21. Secretary of State for Health. The health of the nation. A strategy
+for health in England. London, H.M. Stationery Office, 1992.
+31
+
+Context
+22. Baric, L. The settings approach – implications for policy and
+strategy. Journal of the Institute of Health Education, 31(1): 17–
+24 (1993).
+23. Baric, L. Health promotion and health education in practice.
+Module 2 – the organisational model. Altrincham, Barns, 1994.
+24. Grossman, R. & Scala, K. Health promotion and organizational
+development: developing settings for health. Vienna, IFF/Health
+and Organizational Development, 1993 (WHO European Health
+Promotion Series, No. 2).
+25. Dowding, G. Lancaster University Health Promoting University
+Project: 1st annual report. Lancaster, Morecambe Bay Health
+Promotion, 1995.
+26. Harrison, D. Health promoting hospitals in Europe. In: Riley C. et
+al., ed. Releasing resources to achieve health gain. London,
+Routledge, 1995, pp. 114–123.
+27. Harrison, D. Population versus individual health gain. In: Pro-
+ceedings of the International Workshop on Outcome Governed
+Health Care, 12–13 June 1997. Linköping, Sweden, European
+Clearing House on Health Outcomes, in press.
+28. Pascale, R. Managing on the edge: the learning organization.
+New York, Simon and Schuster, 1990.
+29. Baric, L. Promoting health: new approaches and developments.
+Journal of the Institute of Health Education, 30(1): 6–16 (1992).
+30. Newell, S. The healthy organisation: fairness, ethics and effec-
+tive management. London, Routledge, 1995, pp. 165–191.
+31. Dooris, M. Healthy settings and healthy cities: fragmentation or
+holism? UK Health for All Network news, summer: 9. Liverpool,
+HFA Network (UK) Ltd., 1993.
+32. Naidoo, J. & Wills, J. Health promotion: foundations for prac-
+tice. London, Baillière Tindall, 1994, p. 165.
+33. Dooris, M. Cited in: Chaplin, J. Health promoting settings. Com-
+munity health action, 32: 3 (1994).
+34. Jones, M. Healthy settings – healthy scepticism. UK Health for
+All Network news, Spring: 11. Liverpool, HFA Network (UK)
+Ltd., 1996.
+32
+
+Universities and health in
+the twenty-first century
+Nicholas Abercrombie, Tony Gatrell
+& Carol Thomas
+What characteristics make a university distinctive? Drawing on a
+number of publications, including a recent series of lectures on univer-
+sities in the twenty-first century (1), we can highlight a number of key
+roles that should be visible within a university.
+• A university is a centre of learning and development, with roles in
+education, training and research.
+• A university is also a centre of creativity and innovation – ex-
+pressed in the processes of learning and in combining, managing
+and applying knowledge and understanding within and between
+disciplines.
+• More broadly, a university provides a setting in which students
+develop independence and learn life skills – through living or
+spending time away from home and frequently through experi-
+menting and exploring.
+• As the structure of higher education has changed, universities
+have increasingly provided a setting in which mature students un-
+dertake learning.
+• A university is a resource for and a partner in local, national and
+global communities.
+• Lastly, a university is a business – increasingly concerned with its
+image, performance and balance sheets within a competitive mar-
+ket.
+All these roles provide opportunities for a university to affect the
+health and wellbeing of its members and outside communities and to
+33
+
+Health and higher education
+contribute to the knowledge and empowerment. The success of the
+Health Promoting Universities movement depends on its ability to in-
+tegrate a commitment to health within the policies and practice of uni-
+versities. It is necessary, however, to be realistic about what health
+gains can be realized, given the constraints within which universities
+now operate.
+OPPORTUNITIES
+Universities are large organizations in which people learn and work,
+socialize and make use of a wide range of services such as accommo-
+dation, catering and transport. They are major employers, with staff
+making up one of their major communities. Consequently, universities
+have the potential to significantly and positively affect the lives and
+health of their members. This can be done through broad organization-
+wide practices such as adopting appropriate management styles and
+communication and decision-making procedures and through policies
+that affect day-to-day procedures such as scheduling the student pro-
+grammes and providing leisure facilities. Among other virtues, univer-
+sities are supposed to promote reflexivity, the capacity to look at their
+own practices and activities with a critical eye and with a view to
+changing them.
+Arguably, the key roles of universities are teaching and research.
+Through their teaching activities, academics can be encouraged to en-
+sure that health-related research finds its way to student audiences and
+hence to the wider community when these students leave the univer-
+sity. Health-related research and health issues may be a core compo-
+nent in some curricula, but where this is not the case, health research
+and health topics could be used to illustrate themes and issues, thus
+raising health consciousness. For example, students studying law, lit-
+erature, government or politics or other subjects not apparently related
+to health could be introduced to health matters in ways relevant to
+their foci of study. This integration of health into the curriculum may
+encourage graduates in these and other fields to enter the professions,
+business or other sectors of employment with greater awareness of the
+potential health effects of their individual and collective activities.
+34
+
+Health and higher education
+Almost all universities have some kind of health-related research
+underway, and in some it is a major focus of research activity. Some-
+times this research can be usefully categorized in terms of health
+services research and so on. Other ways of classifying such research
+may be in relation to the discipline or combination of disciplines
+working together, which inform the research questions and methods.
+In addition to research that is explicitly related to health, much other
+research undertaken in the arts, humanities, social sciences, natural
+sciences and other areas influences the health of the population.
+Not all research has the potential to shape health experience in
+one way or another, but it is important for the Health Promoting Uni-
+versities movement to champion the view that not all relevant health
+research carries health or medical labels. This means challenging the
+reproduction within the university sector of wider cultural tendencies
+to think narrowly about health and its determinants: equating health
+with illness, disease, biological processes and health care systems.
+Many people within universities consider that, if it is not medical and
+it is not about the health services, then it cannot be health research. In
+fact one way of increasing universities’ contribution to health gain
+could be to encourage researchers to think about the health implica-
+tions of their research and to incorporate this into the presentation and
+dissemination of their results.
+A university provides an environment in which students are not only
+formally educated but develop personally and socially at a significant
+time in their lives. This development has profound effects not only during
+their time in higher education but throughout the rest of their lives – in
+the choices they take, in their values and priorities and in their jobs,
+homes and communities. A health-promoting university should support
+healthy personal and social development – enabling students to discover
+and explore their potential, facilitating them in making healthy choices
+and encouraging them to explore and experiment safely.
+Finally, the literature on both the role of universities and health-
+promoting settings emphasizes the potential contribution of the uni-
+versity within the wider community (2,3). It can contribute to enrich-
+ing and developing local social, economic, cultural and recreational
+activities. Through partnership and collaboration with the business,
+public and voluntary sectors, a university becomes an integral part of
+35
+
+Health and higher education
+the community. It has the opportunity to set an example of good prac-
+tice in relation to health and, using its influence and expertise, can be-
+come an advocate for developing healthy public policy and practice at
+local and national levels.
+CONSTRAINTS
+Structural and financial constraints operate at different levels within
+the university system in the United Kingdom and are largely shaped by
+national policy. Perhaps the most obvious constraint in the United
+Kingdom over the last few years has been the sequence of funding
+cuts, equivalent to 3% less funds to all universities. These, combined
+with a large programme cut in November 1995, have left many univer-
+sities in very dire circumstances.
+There is pressure to increase the number of students and take them
+through a system originally designed for far fewer. Class sizes have in-
+creased and students are taught more intensively. For staff, this means an
+increased and more intensive workload. The number of part-time and
+full-time students in higher education increased by 64% between 1984
+and 1994 in the United Kingdom and the number of academic teaching
+staff by only 11% (4). Financial restrictions may lead to the call for vol-
+untary redundancy and the restructuring of the administrative and aca-
+demic components of the institution. This creates practical difficulties but
+also fosters a culture of insecurity that is new among British academics
+who, until a few years ago, had worked within the system of tenure.
+These pressures go hand in hand with the need to attract research grants
+and contracts, sometimes to compensate for structural under-funding of
+the system, as well as to maximize research output for the prestige it gives
+the institution and its departments as a research-led university. At the
+same time, universities are subject to greater external scrutiny, which im-
+poses further strain on staff who have to work under new systems for
+evaluating research and teaching.
+The effects of this under-funded expansion are that many staff, of
+all categories, are reporting longer working hours, increased stress and
+reduced job satisfaction as the repercussions spread through an or-
+ganization (4,5). Everybody is trying to do more with less.
+36
+
+Health and higher education
+Students too, are affected as structural constraints manifest them-
+selves. Some, though not all, are finding crowded classrooms, libraries
+and laboratories. Students receive less support from stressed student wel-
+fare services and staff with less time to devote to problems, enquiries and
+the creative exchange of ideas. Reductions in financial support have re-
+sulted in an increasing proportion of students finding employment not
+only in the vacations but also during weekends and evenings too. These
+pressures during study are coupled with the added realization that the job
+market is volatile, with no guarantee of secure employment in the years to
+come. Students from untraditional backgrounds (such as mature students)
+may be especially vulnerable to such pressures.
+These constraints affect different institutions in different ways,
+and universities and those working within them respond differently to
+pressure imposed from above. The culture of the workplace operates
+differentially on the staff employed in the institution: members of the
+academic staff have more flexibility – what Karasek (6) has called job
+decision latitude – in structuring their working day than do members
+of the administrative and support staff, whose work programme is
+likely to be more closely scrutinized (7).
+HEALTHY FUTURES FOR UNIVERSITIES
+A health-promoting organization is based on certain core values, in-
+cluding democracy, mutual empowerment, individual autonomy and
+community participation (8). Ways are needed of enabling those who
+work within universities to take responsibility for shaping their well-
+being within the context of an environment that supports health. Uni-
+versities need to recognize that they are part of a wider community and
+to extend their responsibilities beyond the campus limits.
+Translating ideals into practice requires exploiting opportunities
+and a sanguine acknowledgement of the constraints within which the
+university operates. It also calls for setting performance indicators to
+monitor the effectiveness of health promotion strategies. Tofield (9)
+suggests the following key indicators:
+• employee satisfaction
+• stewardship of the environment
+37
+
+Health and higher education
+• absence of discrimination
+• beneficial long-term relationships with other organizations.
+Employee satisfaction means that members of the university should find
+their work fulfilling and creative. This requires mechanisms for consulta-
+tion, one vehicle of which should be staff and student appraisal. Envi-
+ronmental stewardship demands links to environmental sustain-ability
+agendas, and Ali Khan & Toyne consider such links elsewhere in this
+document. Discrimination can and should be banished from higher edu-
+cation through formal and informal mechanisms. Great progress has been
+made in some areas, notably in disability. Some institutions, including
+Lancaster, have taken considerable strides in widening access.
+Relationships with others demand environmental and health
+audits, a dialogue with others in the local community and building
+stronger links with experts in health promotion. Universities forming
+part of a city participating in a healthy city project or with good con-
+tacts to other healthy settings (such as health-promoting hospitals)
+could seek to benefit from the knowledge already gained by others. Of
+all healthy settings, universities should be among the leaders in seeing
+change implemented.
+REFERENCES
+1. National Commission on Education/Council for Industry and
+Higher Education. Universities in the twenty first century. Lon-
+don, National Commission on Education, 1994.
+2. Universities in communities. London, Committee of Vice-
+Chancellors and Principals, 1995.
+3. Ottawa Charter for Health Promotion (1986). Health promotion
+international, 1(4): iii–v (1986) and Canadian journal of public
+health, 77(6): 425–430 (1986).
+4. Long hours, little thanks – a survey of the use of time by full-time
+academic and related staff in the traditional UK universities.
+London, Association of University Teachers, 1994.
+5. Promoting a healthy working life – a report on twelve focus
+groups. Lancaster, School of Independent Studies Research
+Service Unit, Lancaster University, 1996.
+38
+
+Health and higher education
+6. Karasek, R.A. Job demands, job decision latitude and mental
+strain: implications for job re-design. Administrative science
+quarterly, 24: 285–308 (1979).
+7. Popay, J. & Bartley, M. Conditions of formal and domestic la-
+bour: toward an integrated framework for the analysis of gender
+and social class inequalities in health. In: Platt, S. et al., ed. Lo-
+cating health. London, Avery, 1993, pp. 97–120.
+8. Simnett, I. Managing health promotion: developing healthy or-
+ganisations and communities. Chichester, John Wiley, 1995.
+9. Tofield, B. The crucial hunt for tomorrow’s company. The inde-
+pendent, 15 March: 30. Cited in Simnett (8).
+39
+
+A common agenda?
+Health and the greening
+of higher education
+Peter Toyne & Shirley Ali Khan
+People are a part of the environment and not apart from it. As such, the
+health of individuals and the health of the physical and social environ-
+ment are mutually dependent. Many familiar environmental challenges
+are described as problems simply because they constitute potential human
+health hazards, whereas some healthy behaviour is now being adopted for
+essentially environmental reasons, such as choice of food and mode of
+travel. The health agenda broadly overlaps with the environmental agenda
+and, as such, there is much common ground between the Health Promot-
+ing Universities project and the movement to green universities. Those
+involved in these two separate movements have the option of joining
+forces to push forward a common agenda, and in the process to attempt to
+move from the peripheral to the mainstream business of universities. But
+what can be said about from where we have come? What do we have in
+common? Where might we be going?
+BACKGROUND TO THE GREENING OF HIGHER EDUCATION
+IN THE UNITED KINGDOM
+The idea of the health-promoting university is relatively new, whereas
+the idea of a higher education institution as a setting for the promotion
+of environmental responsibility goes back eight years. Similar to the
+Health Promoting Universities movement, developments in the
+greening of higher education began with action by small numbers of
+people coming together with similar concerns and interests and de-
+ciding to get these issues onto the agendas of universities.
+41
+
+Health and higher education
+The issue was first formally raised in the United Kingdom in 1990,
+in Greening polytechnics (1), the same year as the Government of the
+United Kingdom published its environmental strategy (2). As a result of
+this, an expert committee chaired by Professor Peter Toyne, Vice-
+Chancellor of Liverpool John Moores University, was convened to con-
+sider:
+• the environmental education needs of the business community;
+• the environmental education needs of the student body at large;
+and
+• responsibilities relating to good housekeeping in further and
+higher education institutions.
+This reflected recognition that any attempts to foster a sense of envi-
+ronmental responsibility through the curriculum would be negated if
+housekeeping practices within the institutions were environmentally
+unsound. The committee published its deliberations in 1993 (3). Ex-
+plicit recommendations were targeted at government, further and
+higher education institutions, funding councils and professional bod-
+ies, yet the report was non-prescriptive. The report’s key recommen-
+dation stated:
+After consultation with its staff and students, every higher
+and further education institution should formally adopt and
+publicize, by the beginning of the academic year 1994/5, a
+comprehensive environmental policy statement, together with
+an action plan for its implementation.
+Because of the “softly, softly” approach adopted in the report, a rec-
+ommendation was made to review progress after three years. The re-
+view findings were subsequently published and launched by Govern-
+ment Ministers for Education and the Environment in 1996 (4).
+42
+
+Health and higher education
+HOW GREEN ARE THE UNIVERSITIES IN THE
+UNITED KINGDOM?
+The conclusions of the 1996 review make somewhat depressing
+reading. Most of the institutions and organizations targeted in the
+initial recommendations, including government, had demonstrated
+complete indifference to the recommendations of the 1993 report.
+Although this might be a disappointing response to the recommenda-
+tions of a government report, it is not the same as saying that there has
+been no progress (Box 4).
+Box 4. A summary of the review of the Environmental
+responsibility report
+The bad news
+• Only 15% of further and higher education institutions had policies in place.
+• Where policies existed, implementation was generally at an early stage.
+• Most progress was being made in good housekeeping, especially in
+areas in which cost savings are obvious, such as energy efficiency, or
+where the “green” ticket can help institutions in introducing otherwise
+unpopular measures, such as car parking charges; less progress was
+made in such areas as purchasing.
+• In curriculum development, less than 3% of further and higher educa-
+tion institutions had set out in general terms what all their students
+need to learn to be able to take account of sustainable development in
+their work and daily lives.
+• Of the above 3%, fewer than 10 institutions were making any progress.
+The good news
+• In 1993 only about 12 further and higher education institutions had en-
+vironmental policies; in 1996 there were 114.
+• A number of trail-blazing institutions are making significant progress.
+RECOMMENDATIONS FOR A GREEN FUTURE IN HIGHER
+EDUCATION
+The 1996 review sets out six key recommendations.
+43
+
+Health and higher education
+• “Enabling responsible global citizenship” should be recognized as
+the core business of learning institutions and a legitimate purpose of
+lifetime learning.
+• Within three years, all further and higher education institutions
+should have developed the capacity to provide all students with the
+opportunity to develop defined levels of competence relating to re-
+sponsible global citizenship.
+• Within three years, all further and higher education institutions
+should be accredited to a nationally or internationally recognized
+standard for environmental management systems.
+• Funds should be made available for a national programme to sup-
+port the response of the further and higher education sector to the
+challenge of sustainable development.
+• National standards relating to industrial and professional practice
+should be set to ensure that reference is made to sustainable de-
+velopment issues.
+• Within three years, funding councils should link environmental
+performance to the allocation of funds.
+The first recommendation of enabling responsible global citizenship takes
+account of an evolution in language: from the use of the term “environ-
+mental education” to “education or learning for sustainability”. The
+learning agenda for sustainable development goes far beyond knowledge
+of the physical environment, and the desired outcome of learning for
+sustainability is often expressed as “responsible global citizenship” (Box
+5).
+Box 5. What is enabling responsible global citizenship?
+Responsible implies education that enables learners to make their own
+critical choices and decisions. It also contains an expectation of responsible
+action. There is nothing new about action agendas in further and higher
+education – for example, students learn information technology skills so that
+they can use information technology. Where there are action agendas,
+44
+
+Health and higher education
+competence tends to be gained through experience. So students learn in-
+formation technology skills by practising information technology and they
+learn to drive by driving and to speak French by speaking it. The conclusion
+one draws is that, to become a responsible citizen, a student must practise
+being responsible.
+Global implies a holistic view of global responsibility that includes responsi-
+bilities relating to sustainable development.
+Citizenship calls for the development of a range of twenty-first-century
+skills.
+The concept of responsible global citizenship brings together the
+interests of many lobbying groups currently on the margins of the edu-
+cation system (such as those promoting environmental education, de-
+velopment education, education for sustainability, citizenship educa-
+tion, health education and industrial understanding) and those at the
+sharp end of the learning debate (such as those working on lifetime
+learning, community and work-based learning, service learning, core
+skills and the learning purposes of the further and higher education
+sector).
+There is already considerable consensus about the core themes of
+the learning agenda for responsible global citizenship, which is based
+on a combination of core knowledge and core skills (Box 6).
+The call for enabling responsible global citizenship as a key pur-
+pose of lifetime learning is of fundamental importance. According to
+the current policy of the Government of the United Kingdom, enabling
+responsible citizenship for sustainability is now the common task of
+the education community. The review starkly illustrates that most fur-
+ther and higher education institutions have opted out of this common
+task. The big question is whether they should be able to. What is the
+purpose of learning institutions? One might argue that little progress
+will be made towards realizing the vision of a learning society until
+learning institutions become proactively involved in ena bling respon-
+sible global citizenship.
+45
+
+Health and higher education
+PROGRESS
+Several key agencies have made a greater commitment to achieving
+some of the other review’s recommendations.
+• The Higher Education Funding Council has developed an envi-
+ronmental review workbook to enable higher education institu-
+tions to conduct their own environmental reviews.
+• The Department of the Environment has awarded funding to the
+Forum for the Future3 to facilitate the response of the further and
+higher education sector to the challenge of sustainable develop-
+ment. Twenty-five universities have made a commitment to work
+with the Forum for the Future in delivering the project output.
+Box 6. Core themes of the learning agenda for responsible
+global citizenship
+Sustainable development
+The cornerstone of the learning agenda for responsible global citizenship is
+understanding the concept of sustainable development. This multidimen-
+sional concept describes a type of development that provides real im-
+provements in the quality of life and at the same time maintains or en-
+hances the vitality and diversity of the earth.
+Holistic view
+A holistic view is a matter of perspective, as opposed to a comprehensive
+view, which relates to fullness of detail. It is facilitated by systems thinking
+and analysis. Sustainable development problems are embedded in inter-
+connected ecological, physical, cultural, economic and political systems.
+This obliges analysis and thought focused on the interrelationship of sys-
+tems.
+Interdisciplinary perspective
+Many sustainable development problems are investigated through scien-
+tific methods, yet are explained, managed or find expression in social
+structures and responses. Any learning agenda for responsible global citi-
+zenship must include natural and social scientific perspectives.
+3 The Forum for the Future is a partnership of independent experts committed to
+building a sustainable way of life. Through research, education, consultancy and com-
+munications, it aims to inform and inspire people to accelerate the process of positive
+change.
+46
+
+Health and higher education
+Responsible citizenship
+A prerequisite for responsible citizenship is an experience of community
+that can be fostered by service in the community and through developing a
+deep understanding of locality – its nature, history, distinctiveness, systems
+for getting things done, problems and plans for the future. Skills that enable
+responsible global citizenship include self-awareness, self-motivation, self-
+promotion, creative thinking, action planning, networking, decision-making,
+negotiation and political awareness.
+Managing change
+The concept of managing change embodies a number of interrelated
+themes: a thoughtful consideration of global and local futures; long-term
+solutions; comfort with uncertainty, associated with an understanding that
+knowledge will always be incomplete; the application of the precautionary
+principle; a commitment to life-long learning; learning from one’s own expe-
+riences and those of others – good or bad; and the development of flexibil-
+ity of mind.
+The main thrust of this work is focused on pursuing the following
+outcomes:
+– a published set of case studies of best practice for
+sustainability, covering good housekeeping activities, cur-
+riculum greening initiatives and community responsibility
+initiatives;
+– a set of performance and responsibility criteria in terms of
+sustainable development for further and higher education in
+the above areas; and
+– environmental management guidelines in a number of tar-
+geted areas, including the curriculum.
+• The National Union of Students has for the first time given priority
+to the environment as one of its three key campaigns.
+• The government has established a high-level panel on sustainable
+development education.
+47
+
+Health and higher education
+LESSONS FOR HEALTH
+The whole challenge of greening universities is now much more firmly
+on the political agenda within the United Kingdom than it was eight
+years ago. A number of specific lessons can be drawn from the experi-
+ence of progress over the past few years.
+The Health Promoting Universities initiative definitely needs to
+address curriculum issues. Although “condom dips” and other health
+promotion campaigns may be attractive to students, health awareness
+and “healthiness” must be incorporated into the curriculum if the ini-
+tiative is to have a significant impact. This means facing similar ques-
+tions to those that have been posed within the greening of the curricu-
+lum, such as: How can environmental responsibility be integrated into
+the English curriculum? How can health issues be incorporated into
+the theology curriculum? There are solutions, and with creativity and
+commitment it is possible, even if in some circumstances bolt-on
+modules in health will be required.
+Second, the way ahead requires addressing issues of ethics, mo-
+rality and values. What is the ethical, moral and value underpinning of
+the environmental and health promotion agendas? In making this ex-
+plicit, a clear framework can be developed, which will be at the heart
+of the curriculum.
+Third, what is the most successful approach? The greening of
+higher education has now published two reports, both based on non-
+prescriptive recommendations. Experience shows that there is a bal-
+ance to be achieved between a top-down approach and a nonprescrip-
+tive bottom-up approach. On the one hand, it is essential to lead from
+the top – for vice-chancellors to commit themselves to the issues and
+to action. But there are two reasons for caution: the first is the scepti-
+cism of those in the organization who will be suspicious of vice-
+chancellor involvement, and the other is that excess zeal will turn peo-
+ple away. Extreme patience is required and a “drip, drip” process that
+infiltrates the organization. The key is common ownership.
+Finally, there are now opportunities for synergy with the Health
+Promoting Universities initiative. There is a danger that greening and
+Health Promoting Universities project are running in parallel. Some
+universities have strategies for health promotion and environment that
+48
+
+Health and higher education
+do not refer to one another. An opportunity now exists to combine the
+two agendas: healthy eating can be promoted with reference to sus-
+tainable food production, and the exercise benefits of cycling can be
+promoted with reference to the damaging impact of cars.
+Some researchers think that community is a more important de-
+terminant of individual and collective health than the combined risks
+of any or all of the secular sins of public health, including smoking
+(5). Responsible global citizenship is not only essential to the creation
+of community, which in turn is a prerequisite for sustainable develop-
+ment, but it is also essential for people’s immune systems. In short,
+failing to practice civil behaviour may be dangerous to human health.
+An opportunity now exists to exert considerable collective pressure for
+core subject status for responsible global citizenship in the name of
+good education, both in the national curriculum, and in education pro-
+grammes in further and higher education institutions.
+Those promoting health and those promoting sustainable devel-
+opment in universities must move beyond exchanging the kind of coy
+glances usually reserved for familiar-looking strangers. The two must
+develop a much stronger liaison and work with the common agenda.
+REFERENCES
+1. Ali Khan, S. Greening polytechnics. London, Committee of
+Directors of Polytechnics, 1990.
+2. Department of the Environment. This common inheritance: Brit-
+ain’s environmental strategy. London, H.M. Stationery Office,
+1990.
+3. Department of the Environment. Environmental responsibility: an
+agenda for further and higher education. London, H.M. Stationery
+Office, 1993.
+4. Department of the Environment. Environmental responsibility: a
+review of the 1993 Toyne report. London, H.M. Stationery Office,
+1996.
+5. Labonte, R. Community and its health – its power and its prob-
+lems. Journal of contemporary health, 4 (summer): 2–3 (1996).
+49
+
+Action learning for health
+on campus: muddling
+through with a model?
+University College of St Martin,
+Lancaster
+Alan Beattie
+BACKGROUND: ROOTS AND INSPIRATION
+The sources of the project at the University College of St Martin lie in
+part in the challenge of teaching health promotion in universities. Uni-
+versities in the United Kingdom have three distinct strategies for de-
+veloping professional preparation for health education and health
+promotion (1): the new cadres approach, which sets out to create new
+health education and health promotion specialist practitioners; the
+mainstreaming strategy, which aims to install effective health educa-
+tion and health promotion practice as a central element in the role of
+the existing major helping professions; and the alliances approach,
+which invests in developing patterns of teamwork for health education
+and health promotion for specific settings (2–4).
+The work on St Martin’s as a Health Promoting College was un-
+dertaken as a sort of practicum on the campus itself to link academic
+studies of health education and health promotion to practical action at
+the local level (5,6). Another relevant model was what a 1977 report
+from the Organisation for Economic Co-operation and Development
+(7) had called “a regional health university” – committed to develop-
+ing teaching and research across a range of health professions on pub-
+lic health issues relevant to the local population. Finally, a third and
+crucial influence was a 1993 book called The health promoting col-
+lege (8) that reported on a major study of a settings-based approach to
+45
+
+Case studies
+health education and health promotion in the further education system
+in England.
+CONCEPTUAL FRAMEWORK
+The health promoting college came to hand in summer 1993 just in
+time to inform the work on the St Martin’s as a Health Promoting
+College Project, and the case study evidence it provides from around
+the country is highly revealing. In addition, it draws on the Beattie
+fourfold health promotion grid (9) for structural analysis and strategic
+planning in health promotion. It offers a very helpful extension and
+elaboration of the model by examining how each of the (four) strategi-
+cally different approaches to health education and health promotion
+may be translated into action at different levels within the College en-
+vironment, and it gives a range of examples on specific topics (such as
+stress and smoking). The St Martin’s as a Health Promoting College
+Project adopted and further adapted their health-promoting college
+grid as a key tool of thought and a basic guideline for the implementa-
+tion its work (Table 1).
+This framework is used to explore and implement (with students
+and colleagues) an approach to health education and health promotion
+practice that, borrowing from the literature of social planning (11), can
+be labelled purposeful opportunism. Recent discussions of the set-
+tings-based approach to health education and health promotion tend to
+dismiss older forms of practice, which are characterized as (mere)
+“health-promotion-in-a-setting”, implying that practice that is not in-
+formed by the grander vision of organizational development (12,13) is
+no more than ad hoc tinkering, one-off bits and pieces – what social
+planners (with some irony) call “disjointed incrementalism or the sci-
+ence of just muddling through” (14). On the other hand, the organiza-
+tional development model of health education and health promotion
+applied to the institutional or corporate setting (such as a university) is
+a clear example of the “rational-comprehensive systems” approach to
+social intervention – an approach that itself encounters many problems
+because it tends towards abstraction, an autocracy of expertise and the
+46
+
+Case studies
+short-circuiting of debate and discussion towards making social
+choices on technical grounds (15).
+Purposeful opportunism emerged as a third way in social plan-
+ning precisely to move on from these polarized positions. Purposeful
+opportunism suggests that, rather than constructing one grand system,
+scheme or plan that when (eventually) mobilized will bring about
+Table 1. Beattie’s fourfold grid applied to the health-promoting university
+Courses Services Facilities Policies
+Health Talks, films and Exhibitions and Space and Whole-campus
+information and seminars on events and resources for policies on
+advice-giving to health risks, information health education individual risks
+reflect individual such as stress, packs on current and preventive such as
+behaviour smoking and health topics action smoking, stress
+HIV/AIDS and personal
+safety
+Personal Discussions and Opportunities Facilities for self- Policies to
+counselling for role play on peer and support for help and group support staff who
+health to support pressures and self-review and activity need to adapt to
+life review and social skills in self-help new rules and
+self-empowered health such as codes such as
+change sex and HIV, those related to
+drugs, etc. smoking
+Administrative Assignments Channels for Design, labelling, Fully worked out
+action for health and projects that information sign-posting and university
+to reform explore and exchange about way-finding to policies and
+regulatory assess the issues related to support the rules on health
+systems health profile of being a healthy healthy campus agreed with
+the university university idea students and
+staff
+Community Programmes of Meetings, Provision for Explicit and open
+development for adult and forums, fairs and dual and multiple structures for
+health to identify community street events to use of space and policy-making on
+common ground health education open up debate resources: a health as an
+and facilitate and of local and decision- healthy aspect of the
+joint action outreach making on a university is an corporate ethos
+health agenda open university? and quality of life
+across the
+university
+Sources: adapted from Beattie 1990 (6), 1991 (9), 1996 (10) and O’Donnell & Gray (8).
+47
+
+Case studies
+fundamental change, it is helpful to work on many fronts simultane-
+ously, at many different levels, to intervene from many different an-
+gles. No opportunity should be turned down, however small and mod-
+est. Initiatives should be undertaken by whoever can be persuaded, on
+whatever topics come up – so long as wider and longer purposes are
+kept fully in mind and a very clear picture is maintained of the full
+repertoire of strategic change that is in principle possible and desirable
+(perhaps along the lines set out in Table 1).
+As an approach to settings-based health promotion, this can be
+called muddling through with a model. In the case of the St Martin’s
+as a Health Promoting College Project, it means that attempts are
+made to seek out and nurture whatever examples of local enthusiasm,
+enterprise and creativity can be found (as regards action for a health-
+promoting campus), while at the same time ensuring that all such spe-
+cific initiatives are reviewed within a systematic audit of strategic
+choices for the health-promoting university, for which Table 1 pro-
+vides one tool, although other health education and health promotion
+planning schemes and models are also used (10).
+ORGANIZATIONAL STRUCTURE
+During the academic year 1993–1994, the first of what became a series
+of forums on St Martin’s as a Health Promoting College was held, at-
+tended by members of College senior and middle management (both
+administrative and academic) and Student Union officers. A range of
+examples of settings-based approaches to health promotion were re-
+viewed – health-promoting school, health-promoting hospital and
+health-promoting workplace – as well as the national health-promoting
+college project. Using various versions of Table 1, the current activi-
+ties of the University College of St Martin to promote health were
+audited, and this was used to spot gaps and to discuss what other ac-
+tion for health could be carried out on campus. Successive cohorts of
+undergraduate health education and health promotion students have
+also reviewed the work undertaken on the St Martin’s as a Health
+48
+
+Case studies
+Promoting College Project. Diverse and challenging sets of ideas for
+action have emerged from these forums.
+IMPLEMENTATION PROCESS
+Since autumn 1993 the main vehicle for exploring and implementing
+action for health on campus has been project work undertaken by stu-
+dents. As a major part of their second-year studies within a full-time
+Bachelor of Arts in Health Promotion (in a double module on health
+promotion theory and practice), four successive cohorts of students
+have undertaken action planning and practical interventions around
+the College. Accounts have already been published of the design of the
+study programme (16) and of progress up to the end of the second year
+(17).
+The work undertaken always combines different approaches to
+action – both individual and institutional change and both expert-
+originated and client-centred intervention; but the scope and emphasis
+of the work undertaken has evolved over the years. In fact, each cohort
+is asked to write letters to next-year’s students, offering them advice
+on what issues to address and how. This has proved to be an invalu-
+able means for learning from each successive cycle of action.
+The first cohort of students addressed mostly orthodox lifestyle
+risk factors but undertook a great deal of lobbying behind the scenes
+for policy change, and they put a lot of effort into displays and events
+for an Open Day (on St Martin’s as a Health Promoting College).
+The second cohort moved on to a new emphasis on wider con-
+texts of student life (such as stress, poverty and accommodation). They
+began to apply full-scale social marketing strategies to these aspects of
+student health, with a much greater concern for the diversity of interest
+groups on the campus.
+The third cohort introduced a new focus on lively visual and
+written communications, prompted and supported by major inputs by
+designers from a local agency called Celebratory Arts for Primary
+Health Care (18). They prompted ethical debates such as on providing
+abortion advice services on campus and also succeeded in getting out-
+49
+
+Case studies
+side agencies actively involved, such as the Lancaster City Environ-
+mental Health Department.
+The most recent cohort was greatly impressed by the high profile for
+health issues their immediate predecessors had achieved by creative
+writing for student publications on campus. This fourth cohort has in-
+vested a great deal of energy in journalistic and desk-top publishing
+skills; they have also decisively opened up an agenda of off-campus and
+town-and-gown health issues; and they have been particularly imagina-
+tive in devising health education and health promotion policy documents
+for discussion and use by key agencies on and off campus.
+CRITICAL REFLECTIONS
+Some problems have recurred every year, and they seem likely to crop
+up in most initiatives attempting to implement health promotion
+strategies on a campus-wide basis.
+For example, action learning and peer teaching have great bene-
+fits for the students undertaking project work, and students make a
+wonderful army of health activists: they bring fresh ideas and enthusi-
+asm to each turn of the annual cycle, and they reach places where staff
+and outsider consultants can less easily go. But as a pedagogy it is
+challenging for the tutor to sustain and support (and can be expensive
+in labour and resources), and it makes great demands on student en-
+ergy, time and inventiveness.
+Attempts to change institutional policies (such as those on drugs
+and alcohol, student accommodation and disability) rapidly expose the
+limits of student authority, even when interventions are made in full
+cooperation with the Student Union and/or with backing from senior
+academic staff. Organizational development for health (even using the
+purposeful opportunism mode) is almost always a highly contested
+matter, sometimes ethically controversial and sometimes politically
+explosive or divisive.
+The agencies on campus that are often the most sympathetic, respon-
+sive and cooperative (such as the medical centre, counselling, student
+welfare, catering and the health and safety committee) run the risk of be-
+ing pushed into early burn-out by successive battalions of rampant stu-
+50
+
+Case studies
+dents who charge in each year with enthusiastic and well meaning criti-
+cisms and brilliant new ideas for improvement (yet again ...), especially
+when the permanent staff have been struggling anyway with the agenda
+of almost constant larger-scale reorganization in higher education in these
+past few years.
+Trying to extend the scope of health promotion to student life off-
+campus (such as to problems around accommodation, private land-
+lords, noise and safety on the streets) raises many further difficulties.
+There are often complex legal issues, and a fundamental problem is
+student poverty and the increasing necessity for them to work part
+time. How much health promotion can actually achieve in these areas
+and whether health arguments are especially helpful in such contexts
+remain to be seen.
+Inevitably, our students bump up repeatedly against the debate
+around theoretical models for health promotion planning and prac-
+tice (19). They study these intensively, and they are encouraged to
+figure out their own position on what model or models they favour.
+But using a portfolio to guide students’ build-up of expertise in
+health education and health promotion practice is still often a hec-
+tic, pell-mell business, emphasizing that the professional artistry
+exercised in health education and health promotion in the wider
+world is imperfectly understood and therefore imperfectly assessed
+(20–22).
+THE FUTURE: CONSTRAINTS AND OPPORTUNITIES
+The way the health-promoting campus project is developed ensures
+that neither an individual academic nor anyone else on the senior staff
+of the University College of St Martin can decide what will happen in
+advance. Each successive cycle of action will be shaped by the dia-
+logue between students from one cohort to another and within each
+cohort. Even so, several wider issues are likely to be at the forefront of
+action and research in health promotion in this setting for the next few
+years. What follows is only a bare summary.
+As the economic constraints on higher education tighten and as
+central directives on the content of curricula become more pressing
+51
+
+Case studies
+(along with other political and personal pressures), the problems of
+student stress and mental health will loom larger. I believe that much
+can be learned from the new ways health-promoting schools are ap-
+proaching emotional health (23).
+In parallel with this, I suspect that everyone involved in settings-
+based health promotion will need to become much more aware of the
+emotional dimension of organizational life, at all levels. It is being (re-
+)discovered both in management sciences (24) and in the sociology of
+health (25), and I hope that the radically new insights and strategies
+this perspective suggests can be used (26).
+At the same time, approaches to the management of universities
+are becoming more attuned to the cultural dynamics associated with
+major organizational transitions (27) and reflect new understandings
+of the importance of attending to and reworking the metaphors and
+stories that are in circulation in an organization (28). Learning to
+change together in a university setting requires engaging in work of
+this kind. It will involve new initiatives of which we have seen very
+few examples so far, such as psychodrama or the forum theatre of
+Freire and Boal (29).
+One crucial aspect of this new kind of work in the university set-
+ting will be much greater sensitivity to the social ethics of intervention
+in the name of health. There are many parallels between organization
+development for health (31) and community development for health
+(32), and the conflicts of value that are inescapable in discussions of
+health policies across a whole campus increasingly need to be ad-
+dressed if health codes are to be “owned by members of the commu-
+nity” within the university setting (33,34).
+Fortunately – and perhaps just in time from the point of view of
+the health promotion specialist – the health education and health pro-
+motion field itself has also evolved to the point where rethinking the
+health agenda and revising our means of practical action can cope with
+these new challenges of learning to change in the university setting. It
+is to be hoped and anticipated that, in the near future, action for health
+on campus will show that (35): “successful work in health promotion
+will be an art as much as a science, and practitioners will need to be
+able to improvise creatively to put together an appropriate mix of in-
+52
+
+Case studies
+terventions, combining and adapting a range of different approaches
+on the basis of ‘theoretical pluralism’...”.
+REFERENCES
+1. Beattie, A. Healthy alliances or dangerous liaisons: health promo-
+tion as a challenge to inter-disciplinary collaboration. In:
+Leathard, A., ed. Working together for health. London, Rout-
+ledge, 1993, pp. 109–122.
+2. Box, V. & Mahoney, P. An evaluation of the re-location of the
+certificate in health education from Tottenham College to Park-
+side Health Promotion Department 1987–88. London, Health
+Education Authority, 1988.
+3. Farrant, W. & Joffe, M. Fresh roles: a programme of medical stu-
+dent projects on health promotion policy in Paddington and North
+Kensington. London, St Mary’s Hospital Medical School, 1987.
+4. Farrant, W. “Health for all” in the inner city – exploring the im-
+plications for medical education. In: Falk-Whynes, J., ed. Health
+education in universities. London, Health Education Authority,
+1991, pp. 21–31.
+5. Beattie, A. Developing a portfolio for health research. Lancaster,
+Centre for Health Research, 1992.
+6. Beattie, A. Teaching and learning about health education: new
+directions in curriculum development. Edinburgh, Scottish Health
+Education Group, 1990.
+7. CERI. Health, higher education and the community: towards a
+regional health university. Paris, Organisation for Economic Co-
+operation and Development, 1977.
+8. O’Donnell, T. & Gray, G. The health promoting college. London,
+Health Education Authority, 1993.
+9. Beattie, A. Knowledge and control in health promotion: a test-
+case for social policy and social theory. In: Calnan, M. et al., ed.
+Sociology of the health service. London, Routledge, 1991, pp.
+162–202.
+53
+
+Case studies
+10. Beattie, A. The health promoting school: from idea to action. In:
+Scriven, A. & Orme, J., ed. Health promotion: professional per-
+spectives, Basingstoke, Macmillan, 1996, pp. 129–143.
+11. Klein, R. & O’Higgins, M. Social policy after incrementalism. In:
+Klein, R. & O’Higgins, J., ed. The future of welfare. Oxford,
+Blackwell, 1985, pp. 223–230.
+12. Grossman, R. & Scala, K. Health promotion and organizational
+development: developing settings for health. Vienna, IFF/Health
+and Organizational Development, 1993 (WHO European Health
+Promotion Series, No. 2).
+13. Baric, L. Health promotion and health education practice. Mod-
+ule 2: the organisational model. Cheshire, Barns Publications,
+1994.
+14. Lindblom, C. The science of “muddling through”. In: Faludi, A.,
+ed. A reader in planning theory. Oxford, Pergamon, 1973 (origi-
+nal 1957), pp. 151–169.
+15. Rosenhead, J. Operational research and social planning. In:
+Midgley, J. & Piachaud, D., ed. The fields and methods of social
+planning. London, Heinemann, 1984, pp. 147–175.
+16. Beattie, A. The health promoting campus: a case study in
+project-based learning and competency profiling. In: Edwards, A.
+& Knight, P., ed. Degrees of competence: the assessment of
+competence in higher education. London, Kogan Page, 1995, pp.
+133–149.
+17. Beattie, A. Action learning for a health promoting campus, In:
+Beattie, A., ed. Health promoting universities. Health for all news
+(Faculty of Public Health Medicine), 31: 18–20 (1995).
+18. Jones, A. The celebratory arts in primary health care. In: Miles,
+M., ed. Arts in primary health care. Dundee, British Health Care
+Arts Centre, 1994.
+19. Rawson, D. The growth of health promotion theory. In: Bunton,
+R. & Macdonald, G., ed. Health promotion: disciplines and di-
+versity. London, Routledge, 1992, pp. 202–224.
+20. Naidoo, J. & Wills, J. Health promotion: foundations for prac-
+tice. London, Baillière Tindall, 1994.
+21. Twinn, S.F. Change and conflict in health visiting practice: di-
+lemmas in assessing the competence of student health visitors.
+54
+
+Case studies
+PhD thesis. London, London University, Institute of Education,
+1989.
+22. Twinn, S.F. Conflicting paradigms of health visiting: a continuing
+debate for professional practice. Journal of advanced nursing, 16:
+966-973 (1991).
+23. Weare, K. & Gray, G. Promoting mental and emotional health in
+the European Network of Health Promoting Schools. Copenha-
+gen, WHO Regional Office for Europe and Southampton, Univer-
+sity of Southampton Health Education Unit, 1997.
+24. Fineman, S. Organizations as emotional arenas. In: Fineman, S.,
+ed. Emotion in organizations. London, Sage, 1993, pp. 9–35.
+25. Williams, S. & Bendelow, G. Emotions, health and illness: the
+“missing link” in medical sociology? In: James, V. & Gabe, J., ed.
+Health and the sociology of emotions. Oxford, Blackwell, 1996,
+pp. 25–53.
+26. Clarkson, P. The role of affective education in society. In: Trent,
+D.R., ed. Promotion of mental health. Vol. 1. Aldershot, Ave-
+bury, 1991, pp. 103–113.
+27. Weil, S. Learning to change. In: Managing fundamental change.
+London, Office for Public Management, 1992, pp. 9–17 (Office
+for Public Management Conference Report No. 7).
+28. Weil, S. Bringing about cultural change in colleges and universi-
+ties: the power and potential of story. In: Weil, S., ed. Introducing
+change from the top in universities and colleges. London, Kogan
+Page, 1994, pp. 149–167.
+29. Hurst, B. An assessment of health needs using a Freirean frame-
+work: with special reference to the use of forum theatre. Master’s
+dissertation. Lancaster: Lancaster University, 1993.
+30. Hurst, B. Defining student health needs: a Freirean approach. In:
+Beattie, A., ed. Health promoting universities. Health for all news
+(Faculty of Public Health Medicine), 31: 11–12 (1995).
+31. Smithies, J. Management theory and community development
+theory: making the connections. In: Jones, J., ed. Roots and
+branches: papers from the OU/HEA Winter School on Commu-
+nity Development and Health. Milton Keynes, Open University,
+Department of Community Education, 1991, pp. 242–257.
+55
+
+Case studies
+32. Beattie, A. Community development for health: from practice to
+theory? Radical health promotion, 4: 11–16 (1986).
+33. Beattie, A. et al., ed. Health as a contested concept (Workbook 1,
+K258, Health and Wellbeing). Milton Keynes, Open University,
+1993.
+34. Henry, C., ed. Professional ethics and organisational change in
+education and health. London, Arnold, 1995.
+35. Beattie, A. The changing boundaries of health. In: Beattie, A. et
+al., ed. Health and wellbeing: a book of readings. London, Mac-
+millan, 1993, pp. 260–271.
+56
+
+Creating a healthy medical
+school
+University of Newcastle
+Martin White
+BACKGROUND: ROOTS AND INSPIRATION
+This chapter discusses and critically evaluates the development of the
+University of Newcastle’s Healthy Medical School initiative – focusing
+on the processes adopted, the outcomes achieved and the lessons learned.
+The roots of the initiative can be traced back to 1991, when the
+Dean of the Faculty of Medicine asked the newly appointed Professor
+of Public Health what he would like to achieve during his tenure. His
+answer emphasized that one of the challenges for an academic De-
+partment of Public Health is to practise what it preaches – to ensure
+that the opportunities for health among students and staff within the
+Faculty are maximized. The Dean liked this idea, as he was concerned
+already about apparently high levels of alcohol consumption among
+medical students and felt that the development of a health promotion
+initiative might be one way of tackling this problem.
+The initiative has developed in several stages and continues to
+evolve. Although at its heart the initiative embodies the settings-based
+approach to health promotion (1), the focus and methods used have
+been shaped by a variety of local constraints requiring a measure of
+pragmatism.
+CONCEPTUAL FRAMEWORK
+Following the decision to develop an initiative, an informal brain-
+storming and discussion meeting was held, bringing together enthusi-
+astic and interested parties. These included academics from public
+57
+
+Case studies
+health and occupational medicine, colleagues with policy development
+experience from the National Health Service, the Newcastle Healthy
+City Project Director, a representative of the Faculty administration
+and two students The principal outcome of the meeting was a paper
+outlining aims and action proposals, as detailed in Box 7.
+Box 7. Aims and key policy areas for the Newcastle Healthy
+Medical School initiative
+Aims
+• to enable staff and students to maintain and improve their health;
+• to develop and promote the image of the Faculty of Medicine as a
+“healthy” and health-promoting organization, and a leader in effective
+health policy;
+• to increase organizational efficiency by investing in the Faculty of Medi-
+cine’s most valuable asset: a healthy work force and student popula-
+tion;
+• to contribute to the wider promotion of health in the north-east and
+elsewhere by:
+- encouraging staff and students to gain appropriate knowledge
+and skills to enable them to be effective health promoters
+- developing a model for the development and implementation of
+organizational health policy that can be used by other local or-
+ganizations.
+Potential policy development areas
+• smoking
+• alcohol
+• diet
+• exercise
+• stress
+• economic hardship
+• drugs
+• screening and other occupational health services
+• counselling and other student health services
+• workplace safety
+58
+
+Case studies
+• sexual behaviour
+• environmental protection
+• equal opportunities
+These proposals were presented to the Dean and Faculty Board. The
+aims and process were agreed, but some amendments were made to
+the proposed areas for policy development. It was felt that the
+initiative should focus primarily on issues directly related to student
+and staff health – such as smoking, physical activity, diet, and
+occupational health and safety – and that issues such as economic
+hardship and the wider environment were too peripheral or too far
+outside the control of the Faculty. It was thus agreed that policies
+should initially be developed in eight key areas: smoking, alcohol, diet,
+drugs, physical activity, sexual health, stress, and occupational health
+and safety.
+ORGANIZATIONAL STRUCTURE
+When the conceptual framework was agreed, the next stage was to
+establish a structure and process to take the initiative forward. First we
+set up a steering group drawn from participants present at the initial
+brainstorming meeting to oversee the initiative as a whole. The steer-
+ing group undertook three tasks at the outset:
+• preparing a consultation document outlining the proposed initia-
+tive to inform heads of departments and services;
+• widely consulting all students and staff, using a newsletter sum-
+marizing the consultation document and a questionnaire to gather
+ideas and expressions of interest in the initiative; and
+• conducting an anonymous sample survey of students and staff to
+gather baseline measurements relating to key policy areas to un-
+derpin future evaluation.
+A number of small specialist working groups were also established – in-
+volving academic staff, service staff and students – with the task of de-
+veloping policies in the agreed areas.
+59
+
+Case studies
+IMPLEMENTATION
+The process followed by each specialist working group involved four
+main steps:
+• establishing an evidence base by gathering information from local
+surveys and published literature;
+• preparing objectives and draft proposals for each policy;
+• testing out policy ideas by wide consultation with students and
+staff using specially convened sounding boards; and
+• finalizing the policy, taking on board comments and including the
+development of a implementation plan with a time schedule and
+estimated costs.
+The Alcohol Policy Working Group developed and tested this process
+first, providing a model for others to follow (2,3).
+From 1993 to 1995, four policy working groups (diet, alcohol,
+physical activity and sexual health) completed this process. Each of
+the resulting policy documents has a similar structure, with policy pro-
+posals being made in four key areas:
+• changes to the environment (physical, organizational and social);
+• training and education;
+• provision of appropriate services;
+• identification, management of and support for those with prob-
+lems.
+The Dean and the Faculty Policy and Resources Committee endorsed
+these policy documents in June 1995 (4), and a small budget was
+made available to help with implementation. However, as this was in-
+sufficient to employ any staff, it was agreed that the crucial next step
+was to secure sufficient funding to enable meaningful policy imple-
+mentation. A year later, a grant from the Northern Regional Health
+Authority enabled a full-time research and development officer to be
+employed for three years to coordinate the second phase of the initia-
+60
+
+Case studies
+tive – which involves further development, implementing policies and
+evaluating outcome.
+In addition, several other tasks were carried out on agreed issues.
+Smoking
+Following the introduction of a campus-wide University no-smoking
+policy in 1993, the Smoking Policy Working Group undertook to sup-
+port and monitor implementation of the policy within the Faculty.
+Occupational health and safety
+Occupational health and safety issues became part of a University-wide
+contract for occupational health services from an independent agency, set
+up by the University Department of Environmental and Occupational
+Medicine. Staff in this University Department have also contributed to
+the development of other policies, in particular those on alcohol, drugs
+and stress.
+Drugs
+A major national survey was funded at Newcastle University to ex-
+plore patterns of drug use among students (5,6). A Drugs Working
+Group was established in October 1997 to develop a policy for the
+Faculty.
+Stress
+The anonymous questionnaire survey and consultation exercise re-
+vealed that stress is considered to be the single most important health
+problem among both staff and students. A Stress and Mental Health
+Working Group was convened in January 1997 and is developing a
+policy.
+61
+
+Case studies
+REFLECTIONS ON THE PROJECT
+The Newcastle initiative has made slow but steady progress over a
+five-year period. However, this process has not been straightforward,
+and there are lessons to be learned from our experience.
+Divergent health promotion paradigms
+Throughout the development of the initiative, there has been tension
+between two divergent health promotion paradigms (7). The Steering
+Group espoused a positive and socioecological paradigm – derived
+from the WHO strategy for health for all (8–10); the Faculty Board
+largely supported a more biomedically based disease prevention para-
+digm, with a strong focus on individual behaviour and lifestyle. The
+resulting tension can be likened to that between the health strategy for
+England, The health of the nation (11), and health for all (8–10).
+To address this constraining influence, we have attempted to ap-
+ply the aims and principles of health for all in developing and imple-
+menting each policy area in numerous ways.
+Collaboration
+We have developed a collaborative process of policy development,
+working together with experts from different departments within the
+Faculty and from outside.
+Community participation
+We have undertaken several forms of consultation and, whenever pos-
+sible, involved students and staff in the policy development process.
+Openness and accountability
+We have attempted to develop policies in an open and accountable
+way, using a newsletter to make information and ideas available for
+comment and allowing flexibility of membership of the Steering
+Group and working groups.
+62
+
+Case studies
+Sharing ideas and experience
+We have learned from others in the field by reading the literature and
+by direct communication and have shared ideas and experience as the
+project has evolved by publishing articles in journals and newsletters
+with a variety of audiences (2,3,12–15).
+Empowerment
+The ideas for action are intended to be empowering and, using the
+principles of healthy public policy, either aimed at making healthy
+choices easier or creating healthy and supportive environments by ef-
+fective policy measures (10).
+Communication and consensus
+Despite differences in understanding and views about appropriate ap-
+proaches, senior academic staff and management have strongly sup-
+ported the policy development process, and this has been a valuable
+source of legitimacy for the initiative. Central to achieving this support
+has been frequent and clear communication of proposals from the
+Steering Group to the Faculty Board and the achievement of consensus
+at an early stage on the overall aims of the initiative. By keeping these
+aims in mind, the initiative has been able to demonstrate that there are
+many different ways to achieve them: universities are large and bu-
+reaucratic organizations, and the difficulty of bringing about organiza-
+tional change should not be underestimated.
+Communication has also been important for raising the initia-
+tive’s profile within the wider Faculty community. By using a variety
+of methods, it has proved possible to increase receptivity to changes in
+the policy framework for health and to enhance participation in the
+initiative.
+The process of developing policy: an evidence-based
+approach
+A further important factor has been adherence to a logical process for
+policy development, when possible involving a thorough review of
+published literature in the field. In an academic environment, such
+63
+
+Case studies
+rigour and reliance on evidence-based approaches has been an impor-
+tant factor in gaining credibility for what was initially viewed as a
+somewhat marginal activity.
+Financial constraints
+Higher educational institutions in the United Kingdom are currently
+operating in a difficult financial environment. In practice, this means
+efficiency savings, research selectivity and increasing student numbers
+– all of which make significant demands on the system and represent
+major counteracting forces for any health promotion initiative.
+Student and staff turnover: a challenge for integrative health
+promotion
+Newcastle tends to have a high annual turnover of students and, to a
+lesser extent, staff. This means that institutional memory for policy
+issues is relatively short, and the community needs to be frequently
+reminded of the rules and the messages in each policy area. There is
+less room for one-off campaigns, and this emphasizes the importance
+of introducing health promotion as an integral rather than an added-on
+element of the organizational structure and development.
+Curriculum development
+An obvious opportunity has been to introduce the ideas underpinning
+the initiative within appropriate curricula. For example, in the under-
+graduate medical degree programme, seminars have been introduced
+within a health promotion course. In the first seminar, students take
+part in a practical exercise to work through different approaches to
+promoting health within the Faculty. In the second seminar, students
+work in small groups to develop educational materials and messages
+linked to the initiative. These second-year sessions are followed by a
+one-hour small group seminar as a part of a third-year clinical rotation
+in public health medicine, which is run as a focused group discussion
+to test out ideas and proposals for specific interventions.
+From October 1997 a new personal and professional development
+strand has been introduced into the medical undergraduate curriculum,
+64
+
+Case studies
+and this will involve further lectures on personal health and health pro-
+motion in the Faculty for first-year students.
+A wider understanding of health
+The fact that both students and staff have identified stress as their most
+important health priority has several implications. First, it emphasizes
+the importance and centrality of having a health policy that can con-
+tribute significantly to achieving corporate goals, such as efficient and
+effective research and teaching. Second, internal discussions and ne-
+gotiations have led to the conclusion that stress needs to be addressed
+by both proactive and reactive strategies, including appropriate coun-
+selling and referral services for students and staff. However, it has also
+been recognized that positive health promotion – in the form of or-
+ganizational, personal and staff development – and a focus on leisure
+activities involving arts, humanities and physical recreation are all ap-
+propriate ways to address the concerns of the Faculty community.
+Thus, views have gradually started to change, and a greater under-
+standing of the scope of health promotion is being fostered – gently
+challenging orthodoxy and presenting more radical approaches as at-
+tractive alternatives to the more familiar and traditional, biomedically
+oriented methods.
+THE FUTURE: CONSTRAINTS AND OPPORTUNITIES
+Although the initiative has presented many challenges, it has also demon-
+strated the potential for great success. The university population, which
+tends to be largely young (students) and employed (staff), is not the most
+unhealthy. Nevertheless, it is at risk from specific problems, and patterns
+of behaviour students develop at medical school may lay down trends for
+the future (12). Health promotion in higher education is similar to health
+promotion in any occupational environment. However, although it is a
+more complex challenge within universities, it arguably presents greater
+opportunities for teaching and learning about health promotion (1,12).
+Nowhere is this more so than in medical schools, where staff and students
+have a fundamental interest in health (12–15). In the future, major chal-
+lenges will continue to include:
+65
+
+Case studies
+• integrating the initiative into mainstream corporate activity – en-
+suring that a holistic and organizational development approach is
+adopted;
+• developing practical and effective health promotion interventions
+for new policy areas (such as drugs, stress and the environment)
+while maintaining the activities already initiated; and
+• securing the funding needed to ensure that the time, energy and
+expertise already invested results in tangible and successful out-
+comes.
+REFERENCES
+1. Grossman, R. & Scala, K. Health promotion and organizational
+development: developing settings for health. Vienna, IFF/Health
+and Organizational Development, 1993 (WHO European Health
+Promotion Series, No. 2).
+2. Gray, J. et al. Developing a medical school alcohol policy. Medi-
+cal education, in press.
+3. White, M. Preventing problem drinking among doctors: the role
+of medical schools. Alcoholism, 16(1): 3–4 (1997).
+4. Faculty of Medicine Health Policy Working Group. Faculty of
+Medicine health policy initiative: first report to the Policy & Re-
+sources Committee. Newcastle upon Tyne, University of New-
+castle, 1995.
+5. Ashton, C. & Kamali, F. Personality, lifestyles, alcohol and drug
+consumption in a sample of British medical students. Medical
+education, 29: 187–192 (1995).
+6. Webb, E. et al. Alcohol and drug use in UK university students.
+The lancet, 348: 922–925 (1996).
+7. Terris, M. Concepts of health promotion: dualities in public
+health theory. Journal of public health policy, 13(3): 267–276
+(1992).
+8. Global strategy for health for all by the year 2000. Geneva,
+World Health Organization, 1981 (“Health For All” Series,
+No. 3).
+66
+
+Case studies
+9. Health for all targets – the health policy for Europe. Copenha-
+gen, WHO Regional Office for Europe, 1993 (European Health
+for All Series, No. 4).
+10. Ottawa Charter for Health Promotion (1986). Health promotion
+international, 1(4): iii–v (1986) and Canadian journal of public
+health, 77(6): 425–430 (1986).
+11. Secretary of State for Health. The health of the nation. A strategy
+for health in England. London, H.M. Stationery Office, 1992.
+12. White, M. & Bhopal, R. Why every medical school should have a
+health policy. Health for all 2000 news, 24: 5–8 (1993).
+13. Bhopal, R. et al. Health policies in British medical schools. Brit-
+ish medical journal, 308: 1044 (1994).
+14. White, M. & Bhopal, R. The healthy medical school. Change in
+medical education, 10: 4 (1994).
+15. White, M. & Bhopal, R. Health policy development in a medical
+school. Health for all 2000 news, 31: 6–9 (1995).
+67
+
+Public health education for
+medical students: a
+problem-based curriculum
+and new opportunities
+University of Liverpool
+Gillian Maudsley
+BACKGROUND: ROOTS AND INSPIRATION
+The General Medical Council published its Tomorrow’s doctors recom-
+mendations on undergraduate medical education in 1993 (1) with the aim
+of producing doctors appropriate and sensitive to individual and popula-
+tion needs. These are currently being implemented, in various ways, in
+medical schools in Great Britain. The recommendations broadly encom-
+pass curricular change to:
+• reduce factual overload by identifying and integrating core con-
+tent – as part of a core plus options structure;
+• promote appropriate knowledge, skills and attitudes – including
+communication skills and making public health a prominent
+theme – for pre-registration house year and for a subsequent
+medical career practising life-long learning; and
+• adapt to changing patterns of health care.
+The recommendations encourage educational innovation in moving to-
+wards a philosophy and methods that are more student-centred, such as
+promoting curiosity, self-directed learning and critical appraisal, sup-
+ported by appropriate assessment, supervisory structures, technological
+resources and the sharing of good practice.
+69
+
+Case studies
+One of the striking features of Tomorrow’s doctors is the atten-
+tion paid to the population perspective on health (1):
+The theme of public health medicine should figure prominently
+in the curriculum, encompassing health promotion and illness
+prevention, assessment and targeting of population needs, and
+awareness of environmental and social factors in disease.
+Such a distinguished challenge to the status quo in undergraduate
+medical education is particularly welcome to those weary of justifying
+trivial amounts of, often disconnected, public health teaching time.
+Tomorrow’s doctors builds on international recommendations taken
+from the Edinburgh declaration of 1988 (2), which aspired to produc-
+ing health-promoting doctors with a wider view of medicine and of
+their role in health.
+When Tomorrow’s doctors was published, the University of Liv-
+erpool Faculty of Medicine was already redesigning its undergraduate
+medical curriculum (3). This Faculty-managed curriculum originated
+in a Curriculum Strategy Group set up in 1990 (3). The General Medi-
+cal Council recommendations provided further impetus for this land-
+mark change. Launched for the October 1996 intake, the curriculum is
+being rolled out for subsequent intakes.
+CONCEPTUAL FRAMEWORK
+The Liverpool Faculty of Medicine drew upon the practical experi-
+ences and philosophies of many successfully innovative undergraduate
+medical curricula around the world. Much of the medical education
+literature, however, is not explicit about the impact of curricular inno-
+vation on public health education.
+Starting anew, the five-year core plus options curriculum is con-
+structed using integrated problem-based learning tutorials as the
+building blocks, with two to three tutorials per module. Students work
+through each one- to two-week module in small groups facilitated by a
+tutor to identify group learning objectives to research between tutori-
+als. They are supported by a spectrum of learning materials. The mod-
+70
+
+Case studies
+ule case scenario is designed to trigger an indicative set of faculty ob-
+jectives across four curricular themes:
+• structure and function in health and disease
+• individuals, groups and society
+• a population-wide perspective
+• professional values and personal development.
+Students generate similar objectives according to their perceived rele-
+vance and tutor guidance. These objectives underpin the assessment
+system, which has both formative (giving feedback) and summation
+(counting towards progress or a degree award) elements.
+Conceptually and structurally, this integrated problem-based
+framework replaces the former emphasis on isolated disciplines and
+subject-based learning, obliterating the traditional divide between pre-
+clinical and clinical work. Commitment has also been made to pro-
+viding early clinical context, specific training in communication and
+clinical skills and a community orientation.
+Along with this striking change in curricular structure, process and
+philosophy – based on learning relevant material in context – came the
+increased emphasis on public health education. Previously, the medical
+students received a solitary two-week public health medicine module in
+the third year of the traditional five-year curriculum (and approximately
+36 hours of medical statistics teaching in the first year). There had been
+little room for innovative manoeuvre within the practical and philosophi-
+cal constraints of the traditional curriculum.
+Public health and epidemiology – supplemented by medical sta-
+tistics, and to a much lesser extent health economics, public health
+nutrition, and history of public health – now form the thrust of the
+population perspective theme.
+In the first 4 years of the curriculum, the emphasis given to the
+four themes differs between modules but is continuous, encouraging a
+more comprehensive approach to dealing with clinical problems.
+ORGANIZATIONAL STRUCTURE
+The responsibility for planning and implementing a Faculty-managed
+curriculum is centralized. Whereas the Faculty of Medicine is currently
+71
+
+Case studies
+reviewing its organizational structures to meet major challenges in
+research and educational commitments, the problem-based curriculum
+was introduced into a Faculty organized around traditional depart-
+ments. The planning and implementation of the population perspective
+theme therefore made heavy demands on the relatively small Depart-
+ment of Public Health because, unlike the others, this theme was es-
+sentially within the remit of a single department.
+A small Departmental Steering Group provided the operational
+and strategic support required, drawing on expert advice from the re-
+maining academic staff as appropriate. Numerous requests were made
+of departmental staff for guidance, representation at meetings and re-
+sponses to documentation, and these were coordinated and delivered
+through this group to maintain an overview and make the best use of
+staff effort.
+PROJECT IMPLEMENTATION
+The input to planning from the Department of Public Health was
+helped greatly by forming a discipline map early on to chart the pro-
+posed core learning objectives under the population perspective theme,
+for each module. The map was updated as the objectives were modi-
+fied through discussions in the multidisciplinary curricular consensus
+groups planning each module. The progression of objectives across the
+years of this spiral curriculum could then be cross-referenced to check
+that concepts were being revisited at increasing depth without unnec-
+essary duplication. Hundreds of self-assessment questions were then
+written to address the agreed year-one faculty objectives for the popu-
+lation perspective and make an initial deposit in the central assessment
+bank. Resource lists were compiled incrementally to identify core texts
+and references for the modules. In this rolling programme, efforts
+needed consolidating progressively as the next stages were reached.
+Commitment to the problem-based learning staff development
+programme meant that three of the four members of the Departmental
+Steering Group joined the first cohort of problem-based learning tutors
+for the first 208 students (32 groups). Two of these members were
+then able to use the problem-based learning experience to inform their
+72
+
+Case studies
+writing of computer-based learning materials to support the population
+perspective theme.
+REFLECTIONS ON THE PROJECT
+The population perspective theme in Liverpool enables consideration
+of the trends and patterns of diseases and their determinants, the
+opportunities for preventing disease and promoting health and the
+implications for health (and other) service organizations. This learning
+is integrated with that in the other themes and is complemented
+particularly by consideration of the behavioural (individuals, groups
+and society) and legal, ethical, moral and personal development
+(professional values and personal development) implications in a
+scenario. In turn, these three themes support the primary task of
+acquiring core knowledge and skills related to normal and abnormal
+structure and function.
+The prominence of public health education in the new thematic
+structure at Liverpool demanded much effort from the Department of
+Public Health. Strategic and operational input was required at most of the
+levels of Faculty planning and implementation. The third-year public
+health medicine modules are still required for the traditional curriculum
+(until 1998), without initial redistribution of resources between depart-
+ments. All this also happened at a time when major departmental savings
+were being made because of higher education expenditure cuts. Indeed, a
+departmental structure is probably counterintuitive to a curriculum with-
+out explicit subject boundaries. Letting go of the responsibility for and
+control of public health education to the Faculty-led problem-based cur-
+riculum structures raised mixed emotions but was necessary to make
+public health everyone’s business.
+THE FUTURE: CONSTRAINTS AND OPPORTUNITIES
+The problem-based approach provides a welcome opportunity to im-
+prove public health education for medical students in Liverpool. Sus-
+taining the momentum may well require the curricular philosophy to
+73
+
+Case studies
+be reflected more explicitly in Faculty organization, resource alloca-
+tion and reward and appointment procedures. For now, however, Fac-
+ulty-level commitment to a wider view of medicine is in itself laudable
+given that British academic departments of public health have been
+eager for medical schools to recognize and address the public health
+implications of Tomorrow’s doctors (4).
+Admittedly, overall, doctors per se can only make a relatively minor
+contribution to the health gain of a population. Nevertheless, this can be
+pivotal. There are two main ways in which the major and innovative cur-
+ricular development in Liverpool could potentially contribute to health
+gain by the University.
+First, although it is too early for evaluation evidence locally, the
+physicians ultimately produced by this process should be sufficiently
+aware of public health principles, practice and issues to make a more
+informed contribution to health gain. This involves the ability to rec-
+ognize and act on the determinants of health in clinical practice and to
+make their actions evidence-based using their epidemiological and
+life-long learning skills. The educational climate now makes it easier
+for the students to make informed choices about such learning.
+Second, there could be an increase in health gain for students –
+and staff – themselves. The enjoyable learning environment – building
+on the students’ experience, empowerment, and a more balanced rela-
+tionship with the tutor – is conducive to a more health-promoting phi-
+losophy.
+It would be unwise to make ambitious claims about the virtues of a
+curriculum only in its infancy through its first year. Nevertheless, health
+promotion content and philosophy is now higher on the educational
+agenda of the medical school for both staff and students. Together with
+healthier staff-student working relationships, these are modest yet impor-
+tant steps for the University overall given the considerable pressures pre-
+vailing related to funding, educational and research.
+74
+
+Case studies
+REFERENCES
+1. General Medical Council. Tomorrow’s doctors: recommenda-
+tions on undergraduate medical education. London, General
+Medical Council, 1993.
+2. The Edinburgh declaration. The lancet, ii: 464 (1988).
+3. Leinster, S. The new curriculum at Liverpool. Association of Liv-
+erpool Medical School newsletter, 23: 3–4 (1997).
+4. Chappel, D. et al., ed. for the Heads of Academic Departments of
+Public Health in the United Kingdom. Public health education
+for medical students: a guide for medical schools. Newcastle-
+upon-Tyne, University of Newcastle-upon-Tyne, 1996.
+75
+
+Embracing organizational
+development for health
+promotion in higher
+education
+Lancaster University
+Gina Dowding & Jane Thompson
+BACKGROUND: ROOTS AND INSPIRATION
+One of the key founders of the Lancaster Health Promoting University
+Project has described the origins of the Project as being grounded in a
+very real concern about student welfare, growing interest in a multidisci-
+plinary approach to health, and opportunism.
+The student Services Department and the University’s manage-
+ment led concern about student welfare and health. The two key pro-
+ponents of the Project were the Head of Student Services and the Pro-
+Vice-Chancellor (who have both since left and been promoted in other
+universities). Both individuals were active non-executive members of
+health authorities (health authorities had non-executive members at
+that time). Their interest in health promotion was mirrored by staff
+across the University, and in particular, in the Students’ Union, the
+Health Centre and the personnel department. Health promotion initia-
+tives, supported by the local health service’s Health Promotion Unit,
+had become a well established part of University life over the years.
+In summer 1994, after the Chairman of the Regional Health
+Authority visited the University briefly, the opportunity arose to bid
+for money from the Regional Health Authority for a programme of
+health promotion. Funding to set up the Health Promoting University
+Project was subsequently granted: £30 000 over two years to fund the
+post of a project coordinator. (The Project Coordinator’s part-time post
+77
+
+Case studies
+was job-shared after the first year of the Project.) The aim of the Proj-
+ect, as defined in the bid, was “to improve student and staff health”
+with a focus primarily around the Health of the Nation key areas of
+alcohol, exercise, mental health, staff health and safer sex.
+One of the more unusual factors about the origins of the Project is
+the absence of a dedicated medical school, health studies department
+or even an individual academic to champion health promotion or ad-
+vance the settings-based approach to health promotion. Nevertheless,
+the University does have experience of health-related research within a
+range of schools, from Geography to the Management School. An In-
+stitute for Health Research was founded in 1996.
+CONCEPTUAL FRAMEWORK
+The original brief of the Project emphasized high profile, topic-based ac-
+tion on the five priority areas identified. The primary task was therefore to
+ensure that health promotion activity already underway in the University
+was extended and unified within a coherent framework. The Project was
+guided by the principles of health for all (1,2) and the Ottawa Charter for
+Health Promotion (3) in providing standards of good practice for health
+promotion.
+Nevertheless, it was recognized that the Project presented an op-
+portunity to take a lead in embracing the newly emergent settings-
+based approach within a higher education institution in a time-limited
+experiment. Literature on the settings-based approach was sparse, and
+networking with other Universities with project-based health promo-
+tion underway revealed that there was no blueprint for this approach in
+the University sector. Help and guidance were therefore sought from
+professionals working in other sectors, and especially those involved
+in the European Health Promoting Hospitals Network (in particular
+with Dominic Harrison, Coordinator of the English Health Promoting
+Hospitals National Network), in developing a framework and methods
+for the Lancaster Health Promoting University Project.
+78
+
+Case studies
+AIMS AND OBJECTIVES
+During the first six months the aims for the Project were agreed:
+• to build on existing concern for good health and health promo-
+tion;
+• to develop new aspects of the role of the University in promoting
+health; and
+• to integrate health promotion into routine structures and values of
+the organization – or, as the Chair of the Steering Group said at
+the time – “to change hearts and minds”.
+During the first six months, Leo Baric of the University of Salford was
+contacted. He subsequently came to the University to run a workshop
+with the Steering Group and to give a public lecture at the University
+about the settings-based approach. Using Baric’s organization model (4),
+three elements of a health-promoting university were identified:
+• creating healthy working, learning and living environments for
+students and staff;
+• increasing the health promotion and health education content of
+the academic work of the university; and
+• creating health-promoting alliances by outreach into the commu-
+nity and developing the role of the university as an advocate for
+health.
+It was agreed that the Lancaster Health Promoting University Project
+should focus, primarily, on the first element.
+Grossman & Scala (5) endorse organizational development as a
+means of achieving long-term change. Nine months into the Project,
+the health promotion specialists on the Steering Group participated in
+a WHO training workshop in organization development for health
+promotion. This confirmed their conviction that the settings-based ap-
+proach requires new and different skills than those required by tradi-
+tional health education or health promotion interventions.
+79
+
+Case studies
+ORGANIZATIONAL STRUCTURE
+A Project Steering Group was established, chaired by the Pro-Vice-
+Chancellor, with representatives from most key services and functions of
+the University perceived by the authors of the Regional Health Authority
+bid to be interested in health: Personnel, the Students’ Union, Student
+Services and the Health Centre. A number of Steering Group members,
+including the Pro-Vice-Chancellor, were members of senior-level com-
+mittees of the University, but the Steering Group itself had no direct re-
+sponsibility or lines of accountability to the existing committee structure.
+Instead of establishing a group for each of the specified key areas in
+the bid (which would have focused explicitly on a problem or lifestyle-
+defined area), the Steering Group agreed to set up three multidisciplinary
+working groups to take a holistic view of the context of staff and students’
+experience of the University. The names of the working groups reflected
+the areas they were being asked to address (Fig. 2).
+Fig. 2. Working groups
+Steering Group
+Promoting a healthy social Promoting a healthy work- Promoting a healthy
+life ing life environment
+Members of the Steering Group either chaired or joined one of the
+above working groups, and individuals from other specialist services
+were invited to join in an effort to ensure a balance between the indi-
+viduals perceived to be:
+• potential stakeholders in the project;
+• representatives or gatekeepers to a large number of staff or stu-
+dents;
+• enthusiasts with innovative ideas for change; and
+• decision-makers with the authority to affect change.
+80
+
+Case studies
+The Safety Officer, for example, was invited to join the Promoting a
+Healthy Working Life Group, and the Deputy Director of Buildings
+and Estates joined the Promoting a Healthy Environment Group.
+PROJECT IMPLEMENTATION
+The project was implemented in four ways:
+• planned health promotion interventions by the three working
+groups;
+• proactive lobbying and mediation on behalf of the Project by
+members of the Steering Group and working groups and the Proj-
+ect Coordinator;
+• opportunistic health promotion interventions (as they arose); and
+• reactive work to ideas generated by staff and students in the wider
+University during the course of the Project.
+The working groups
+Each of the working groups was asked to:
+• identify health promotion needs within their area;
+• design, set priorities for and implement a strategy of health pro-
+motion action programmes using a variety of interventions – in-
+cluding health information campaigns and advocacy to improve
+services, facilities and environments;
+• make policy development recommendations to the Steering Group
+for action requiring the support of other decision-making bodies
+in the University.
+Promoting a healthy social life
+The Promoting a Healthy Social Life group was to focus on the poten-
+tial for health gain in the non-academically-related aspects of the lives
+of students, staff and visitors to the University. The group decided to
+81
+
+Case studies
+give priority to the needs identified previously: mental health, alcohol
+and sexual health, building on the campaign work of the Students’
+Union, with the aim of taking on board other issues as appropriate.
+Outcomes, in both the short term and the long term, often in parallel,
+resulted in a focus on sexual health, alcohol use, provision of social
+spaces and mental health.
+Sexual health
+Concern existed in the University about the accessibility of contracep-
+tion services and in particular the availability of condoms (provided by
+a range of local service providers, including the health centre on cam-
+pus). Action included:
+• setting up a user group to enhance dialogue about services be-
+tween health centre users and doctors and nurses, with attempts to
+make services more accessible;
+• a major publicity campaign on existing contraceptive services and
+the production of a new sticker placed on all toilet doors on campus
+advertising the existing range of services; and
+• arrangements for a regular supply of condoms to the University
+Night Line, where they are available free 24 hours a day.
+Alcohol use
+There was no shortage of ideas for encouraging sensible drinking on
+campus, from wider publicity about the alcohol content of beverages
+to reducing the profit mark-up on non-alcoholic drinks on campus
+(which, as in most licensed premises in the United Kingdom, is higher
+than on alcoholic drinks). Nevertheless, ideas for progress in this area
+were hampered by perceived organizational barriers. At Lancaster all
+colleges depend on bar profits to finance other welfare activities. In
+the light of other organizational issues, the issue of bar profits was too
+sensitive to address at that time.
+82
+
+Case studies
+Provision of social spaces
+Alongside the debate around alcohol on campus, the group vigorously
+pursued providing a new location for meeting and socializing on cam-
+pus. It was felt that the bars on campus were not meeting the social
+needs of some students (in particular, mature students, families and
+overseas students) and staff and that providing a different type of
+venue would create a healthy choice in socializing opportunities on
+campus, especially in the evenings. The group capitalized on the idea
+through:
+• needs assessment: an extensive in-house survey using question-
+naires was commissioned from the Centre for Medical Statistics
+and complemented by students carrying out individual and group
+interviews as part of academic projects (for example, in qualita-
+tive methods);
+• dialogue with the catering review committee, which was near the
+end of reporting on financial arrangements of catering provision
+on campus;
+• lobbying the Estates Department for support; and
+• recommendations, based on the needs assessment, to guide the
+Estates Department in the future franchising of University ac-
+commodation for catering providers.
+Mental health
+Concern for action to promote the mental health of all staff and stu-
+dents in a climate of increasing pressure resulted in:
+• mental health promotion campaigns and events on World Mental
+Health Day; and
+• the creation of a Mental Health Working Party, which has subse-
+quently been successful in securing external sources of funding
+for a three-year Student Mental Health Project to embed appropri-
+ate mental health services into the existing University structures.
+83
+
+Case studies
+Promoting a healthy environment
+The tasks of this group were defined broadly because environmental
+themes inevitably overlap and interact with challenges relevant to
+other working groups within the project. Two key elements were cen-
+tral to the work of the group: issues relating to the immediate campus
+environment and the health of students and staff and the wider impact
+of University activities on the environment beyond the campus and on
+the population of Lancaster and Morecambe. It was felt important to
+try to develop a portfolio of projects in which some provided an im-
+mediate payback and others took longer to mature.
+Promoting access to and use of the University’s grounds
+Improving and promoting access to the attractive campus grounds was
+viewed as a project that could be tackled quickly, involved action only
+within the University and could potentially improve the quality of life for
+those living and working on campus. In cooperation with the University
+Building and Estate Office:
+• new signed footpaths were established around the campus;
+• a footpath map was produced and widely distributed;
+• an existing nature trail was upgraded; and
+• the use of the campus was promoted through a series of lunch-
+time guided walks around the footpath network focusing on
+points of ecological interest.
+Developing and implementing a policy to minimize waste and
+promote recycling on campus
+The challenges of minimizing waste generation and promoting recy-
+cling involved extensive negotiations both within and outside the Uni-
+versity. Policy development was informed by a comprehensive report
+commissioned by the Health and Environment Working Group (and
+produced by a Lancaster master of science student) that highlighted
+the extent of the problem and suggested a variety of strategies. The
+University has adopted a number of the proposals outlined in the re-
+port, and an increasing amount of waste is recycled. Nevertheless,
+84
+
+Case studies
+progress has been more rapid in some parts of the University than oth-
+ers, and there is still no structure that minimizes waste and ensures
+that a high proportion of waste is recycled throughout all sections of
+the University.
+Developing the University’s environmental policy, influencing
+the University’s transport strategy and researching the impact
+of noise on campus
+The issues raised by this group were taken to the Steering Group for
+further action, some with more success than others (see later). Indi-
+viduals continue to push for these changes because policies that en-
+courage a healthy environment can save money and are essential for
+the long-term future of the University. The University has a strong
+commitment to high-quality environmental teaching and research, and
+the institution must be seen as practising what it teaches and re-
+searches.
+Promoting a healthy working life
+This group was to promote a healthy working environment and a posi-
+tive working experience for all staff and students. Given the breadth
+and complexity of this remit, the group decided to give priority to the
+working experience of University staff. The University is one of the
+major employers in the district and, at the time when the group was
+established, had staff at three different sites (subsequently consoli-
+dated to one). Its employees include very disparate groups of staff –
+some permanent and others on fixed-term contracts.
+The group decided to pursue its objectives through long- and
+short-term measures, including assessing the health needs of staff,
+producing a report on stress, promoting staff health action weeks and
+reclaiming the lunch hour.
+Assessing the health needs of staff
+As a starting-point, the group decided to formally assess staff percep-
+tions of influences on their health at work. Twelve categories of staff
+were represented in the focus group sessions, which considered:
+85
+
+Case studies
+• how working at the University affected their own health and that
+of their colleagues;
+• the extent of University responsibility for protecting and promot-
+ing the health of staff (beyond legal requirements);
+• the extent of University responsibility for promoting a healthy
+environment; and
+• recommendations for measures the University could take to pro-
+mote individual and environmental health.
+The results gave a clear picture of common concerns.
+• Stress affected all categories of staff. In some cases this was di-
+rectly linked to the actions of students and in others it was the re-
+sult of increased workloads (with perceived pressures to work
+through lunch) and organizational and contractual issues (fixed-
+term contracts).
+• Poor communication within the organization both increased staff
+stress and obscured knowledge of facilities and good working
+practices already available to staff (for instance, reviews of seat-
+ing and lighting).
+• Facilities and services for staff were often seen as inadequate: for
+instance, there was a demand for improved seating and lighting,
+less expensive sports facilities, more showers (for staff who
+wanted to cycle to work), more social spaces and increased op-
+portunity to take lunch breaks.
+Dissemination of the findings of the research coincided with a period of
+severe financial cutbacks within the University, which resulted in genuine
+concern, for some staff, about the security of their current employment.
+The efforts of the group targeted staff stress.
+Report on stress
+A two-part report was compiled by members of the group, Staff Devel-
+opment and the Counselling Service and circulated through the Steering
+Group, to the Vice-Chancellor and heads of departments. The report
+86
+
+Case studies
+summarized current theory on the issue of organizational stress and the
+specific concerns within the University. It emphasized the importance of
+clear communication, particularly in a period of rapid change. The report
+did not suggest specific outcomes but was intended to raise awareness
+among senior management and highlight the importance and opportunity
+for positive change as part of the long-term restructuring programme.
+Staff health action weeks
+In parallel with the efforts for long-term improvement in working envi-
+ronments, the group was keen to raise the profile of health among staff
+and to offer practical events for staff participation. Two weeks of
+health-related events and activities were organized, to which every
+member of staff received an invitation. The programme of events in-
+cluded a Look After Your Heart Health Fair provided by the local Na-
+tional Health Service Trust. An interdepartmental Bike to Work Chal-
+lenge encouraged over 100 participants and highlighted both the
+enthusiasm of individuals and the organizational barriers to cycling to
+work.
+Reclaiming the lunch hour
+As a follow-up to the previous year’s Staff Health Fair, this two-week
+initiative was intended as a fun and short-term alleviation of the stress
+many staff experience by failing to take their lunch hour. Such daily
+events as guided walks, aroma therapy sessions and yoga were well
+attended despite the justifiable observations by some staff that they did
+not tackle the causes of stress. Staff Development organized a number
+of follow-up courses.
+Suggestions to repeat the very successful Bike to Work Challenge
+of the previous year were rejected by the event’s organizers because of
+a perceived lack of commitment, by the University, to improving fa-
+cilities for cyclists. Instead, a series of public meetings was arranged
+that resulted in the formation of the University Cyclists Action Net-
+work – a group of staff and students who are committed to cycling to
+work and lobbying for secure cycle racks and showers. The University
+Cyclists Action Network is now an active lobbying force in the Uni-
+versity.
+87
+
+Case studies
+Proactive lobbying and mediation
+Members of the Steering Group and working groups agreed to take on
+a lobbying role for health challenges in the University. This activity
+increased as members grew in confidence, and examples of success
+include:
+• a commitment to ensure that information on health, prevention
+programmes and primary health services is given during induc-
+tion talks to all new students;
+• the removal of cigarette machines from most catering outlets; and
+• representation of the Project on the University Transport Policy
+Working Group, which gave a credible specific voice to concerns for
+the implications of transport policy for health and the environment.
+These have since been reflected, with some dilution, in the state-
+ments of the Transport Policy Working Group.
+Opportunistic health promotion interventions
+In September 1995, Lancaster University hosted a major first-aid training
+event for members of the community. Following this, the opportunity was
+seized for securing a commitment from the major voluntary organization
+involved to provide first-aid training each new academic year for volun-
+teers.
+Reactive work to ideas generated by staff and students
+Publicity for action underway in the Project encouraged other parties
+to take on board such health promotion issues as the following.
+• One of the colleges expressed interest in becoming a health-
+promoting college. a session was held with college members to cre-
+ate a vision of the health-promoting college, and a subsequent
+meeting helped clarify a programme of action. The University, how-
+ever, did not grant the college funding for the proposals. Had more
+time been available for lobbying and mediation, it may have been
+possible to secure commitment from the college to re-direct existing
+funds to the proposals.
+88
+
+Case studies
+• A member of the Health Centre staff, who was also on the Pro-
+moting a Healthy Working Life Group, expressed concern about
+the number of students exhibiting health problems resulting from
+overuse or inappropriate use of visual display units. Group mem-
+bers carried out initial research – including the collation of na-
+tional information gathered through an e-mail discussion group.
+An internal bid was submitted for action research in this area but
+was unsuccessful, and insufficient resources were available to
+allow the project’s development.
+REFLECTIONS ON THE PROJECT
+Understanding and commitment to the settings-based
+concept
+The settings-based approach was new to everyone involved in the project
+(including the Project Coordinator appointed). The University staff were
+committed to enhancing health promotion programmes, both in terms of
+quality and quantity, but there was little understanding of the processes
+required to embrace a settings-based approach and by necessity, there-
+fore, even less commitment to do so. The challenge was and remains, to
+develop a commitment to the settings-based approach, with its emphasis
+on organizational development and University-wide structural changes
+for health.
+Many of the practical outcomes of the development phase are, es-
+sentially, similar to those that might have emerged had a more tradi-
+tional health promotion approach been adopted. The pressure to de-
+velop high-profile, opportunistic interventions diverted time and
+resources from the process of securing a commitment to organizational
+change.
+Interestingly, the preparatory work for hosting the First
+International Conference on Health Promoting Universities at
+Lancaster at the end of the pilot Project has been significant in
+developing an understanding of and commitment to the concept of the
+settings-based approach both internally and externally.
+89
+
+Case studies
+Communicating the settings-based approach
+The results suggest that more time should have been devoted to develop-
+ing and communicating the concept of settings for health promotion in
+the early stages of the project. Simnett (6) has highlighted this in her work
+on evaluating health-promoting colleges.
+Nevertheless, the benefit of hindsight can mask the fact that much
+of the time and resources of the Project Coordinator at Lancaster have
+been spent in translating the settings concept to the University. Any
+subsequent phase can build on this pioneering work.
+Structures and processes
+Universities are large organizations with a number of disparate cul-
+tures and subcultures. The Project Steering Group was a new commit-
+tee outside the existing University committee structure that was not
+accountable to any one group. It was easy for its concerns in terms of
+distinct health promotion activities to remain marginal to the main-
+stream University business. Responsibility for action – or outcome –
+was, in effect, passed to the working groups, which consisted of fewer
+senior managers than the Steering Group and thus had limited oppor-
+tunity to affect organizational and policy development. It could there-
+fore be argued that the structures created by the project reflected a
+framework for health promotion within the University rather than for
+the organizational development of the University.
+The working groups gave priority to opportunistic intervention
+processed through a series of subprojects. Although these have, argua-
+bly, helped to nurture and cultivate the understanding and enthusiasm
+of the individuals concerned, this has been achieved at the expense of
+bringing about integrative organizational change and development.
+Time scales
+In retrospect, insufficient time was allowed for the development of the
+initial idea and for the process of integrating a health promotion agenda
+into both the culture and the organizational structure of the University.
+The Project was funded for less than two years, which is an unrealistic
+time frame for organizational change.
+90
+
+Case studies
+External factors
+The university sector in the United Kingdom is under increasing pressure
+from a number of sources. Halfway through the Project’s development
+phase, this national trend severely affected Lancaster’s financial position,
+and it faced bankruptcy at one stage. The short-term focus of the Univer-
+sity management was forced towards survival and consolidation rather
+than expansion. Not surprisingly, managers and individual staff were left
+with little time or enthusiasm for developing new and voluntary projects
+or tasks.
+The role of the Project Coordinator
+Experience suggests that the Coordinator’s role is shaped by a number
+of factors, including:
+• the origins of the project: where the idea first developed;
+• the paymaster: the funding sources and their aims;
+• location: the strategic location of the project coordinator within
+the organization; and
+• the stakeholders involved.
+Funded by external sources, the Project sometimes seemed to have no
+home in the University. Although this meant that the Coordinator avoided
+departmental constraints, it also led to isolation from the administrative,
+management and academic departments. It is interesting that the physical
+base of the Project moved from the Health Centre to an office within the
+Management School. This was because of practical expediency, but this
+move from medical to management also reflects the underlying shift in
+emphasis in the Project during its pilot stage.
+Outcomes
+The Project was successful in contributing to engaging a different so-
+cial system (higher education) in the debate and action about health,
+developing the concept of the settings-based approach to health pro-
+motion and international networking.
+91
+
+Case studies
+Engaging a different social system (higher education) in the
+debate and action about health
+In addition to increasing overall health promotion activity and embed-
+ding the health agenda into the work of some sections of the Univer-
+sity, the Project made significant progress in generating debate about
+organizational development for health promotion across the University
+as a whole.
+Developing the concept of the settings-based approach
+Lancaster was one of the first universities to pilot the health-promoting
+university concept and proactively engage in its dissemination through
+networking. In hosting the First International Conference on Health
+Promoting Universities, the Project acted as a catalyst for debate about
+developing the concept and practice of the settings-based approach to
+promoting health in higher education. This led to a commitment from
+the WHO Regional Office for Europe to develop the Health Promoting
+Universities project and, with other co-sponsors, to publish this docu-
+ment.
+International networking
+The WHO Healthy Cities Project Office recognized Lancaster’s pioneer-
+ing role and invited Lancaster to assist in the strategic development of the
+concept of the WHO Health Promoting Universities project.
+The future: constraints and opportunities
+The development phase of the project at Lancaster finished in Decem-
+ber 1996. The University has expressed interest in creating a post of
+Health Promoting University Coordinator, based within the adminis-
+trative function. This, however, depends on whether the University’s
+financial situation improves and on greater appreciation by senior
+management of the worth of the post and project as a resource for good
+times and bad times.
+Lancaster University’s excellent ratings in the recent Research As-
+sessment Exercise are helping to create a more optimistic mood with a
+focus on the future. The process of restructuring, which will occur along-
+92
+
+Case studies
+side the University’s gradual financial recovery, will create positive op-
+portunities for building on the concepts embedded within the health-
+promoting university ideal.
+The new Institute for Health Research provides a focus for health
+interests within the University. Regular communication of the Insti-
+tute’s activities is helping to raise the profile of health in its broadest
+definition to a significant number of academics and to increase the
+scope for developing health-related research. The cumulative effects of
+this growing interest create positive opportunities for the future of the
+Lancaster Health Promoting University Project.
+Through the commitment of key individuals within the University
+and the local Health Service, Lancaster has had a key role in shaping
+the conceptualization of the Health Promoting Universities project.
+The opportunity exists for Lancaster to reap the benefits of its earlier
+commitment should it continue to invest in the Lancaster Health Pro-
+moting University Project.
+During the development phase, the Project concentrated on de-
+veloping the first of Baric’s three elements of a setting: the house-
+keeping functions of creating healthy learning, working and living en-
+vironments for students and staff. Efforts to extend the scope of the
+Project were limited. This means that the fundamental business of the
+University – teaching and research across the whole of the University
+curriculum – is still untapped in terms of health-promoting university
+developments. This is an area in which progress could engage the aca-
+demic community of the University and could make a very significant
+contribution to improving the health of the wider community.
+REFERENCES
+1. Global strategy for health for all by the year 2000. Geneva, World
+Health Organization, 1981 (“Health For All” Series, No. 3).
+2. Health for all targets – the health policy for Europe. Copenha-
+gen, WHO Regional Office for Europe, 1993 (European Health
+for All Series, No. 4).
+93
+
+Case studies
+3. Ottawa Charter for Health Promotion (1986). Health promotion
+international, 1(4): iii–v (1986) and Canadian journal of public
+health, 77(6): 425–430 (1986).
+4. Baric, L. Health promotion and health education in practice.
+Module 2: the organisational model. Altrincham, Barns Publica-
+tions, 1994.
+5. Grossman, R. & Scala, K. Health promotion and organizational
+development: developing settings for health. Vienna, IFF/Health
+and Organizational Development, 1993 (WHO European Health
+Promotion Series, No. 2).
+6. Simnett, I. Health promoting colleges: progress report from the
+Avon and Gloucestershire College of Health, NHS Training Divi-
+sion. Leeds, NHS Executive, 1995.
+94
+
+The healthy university
+within a healthy city
+University of Portsmouth
+Camilla Peterken
+BACKGROUND: ROOTS AND INSPIRATION
+In 1995 the University of Portsmouth and the Portsmouth and South
+East Hampshire Health Authority initiated a two-year project to de-
+velop the University as a health-promoting university and a healthy
+workplace for both staff and students.
+The University and the Health Authority had worked in close
+collaboration for several years, forming a Healthy University Steering
+Group a couple of years prior to the project. This group was originally
+focused on academic collaboration between one of the professors in
+social studies and the Public Health Department of the Health Author-
+ity. Over time, the group’s interest developed to encompass action on
+health in the University. The Portsmouth City Council is committed to
+the Healthy Cities initiative and became another principal alliance
+member. The Portsmouth Health Promoting University Project was
+seen as the obvious next step for translating the collaboration of these
+three key agencies into a strategy for action.
+CONCEPTUAL FRAMEWORK
+The University’s mission statement expresses a commitment to excel-
+lence, to the quality of the student experience and to preparing stu-
+dents for the future. In addition, one of the fundamental aims of the
+University is to provide an environment in which all students and staff
+can fulfil their potential. It was agreed that a framework for the Ports-
+mouth Health Promoting University Project should build on these or-
+95
+
+Case studies
+ganizational commitments and other local health strategies. The Health
+Authority is committed to working within a framework of Healthy Al-
+liances (1) and towards the Health of the Nation targets (2). In October
+1995, the two main collaborating organizations appointed a University
+Health Promotion Adviser and agreed that:
+• health promotion action would be based on a commitment to
+enabling, advocacy and mediation highlighted by the Ottawa
+Charter for Health Promotion (3); and
+• structures would be guided by the health-promoting college
+model (4).
+ORGANIZATIONAL STRUCTURE
+The well established Healthy University Steering Group took over re-
+sponsibility for the Project with an expanded membership. The new
+group included the (acting) Vice-Chancellor, the Director of Health Pro-
+motion, the newly appointed Health Promotion Adviser to the University
+and representatives from the Students’ Union, the School of Health
+Studies, the School of Social and Historical Studies, Students’ Services,
+Personnel, the Health Promotion Service and the Portsmouth City Coun-
+cil.
+PROJECT IMPLEMENTATION
+The first phase of the Project focused on assessing the health needs of
+the University. This was considered an essential basis for a future
+strategy: to paint a broad picture of health at the University – illustrat-
+ing student and staff needs; showing how local statistics measured up
+against national targets; and identifying gaps in existing practice. It
+was felt that this would provide a framework to guide strategic devel-
+opment and enable change to be measured. The needs assessment was
+focused primarily around the Health of the Nation areas. However,
+because of the range of definitions and concepts of health, it was felt
+96
+
+Case studies
+that the needs assessment exercise should allow for a broader scope of
+issues to be raised.
+Aims of the needs assessment
+The aims of the needs assessment were:
+• to provide information on the student population in relation to the
+key Health of the Nation targets;
+• to include an additional key focus of primary health care and mi-
+nor illnesses (primary health care is perceived to be an important
+gateway for students to access health promotion and protection);
+• to clarify existing health promotion activity;
+• to make recommendations based on the findings and known ef-
+fective interventions and to make recommendations to pilot and
+evaluate new methods; and
+• to make recommendations for action at a strategic level, at de-
+partmental level and for individual target groups.
+Method
+A literature review revealed that little had been written about student
+health in the United Kingdom. Various methods were used to assess
+the health needs within the University, including student surveys, ob-
+servation, group discussion, staff surveys and informal discussion. In-
+ternal sources of data included the Personnel and Registry Depart-
+ments and external sources included the Health Authority, the
+Regional Drugs Database, the Samaritans, national surveys and local
+general practitioners.
+None of the official data channels, except for one general practi-
+tioner practice, specifically coded students. It was therefore assumed
+that information from all the above sources pertaining to young adults
+aged between 18 and 24 would be considered relevant to the student
+population (while acknowledging that many students would be mature
+students).
+An essential element of the process of conducting the needs as-
+sessment was to convey the concept of the health-promoting university
+97
+
+Case studies
+to key people at the University, and to explore whether, and how, they
+perceived their role as agents for change in the organization. Those
+interviewed in the six-month needs assessment period included: the
+General Manager and sabbatical officers of the Students’ Union, stu-
+dent groups, the University Directorate, Heads of Department, Faculty
+Deans, Personnel staff, the Heads of Student Services and Residential
+and Catering Services, Health Authority and Trust staff and the vol-
+untary sector.
+The strategy
+The detailed needs assessment report (5) made a range of recommenda-
+tions for action in the key areas. Over the next six months, the report was
+used as a discussion document to secure commitment to the recommen-
+dations from the highest levels of management of both the University and
+the Health Authority. However, some of the recommendations were taken
+on board immediately, and the Health Promotion Adviser was asked to
+begin a programme of action. Box 8 provides examples of some of the
+health promotion interventions undertaken.
+Box 8. Action on mental health
+Staff mental wellbeing
+A perceived stress scale had been used in the staff survey (6), and stress
+had been highlighted by staff as an important determinant of their health. A
+presentation of the results to the Human Resources Committee led to a
+commitment to action at different levels within the University. Commitment
+was made to long-term developments in the following areas:
+• staff training on managing change, team development and training for
+new managers;
+• helping staff back after long-term sick leave;
+• collection of absenteeism data; and
+• staff appraisal systems.
+In the short term a series of lunchtime stress management sessions was
+run for staff.
+Student mental wellbeing
+Students identified mental and emotional wellbeing as an important con-
+stituent of their health. It was agreed that their needs should be addressed
+98
+
+Case studies
+in two ways: interventions that would affect the immediate wellbeing of ex-
+isting students; and programmes and policies that would have a sustained
+impact on the changing student population.
+A Mental Health Fair was organized over three days at exam time, using
+individual and group sessions with complementary therapists. Techniques
+for coping with revision and examination stress proved very popular, and
+positive messages about mental health and illness were also conveyed.
+Over a longer period, a peer education programme was developed to train
+students to work with their own peers to promote mental wellbeing and en-
+courage self-awareness and greater communication skills. In the future it is
+envisaged that these students will introduce the ideas within the existing
+structure of student induction and course groups, as well as working with
+their immediate colleagues.
+The recommendations in the report formed the basis of a much
+broader three-year strategy and highlighted a timetable of action plans
+with expected outcomes over six months, one year and three years.
+Any resource implications were also identified, although most of the
+interventions were resource neutral.
+REFLECTIONS ON THE PROJECT
+Ensuring ongoing action
+The introduction of health promotion programmes for staff and stu-
+dents went hand in hand with the development of the strategy. This
+ensured that health promotion was seen, experienced and evaluated.
+This is vital to the success of the project, particularly when working
+with people who may have had very different interpretations of the
+meaning of health promotion.
+Sustainable programmes
+The success of the health-promoting university depends on translating
+the concept into a self-sustaining programme. One health promotion
+adviser on a two-year contract with the support of a multiagency
+steering group cannot alone be responsible for implementing a pro-
+gramme in such a complex organization.
+99
+
+Case studies
+Time scales
+Two years is a very short time to make an impact within a large, complex
+organization. The reality of translating theory into practice is extremely
+challenging – especially when working with other key agencies who may
+have different ways of working. A significant amount of time needs to be
+given to sharing concepts, establishing a framework, testing its viability
+and ensuring that long-term commitment is evident.
+Links between the Steering Group and the
+decision-makers
+Some members were in a position to make and carry out decisions on
+behalf of their department, but other representatives could not. It is es-
+sential to have members who can not only make decisions but are able to
+influence their execution by virtue of their membership of other commit-
+tees. A good example of this was the Pro-Vice-Chancellor’s ability to
+pursue staff health issues through the Human Resource Committee and
+the Director of Health Promotion’s ability to influence the Health
+Authority’s purchasing intentions and contract specifications.
+Decision-making structures of the University
+The hierarchical (and sometimes disempowering) structure within the
+University can hinder progress. The lack of delegation of decision-
+making powers means that key decisions are delayed. An efficient de-
+cision-making process is essential.
+Timing of the Project
+At a time when higher education is dealing with funding cuts and in-
+creasing competition, a major constraint is working with staff who
+may already feel vulnerable about their future and unwilling to commit
+themselves to what may be perceived as extra work.
+The project was introduced at a time when the university was
+without a Vice-Chancellor. This may not have been the most oppor-
+tune time to introduce the concept of change. Gaining commitment to
+and undergoing change is sometimes both lengthy and painful, espe-
+cially in an organization already experiencing changes perceived to be
+100
+
+Case studies
+outside its control. On reflection there is probably no ideal time, but
+the expectations of the project need to be set within the context of the
+organization in relation to its own changes.
+THE FUTURE: CONSTRAINTS AND OPPORTUNITIES
+During the course of the Project, a framework of multifaceted inter-
+ventions, using a variety of methods was developed, based on the
+health-promoting college model (4) to help clarify the areas that
+should be covered by the Project (Fig. 3). This framework was pre-
+sented to the new Vice-Chancellor in January 1997.
+Further funding has been secured for the next phase of the Health
+Promoting University Project.
+The vital next steps for the project are:
+• to delegate areas of work to small working groups and involve
+more staff and students in making the process of health promotion
+integral to their role;
+Fig. 3. The health-promoting university
+Curriculum
+A university-wide audit to
+identify opportunities
+Research Environment
+Involving students in Enhancing teaching and
+research learning facilities, social
+Research into student spaces and access
+health Minimizing waste
+generation
+Cycling schemes
+The health-promoting
+university
+Health promotion
+Investing in staff programmes
+Management training and Peer led programmes
+managing change Drugs and HIV education
+Minimizing and managing General practitioner
+stress registration and
+Appraisal systems access to services
+People
+101
+
+Case studies
+Policies and provision:
+healthy eating, smoke-
+free areas, alcohol and
+drugs.
+Student induction
+programmes
+• to integrate the recommendations for health promotion action into
+existing structures such as staff development plans, Investors in
+People,4 student induction programmes, estates management,
+Health Authority strategies and service specifications, residential
+and catering services and the curriculum; and
+• ensuring that health promotion informs the development of new
+policies and programmes of work or ways of working.
+Commitment at all levels to the idea of the health-promoting university
+is required if changes are to be made, owned and sustained. The de-
+velopment of a strategy for health promotion requires commitment
+from the Steering Group to seek continual endorsement and adoption
+by the key agencies, others in the university and health authority.
+Evidence of effectiveness of the health-promoting university is vital.
+Defining success criteria for both the process and outcomes are ways of
+measuring the impact. In the future, evidence of integration of the project
+into the University structures should be sought as indicators of the suc-
+cess of the process. The key working papers that guide University life
+(University and departmental strategic plans, staff development plans and
+Students’ Union business plans) should provide evidence of commitment.
+Health Authority strategies and purchasing intentions should also reflect a
+commitment to student health.
+The opportunities for the future are exciting. There is a real op-
+portunity to develop innovative work for a expanding group of the
+population that is often not recognized as having specific needs. The
+challenge now is to build something concrete on to the foundation of
+4 Investors in People is a major initiative by the United Kingdom Employment
+Department that aims to encourage employers of all sizes and sectors to improve their
+performance by linking the training and development of employees to their business
+objectives (7).
+102
+
+Case studies
+the framework at Portsmouth so that the health-promoting university
+ideal becomes a living experience.
+REFERENCES
+1. Department of Health. Working together for better health. London,
+H.M. Stationery Office, 1993.
+2. Department of Health. The health of the nation: a strategy for
+health in England. London, H.M. Stationery Office, 1992.
+3. Ottawa Charter for Health Promotion (1986). Health promotion
+international, 1(4): iii–v (1986) and Canadian journal of public
+health, 77(6): 425–430 (1986).
+4. O’Donnell, T. & Gray, G. The health promoting college. London,
+Health Education Authority, 1993.
+5. Peterken, C.I. The health promoting university. A needs assess-
+ment: the potential for change. Portsmouth, University of Ports-
+mouth, 1996.
+6. American Sociological Association. A perceived stress scale from
+a global measure of perceived stress. Journal of health and social
+behaviour, 24: 385–396 (1983).
+7. Whiteley, T. Investors in people. Sheffield, Universities’ Staff
+Development Unit, 1993 (Universities’ Staff Development Unit
+Briefing Paper Two).
+103
+
+The university as a setting
+for sustainable health
+University of Central Lancashire
+Mark Dooris
+BACKGROUND: ROOTS AND INSPIRATION
+The roots of the University of Central Lancashire’s project stretch back
+over several years. In 1992, the University was instrumental in Preston
+Acute Hospitals being selected as the pilot project for England within
+the WHO European Health Promoting Hospital initiative. Following
+representation on the Steering Group of this project, the University
+organized an international seminar on the settings-based approach to
+health promotion in collaboration with WHO and the North West Re-
+gional Health Authority (1).
+This seminar served as a catalyst within the University, leading to
+a growing interest in exploring the potential for applying the settings-
+based approach within the institution itself. This interest was nurtured
+by the presence of a forward-looking Department of Health Studies
+within a Faculty of Health, whose understanding of health and health
+promotion drew extensively on health for all (2), the Ottawa Charter
+(3) and Antonovsky’s salutogenic focus (4). In 1995, Faculty research
+funding was secured to appoint a Health Promoting University Project
+Coordinator, initially for two years, which was subsequently made into
+a permanent post.
+CONCEPTUAL FRAMEWORK
+The first task in establishing the Health Promoting University Project
+was to clarify its conceptual basis – defining the essential characteris-
+105
+
+Case studies
+tics of the settings-based approach.5 Second, it was necessary to con-
+sider how this approach could be applied to the University. The Uni-
+versity has a number of functions common to any large organization –
+for instance, it employs people and it provides a physical environment
+within which people operate – but it also has functions that infuse it
+with a distinctive culture and mission.6
+As an outcome of this review, it was agreed that the aims of the
+Health Promoting University Project should be:
+• to integrate within the University’s structures, processes and cul-
+ture a commitment to health and to developing its health-
+promoting potential; and
+• to promote the health and wellbeing of staff, students and the
+wider community.
+Within these overall aims, six objectives were set – related to priority
+focus areas forming an agenda for action (Fig. 4):
+• to integrate a commitment to and vision of health within the Uni-
+versity’s plans and policies;
+• to develop the University as a supportive and healthy workplace;
+• to support the healthy social and personal development of stu-
+dents;
+• to create health-promoting and sustainable physical environ-
+ments;
+• to increase understanding, knowledge and commitment to multi-
+disciplinary health promotion across all University faculties and
+departments; and
+• to support the promotion of sustainable health within the wider
+community.
+5 The chapters in section 1 of this document provide an overview of the theoretical
+basis for settings-based health promotion and of the wider critical debate concerning this
+approach, which have both informed the University of Central Lancashire’s project.
+6 The chapters in section 2 of this document briefly review the literature high-
+lighting the key roles of universities as the twenty-first century approaches.
+106
+
+Case studies
+Fig. 4. Agenda for action – project priority areas
+Healthy and
+supportive
+workplace
+Healthy student and
+personal and social
+development
+Academic
+Policy and development:
+planning curricula and
+research
+Health-promoting
+physical
+environments
+The university in
+the wider
+community
+ORGANIZATIONAL STRUCTURE
+When the conceptual framework was agreed, the next step was to es-
+tablish an organizational structure to ensure that the Project would
+move forward to achieve its aims and objectives. As is commonly the
+case, this presented dilemmas in balancing between the value of a
+formalized structure and the dangers of an over-bureaucratized ap-
+proach. Having discussed a number of options, a Project Steering
+Group was established that can establish working groups and task
+groups as necessary, reporting through the Health and Safety Com-
+mittee to Management and Executive Teams, and linking to parallel
+initiatives within the University and interagency alliances (Fig. 5).
+Chaired by a Pro-Vice-Chancellor, the Steering Group comprises the
+Project Coordinator (based in the academic department of Health
+Studies within the Faculty of Health), senior representatives from key
+107
+
+Case studies
+service areas and faculties and departments and the Health Promotion
+General Manager for North West Lancashire.
+Fig. 5. Organizational structure
+Executive team
+Management team
+Health & Safety Committee
+Contributions to Healthy and
+Health Promoting
+corporate and Sustainable
+University
+parallel university Preston
+Project Steering Group
+initiatives Steering Group
+Working groups Task groups
+Corporate policy Focus group Drugs
+development research
+Sexual Building Transport Mental
+health design wellbeing
+Initially, it seemed that the most obvious way forward would be to
+establish working groups to correspond to each of the six priority areas.
+However, following a few experimental meetings of a Healthy and Sup-
+portive Workplace Working Group, it was decided that these priority
+areas were too broad and diffuse to facilitate meaningful collaboration
+and action. A more pragmaticand flexible approach was therefore
+taken, acknowledging that, within a two-year time frame, it was im-
+portant to tap into exist ing initiatives, to harness and focus enthusiasm
+and available resources and to identify real-life entry points within the
+constraints of the existing organizational culture.
+108
+
+Case studies
+Organizationally, the work was structured in a number of ways.
+Contributions to corporate and parallel initiatives
+The Project Coordinator and Project Steering Group carried out or su-
+pervised a number of opportunistic pieces of work, enabling the proj-
+ect to contribute to ongoing or planned institutional initiatives. In ad-
+dition, the Project Coordinator has sat on both the Environment
+Committee and Ethics Committee, facilitating the integration of a
+health perspective into broader University structures.
+Task groups
+For several specific pieces of work, short-term task groups were estab-
+lished to achieve defined outcomes.
+Working groups
+Four issues were identified as appropriate foci for longer term Project
+working groups: sexual health, healthy and sustainable building design,
+transport and mental wellbeing. The selection was made pragmatically
+concerning relevance, interest and expertise, opportunities and resources
+– and the groups were set up sequentially, to avoid overload.
+Sexual health
+The Sexual Health Working Group was established in April 1996 – in
+acknowledgement of the clear relevance of sexual health issues to the
+University setting, in recognition that the University had not previ-
+ously demonstrated a corporate commitment to addressing the issues
+and in response to offers from key external agencies keen to invest
+resources in the University.
+Healthy and sustainable building design
+The Healthy & Sustainable Building Design Working Group was ini-
+tially convened in June 1996 following discussions between the Proj-
+ect Coordinator and Property Services – which concluded that there
+was substantial scope for developing and implementing a health and
+109
+
+Case studies
+sustainability impact assessment protocol in the design and refurbish-
+ment of University buildings.
+Transport
+The Transport Working Group was established in September 1996, in
+acknowledgement of the impact of transport on health and the envi-
+ronment, and in recognition of the institutional responsibility of the
+University to promote healthy and sustainable transport measures. The
+group was initially convened as an interagency alliance to facilitate
+coordinated and integrated action. However, it was subsequently
+agreed to convene two parallel working groups – one interagency and
+one internal. It is envisaged that, in the long term, the interagency
+group will be convened under the auspices of the interagency Healthy
+and Sustainable Preston Steering Group (see below).
+Mental wellbeing
+The Mental Well-Being Working Group was established in November
+1996 – in recognition of the growing concern about staff and student
+mental health and as a way of building on the work of both the earlier
+Healthy and Supportive Workplace Working Group and existing in-
+stitutional initiatives (for example, staff and student counselling serv-
+ices and the staff attitude survey).
+Multiagency collaboration
+In addition, the Project gave priority to developing links with the wider
+community. The Project Coordinator helped to set up (and now repre-
+sents the University on) the multiagency Healthy and Sustainable Pre-
+ston Steering Group – which serves as a vehicle for integrated and
+collaborative developmental work at the strategic and operational lev-
+els. In addition, the University is represented on a range of relevant
+interagency working groups and committees.
+110
+
+Case studies
+PROJECT IMPLEMENTATION
+The Project’s work was structured through contributions to corporate
+and parallel initiatives, task groups, working groups and multiagency
+cooperation.
+Contributions to corporate and parallel initiatives
+The first priority was action that contributed to ongoing or planned corpo-
+rate and parallel institutional initiatives, such as a University plan, staff
+attitude survey, occupational health review, staff training and professional
+development and baseline health review.
+University plan
+In order to embed the ethos of the Project within the University’s stra-
+tegic planning process, a substantive contribution was made to the
+five-year University plan – ensuring that reference was made to key
+values, principles and concepts.
+Staff attitude survey
+Rather than carry out specific research on staff health needs, a decision
+was taken to tap into the University’s first staff attitude survey – by par-
+ticipating in the pre-design stage of the questionnaire and liaising with
+Executive Team members regarding the role of the Project working
+groups in responding to survey findings.
+Occupational health review
+The Project Coordinator was actively involved in outlining health
+promotion priorities for the University’s occupational health service
+and in interviewing potential providers.
+Staff training and professional development
+As a way of raising the visibility of the Project, a Health Promoting
+University logo was designed and used in the staff training and devel-
+opment schedule to indicate relevant courses.
+111
+
+Case studies
+Baseline health review
+In order to identify the status of health within existing University poli-
+cies, a review was carried out, using word searches to provide a base-
+line from which to recommend future revisions.
+Task groups: specific short-term work
+Short-term task groups were established to achieve specific outcomes
+in defined areas: focus group research on student health needs, corpo-
+rate health policy and drug use and misuse within higher education.
+Focus group research on student health needs
+Following a successful bid to the University’s Central Initiatives Fund,
+the Steering Group established a short-term task group in May 1996 to
+oversee a piece of focus group research into students’ health needs.
+The research highlighted the complex interconnections between health
+issues and demonstrated the value of an holistic and coordinated or-
+ganizational approach (5).
+Corporate health policy
+A second task group met in autumn 1996 to write a corporate health
+policy – setting out a vision of a health-promoting university, ex-
+pressing the University’s commitment to incorporating an under-
+standing of and commitment to health within its culture, management,
+structures and processes, detailing the six Project objectives and out-
+lining principles of implementation. Adopted by the University in
+March 1997, the Policy places health high on the University’s agenda
+and will be supported by the implementation guidance produced by
+the Project working groups (see below).
+Drug use and misuse within higher education
+A third group, currently meeting, has the particular task of producing
+practical guidance on issues relating to drug use and misuse within
+higher education. It was convened following a presentation to the
+Project Steering Group, which was itself a response to concern ex-
+pressed by the Students Union and Student Services.
+112
+
+Case studies
+Working groups: action on specific issues
+Third, action on specific issues was coordinated through means of four
+working groups. In liaison with the Steering Group, each working
+group adopted terms of reference and a work plan, which included:
+• reviewing relevant research and practice (to provide a theoretical
+and practical evidence base);
+• developing strategic implementation guidance to support the cor-
+porate health policy (see above);
+• participating in high-visibility short-term initiatives; and
+• drawing up recommendations to be included in a phase 1 evalua-
+tion report.
+The Sexual Health Working Group has been extremely dynamic, fa-
+cilitating the exchange of information and ideas across sectors, coordi-
+nating University activities and events for World AIDS Day in 1996,
+reviewing relevant research and practice and drawing up policy im-
+plementation guidance.
+Because of time constraints within Property Services, the Healthy
+& Sustainable Building Design Working Group has made limited pro-
+gress, adopting a conceptual framework for the work and drawing up
+policy implementation guidance.
+The Transport Working Groups have shared information, coordi-
+nated activities and events for Green Transport Week 1997, reviewed
+relevant research and practice and drawn up policy implementation
+guidance.
+The Mental Well-Being Working Group has explored the concept
+of positive mental wellbeing in relation to organizational development
+and the needs of both students and staff. In addition to sharing infor-
+mation and ideas, the Group has reviewed relevant research and prac-
+tice, drawn up policy implementation guidance and coordinated ac-
+tivities and events for World Mental Health Day in 1997.
+113
+
+Case studies
+Multiagency collaboration: the University in the wider
+community
+The multiagency Healthy and Sustainable Preston Steering Group has
+been an important vehicle for embedding the Project’s theory and practice
+within a broader context. To date, the group has shared information and
+expertise, embarked on a process of developing visions and gained repre-
+sentation (via the Preston Borough Council and the University) on a
+WHO Multi-city Action Plan on Health and Local Agenda 21. The group
+offers the potential to develop as an umbrella body – overseeing multi-
+agency alliances and facilitating cooperation between settings.
+REFLECTIONS ON THE PROJECT
+Both achievements and shortcomings can be identified in the process
+of establishing and developing the Health Promoting University Proj-
+ect at the University of Central Lancashire. A number of points can
+usefully be highlighted.
+Communicating and managing integrative health promotion
+A danger of any new project within an institution (even if it carries an
+organizational development label) is that it can be viewed as a discrete
+and self-contained entity – something that is added on to rather than
+serving as a tool for harnessing, integrating and, where appropriate,
+reorienting mainstream organizational initiatives and processes. As
+indicated above, the Central Lancashire Project has had reasonable
+success in developing an integrative rather than an additive approach –
+and in particular, the corporate health policy, the baseline health re-
+view and the incorporation of the Project’s philosophy into the Uni-
+versity plan all provide a firm basis for future organizational develop-
+ment. Nevertheless, the frequent pressure to delineate the project and
+to achieve specific types of high-visibility demonstrable outcome indi-
+cate the difficulty of communicating and developing a clear under-
+standing of the settings-based approach.
+114
+
+Case studies
+Establishing a project team with dedicated time and
+resources
+Although the settings-based approach is concerned with integrative or-
+ganizational development, the early stages of any project require the dedi-
+cation of specific resources to enable it to get up and running and to de-
+velop. The success of any project thus depends in part on establishing a
+project team with time and resources at its disposal. At Central Lanca-
+shire, the project owes much of its success to the commitment, support,
+enthusiasm and understanding of both Steering Group and working group
+members. However, a continuing tension has been that, in most cases,
+individuals had to incorporate the project within their existing job – and
+in few cases was dedicated time made available. Consequently, limited
+progress was made in certain areas, not because of lack of enthusiasm or
+commitment on behalf of key staff but because no senior management
+decision was taken to give priority to and allocate time to the work. A
+further problem concerned lack of administrative support – exacerbated
+by the project’s base and the culture of academic departments (see be-
+low).
+Time scale of the project – tensions between theory and
+practice
+The two-year time scale of the project resulted in tension between the
+theory of the settings-based approach – with its focus on long-term or-
+ganizational development and cultural change and its practical imple-
+mentation – and necessary short-term opportunistic initiatives that could
+show high-visibility tangible outcome to argue for longer-term funding.
+Unrealistic expectations served to enhance this tension. Similarly, prag-
+matism demanded that the project find entry points people could grasp –
+often resulting in a focus on specific issues rather than on the setting as a
+whole. Whether this matrix approach strengthens or compromises a
+commitment to settings-based work is open to debate.
+Communication and power within organizations
+The flow of communication and the exercise of power are fundamental
+determinants and reflectors of organizational culture. In retrospect, it
+would have been valuable to have paid more attention early on to un-
+115
+
+Case studies
+derstanding the University’s communication and power structures. For
+instance, circulating minutes of meetings to senior management “for
+information” does not mean that the minutes are necessarily read;
+having representation on the Steering Group from particular levels or
+from particular services or departments within the University does not
+automatically achieve a comprehensive two-way flow of information;
+and establishing a Project Steering Group with representation from
+senior management does not mean that its decisions cannot be vetoed
+or overturned! Nevertheless, organizational development inherently
+involves discovering, learning, challenging and finding new ways to
+move forward, and the Project has demonstrated both resilience and
+adaptability.
+Choice and handling of focus issues
+In consequence, the choice and handling of focus issues might have bene-
+fited from a better understanding of the University’s culture. This would
+have facilitated the anticipation of points of resistance and better man-
+agement of any resulting conflict arising from differences in values and
+priorities.
+Developing the University’s role in the wider community
+Most work during the initial phase has been internally focused to
+demonstrate tangible outcome. However, the Project has acknowl-
+edged its role in promoting health within the wider community, rec-
+ognizing that (6):
+Universities are not discrete entities...[they are] embedded in
+many different types of “community”: some local, some global;
+some overlapping and interacting, some barely recognizing each
+other. In this sense the university is an essential part of local,
+national and global society, and forms part of how we define our
+society.
+The Project has already identified a number of potential ways in which
+this role could be developed:
+• building alliances and partnerships at the local, regional, national
+and international levels (which has already begun through the
+116
+
+Case studies
+Multi-Agency Steering Group, inter-university networking and
+the WHO Multi-city Action Plan on Health and Local Agenda
+21);
+• offering resources to the local community – academic, social and
+cultural;
+• advocating and mediating for public health; and
+• examining the University’s institutional practices (such as purchas-
+ing, financial management and physical development) with a view to
+ensuring that they minimize negative health and sustainability ef-
+fects on the wider community and, when possible, are ethical and
+socially, culturally, economically and environmentally supportive.
+Project base and job description
+A final reflection concerns the base and remit of the project coordina-
+tor. Being located within an academic department rather than a service
+area had the important advantages of ensuring that the project was
+rooted in established theory and of adding academic legitimacy. Nev-
+ertheless, it has also meant that no dedicated administrative support
+has been made available and has resulted in some confusion as to the
+job remit – in particular as to whether it was primarily research or
+project coordination. In retrospect, a clearer focus might have enabled
+more defined progress to be made.
+THE FUTURE: CONSTRAINTS AND OPPORTUNITIES
+The Project’s first phase is now complete, and a comprehensive prog-
+ress and evaluation report has been produced (7). This suggests that
+the Health Promoting University Project has been largely successful in
+achieving its objectives and that its structures, processes and immedi-
+ate communication mechanisms have worked effectively and effi-
+ciently. The Project itself has evolved as it has developed a conceptual
+framework, established an organizational structure and implemented a
+wide range of initiatives. This has resulted in a gradual deepening of
+understanding concerning the Project’s values and ethos and an in-
+117
+
+Case studies
+creased clarity of purpose concerning the roles of Steering Group and
+working group members. It has also been accompanied by a growing
+recognition of the Project’s potential to increase the wellbeing of staff,
+students and the wider community, and more broadly to add value to
+the University in terms of overall distinctiveness, performance and
+productivity.
+In July 1997, the University agreed to fund a second phase of the
+Project for an indefinite period, appointing the Project Coordinator on
+a permanent basis (with 50% of his time dedicated to project manage-
+ment and 50% available for related research and teaching).
+It was agreed that the following dimensions should be given pri-
+ority within the context of the WHO European Health Promoting Uni-
+versities project:
+• further developing and consolidating existing priority areas;
+• developing flagship initiatives that reflect the principles and val-
+ues of the University Project;
+• integrating the agendas for health and sustainable development;
+• adopting additional priority areas;
+• establishing health as a central criterion in policy review and de-
+velopment;
+• giving priority to mediation and advocacy for health;
+• implementing appropriate management training related to the
+University Project;
+• development of a communication strategy for the University Proj-
+ect; and
+• auditing and academic development in curricula and research.
+The University is now in a strong position to build on the foundations
+laid during the first phase and to ensure that the long-term vision of a
+health-promoting university can be realized.
+118
+
+Case studies
+REFERENCES
+1. Theaker, T. & Thompson, J., ed. The settings-based approach to
+health promotion: report of an international working conference,
+17–20 November 1993. Hertfordshire, UK: Hertfordshire Health
+Promotion, 1995.
+2. Health for all targets – the health policy for Europe. Copenha-
+gen, WHO Regional Office for Europe, 1993 (European Health
+for All Series, No. 4).
+3. Ottawa Charter for Health Promotion (1986). Health promotion
+international, 1(4): iii–v (1986) and Canadian journal of public
+health, 77(6): 425–430 (1986).
+4. Antonovsky, A. The salutogenic model as a theory to guide health
+promotion. Health promotion international, 11(1): 11–18 (1996).
+5. Dooris, M. Promoting student health and well-being within the
+context of the health promoting university. Presented at Student
+Well-Being Conference, Glasgow, 5–7 September 1996. Unpub-
+lished.
+6. Goddard, J. et al. Universities and communities. London, Com-
+mittee of Vice-Chancellors and Principals, 1994.
+7. Dooris, M. Health Promoting University Project: phase I prog-
+ress and evaluation report. Preston, University of Central Lanca-
+shire, 1997.
+119
+
+Strategic framework for the
+Health Promoting
+Universities project
+Agis D. Tsouros, Gina Dowding
+& Mark Dooris
+This chapter provides a framework for the strategic development of
+health-promoting university projects.
+This framework for the health-promoting university has drawn on
+a number of sources:
+• the strategic expertise developed by the WHO Healthy Cities
+Project Office in implementing settings-based projects;
+• the experience of those involved in the European Health Promot-
+ing Hospitals Network, the European Network of Health Promot-
+ing Schools, the Regions for Health Network and the WHO
+Healthy Prisons Network.
+• The experience of health-promoting university projects, in par-
+ticular those at Lancaster University and the University of Central
+Lancashire in the United Kingdom.
+• The ideas and papers presented at the First International Confer-
+ence on Health Promoting Universities held in Lancaster in 1996
+in collaboration with WHO.
+• The WHO international consultation and technical meeting on
+health-promoting universities held in July 1997. An unpublished
+background working document entitled Strategic development of
+health promoting universities was prepared for the meeting as
+well as a report after the meeting (1). This chapter and the fol-
+lowing chapter represent revised versions of the original back-
+ground working document.
+121
+
+The way forward
+WHY UNIVERSITIES? THE POTENTIAL OF UNIVERSITIES
+TO PROMOTE HEALTH
+According to a 1995 survey by the Association of European Universi-
+ties, which has members from 39 countries in Europe, there are more
+than 720 universities and equivalent institutions in Europe.
+Many universities have been concerned about promoting student
+health for a long time. The settings-based approach to health promotion
+has the potential to enhance the contribution of universities to improving
+the health of populations and to add value in the following ways.
+• Universities are large institutions where many people live and
+experience different aspects of their lives: people learn, work, so-
+cialize and enjoy their leisure time, and in some cases people
+make use of a wide range of services such as accommodation,
+catering and transport. Universities therefore have an enormous
+potential to protect the health and promote the wellbeing of stu-
+dents, staff (academic and non-academic) and the wider commu-
+nity through their policies and practices.
+• Universities have a large throughput of students who are or will
+become professionals and policy-makers in their own right with
+the potential to influence the conditions affecting the health of
+others. By developing both curricula and research, universities
+can increase the understanding of and commitment to health of a
+vast number of skilled and educated individuals in a wide range
+of disciplines.
+• As major players within the community, universities have an op-
+portunity to set an example of good practice in relation to health
+promotion and to use their influence to benefit the health of the
+community at the local, national and international levels.
+Universities can therefore potentially contribute to health gain in three
+distinct areas:
+• creating healthy working, learning and living environments for
+students and staff;
+122
+
+The way forward
+• increasing the profile of health, health promotion and public
+health issues in teaching and research; and
+• developing alliances for health promotion and outreach into the
+community.
+Health-promoting universities strive towards excellence in teaching
+and research and make a commitment to promoting health and
+sustainability.
+WHY SHOULD UNIVERSITIES GET INVOLVED?
+Universities that become involved in health-promoting university proj-
+ects may obtain several benefits, including improving their public im-
+age, the profile of the university, the welfare of students and staff and
+working and living conditions.
+Public image
+Environmental and health standards are becoming more highly valued
+as the twenty-first century approaches.
+The profile of the university
+A project raises the profile of a university in all health matters locally,
+regionally, nationally and internationally.
+The welfare of students and staff
+A project identifies the strengths and weaknesses of the organization
+in staff and student welfare and improves the opportunities for both
+students and staff to improve their health.
+Working and living conditions
+A project improves the environments in which people work and study,
+live and socialize.
+123
+
+The way forward
+AN UMBRELLA FOR HEALTH-RELATED ACTIVITIES
+A health-promoting university project brings together existing initiatives
+for the wellbeing and health of students and staff, motivating and stimu-
+lating greater participation and coordination.
+In academic terms, a project integrates a diverse institution: rais-
+ing the profile of health and health promotion in many academic disci-
+plines; increasing the credibility of an innovative research agenda; and
+supporting a shift in research focus from health care to primary health
+care, prevention and positive health.
+A greater link between research and practice
+A project links research and practical work in the university. A project
+enables health research to be given more credibility.
+Increased opportunities for collaboration
+A project offers wider opportunities for the university to link more
+closely with the community. It emphasizes a collaborative research
+agenda and opportunities to share new knowledge, practical experi-
+ence and solutions to health by expanding networks.
+Corporate responsibility for health
+A health-promoting university project removes the focus from health
+professionals to senior management and thus requires corporate re-
+sponsibility, providing goals towards which the university can work.
+All these factors may have positive effects and create benefits in kind
+for the university:
+• enhancing the morale of those working in universities;
+• maintaining a healthy and productive work force, reducing staff
+absenteeism and encouraging studfents and staff to be fit to per-
+form their duties optimally;
+• boosting student and staff recruitment;
+• reducing employment costs;
+124
+
+The way forward
+• reducing student dropout;
+• improving academic performance – healthier students are better
+learners;
+• increasing effectiveness; and
+• creating a competitive advantage and a better reputation for the
+university.
+THE AIMS
+The aims of the Health Promoting Universities project are based on the
+philosophy and principles of the WHO strategy for health for all (2), the
+Ottawa Charter for Health Promotion (3) and local Agenda 21 (4,5). In
+particular, the principles of health development, equity, sustainability and
+solidarity represent the pillars of the health-promoting university, and
+these are underpinned by intersectoral and interdisciplinary cooperation
+and mechanisms for participation and empowerment.
+The main challenge and goal of the health-promoting university is
+to integrate health into the culture, structures and processes of the uni-
+versity. The health-promoting university aims:
+• to create healthy working, learning and living environments for
+students and academic and non-academic staff;
+• to increase the health promotion aspects of teaching and research;
+and
+• to develop health promotion links with and to support health de-
+velopment in the community.
+THE OBJECTIVES
+The key objectives of the health-promoting university are to promote
+healthy and sustainable policies and planning throughout the university,
+to provide healthy working environments, to offer healthy and supportive
+social environments, to establish and improve primary health care, to fa-
+cilitate personal and social development, to ensure a healthy and sustain-
+125
+
+The way forward
+able physical environment, to encourage wider academic interest and
+developments in health promotion and to develop links with the commu-
+nity:
+Promoting healthy and sustainable policies and planning
+throughout the university
+Universities exercise substantial autonomy over the design and im-
+plementation of their policies and practices. The health-promoting
+university incorporates health and sustainability as key criteria in
+planning and policy decisions.
+Providing healthy working environments
+Universities are major employers, employing a wide range of levels of
+professional, administrative and manual staff in a wide variety of dis-
+ciplines. The health-promoting university seeks to create working and
+learning conditions conducive to health and to adopt good practice in
+employment policy.
+Offering healthy and supportive social environments
+Universities provide a range of cultural and leisure activities and a
+number of facilities for the use of staff, students and local populations.
+Ensuring that the needs of all staff and students are addressed, the
+health-promoting university encourages diversity, choice and accessi-
+bility (in terms of availability and cost) in providing services and fa-
+cilities.
+Establishing and improving primary health care
+Universities have specific health problems associated with the demo-
+graphic characteristics of their student, staff and local populations. The
+health-promoting university seeks to identify the specific health needs
+of its population and to provide a coordinated response by all the pri-
+mary health care and welfare agencies within and outside the univer-
+sity.
+126
+
+The way forward
+Facilitating personal and social development
+Universities provide formal education but are also settings where students
+develop personally and socially, often when they are making major life
+changes and adjusting their values and priorities, which may affect all
+aspects of their lives. The health-promoting university strives to enable
+students and staff to discover and explore their full potential in a safe en-
+vironment.
+Ensuring a healthy and sustainable physical environment
+Universities manage large estates of built and landscaped environ-
+ments. The health-promoting university – through its policies on
+building, landscaping, transport, waste management, purchasing and
+energy – seeks to create and maintain healthy and sustainable physical
+environments.
+Encouraging wider academic interest and developments in
+health promotion
+Teaching and research are the core activities of universities. As a cen-
+tre of learning, the health-promoting university seeks to exploit its po-
+tential for contributing to health gain by developing the curriculum
+and research across all university faculties and departments.
+Developing links with the community
+The university is a key player within the local or regional community.
+The health-promoting university seeks to maximize its role as an advo-
+cate for health in the community by creating partnerships, acting as a
+resource for the community, leading through example and exercising
+its power as a lobbying force for health.
+TARGET GROUPS
+The objectives encompass all members of the university and its local
+community. Nevertheless, action programmes may target particular
+groups:
+127
+
+The way forward
+• students or identified target groups of students
+• staff or identified target groups of staff
+• the local community or target populations of the community.
+THE QUALITIES OF THE HEALTH-PROMOTING UNIVERSITY
+Promoting the merits of the Health Promoting Universities project
+to laypeople and also to university executives, students and staff who
+are not familiar with modern approaches to health promotion is often
+challenging. As in the Healthy Cities project, it is generally useful to
+describe any given healthy (health-promoting) setting in terms of a set
+of qualities rather than just principles and strategies. A health-
+promoting university should strive to manifest characteristics that re-
+flect its commitment and investment in health. These characteristics or
+qualities are the practical and successful achievement of the objectives
+and should be visible and evident to students, staff and the commu-
+nity. A health-promoting university should:
+• demonstrate a clear commitment to health, sustainability and eq-
+uity in its mission statement and policies and also equal opportu-
+nities in all spheres of university activity;
+• offer clean, safe and health-conducive physical environments and
+sustainable practices that minimize the health and environmental
+impact of the university at the local, regional and global levels;
+• provide high-quality welfare, medical and health-related support
+services that are sensitive to the needs of all students and staff;
+• provide opportunities for everyone in the university to develop
+healthy and useful personal and life skills, including responsible
+global citizenship;
+• make available social, leisure, sports and cultural facilities that
+reflect the diverse composition of the student population and offer
+healthy choices at every opportunity;
+• promote a high level of participation by students and staff in the de-
+cisions that affect their learning, working and social experiences;
+128
+
+The way forward
+• encourage interest in and incentives for promoting health in cur-
+riculum development and research across disciplines and depart-
+ments;
+• create mechanisms that facilitate effective listening and communi-
+cation horizontally and vertically throughout the university, between
+students and staff, among the students and among the staff; and
+• comprise a resource of valuable skills and expertise for the local
+community and be a willing partner in developing health.
+This list represents a framework. Each university can develop lists of
+qualities and indicators to market and monitor the progress of its own
+project. Further, a health-promoting university is not one that has
+achieved a particular level of health; it is one that is conscious of
+health and striving to improve it.
+THE PROCESSES
+The experience of other WHO projects has confirmed that organiza-
+tional development requires time, energy, commitment and skills. The
+process involves four elements (6,7):
+• generating visibility – increasing the profile and understanding of
+health issues;
+• securing commitment by senior-level management – placing
+health and sustainability high on the agenda of decision-makers
+and securing their commitment;
+• institutional and cultural changes – embedding the principles and
+aims of the project into the organizational structures and culture
+and developing the organization’s capacity and ability to maintain
+and promote health; and
+• innovative action for health promotion and sustainability – im-
+plementing healthy policy and health promotion interventions that
+emphasize the interconnected relationships between people, envi-
+ronments, lifestyles and health.
+129
+
+The way forward
+The framework in Table 2 stratifies the key objectives against the four
+elements of the process. This framework could help to identify and
+develop the main strategic orientations of a project in the context of
+the local circumstances.
+PROJECT MANAGEMENT AND COORDINATION
+Effective leadership and good project management are essential. Proj-
+ects are an important means of achieving change and tools for dealing
+with uncertainty and building alliances (7,9–11).
+Health-promoting universities should establish internal structures
+to develop and implement the project, including:
+• a project steering group;
+• a project coordinator; and
+• a clearly defined role for health-related support services and other
+potential stakeholders.
+Table 2. Setting objectives with reference to the four process stages
+Objectives Process
+Generating Commitment Institutional and Innovative
+visibility and from senior- cultural changes action for
+promoting level man- (that is, organ- health promo-
+understanding agement izational devel- tion and
+of health is- through to the opment) sustainability
+sues entire univer-
+sity
+Healthy and sus-
+tainable policies
+Healthy working
+environments
+Healthy and sup-
+portive social envi-
+ronments
+130
+
+The way forward
+Improved primary
+health care
+Personal and social
+development
+Healthy and sus-
+tainable physical
+environments
+Research and
+training focus on
+health
+Developing com-
+munity links
+Source: adapted from Tsouros (8).
+The steering group
+A steering group should be established to provide legitimacy and lead-
+ership for the project within the university.
+Terms of reference
+The steering group should be responsible for providing the leadership,
+vision and drive needed to take the project forward. The steering group
+may allocate certain tasks to various working groups but should retain
+overall responsibility for directing and implementing the project.
+Membership and representation
+The steering group should have representatives from both students and
+staff (academic and non-academic). It should involve:
+• the top decision-makers of the university, including representa-
+tives of the key executive committees of the university;
+• representatives from a range of functions and sections of the uni-
+versity whose activities influence health;
+• representatives of those whose health is affected by the decisions
+made in the university;
+131
+
+The way forward
+• specialists or experts in key areas to be tackled: for example, spe-
+cialists in health promotion or public health;
+• representatives of the local community; and
+• representatives of other stakeholder agencies such as the local health
+care services, health-related support services, religious and spiritual
+leaders and the local business community.
+Accountability
+The steering group should be integrated with and linked, where appro-
+priate, to other senior executive committees of the university.
+Working groups and task forces
+Subgroups may be set up for leading specific programme areas and for
+carrying out specific pieces of work and should report back to the
+steering group.
+Administrative support
+Adequate administrative support should be provided to enable the steer-
+ing and working groups to run efficiently and effectively.
+The project coordinator
+A project coordinator should be appointed or nominated as a visible
+symbol of the university’s commitment to the project and should be
+responsible for advising the steering group and managing and coordi-
+nating the overall project.
+Profile
+The project coordinator should preferably be full time, especially in the
+start-up period, and in any case no less than 50% full-time equivalent. It
+is advisable that the project coordinator have a background in social,
+health or environmental sciences with experience and expertise in public
+health or health promotion based on the principles of health for all. Due
+consideration should be given to the profile of the project coordinator
+within the university.
+132
+
+The way forward
+Organizational base
+The project’s base should be clearly located in the university. The
+project may be based within administration or within an academic de-
+partment. In any case, the remit of the project should span across both
+areas and have clear links established to both. The resources for the
+project may stem from a variety of sources. Whatever the source of
+funding, the project must be based in the university.
+Responsibilities
+The project coordinator’s main responsibilities should include:
+• managing and coordinating the action undertaken by the project;
+• advising the steering group on best practice in health promotion;
+• facilitating high visibility of the project;
+• maintaining links with networks of health-promoting universities;
+and
+• communicating and disseminating the outcome of the project inter-
+nally and externally.
+The role of primary health care and support services and
+other key stakeholder agencies
+The primary health care services (both internal and external) have a
+crucial role in supporting the project. Their roles may include:
+• providing information for reviews of the health status of the stu-
+dent population;
+• supporting and contributing to assessing the health needs of the
+students, staff and local communities;
+• becoming key partners in project implementation; and
+• participating in evaluating the project.
+133
+
+The way forward
+OUTCOMES OF HEALTH-PROMOTING UNIVERSITY
+PROJECTS
+Health-promoting university projects must be able to provide demon-
+strable evidence of the outcome of their efforts.
+The success of health-promoting university projects would ideally
+be measured by the extent to which they have:
+• improved the health of students, staff and the wider community;
+and
+• integrated health into the culture, structure and processes of the
+university.
+There are two main barriers to demonstrating these outcomes. First,
+organizational development is by definition a long-term process. Sec-
+ond, the health status of individuals and groups usually improves over
+a long period of time, and a large percentage of the university popula-
+tion turns over relatively rapidly.
+Nevertheless, a health-promoting university should be able to
+demonstrate that the project is moving in the right direction through
+output related to the key objectives. The output can be described in
+terms of the process and impact.
+PROCESS OUTPUT
+The process of the project can be demonstrated through output relating
+to:
+• adopting the underlying philosophy and values;
+• achieving a higher profile for health;
+• securing management commitment;
+• achieving structural changes;
+• taking an active role in networking, for example, with other uni-
+versities.
+Examples of process output are demonstrated in Table 3.
+134
+
+The way forward
+Table 3. Examples of output reflecting the process of projects
+Evidence of: Demonstrable through output such as:
+Adoption of the • The steering group membership reflects the range of
+underlying philoso- stakeholders in the project
+phy and values • Equity is a guiding principle in selecting priorities for action
+High profile of • Media coverage (internally and externally)
+health • Newsletters
+• Annual reports
+• The university has a published health profile
+Management com- • University policy and mission statements
+mitment to the proj- • Resources are reallocated to the project
+ect • Health needs are assessed
+• An exercise to develop a shared vision of the health-promoting
+university
+• Agreed evaluation strategies and protocols
+Structural changes • New organizational structures
+• Relevant staff development (courses and training)
+• Alliances for health with external agencies
+Networking • Journal and newsletter articles and publications
+• Contributing to fund-raising for networking
+• Cooperation with other universities at the regional, national
+and international levels
+• Participation in the meetings and conferences of national and
+international networks
+IMPACT OUTPUT
+The impact of the project can be demonstrated through output in the
+eight objectives, taking account of any priorities or targets set in first
+phase of the project (Table 4).
+Finally, time and special effort should be invested in the process
+of starting a project. Preparing the basis for acceptance and support
+within the university before launching a project on a large scale is es-
+sential. Twenty steps for developing a healthy cities project (7) pro-
+vides several useful tips that can easily be applied to health-promoting
+university projects.
+135
+
+The way forward
+Table 4. Examples of output reflecting the impact of projects
+Evidence of: Demonstrable through output such as:
+Healthy and sustainable • Corporate health policy and strategy are developed
+policies and planning • Healthy policies and strategies are adopted in key policy
+throughout the university areas such as transport, mental health, recruitment,
+smoking and equal opportunities
+Healthy working envi- • Healthy working practices such as health and safety
+ronments regulations are implemented
+• New communication strategies, including consulting staff
+on changes to structures
+Healthy and supportive • New facilities or increased access to facilities for relaxa-
+social environments tion, fitness, the arts, catering etc.
+Improvement in primary • Interdepartmental and interagency networking on key
+health care issues such as sexual health and mental health
+• Changing key services, making them more accessible
+and user-friendly
+Improved opportunities • An increase in the number of appropriate courses offered
+for personal and social to staff and students
+development
+Healthy and sustainable • Incentives for travelling via public transport, cycling and
+physical environments walking
+• Changing university purchasing to more ethical and envi-
+ronmental products and more local services
+• Comprehensive scheme to minimize waste and promote
+recycling
+Wider academic interest • Interdepartmental projects for health promotion involving,
+and developments in for example: arts, geography and management studies
+health promotion departments
+Better links with the • Initiatives for health involving partnership with the com-
+community munity
+REFERENCES
+1. Health Promoting Universities project: criteria and strategies for
+a new WHO European network: report on a WHO round table
+meeting, Lancaster, United Kingdom, 24–25 July 1997. Copen-
+136
+
+The way forward
+hagen, WHO Regional Office for Europe, 1997 (document
+EUR/ICP/POLC 06 09 01).
+2. Health for all targets – the health policy for Europe. Copenha-
+gen, WHO Regional Office for Europe, 1993 (European Health
+for All Series, No. 4).
+3. Ottawa Charter for Health Promotion (1986). Health promotion
+international, 1(4): iii–v (1986) and Canadian journal of public
+health, 77(6): 425–430 (1986).
+4. Agenda 21: Earth Summit – the United Nations Programme of
+Action from Rio. New York, United Nations, 1992.
+5. The local Agenda 21 planning guide: an introduction to sustain-
+able development planning. Toronto, International Council for
+Local Environmental Initiatives Local Agenda 21 Initiative, 1996.
+6. Tsouros, A. Healthy Cities: state of the art and future plans.
+Health promotion international, 10(2): 133–141 (1995).
+7. Twenty steps for developing a Healthy Cities project. 3rd ed. Co-
+penhagen, WHO Regional Office for Europe, 1997 (document no.
+EUR/ICP/HSC 644(2)).
+8. Tsouros, A.D., ed. World Health Organization Healthy Cities
+project: a project becomes a movement. Review of progress 1987
+to 1990. Copenhagen, FADL Publishers and Milan, SOGESS,
+1991.
+9. Briner, W. et al. Project leadership. London, Gower, 1990.
+10. Hastings, C. The new organisation – growing the culture of or-
+ganisational networking. London, McGraw-Hill, 1993.
+11. Grossman, R. & Scala, K. Health promotion and organizational
+development: developing settings for health. Vienna, IFF/Health
+and Organizational Development, 1993 (WHO European Health
+Promotion Series, No. 2).
+137
+
+A framework for action by
+a European Network of
+Health Promoting
+Universities
+Agis D. Tsouros & Gina Dowding
+This chapter describes a framework for action by a European Network
+of Health Promoting Universities and the terms of engagement of uni-
+versities committed to implementing the Health Promoting Universi-
+ties project. The framework is based on the experience of existing
+health-promoting university projects and on expertise developed by the
+WHO Healthy Cities Project Office. The chapter discusses the strat-
+egy, operation and support attributes of the European Network of
+Health Promoting Universities and the standards and criteria for mem-
+bership of and participation in the European Network.
+The European Network could be established either as an independ-
+ent new settings network or as part of a broader umbrella system such as
+the Healthy Cities project. The multi-city action plan framework7 would
+be very suitable for a broader umbrella system, especially in the initial
+development of the European Network. A similar approach was used for
+launching and developing the Health Promoting Hospitals project.
+7 Multi-city action plans are an important working tool of the WHO Healthy
+Cities project. They bring together groups of cities with common concerns to take
+action to implement parts of the strategy for health for all and to produce expertise for
+other cities. An important aspect of multi-city action plans is that the participating city
+needs to have a full commitment to the goals of the Healthy Cities project.
+139
+
+The way forward
+AIM OF THE EUROPEAN NETWORK
+The European Network aims to put health high on the agenda of uni-
+versities throughout Europe, by promoting and facilitating:
+• commitment and active engagement;
+• innovation and partnership-building;
+• exchange of information and sharing of experiences; and
+• capacity-building.
+PARTICIPATION IN THE EUROPEAN NETWORK
+The European Network will consist of a limited number of designated
+universities that are fully committed to implementing the project for
+five years.
+The development of complementary networks at the national and
+international levels may also be encouraged. These will be for univer-
+sities that are interested but not necessarily fully committed to imple-
+menting all aspects of the project.
+ACCESS TO THE EUROPEAN NETWORK
+We recommend a quota system of universities for each European
+country to encourage broad geographical and political representation
+in the European Network. The total number of designated health-
+promoting universities is expected to grow from a handful to around
+25 in the first phase.
+Criteria for membership
+Universities will be invited to become partners in the European Net-
+work subject to a set of criteria for membership as outlined later.
+Those meeting the criteria will be designated as health-promoting uni-
+versities.
+We recommend that a lower level of commitment be required for
+membership of national or subnational networks through a set of
+140
+
+The way forward
+minimum criteria based on a similar format to the criteria for the
+European Network.
+Nature of the European Network
+In some of the other networks of health promotion settings, such as
+Health Promoting Schools, organizations are linked to the network via
+a national agency. In the European Network of Health Promoting Uni-
+versities, designated universities will participate directly in the Euro-
+pean Network and in national or subnational networks.
+LINKS BETWEEN THE EUROPEAN NETWORK AND
+NATIONAL AND SUBNATIONAL NETWORKS
+In the first phase, the designated universities will be expected to:
+• lead in creating national or subnational networks;
+• provide a link between the European Network and national or
+subnational networks; and
+• assist in identifying support centres for national or subnational
+networks.
+When more than one university is designated to participate in the
+European Network in one country, they will be expected to agree on a
+framework for sharing these responsibilities.
+AUDITING NETWORK MEMBERS
+The WHO Regional Office for Europe or a qualified WHO collabo-
+rating centre will assess the initial applications for membership and
+will designate universities as members of the European Network. The
+work of European Network members will be evaluated at appropriate
+intervals by a combination of external and peer auditing mechanisms.
+141
+
+The way forward
+SUPPORT FOR THE EUROPEAN NETWORK
+The European Network will function via business meetings and con-
+ferences, communication and information exchange means, which will
+require developmental support through various mechanisms and sys-
+tems. The available options depend on the availability of resources and
+the interest and offers by institutions willing to play a supportive role.
+The resources needed depend on the size and the intensity of the
+European Network. The experience of the Healthy Cities project dem-
+onstrates that an independent network would require more resources
+than a multi-university action plan network, which would tend to be
+more low key and mainly rely on the administrative support of a mem-
+ber university on a rotating basis.
+THE ROLE OF WHO
+The project is an integral part of the WHO Urban Health/Healthy Cit-
+ies programme. WHO will seek to:
+• identify core funding for the Health Promoting Universities project;
+• provide leadership, political and strategic support;
+• coordinate and technically support the development of the project
+and the coordination of the European Network or delegate this to
+an interested institution or WHO collaborating centre; and
+• make links with the European Union, national governments and
+nongovernmental organizations.
+THE ROLE OF A SUPPORT STRUCTURE FOR HEALTH-
+PROMOTING UNIVERSITIES
+The aim of a support structure for health-promoting universities will
+be to assist in further developing the concept of the health-promoting
+university and in managing the European Network. The main func-
+tions of such a structure should be networking, administrative support,
+technical support and reporting and ensuring accountability.
+142
+
+The way forward
+Networking
+• Assisting WHO in coordinating, administering and managing the
+European Network
+• Being responsible for an electronic database of health-promoting
+universities and facilitating access to information on the database
+• Keeping network and associated partners informed of the events
+and activities of the Health Promoting Universities movement
+• Publishing a newsletter for all designated universities and na-
+tional and subnational network coordinators
+• Compiling progress reports for business and technical meetings
+• Acting as a focal point for queries about the European Network
+Administrative support
+• Acting as a secretariat and providing administrative support to the
+European Network
+• Assisting WHO in preparing conferences and business meetings
+for the European Network and ensuring satisfactory arrangements
+for meetings
+• Collating, preparing and distributing reports, guidelines and ex-
+amples of good practice
+• Identifying funding opportunities and coordinating the pre-
+paration of bids
+Technical support
+• Providing technical support, in collaboration with WHO, for
+designated universities
+• Assisting in organizing the assessment of applications from uni-
+versities interested in becoming designated
+• Assisting in developing tools for health-promoting universities
+• Seeking funding opportunities for research and evaluation as ap-
+propriate
+143
+
+The way forward
+Reporting and accountability
+The support structure will be designated by and report to WHO. If the
+European Network is run as a multi-university action plan, the support
+role of the coordinating university will be mainly administrative, in-
+cluding maintaining the database of the European Network members.
+SUPPORT FOR NATIONAL AND SUBNATIONAL NETWORKS
+National and subnational networks of health-promoting universities
+will encourage commitment to the philosophy, aims and goals of the
+European Network. They should be supported by national or subna-
+tional support structures.
+The national or subnational support centres will aim to provide
+coordination and support for all universities committed to developing
+health-promoting university projects. The main functions will be net-
+working, administrative support and technical support.
+Networking
+• Facilitating coordination between member universities
+• Establishing or building on existing electronic national or subna-
+tional databases on member health-promoting universities and
+linking with other relevant databases
+• Acting as the focal point between WHO and the national or sub-
+national network members
+• Being the contact point for new members wishing to join the net-
+work
+• Producing a newsletter
+• Assisting in organizing an annual standing conference
+• Assisting in developing regional networks where appropriate
+• Disseminating information to the regional networks (if appropriate)
+• Publishing summaries of developments in professional journals
+144
+
+The way forward
+Administrative support
+• Acting as a secretariat and a documentation centre for the national
+or subnational network
+• Organizing national business meetings of the network
+• Raising funds for the network
+• Preparing an annual report
+• Assisting in organizing the assessment of applications from po-
+tential new members
+Technical support
+• Providing technical support
+• Providing training and education workshops
+• Documenting and coordinating national research and assessment
+of outcome
+• Developing tools for health-promoting universities, such as
+evaluated protocols
+• Preparing guidelines for implementation and lists of relevant re-
+sources
+• Providing advice and guidance on evaluating health-promoting
+university initiatives
+STANDARDS FOR THE HEALTH-PROMOTING UNIVERSITY:
+CRITERIA FOR MEMBERSHIP OF THE EUROPEAN
+NETWORK
+Universities applying to become designated universities in the Euro-
+pean Network will be required to make a commitment to:
+• become involved in a process of change for health for five years;
+and
+145
+
+The way forward
+• network with WHO and other designated universities during that
+time.
+Designated universities will be required to demonstrate that they are
+committed to the philosophy, aims and objectives of the project, have
+an organizational structure to implement a project, are committed to
+implementation and are committed to networking.
+Commitment to the philosophy, aims and objectives
+The chief executive officer of the university should prepare a policy
+statement that is ratified by the university senate or equivalent body.
+Organizational structure for a health-promoting university
+project
+The university must have a clear internal project structure based on
+interdisciplinary and interdepartmental collaboration to implement the
+goals of the project.
+A steering group should be designated whose core membership
+involves:
+• key decision-makers and senior managers in the university;
+• student and staff representatives;
+• representatives of the local community and other stakeholder agen-
+cies.
+A project coordinator should be appointed to coordinate the project.
+This post should be at least half time with appropriate support and a
+clearly defined base and job description. The role of health and health-
+related support services in the project should be clear. Resources
+should be reallocated to the project or new resources should be identi-
+fied. Mechanisms should be established to ensure that the project is
+accountable to the university community.
+146
+
+The way forward
+Commitment to implementation
+The university must be able to demonstrate plans to implement the
+goals, products and organizational changes required by the project,
+including:
+• developing and adopting a health development and sus-tainability
+policy, strategy and implementation plan for the entire university;
+• assessing the health needs of the university, especially
+emphasizing the needs of disadvantaged groups and ethnic
+minorities and preparing a university health profile;
+• formulating and implementing several clearly defined interven-
+tions in health promotion and sustainability; and
+• designing and implementing an evaluation strategy that runs par-
+allel with the project.
+Commitment to networking
+The university must be committed to:
+• participating in the project business meetings and conferences
+and hosting these events in turn;
+• investing in formal and informal partnerships and cooperation for
+health at the local, national and international levels;
+• assisting in developing national or subnational networks; and
+• reporting back regularly to WHO and the European Network and
+actively sharing information and experience with other universi-
+ties in the European Network.
+EXAMPLE OF A TIMETABLE FOR A HEALTH-PROMOTING
+UNIVERSITY
+A health-promoting university project should prepare a timetable for
+action for the first five years of the project. The following is an exam-
+ple of such a timetable. In the first year, the project should:
+147
+
+The way forward
+• create an established infrastructure to implement the goals of the
+health-promoting university;
+• adopt an internal policy statement of the aims and objectives of
+the health-promoting university project and widely publicize it
+internally and externally;
+• assess the health needs of the university population, especially em-
+phasizing the needs of disadvantaged groups; publish a health pro-
+file of the university (and a new profile every two years), based on a
+consensus of indicators that reflect the health of the university; and
+• establish an evaluation framework and identify an evaluating body
+During years two to five, the project should:
+• adopt a comprehensive health and sustainability policy and strat-
+egy for action;
+• review and reform existing health promotion activity;
+• design and implement several clearly defined interventions that
+clearly address the objectives of the health-promoting university
+project;
+• publish annual reports on the progress of the health-promoting
+university project.
+148
+
+Glossary of terms related
+to higher education and
+the health care system in
+the United Kingdom
+Further and higher education in the United Kingdom
+Further education colleges generally offer courses below degree level
+for people older than 16 years old (after compulsory education). They
+have strengths in vocational as well as purely academic educational
+programmes.
+All higher education colleges and universities offer degree-level
+courses. Some also offer postgraduate courses and vocational courses
+and some also offer courses below degree level. Higher education in-
+stitutions may also operate research programmes.
+General Medical Council
+The General Medical Council is the statutory, self-regulatory, licensing
+body for the medical profession in the United Kingdom, as laid down
+by the Medical Act of 1858. The Education Committee of the General
+Medical Council produces recommendations on undergraduate medi-
+cal education approximately every 10–12 years; the most recent ones
+are from 1993.
+The health of the nation
+The health of the nation was the strategy of the Government for health in
+England, published in 1992. The strategy established targets in five key
+areas: mental health, coronary heart disease and stroke, sexual health,
+accidents and cancer, and laid out the foundations for achieving these
+targets. The strategy endorsed the concept of settings for health promotion
+and recognized that achieving health in England requires coordinated
+action by a wide range of sectors and not the health service alone. (This
+strategy has since been replaced by Our healthier nation; see below.)
+137
+
+Glossary
+Healthy alliances
+Alliances are partnerships of intersectoral organizations and/or individu-
+als working together to achieve shared objectives. Healthy alliances have
+long been recognized as the best way to achieve real and lasting changes
+to improve the health of communities. The concept was given added im-
+petus in the United Kingdom as a result of The health of the nation in
+1992, which stressed the importance of bringing together many different
+sectors in the quest for improved public health.
+NHS Executive North West
+This is the Regional Office of the National Health Service (NHS) Ex-
+ecutive for the North West of England.
+NHS trusts
+NHS trusts are self-governing bodies providing health care services,
+either in the community, in hospitals or in both.
+Our healthier nation
+Our healthier nation is the current Government health strategy for
+England, which replaced The health of the nation (see above) in early
+1998. The strategy builds on the key target areas highlighted in The
+health of the nation, while giving more emphasis to reducing inequal-
+ity in health. Our healthier nation reiterates the need for developing
+health-promoting settings, especially healthy schools, healthy work-
+places and healthy neighbourhoods, and strengthens the call for
+building intersectoral partnerships for health.
+Primary care
+In the United Kingdom, primary care is usually defined as the first point
+of contact between health services and patients, in the form of general
+services provided within the community. Primary care includes general
+practice, community nursing, pharmacists and dentistry.
+Regional health authorities
+Until 1996, the regional health authorities in England and Wales were
+allocated resources by the Department of Health (Ministry of Health) to
+provide health care within their region. The regional health authorities
+138
+
+Glossary
+were responsible for allocating resources for health care to the more local
+district health authorities and family health service authorities. In 1996
+this middle tier was abolished, and the Department of Health now allo-
+cates resources directly to the local health authorities. The local health
+authorities are responsible for commissioning (purchasing) health care
+services from NHS Trusts. The much reduced regional tier of the health
+service (now called regional offices of the NHS Executive) were then
+given a new role (see below).
+Regional offices of the NHS Executive
+After the regional health authorities and their responsibilities for allo-
+cating resources were abolished in 1996, the new regional offices of
+the NHS Executive were then made responsible for managing the per-
+formance and standards of the local health authorities and NHS trusts.
+Universities
+The Association of European Universities has defined universities or
+equivalent institutions of higher education as those that:
+• are equipped to provide teaching and research in several disci-
+plines;
+• admit students who have successfully completed secondary school
+or passed an equivalent entrance or competitive examination;
+• award, of their own authority, academic degrees in the disciplines
+taught, and in particular, doctorates or their equivalent;
+• enjoy autonomy, including the right, through their members at
+least, to participate in the appointment of teaching staff and the
+appointment of executive bodies; and
+• have proved their viability by reaching a critical mass, generally
+over a number of years.
+The Health Promoting Universities project has adopted this defi-nition
+for Europe.
+139
+
+Glossary
+Vice-chancellors and pro-vice-chancellors
+In universities in England and Wales, the vice-chancellor is the chief ex-
+ecutive of the university or, more specifically, the chief academic and
+administrative officer. In Scotland this role is fulfilled by the rector.
+Universities often have more than one pro-vice-chancellor, who
+assist the vice-chancellor. They are drawn from among the professors
+and selected by the council or governing body of the university for a
+specified period of time.
+140
+
+Contributors
+Nicholas Abercrombie is a sociologist who is currently Pro-Vice-
+Chancellor at the University of Lancaster. He has overall management
+responsibility for health matters across the University. His primary
+academic interest is the sociological analysis of cultural forms.
+Shirley Ali Khan is the author of the 1996 review of progress on the
+Toyne report on the greening of further and higher education in the
+United Kingdom and a member of the government’s sustainable edu-
+cation panel. She is director of the Forum for the Future’s Higher Edu-
+cation 21 Project and one of the main architects of its young green
+leaders scholarship programme. She has published widely on the
+theme of environmental responsibility in further and higher education
+and is a visiting professor at Middlesex University.
+John Ashton is Regional Director of Public Health for the North West
+of England and Professor of Public Health Policy and Strategy at the
+University of Liverpool. He was a member of the initial planning
+group WHO convened in 1986 to develop the concept of the Healthy
+Cities project.
+Alan Beattie has worked in public health in the National Health
+Service throughout the United Kingdom, in family planning through-
+out Europe for the International Planned Parenthood Federation and in
+primary health care in developing countries for the Overseas Devel-
+opment Administration. He helped to introduce new courses in health
+sciences and health promotion at London University. In 1989 he joined
+Lancaster University, and in 1993 he moved to St Martin’s College as
+Head of Health Studies and Human Sciences, becoming Professor of
+Health Promotion there in 1995.
+Mark Dooris works at the University of Central Lancashire, where he
+coordinates the Health Promoting University initiative, lectures and re-
+searches in health promotion and sustainable development. He has previ-
+ously worked in health authorities and local government – as a health
+141
+
+promotion specialist, health and environment policy officer, Health for
+All coordinator and European Sustainable Transport Project Manager. He
+was Co-Chair of the United Kingdom Health for All Network from 1992
+to 1994.
+Gina Dowding has worked as a health promotion specialist for the
+National Health Service since 1990, following a background in man-
+agement science and development work in the voluntary sector. Until
+recently she was one of the coordinators of the Health Promoting Uni-
+versity Project at Lancaster University. She continues to work with
+WHO and others in developing the Health Promoting Universities
+project in Europe.
+Tony Gatrell is Director of the Institute for Health Research and Pro-
+fessor of the Geography of Health at Lancaster University. His re-
+search interests are applying geographical information systems and
+spatial analysis in health as well as health inequality. He is also work-
+ing actively to develop and promote the research and development
+agenda within the National Health Service in the north-west.
+Gillian Maudsley is a Senior Lecturer in Public Health Medicine in
+the Department of Public Health at the University of Liverpool. She
+has been extensively involved in many aspects of the problem-based
+undergraduate medical curriculum introduced in 1996, including pub-
+lic health education, student assessment and writing computer-based
+learning materials. Her research interests include undergraduate medi-
+cal education and, as a problem-based learning tutor, she has re-
+searched the tutor’s role.
+Camilla Peterken was Health Promotion Adviser to the University of
+Portsmouth. She now works as a freelance health promotion specialist.
+Carol Thomas is a Lecturer in the Department of Applied Social Sci-
+ence at Lancaster University. Her current research is in the areas of
+health inequality, women and disability and the psychosocial needs of
+cancer patients and their carers. She has a long-standing interest in
+health promotion and was a Health Promotion Research Officer for the
+
+Sheffield Health Authority in the early days of the Healthy Sheffield
+initiative.
+Jane Thompson has a long-standing interest in health promotion and
+has worked in specialist health promotion units and within further and
+higher education. Until recently she was joint coordinator of the
+Health Promoting University Project at Lancaster University.
+Peter Toyne is the Vice-Chancellor of Liverpool John Moores Uni-
+versity. At the national level he is well known for his pioneering work
+on credit transfer systems and access to higher education as well as his
+work on environmental education. Two government reports bear his
+name: the first, in 1989, is generally regarded as the foundation of
+credit transfer development in the United Kingdom; the second, in
+1993, initiated national debate on the need for greater environmental
+education.
+Agis D. Tsouros is Head of the WHO Centre for Urban Health and
+Coordinator of the WHO Healthy Cities project. He is also responsible
+for the Public Health Functions and Infrastructures Programme at the
+WHO Regional Office for Europe. He is Special Professor of Public
+Health at the University of Nottingham.
+Martin White graduated in Medicine at Birmingham University be-
+fore training in public health medicine. He is now Senior Lecturer in
+Public Health at Newcastle University, where he directs the Health
+Promotion Research Group. His main interests include evaluating the
+effectiveness of health promotion and inequality in health. He has di-
+rected the development of the Newcastle Healthy Medical School
+Project since 1992.
+Cathy Wynne is District Health Promotion Officer at Morecambe Bay
+Health Authority. With a background in teaching and in research in the
+sociology of science, she has worked in specialist health promotion
+since 1988. She has a special interest in developing the settings ap-
+proach to health promotion. She negotiated setting up the pilot Health
+Promoting University Project at Lancaster University and has been
+involved in similar work with a young offenders’ prison.
+

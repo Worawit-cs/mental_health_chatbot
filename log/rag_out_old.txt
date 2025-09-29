@@ -1,0 +1,118 @@
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: I couldn't find reliable context.
+
+Hits:
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: Based on the context provided, thoughts of self-harm or suicide are common when experiencing depression. The context states that if you notice these thoughts, you should not act on them, but should tell a trusted person and come back for help immediately.
+
+Please tell a trusted person and seek help immediately.
+
+Hits:
+[WHO_mhGAP_doc_2d7811 - chunk 123] (score=0.39)
+[WHO_mhGAP_doc_2d7811 - chunk 119] (score=0.38)
+[WHO_mhGAP_doc_2d7811 - chunk 477] (score=0.34)
+[WHO_sucide_prevention_doc_f16ca5 - chunk 642] (score=0.33)
+[Psychosocial_interventions_for_depression__among_young_people_99e3a1 - chunk 13] (score=0.33)
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: I couldn't find reliable context.
+
+Hits:
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: I couldn't find reliable context.
+
+Hits:
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: I couldn't find reliable context.
+
+Hits:
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: I couldn't find reliable context.
+
+Hits:
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: I couldn't find reliable context.
+
+Hits:
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: Based on the context provided, if you are having thoughts of self-harm or suicide, you should not act on them. You should tell a trusted person and come back for help immediately.
+
+Hits:
+[WHO_mhGAP_doc_2d7811 - chunk 123] (score=0.39)
+[WHO_mhGAP_doc_2d7811 - chunk 119] (score=0.38)
+[WHO_mhGAP_doc_2d7811 - chunk 477] (score=0.34)
+[WHO_sucide_prevention_doc_f16ca5 - chunk 642] (score=0.33)
+[Psychosocial_interventions_for_depression__among_young_people_99e3a1 - chunk 13] (score=0.33)
+[WHO_mhGAP_doc_2d7811 - chunk 383] (score=0.32)
+[UMHC-Framework-Updated_2024_a918f4 - chunk 549] (score=0.32)
+[WHO_sucide_prevention_doc_f16ca5 - chunk 765] (score=0.32)
+[WHO_sucide_prevention_doc_f16ca5 - chunk 61] (score=0.32)
+[WHO_mhGAP_doc_2d7811 - chunk 124] (score=0.32)
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: I couldn't find reliable context.
+
+Hits:
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: Based on the provided context, these feelings of worthlessness are described as common symptoms of depression that are likely to improve once the depression improves. You should not act on these thoughts but should tell a trusted person and seek help immediately.
+
+Hits:
+[UMHC-Framework-Updated_2024_a918f4 - chunk 66] (score=0.33)
+[WHO_mhGAP_doc_2d7811 - chunk 123] (score=0.31)
+[unisa-student-mental-health-framework_b02acd - chunk 3] (score=0.31)
+[UMHC-Framework-Updated_2024_a918f4 - chunk 645] (score=0.31)
+[UMHC-Framework-Updated_2024_a918f4 - chunk 47] (score=0.31)
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: Based on the context provided, symptoms of depression can include thoughts of self-harm or suicide, which are common. The context also mentions excessive fear, anxiety, or avoidance of specific situations as potential symptoms, particularly in the section about changes in functioning across all ages.
+
+The context advises that if a person has thoughts of self-harm/suicide, they should seek help immediately from a trusted person or health care provider. It also states that suicides are preventable and that it is okay to talk about suicide, as talking about it does not provoke the act.
+
+Hits:
+[WHO_mhGAP_doc_2d7811 - chunk 123] (score=0.58)
+[WHO_mhGAP_doc_2d7811 - chunk 244] (score=0.57)
+[WHO_mhGAP_doc_2d7811 - chunk 340] (score=0.57)
+[WHO_mhGAP_doc_2d7811 - chunk 453] (score=0.56)
+[WHO_mhGAP_doc_2d7811 - chunk 105] (score=0.56)
+openrouter/deepseek/deepseek-chat-v3.1:free
+sentence-transformers/all-MiniLM-L6-v2
+
+
+Answer: suicide
+
+Hits:
+[WHO_sucide_prevention_doc_f16ca5 - chunk 609] (score=0.48)
+[WHO_sucide_prevention_doc_f16ca5 - chunk 17] (score=0.47)
+[UMHC-Framework-Updated_2024_a918f4 - chunk 219] (score=0.47)
+[WHO_sucide_prevention_doc_f16ca5 - chunk 589] (score=0.46)
+[preventionresource_7a9d7f - chunk 14] (score=0.46)

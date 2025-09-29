@@ -1,0 +1,972 @@
+Anxiety Toolbox
+Student Workbook
+(434)582-2651
+Green Hall 1830
+www.liberty.edu
+Revised January 2017
+
+This Anxiety Toolbox workshop curriculum is based on the Anxiety Toolbox curriculum at
+Counseling Services of California Polytechnic State University, San Luis Obispo, with modifications
+by the Broene Counseling Center of Calvin College. Used by permission.
+Table of Contents
+Welcome
+Frequently Asked Questions
+Session 1: Anxiety 101
+Stress versus Anxiety ………………………………………………………………….. 6
+Understanding Anxiety Disorders ………………………………………………... 7
+Stress Curve ……………………………………………………………………………….. 8
+Anxiety-Avoidance Roller Coaster ……………………………………………….. 8
+Threat System (Fight or Flight) ……………………………………………………. 9
+Common Anxiety Symptoms ……………………………………………………….. 10
+Feelings Wheel …………………………………………………………………………… 11
+Cross Sectional Formulation (example) ……………………………………….. 12
+Cross Sectional Formulation (blank) ……………………………………………. 13
+Breathing Exercises …………………………………………………………………….. 14
+Sleep Hygiene ……………………………………………………………………………... 15
+Homework Assignment ………………………………………………………………. 16
+Cross Sectional Formulation (blank) ……………………………………………. 17
+Session 2: Automatic Thoughts & Unhelpful Cognitions
+Cross Sectional Formulation (example) ……………………………………….. 21
+Unhelpful Thinking Styles …………………………………………………………… 22
+Identifying Triggers Worksheet …………………………………………………… 23
+Homework Assignment ………………………………………………………………. 24
+Identifying Triggers Worksheet .………………………………………………….. 25
+Cross Sectional Formulation (blank) ……………………………………………. 27
+Session 3: Alternative Responses, Grounding, & Self-Care
+Alternative Response Worksheet (example) ………………………………… 31
+If You’re Having Trouble …….……………………………………………………….. 32
+Alternative Response Worksheet (blank) …………………………………….. 34
+Grounding Exercises …………………………………………………………………… 37
+Pleasant Activities ………………………………………………………………………. 39
+My Plan for Managing Anxiety ……………………………………………………... 40
+Resources
+2
+
+Welcome!
+Welcome to Anxiety Toolbox, a fast-paced, 3-session workshop intended to help increase
+your understanding and knowledge about anxiety. The goal is to provide you with some
+skills to recognize and manage symptoms you may be experiencing. We hope you find it
+helpful.
+The goal of this workshop is to provide you with life-long tools you can use while facing
+anxiety-triggering situations. Remember, this intervention is not intended to “get rid of”
+your anxiety. While occasionally unpleasant, some anxiety can actually be a helpful and
+motivating emotion. Our hope is that these three sessions provide you with a jumping
+board from which to integrate skills into your daily life in the service of reducing anxiety.
+By the end of this course, you will have received a lot of information, and at times it may
+feel overwhelming. Remember that like any skill (e.g., learning to ride a bike), the skills you
+will learn in Anxiety Toolbox take time and practice to master. At times, you may
+encounter obstacles and/or find it difficult to integrate these skills into your daily life.
+That’s okay – it’s how change works. And as with all change, it’s important to practice as
+much as you can, even after encountering setbacks.
+Think of your practice of these skills as a form of “mental health hygiene.” At the outset, it
+may seem tedious and you may question why you need to practice these skills so often.
+Think of it like dental hygiene—you brush your teeth multiple times a day to prevent the
+buildup of plaque and ultimately to prevent cavities. Similar to brushing your teeth, daily
+practice prevents a buildup of anxiety and stress over time. The more you practice and use
+these skills as part of your daily routine, the less tedious they may seem because they
+simply become a regular part of daily life.
+A few guidelines to keep in mind…
+• This workshop is confidential. Do not share information about anyone in the
+workshop with others, including others’ stories (even if you think no one will know
+whom you’re speaking about). We want to ensure that it feels safe to speak here.
+• You are expected to attend all three sessions, as they build upon each other. If you
+miss a session, you will be asked to switch to a different section of the workshop in
+order to continue with the material in the proper order.
+• Please be sure to let yourworkshop leader know (or call the office)
+ahead of time if you areunable toattend a session.
+counseling
+If at any time you feel that you need additional support, please let your workshop
+leader know or contact Counseling at - - . You can also
+find additional resources online at www.
+Student Services 434 582 2651
+We’re glad you’re here! liberty.edu/studentcounselingservices.
+3
+
+Frequently Asked Questions
+What is Anxiety Toolbox?
+Anxiety Toolbox is a fast-paced, 3-session workshop specifically designed to help people
+who struggle with a variety of anxiety-related concerns (e.g., panic attacks, Generalized
+Anxiety, test anxiety). The goal of this workshop is to provide education on anxiety and to
+teach coping skills for managing anxiety symptoms.
+Why does Anxiety Toolbox use a 3-session model?
+Teaching Anxiety Toolbox over the course of 3 sessions allows you sufficient time to learn
+the concepts, with time to practice between sessions. Keeping it to three 50-minute
+sessions allows you to find time in your busy schedule to learn these skills.
+What if I need more than 3 weeks to learn the model?
+You are not alone. The skills taught in Anxiety Toolbox are difficult and take time to build.
+For this reason, we offer multiple other groups, workshops, and resources that are
+intended to provide further support for practicing these skills. For more information, talk
+with your Anxiety Toolbox workshop leader or contact Counseling .
+What if I don’t feel comfortable in groups? Student Services
+Many people feel a little anxious about participating in a group. Anxiety Toolbox is
+structured and curriculum-driven, like an academic class. You are not required to speak to
+the entire group if you do not feel comfortable doing so. The facilitators respect each
+participant’s right to share only what they are comfortable sharing and never require you
+to share sensitive or potentially embarrassing information about yourself.
+What if I have an urgent need to see a counselor during Anxiety Toolbox?
+Simply let the workshop leader or the Counseling front desk staff know,
+and they will facilitate you getting the support you need.
+Student Services
+Why do I have to do homework?
+The focus of this workshop is on building skills to cope with anxiety. In order to achieve
+that goal, regular practice is essential. The more you practice, the more you may find you
+get out of this workshop. The assignments are for you and only you, in the service of your
+own personal growth. You will not be required to provide your responses at any time
+during this workshop. However, it’s important to bring your responses as you may be
+asked to look back on or elaborate on a prior assignment during the workshop.
+What if I didn’t do my homework?
+We encourage you to come to group regardless of whether or not you were able to
+complete the homework assignment. We can also assist you in working on examples when
+the homework is reviewed.
+4
+
+SESSION ONE
+Anxiety 101
+5
+
+Stress versus Anxiety
+Everyday Anxiety (Stress) Anxiety Disorder
+In response to a known environmental In response to an unknown source or in
+factor response to the experience of stress
+Symptoms go away when the stressor Symptoms remain despite no identifiable
+goes away stressor
+Worry about living away from home for Constant and unsubstantiated worry that
+the first time, passing a class, a romantic causes significant distress and interferes
+breakup, or other important life events with your daily life
+Embarrassment or self-consciousness in Avoidance of social situations due to fear of
+an uncomfortable or awkward social being judged, embarrassed, or humiliated
+situation; feeling nervous about meeting
+new people
+Feeling nervous or sweating before a big Panic attacks that seem out of the blue and
+test, class presentation, stage preoccupation with the fear of having
+performance, or other significant event another one
+Realistic fear of a dangerous object, place, Irrational fear or avoidance of an object,
+or situation (e.g. fear of poisonous place, or situation that poses little or no
+snakes) threat of danger (e.g. fear of elevators)
+Making sure that you are healthy and Performing uncontrollable repetitive
+living in a safe environment actions, such as excessive cleaning, checking,
+touching or arranging
+Adapted from: http://www.adaa.org/understanding-anxiety
+6
+
+Understanding Anxiety Disorders
+While anxiety is a normal and adaptive experience for everyone, anxiety disorders are
+characterized by significant distress or impairment in social, academic/occupational, or
+other important areas of functioning (e.g., your general ability to function in life).
+Some of the most common anxiety disorders include:
+Generalized Anxiety Disorder: Chronic and unrealistic worry that feels difficult to
+control about everyday things (i.e., things that do
+not worry most people)
+Social Anxiety Disorder: Chronic worry solely related to social situations
+Panic Disorder: Characterized by episodes of “panic” that include
+things like: adrenaline surge, fear of losing control,
+chest pain, racing heart, shortness of breath,
+dizziness
+Phobias: Specific fears that are excessive in nature and often
+lead to avoiding that which is feared (e.g., public
+speaking, heights, tunnels, etc.)
+Obsessive-Compulsive Disorder: Excessive rumination (thinking) with repetitive
+behaviors to reduce anxiety
+7
+
+Yerkes Dodson Model of Stress Arousal & Performance
+Anxiety - Avoidance Roller Coaster
+Adapted from- http://www.therapistaid.com/therapy-guide/cbt-for-anxiety
+8
+
+9
+
+Common Anxiety Symptoms
+Physical Symptoms Cognitive Symptoms
+ Increased heart rate  Fear of losing control, being
+unable to cope
+ Shortness of breath
+ Fear of physical injury or death
+ Chest pain or pressure
+ Fear of “going crazy”
+ Choking sensation
+ Fear of negative evaluations by
+ Dizziness, lightheadedness
+others
+ Sweating, hot flashes, chills
+ Frightening thoughts, images, or
+ Nausea, upset stomach,
+memories
+diarrhea
+ Perceptions of unreality or
+ Trembling, shaking
+detachment
+ Weakness, unsteadiness,
+ Poor concentration, confusion,
+faintness
+distractibility
+ Tense muscles, rigidity
+ Narrowing of attention,
+ Dry mouth hypervigilance for threat
+ Other: ________________________  Poor memory
+ Difficulty in reasoning, loss of
+objectivity
+Behavioral Symptoms
+ Other:___________________________
+ Avoidance of threat cues or
+situations
+ Escape, flight Emotional Symptoms
+ Pursuit of safety, reassurance  Feeling nervous, tense, wound
+up
+ Restlessness, agitation, pacing
+ Feeling frightened, fearful,
+ Hyperventilation
+terrified
+ Freezing, motionlessness
+ Being edgy, jumpy, jittery
+ Difficulty speaking
+ Being impatient, frustrated
+ Other:___________________________
+ Other: __________________________
+Adapted from The Anxiety and Worry Workbook by Clark and Beck
+10
+
+Feelings Wheel
+11
+
+Cross Sectional Form ulation
+(example entry)
+Situation (When? Where? What? With whom? What did you feel anxious about?)
+A student invited me to a party in my residence hall, but I didn’t know
+her very well and felt anxious about going.
+Physical (When anxious, what physical
+sensations did you experience? What did you
+notice in your body?)
+Heart racing, tight chest,
+shallow breathing, hot
+Emo tional (What emotions Cognitive (What went
+came up for you when you felt through your mind when you
+anxious?) felt anxious? What did that say
+or mean about you or the
+Scar ed, ashamed,
+situation?)
+Lone ly, agitated,
+nerv ous
+I won’t know anyone at
+the party and will feel
+awkward. No one will
+like me because I’m so
+socially awkward. I
+won’t have fun. But if
+I say no, this person
+won’t like me and I
+wouldn’t make friends.
+Behavioral (What was your first instinct
+and/or automatic response? What did you
+do and/or avoid doing at the time?)
+My first instinct was to say no.
+I avoided saying no but telling
+her that I would think about it.
+I never got back to her. I
+didn’t go to the party.
+12
+
+Cross Sectional Formulation
+Situation (When? Where? What? With whom? What did you feel anxious about?)
+Physical (When anxious, what physical
+sensations did you experience? What did you
+notice in your body?)
+Em otional (What emotions Cognitive (What went
+cam e up for you when you felt through your mind when you
+anxi ous?) felt anxious? What did that say
+or mean about you or the
+situation?)
+Behavioral (What was your first instinct
+and/or automatic response? What did you
+do and/or avoid doing at the time?)
+13
+
+Breathing Exercises
+Belly (or Diaphragmatic) Breathing
+You can do this exercise in any position, but it is helpful to do this exercise while lying
+down when first learning belly breathing.
+1. Lie comfortably on your back, with a pillow under your head, your knees bent and your
+back flat. You can stretch your legs out if that's more comfortable.
+2. Place one hand on your belly and one hand on your upper chest.
+3. Inhale slowly and expand your belly as you breathe so that your lower hand moves with
+your belly. The hand on your chest should remain as still as possible.
+4. Slowly exhale, focusing on the movement of your belly and lower hand as it returns to
+its original position.
+5. Repeat steps 3 & 4 for several minutes, always focusing on the movement of the belly as
+you breathe. If your mind wanders, gently bring your attention back to your breathing.
+Breath-Counting Exercise
+This exercise focuses on the use of counting with the rhythm of the breath. Start with a
+short period of time and gradually increase the time. Set a timer so that you do not have to
+worry about when to stop.
+1. Find a comfortable position. Take several deep breaths and settle into yourself. You
+may either close your eyes or keep them open, depending on your own comfort. If you
+keep them open, fix them on an object or a spot on the floor about four feet in front of
+you. Your eyes may be either focused or unfocused.
+2. Take deep, comfortable breaths. Notice your inhalation. The pause between inhaling
+and exhaling, your exhalation, and the pause before starting again.
+3. As you inhale, count, “one...” As you exhale, count, “two...” Inhale, “three...” Exhale,
+“four...” Continue until you reach 10 then start over.
+4. If you lose count, simply begin with “one” on your next inhalation.
+5. If you notice your mind has wandered, gently notice this, and return your focus back to
+counting your breath.
+6. If you notice any body sensations catching your attention, focus on that sensation until
+it fades. Then return your attention back to counting your breaths.
+14
+
+Sleep Hygiene
+What is Sleep Hygiene? ‘Sleep hygiene’ is the term used to describe good sleep
+habits. Considerable research has gone into developing a set of guidelines and tips
+which are designed to enhance good sleeping, and there is much evidence to suggest
+that these strategies can provide long-term solutions to sleep difficulties.
+1. Get regular. Go to 7. The right space. Make your bed and
+bed and get up at bedroom quiet and comfortable for
+more or less the same sleeping. An eye mask and earplugs
+time every day, even may help block out light and noise.
+on weekends and days off!
+8. No naps. Avoid taking naps during the
+2. Get up & try again. Go to sleep only day. If you can’t make it through the
+when tired. If you haven’t been able to day without a nap, make sure it is for
+fall asleep after 30 minutes, get up and less than an hour and before 3pm.
+do something calming (not stimulating)
+9. Sleep rituals. Develop rituals to
+until you feel sleepy, then return to bed
+remind your body
+and try again.
+that it is time to
+3. Avoid caffeine & nicotine. Avoid sleep, like relaxing
+consuming any caffeine stretches or
+(coffee, tea, soda, chocolate) or breathing exercises
+nicotine (cigarettes) for at for 15 minutes before bed.
+least 4-6 hours before going to
+10. No clock-watching. Checking the clock
+bed. These act as stimulants
+during the night can wake you up and
+and interfere with falling asleep
+reinforces negative thoughts such as
+4. Avoid alcohol. Avoid alcohol for at “Oh no, look how late it is, I’ll never get
+least 4-6 hours before bed because it to sleep.”
+interrupts the quality of sleep.
+11. Keep daytime routine the same.
+5. Bed is for sleeping. Do not t to use Even if you have a bad night sleep it is
+your bed for anything other than important that you try to keep your
+sleeping and sex, so that your body daytime activities the same as you had
+comes to associate bed with sleep. planned. That is, don’t avoid activities
+because you feel tired. This can
+6. Electronics Curfew.
+reinforce the insomnia.
+Don’t use back-lit
+electronics 60 minutes
+prior to bed, as the
+artificial light prevents hormones and
+Adapted from http://www.cci.health.wa.gov.au
+neurons that promote sleep.
+15
+
+Session 1: Homework Assignment
+Homework 1
+Complete at least 1 simple Cross-Sectional Formulation worksheet for review next week.
+ multiple blank copies provided starting on page 14
+Homework 2
+Practice Deep Breathing.
+ place one hand on stomach and one on chest – as you breathe, imagine using the
+air you breathe in to push against the hand on your stomach
+ take a deep breath in through the nose, counting as you inhale: 1…2…3…4…
+ hold for a count of 2
+ exhale through the mouth, as if you are blowing out a candle, counting as you
+exhale: 1…2…3…4…
+ pause and repeat
+Homework 3
+Implement 1 sleep hygiene tip.
+ see page 12
+16
+
+Cross Sectional Formulation
+Situation (When? Where? What? With whom? What did you feel anxious about?)
+Physical (When anxious, what physical
+sensations did you experience? What did you
+notice in your body?)
+Em otional (What emotions Cognitive (What went
+cam e up for you when you felt through your mind when you
+anxi ous?) felt anxious? What did that say
+or mean about you or the
+situation?)
+Behavioral (What was your first instinct
+and/or automatic response? What did you
+do and/or avoid doing at the time?)
+17
+
+Cross Sectional Formulation
+Situation (When? Where? What? With whom? What did you feel anxious about?)
+Physical (When anxious, what physical
+sensations did you experience? What did you
+notice in your body?)
+Em otional (What emotions Cognitive (What went
+cam e up for you when you felt through your mind when you
+anxi ous?) felt anxious? What did that say
+or mean about you or the
+situation?)
+Behavioral (What was your first instinct
+and/or automatic response? What did you
+do and/or avoid doing at the time?)
+18
+
+Cross Sectional Formulation
+Situation (When? Where? What? With whom? What did you feel anxious about?)
+Physical (When anxious, what physical
+sensations did you experience? What did you
+notice in your body?)
+Em otional (What emotions Cognitive (What went
+cam e up for you when you felt through your mind when you
+anxi ous?) felt anxious? What did that say
+or mean about you or the
+situation?)
+Behavioral (What was your first instinct
+and/or automatic response? What did you
+do and/or avoid doing at the time?)
+19
+
+SESSION TWO
+Automatic Thoughts
+&
+Unhelpful Cognitions
+20
+
+Cross Sectional Formulation
+(example)
+Situation (When? Where? What? With whom? What did you feel anxious about?)
+A student invited me to a party in my residence hall, but I didn’t
+know her very well and felt anxious about going.
+Physical (When anxio us, what physical
+sensations did you exp erience? What did you
+notice in your body?)
+Heart racing, tig ht chest,
+shallow breathing, hot
+Emotional (What emotions Cognitive (What went
+came up for you when you felt through your mind when you
+anxious?) felt anxious? What did that say
+or mean about you or the
+Scared, ashamed, situation?)
+Lonely, agitated,
+nervous I won’t know anyone at
+the party and will feel
+awkward. No one will
+like me because I’m so
+socially awkward. I
+won’t have fun. But if
+I say no, this person
+won’t like me and I
+wouldn’t make friends.
+Behavioral (What was your first instinct
+and/or automatic response? What did you
+do and/or avoid doing at the time?)
+My first instinct was to say no.
+I avoided saying no but telling
+her that I would think about it.
+I never got back to her. I
+didn’t go to the party.
+21
+
+22
+
+Identifying Triggers Worksheet (In-session)
+While at times it may be difficult to identify a trigger, understanding your triggers for
+anxiety is an important step in helping you know when to implement and/or emphasize
+practice of the coping strategies you will learn in Anxiety Toolbox. Triggers can be external
+events (e.g., a test) or internal stimuli (e.g., a physical sensation or emotion) that led to your
+experience of anxiety (i.e., the emotional, physical, cognitive, and behavioral symptoms
+previously discussed during this workshop). Remember that sometimes the symptoms
+themselves can be a trigger that starts the cycle of anxiety.
+The following are some typical categories in which triggers might appear with examples:
+Responses to Internal Stimuli:
+ Emotions: e.g., feeling down, fear or worry
+ Mental Images: e.g., replaying interpersonal interactions or performance experience
+ Physical State: e.g., racing heartbeat, lightheadedness, tightness in chest
+ Thoughts: e.g., “I might fail this test”, “That person must not like me”, “If someone talks
+to me in class, I won’t be able to handle it.”
+Responses to External Stimuli:
+ Presence of Others: e.g., attending a social event, meeting with a professor, spending
+time with roommates, family interactions
+ Physical Setting: e.g., a classroom, open areas on campus, inside a car
+ Social Pressure: e.g., feeling pressured to make friends, feeling pressured to perform
+well in school (in comparison to your peers)
+ Activities: e.g., a sports event, a party, going home for the weekend
+List some triggers you experience related to your anxiety:
+1._______________________________________________________________________________________________
+2._______________________________________________________________________________________________
+3._______________________________________________________________________________________________
+4._______________________________________________________________________________________________
+5._______________________________________________________________________________________________
+23
+
+Session 2: Homework Assignment
+Homework 1
+Complete Identifying Triggers Worksheet on pages 22-23.
+Homework 2
+Complete at least 1 simple Cross Sectional Formulation worksheet for review next week.
+ multiple blank copies provided starting on page 24
+24
+
+Identifying Triggers Worksheet (Homework)
+Pay attention to any triggers for anxiety that you may experience over the next week.
+Write them down in the following categories. You may have triggers in all of the categories
+or you may notice triggers in only one or two categories. (Use the “other” category for
+triggers you feel don’t fit in the options listed.)
+Emotions:
+1.________________________________________________________________________________________
+2.________________________________________________________________________________________
+3.________________________________________________________________________________________
+Mental Images:
+1.________________________________________________________________________________________
+2.________________________________________________________________________________________
+3.________________________________________________________________________________________
+Physical States:
+1.________________________________________________________________________________________
+2.________________________________________________________________________________________
+3.________________________________________________________________________________________
+Thoughts:
+1.________________________________________________________________________________________
+2.________________________________________________________________________________________
+3.________________________________________________________________________________________
+25
+
+Presence of Others:
+1.________________________________________________________________________________________
+2.________________________________________________________________________________________
+3.________________________________________________________________________________________
+Physical Setting:
+1.________________________________________________________________________________________
+2.________________________________________________________________________________________
+3.________________________________________________________________________________________
+Social Pressure:
+1.________________________________________________________________________________________
+2.________________________________________________________________________________________
+3.________________________________________________________________________________________
+Activities:
+1.________________________________________________________________________________________
+2.________________________________________________________________________________________
+3.________________________________________________________________________________________
+Other:
+1.________________________________________________________________________________________
+2.________________________________________________________________________________________
+3.________________________________________________________________________________________
+26
+
+Cross Sectional Formulation
+Situation (When? Where? What? With whom? What did you feel anxious about?)
+Physical (When anxious, what physical
+sensations did you experience? What did you
+notice in your body?)
+Cognitive (What went
+Emotional (What emotions
+through your mind when you
+came up for you when you felt
+felt anxious? What did that say
+anxious?)
+or mean about you or the
+situation?)
+Behavioral (What was your first instinct
+and/or automatic response? What did you
+do and/or avoid doing at the time?)
+27
+
+Cross Sectional Formulation
+Situ ation (When? Where? What? With whom? What did you feel anxious about?)
+Physical (When anxious, what physical
+sensations did you experience? What did you
+notice in your body?)
+Emotional (What emotions Cognitive (What went
+came up for you when you felt through your mind when you
+anxious?) felt anxious? What did that say
+or mean about you or the
+situation?)
+Behavioral (What was your first instinct
+and/or automatic response? What did you
+do and/or avoid doing at the time?)
+28
+
+Cross Sectional Formulation
+Situa tion (When? Where? What? With whom? What did you feel anxious about?)
+Physical (When anxious, what physical
+sensations did you experience? What did you
+notice in your body?)
+Emotional (What emotions Cognitive (What went through
+came up for you when you felt your mind when you felt anxious?
+anxious?) What did that say or mean about
+you or the situation?)
+Behavioral (What was your first instinct
+and/or automatic response? What did you
+do and/or avoid doing at the time?)
+29
+
+SESSION THREE
+Alternative Responses,
+Grounding, & Self-Care:
+Putting It All
+Together
+30
+
+Alternative Response Worksheet (example)
+Situation: (When? Where? What? With whom? What did you feel anxious
+about?)
+A student invited me to a party in my residence hall, but I
+didn’t know her very well and felt anxious about going.
+Alternative Thoughts Alternative Behaviors: Alternative Feelings:
+and Images: (Are these (What could you do that (What are feelings that
+thoughts helpful? Are would be more helpful are more helpful? What
+the anxious thoughts for you, others, &/or the if you acted and thought
+100% true/accurate, situation? What are differently about the
+100% of the time? What coping strategies that situation? How might
+are other ways of might be helpful?) these changes help you
+looking at this? What is feel differently?)
+the bigger picture? ) Coping Strategies I
+Excited
+Can Use:
+ Deep breathing Wanted
+I may not be as
+socially awkward as  Distract myself Liked
+I think.
+Hopeful
+ Seek support from
+a friend/ family
+If she invited me,
+she probably wants member
+me there.
+ Do a pleasurable
+I might still have activity
+an okay time, even
+ Use alternative
+if I am anxious.
+response
+worksheet
+Original Outcome: (What was the original outcome?)
+I stayed in my room and watched Netflix.
+Desired Outcome: (Using these new alternatives, what would you like the
+outcome to be in the future?)
+I want to go to the party so that I can make friends. If I feel
+too uncomfortable, I can always leave.
+31
+
+If you're having trouble, ask yourself these questions:
+Whenever we recognize an anxiety-related thought, feeling or behavior, it can be very
+helpful to ask ourselves the following questions:
+Alternative THOUGHTS:
+1. What are other ways of looking at this situation?
+2. Am I looking at the whole picture?
+3. What might be a more helpful way of picturing this situation?
+4. What unhelpful thinking styles might I be using here (see below)?
+5. What is the evidence that my thoughts are true? Is there an alternative way of thinking
+about this situation that is more true?
+6. What is the probability that my thoughts will happen? What are some other things that
+could happen that are equally, if not more, probable?
+7. Have I had any experiences in the past that suggests that this thought might not be
+COMPLETELY true ALL of the time?
+8. Can I really predict the future? Is it helpful to try? What is more helpful?
+9. Am I exaggerating how bad the result might be? What is more realistic?
+10. Can I read people’s minds? What else might they be thinking (that’s not so negative)?
+11. If a friend or loved one were in this situation and had this thought, what would I tell
+them?
+Common Cognitive Distortions (Unhelpful Thinking Styles)
+All or Nothing Thinking: thinking in Over-generalizing: seeing a pattern based upon
+absolute, black and white categories a single event or being overly broad in
+conclusions we draw
+Mental Filter: only paying attention Disqualifying the positive: discounting the
+to certain types of evidence (e.g., good things that have happened
+dwelling on the negatives)
+Jumping to Conclusions: Magnification (catastrophizing) and
+Mind reading: imagining we know minimization: blowing things out of proportion
+what others are thinking or inappropriately shrinking something to make
+Fortune telling: predicting the future it seem less important
+Emotional Reasoning: assuming Should/Must Thinking: Using words like
+because we feel a certain way, what “should”, “must”, “ought to” or “have to”
+we think must be true
+Labeling: assigning labels to Personalization: blaming yourself for
+ourselves or others something you weren’t entirely responsible for
+OR blaming others and overlooking ways you
+may have contributed to the outcome
+32
+
+Alternative BEHAVIORS:
+1. What could I do in the moment that would be more helpful?
+2. What’s the best thing to do (for me, for others, or for the situation)?
+3. If my feared situation happens, how will I cope? What coping skills can I use to handle
+my feared situation? What have I done in the past that was successful?
+4. Am I needing to work on acceptance, letting go of control, being okay with less than
+perfect, or having faith in the future and myself?
+5. Breathe: Focus your attention on your breathing. Imagine you have a balloon in your
+belly, inflating on the in-breath, deflating on the out-breath.
+Alternative FEELINGS:
+1. What might it feel like if I acted/thought differently?
+2. When I’m not feeling this way, do I think about this situation differently?
+3. Are there any strengths or positives in me or the situation that I might be ignoring?
+4. What else might this anxiety be related to? Is it really about feeling _______?
+5. Tell yourself: “This feeling will pass. It’s a normal body reaction.”
+33
+
+Alternative Response Worksheet
+Situation (When? Where? What? With whom? What did you feel anxious about?)
+Alternative Thoughts and Alternative Behaviors: Alternative Feelings:
+Images: (Are these (What could you do that (What are feelings that are
+thoughts helpful? Are the would be more helpful for more helpful? What if you
+anxious thoughts 100% you, others, &/or the acted and thought
+true/accurate, 100% of the situation? What are coping differently about the
+time? What are other ways strategies that might be situation? How might these
+of looking at this? What is helpful?) changes help you feel
+the bigger picture? ) differently?)
+Coping Strategies I Can
+Use:
+ Deep breathing
+ Distract myself
+ Seek support from a
+friend/ family
+member
+ Do a pleasurable
+activity
+ Use alternative
+response worksheet
+
+
+
+Original Outcome: (What was the original outcome?)
+Desired Outcome: (Using these new alternatives, what would you like the outcome to be in
+the future?)
+34
+
+Alternative Response Worksheet
+Situation (When? Where? What? With whom? What did you feel anxious about?)
+Alternative Thoughts and Alternative Behaviors: Alternative Feelings:
+Images: (Are these (What could you do that (What are feelings that are
+thoughts helpful? Are the would be more helpful for more helpful? What if you
+anxious thoughts 100% you, others, &/or the acted and thought
+true/accurate, 100% of the situation? What are coping differently about the
+time? What are other ways strategies that might be situation? How might these
+of looking at this? What is helpful?) changes help you feel
+the bigger picture? ) differently?)
+Coping Strategies I Can
+Use:
+ Deep breathing
+ Distract myself
+ Seek support from a
+friend/ family
+member
+ Do a pleasurable
+activity
+ Use alternative
+response worksheet
+
+
+
+Original Outcome: (What was the original outcome?)
+Desired Outcome: (Using these new alternatives, what would you like the outcome to be in
+the future?)
+35
+
+Alternative Response Worksheet
+Situation (When? Where? What? With whom? What did you feel anxious about?)
+Alternative Thoughts and Alternative Behaviors: Alternative Feelings:
+Images: (Are these (What could you do that (What are feelings that are
+thoughts helpful? Are the would be more helpful for more helpful? What if you
+anxious thoughts 100% you, others, &/or the acted and thought
+true/accurate, 100% of the situation? What are coping differently about the
+time? What are other ways strategies that might be situation? How might these
+of looking at this? What is helpful?) changes help you feel
+the bigger picture? ) differently?)
+Coping Strategies I Can
+Use:
+ Deep breathing
+ Distract myself
+ Seek support from a
+friend/ family
+member
+ Do a pleasurable
+activity
+ Use alternative
+response worksheet
+
+
+
+Original Outcome: (What was the original outcome?)
+Desired Outcome: (Using these new alternatives, what would you like the outcome to be in
+the future?)
+36
+
+Grounding Exercises
+When people become overwhelmed with distressing thoughts or feelings, including intense
+anxiety, activities that keep your mind and body connected (called “grounding”) can be
+helpful in regaining a sense of stability and mental focus. The following are a number of
+grounding exercises to choose from to help firmly anchor you in the present moment and
+provide you with space to choose where to focus your energy. You may need to try
+multiple different exercises to find one or two that work best for you.
+1. Remind yourself of who you are now. State your name, age and where you are right
+now.
+2. Take ten slow deep breaths. Focus your attention on each breath on the way in and
+on the way out. Say the number of the breath to yourself as you exhale.
+3. Splash water on your face or place a cool wet cloth on your face.
+4. Pay purposeful attention as you hold a cold (non-alcoholic) beverage in your hands.
+Feel the coldness, and the wetness on the outside. Note the taste as you drink. You can
+also do this exercise with a warm beverage.
+5. Find a “grounding object” to hold, look at, listen to, and/or smell. This could be a soft
+object such as a pillow or stuffed animal, a smooth stone you found on the beach, a
+picture of a beautiful scene or loved one, and/or any other object that represents
+safety or comfort.
+6. Listen to music. Pay close attention and listen for something new or different.
+7. If you wake up suddenly during the night and feel disoriented or distressed, remind
+yourself who you are and where you are. Look around the room and notice familiar
+objects and name them. Feel the bed you are lying on, the softness of the sheets or
+blankets, the warmth or coldness of the air, and notice any sounds you hear. Remind
+yourself that you are safe.
+8. Feel the clothes on your body, whether your arms and legs are covered or not, and the
+sensation of your clothes as you move in them.
+9. While sitting, feel the chair under you and the weight of your body and legs pressing
+down on it.
+10. If you are lying down, feel the contact between your head, your body and your legs, as
+they touch the surface you are lying on. Starting from your head, notice how each part
+feels, all the way down to your feet, on the soft or hard surface.
+11. Stop, look, and listen. Notice and name what you can see and hear nearby and in the
+distance.
+12. Look around you, notice what is front of you and to each side, name first large objects
+and then smaller ones.
+13. Get up, walk around, take your time to notice each step as you take one then another.
+14. If you can, step outside, notice the temperature, the sounds around you, the ground
+under your feet, the smell in the air, etc.
+37
+
+15. “54321” Grounding Exercise:
+o Name 5 things you can see in the room with you.
+o Name 4 things you can feel (tactile; e.g. “chair on my back” or “feet on floor”)
+o Name 3 things you can hear right now
+o Name 2 things you can smell right now
+o Name 1 good thing about yourself
+16. Write and/or say grounding statements
+o This situation won’t last forever
+o This too shall pass.
+o I can ride this out and not let it get me down.
+o My anxiety/fear/sadness won’t kill me; it just doesn’t feel good right now.
+o These are just my feelings and eventually they’ll go away.
+Adapted from: http://www.livingwell.org.au/well-being/grounding-exercises/
+38
+
+Pleasant Activities
+Acting Amusing Attending a Beachcombing Being alone Being with Being at the
+people concert animals beach
+Being Being coached Being Being in the Being at a Being with Being with
+complimented counseled country family get- friends happy
+together people
+Being in the Being with my Being with Being told I am Being with my Bird- Boating/
+mountains roommate someone I loved parents watching canoeing
+love
+Budgeting my Buying things Buying Camping Caring for Canning/ Cheering for
+time for myself something for plants Making something
+someone I preserves
+care about
+Collecting Combing/ Completing a Complimenting Cooking Counseling Dancing
+things brushing my difficult task or praising someone
+hair someone
+Dating Designing/ Discussing my Doing art work Doing Doing favors Doing
+someone I like Drafting favorite hobby experiments for people I housework
+like
+Dreaming at Drinking Driving long Eating good Exploring/ Expressing Feeling the
+night something distances meals Hiking love to presence of
+warm someone God
+Fishing Fixing Gardening/ Gathering Giving gifts Giving a Getting up
+machines Doing natural objects party for early
+yardwork someone
+Getting Giving Going to an Going to a Going to a Going to Going to a
+massages massages amusement barber/ concert lectures luncheon/
+park/ zoo beautician potluck
+Going to a Going to the Going to a Going on Going to a play Going to a Going to a
+health club/ movies museum nature walks/ restaurant reunion
+sauna/spa field trips
+Going to a Going to a Having Having Having friends Having a Having lunch
+spiritual/ sports event coffee/tea daydreams over to visit lively talk with friends
+peaceful place with friends
+Having an Having spare Hearing jokes Helping Hiking Horseback Improving
+original idea time someone riding my health
+Kicking sand/ Knitting/ Laughing Learning Listening to Listening to Looking at
+pebbles/leaves crocheting something new the ratio music the stars/
+moon
+Making Making food Making a new Meditating/ Planning or Playing Playing
+charitable to give away friend Doing yoga organizing sports cards
+donations something
+Playing music Playing with a Playing in Playing a Photography Praying Repairing
+pet nature board game/ things
+chess
+Reading Reminiscing Riding in an Running/ Seeing Seeing old Sewing
+airplane jogging beautiful friends
+scenery
+Shaving Singing Sleeping late Smelling a Seeing good Solving a Speaking a
+flower or plant things happen puzzle/ foreign
+to people crossword language
+Staying up late Smiling at Snuggling Taking a bath Using my Watching TV Writing in a
+people under a strengths journal
+blanket
+39
+
+My Plan for Managing Anxiety
+Putting it all Together
+1. My primary anxiety symptoms include:
+a. Emotional:
+b. Physical:
+c. Cognitive:
+d. Behavioral:
+2. Some of my unhelpful ways of thinking are: (e.g., all or nothing thinking,
+catastrophizing, etc.)
+3. My situational and cognitive triggers are: (e.g., unfamiliar situations, negative thoughts,
+etc.)
+4. The most helpful grounding technique(s):
+5. The most helpful relaxation exercise(s):
+6. The best time and place to practice relaxation exercises:
+40
+
+7. When I feel overwhelmed, it is helpful for me to:
+8. Positive changes I can make to help my sleep include: (e.g., no TV 30 minutes before
+bed, wake up at the same time daily, turn phone off, etc.)
+9. MY GOALS: Name 2 goals you would like to achieve over the next few months, related
+to anxiety and self-care. Think: specific, achievable, and measurable.
+a. Name 2 goals you would like to achieve related to ANXIETY (e.g., Thinking about the
+strategies you find most helpful, what would you like to try, how often, when, etc.?)
+i. ______________________________________________________________________
+ii. ______________________________________________________________________
+b. Name 2 goals you would like to achieve related to SELF-CARE: (What will your self-
+care look like over the next few months? These could be goals related to nutrition,
+exercise, sleep, schoolwork, leisure activities, etc.)
+i. _______________________________________________________________________
+ii. ________________________________________________________________________
+How can I remind myself about my plan and goals?
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+41
+
+ADDITIONAL RESOURCES
+Online
+Cal Poly SLO Counseling Services - Guided Meditations
+www.youtube.com/playlist?list=PLI44jVzqiSNuYrPNPWHc6BTqrwBXtlhrS
+Mayo Clinic Stress Reduction Website
+www.mayoclinic.com/health/mindfulness-exercises/MY02124
+Meditation Oasis
+www.meditationoasis.com
+Mindful
+www.mindful.org
+Mindfulness Research Guide
+www.mindfulexperience.org/
+The Mindful Christian
+www.TheMindfulChristian.net
+UCLA Mindful Awareness Research Center- Guided Meditations
+www.marc.ucla.edu/body.cfm?id=22
+Apps for your Smartphone, Tablet, or Computer
+ACT Coach Mindfulness Coach
+Breathe2relax Mindshift
+Breathing techniques by Hemalayaa T2 Mood Tracker
+CBTi-Coach Take a break!
+Books
+The Anxiety and Phobia Workbook by Bourne (2011)
+The Anxiety and Worry Workbook by Clark & Beck (2012)
+Get Out of Your Mind and Into Your Life by Hayes & Smith (2005)
+Self-Esteem by McKay and Fanning (2005)
+The Mindful Way Workbook by Teasdale, Williams, Segal, & Kabat-Zinn (2014)
+The Mindfulness Workbook: A Teach Yourself Guide by Langley (2013)
+The Relaxation & Stress Reduction Workbook by Davis, Robbins, Eshelman & McKay (2008)
+42
+

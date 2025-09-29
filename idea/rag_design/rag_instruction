@@ -1,0 +1,11 @@
+Work Flow Data Engineer:
+    *Target:
+	1.)Find solution about problem in CMU students about mental health
+	2.)White paper about phobia issue
+Role Data Engineer(RAG Manager) Duty:
+    *DB storage process:
+	|
+	|-->raw_data-->text_data-->chunking-->embed_vector-->store_vector_to_FAISS
+    *Query Process:
+	|
+	|-->query-->embed_vector-->searching_nearest_neighbor-->respon_to_llm_with_nearest_doc

@@ -1,0 +1,36 @@
+Generalized Anxiety Disorder 7-item (GAD-7) scale
+Over the last 2 weeks, how often have you been Not at Several Over half Nearly
+bothered by the following problems? all sure days the days every day
+0 1 2 3
+1. Feeling nervous, anxious, or on edge
+0 1 2 3
+2. Not being able to stop or control worrying
+0 1 2 3
+3. Worrying too much about different things
+0 1 2 3
+4. Trouble relaxing
+0 1 2 3
+5. Being so restless that it's hard to sit still
+0 1 2 3
+6. Becoming easily annoyed or irritable
+7. Feeling afraid as if something awful might
+0 1 2 3
+happen
+Add the score for each column + + +
+Total Score (add your column scores) =
+If you checked off any problems, how difficult have these made it for you to do your work, take
+care of things at home, or get along with other people?
+Not difficult at all __________
+Somewhat difficult _________
+Very difficult _____________
+Extremely difficult _________
+Scoring
+Scores of 5, 10, and 15 are taken as the cut-off points for mild, moderate and severe anxiety, respectively.
+When used as a screening tool, further evaluation is recommended when the score is 10 or greater.
+Using the threshold score of 10, the GAD-7 has a sensitivity of 89% and a specificity of 82% for GAD. It is
+moderately good at screening three other common anxiety disorders - panic disorder (sensitivity 74%,
+specificity 81%), social anxiety disorder (sensitivity 72%, specificity 80%) and post-traumatic stress
+disorder (sensitivity 66%, specificity 81%).
+Source: Spitzer RL, Kroenke K, Williams JBW, Lowe B. A brief measure for assessing generalized anxiety
+disorder. Arch Inern Med. 2006;166:1092-1097.
+

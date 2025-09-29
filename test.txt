@@ -1,0 +1,32 @@
+Analyze the user's free-form text input to:
+
+1. Predict the user's emotional or mental state, choosing from the following (or indicate "unknown" if inconclusive):
+   - suicidal ideation
+   - depressive symptoms
+   - anxiety or panic
+   - stress or burnout
+   - emotionally neutral
+   - positive state
+   - unknown
+
+   Justify your classification by referencing specific linguistic or semantic cues in the input.
+
+2. Extract context-relevant keywords or phrases that may help describe the user's life circumstances or social environment, such as:
+   - education (e.g., university, exams)
+   - employment (e.g., boss, workload, unemployment)
+   - family (e.g., parents, siblings)
+   - relationships (e.g., friends, partner, breakup)
+   - isolation or support systems
+   - any other meaningful situational cues
+
+You should reason beyond explicit terms — infer implied meanings where appropriate. Use psychological and emotional reasoning, even if the text is metaphorical or vague.
+
+Output Format:
+{
+  "mental_state": "[predicted emotional state]",
+  "justification": "[brief rationale with quoted text if possible]",
+  "context_keywords": [
+    "[topic]: [relevant phrase or keyword]",
+    ...
+  ]
+}

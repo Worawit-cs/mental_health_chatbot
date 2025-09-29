@@ -1,0 +1,2770 @@
+Early Intervention in Psychiatry
+ORIGINAL ARTICLE OPEN ACCESS
+Digital Mental Health Interventions for University Students
+With Mental Health Difficulties: A Systematic Review and
+Meta- Analysis
+Alba Madrid-Cagigal1 | Carmen Kealy2 | Courtney Potts3 | Maurice D. Mulvenna4 | Molly Byrne1 | Margaret M. Barry2 |
+Gary Donohoe1
+1School of Psychology, University of Galway, Galway, Ireland | 2Health Promotion Research Centre, University of Galway, Galway, Ireland | 3School of
+Psychology, Ulster University, Belfast, UK | 4School of Computing, Ulster University, Belfast, UK
+Correspondence: Gary Donohoe (gary.donohoe@universityofgalway.ie)
+Received: 16 July 2024 | Revised: 17 December 2024 | Accepted: 28 January 2025
+Funding: This work was supported by Atlantic Futures North South Research Program, 422560.
+Keywords: digital mental health interventions | mental health difficulties | university students
+ABSTRACT
+Background: While third- level educational institutions have long provided counselling, a sharp rise in demand has led to
+limited access to mental health supports for many students, including those with ongoing difficulties. Digital mental health
+interventions represent one response to this unmet need, given the potential low cost and scalability associated with no- to- low
+human resources involved.
+Objective: The aim of this study was to conduct a systematic review and meta- analysis of the literature examining effectiveness
+of digital mental health interventions for university students with ongoing mental health difficulties.
+Methods: The following databases were searched: PubMed, EBSCOhost (CINHAHL/PsycINFO/PsycArticles) and Web of Science.
+Two- armed randomised- control trials were included in the meta- analysis. A random- effects meta- analysis was conducted and
+standardised mean differences were calculated. Effect sizes were then compared in terms of therapeutic approach, and whether
+interventions were fully automated or guided interventions. This study was registered with PROSPERO, CRD42024504265.
+Results: Thirty four eligible studies were included in this narrative synthesis, of which 21 randomised- controlled trials were
+included in the meta- analysis. Random- effects meta- analysis indicated an overall medium effect size in favour of digital inter-
+ventions for both depression (Cohen's d = 0.55), and anxiety (Cohen's d = 0. 46). Of note, for anxiety outcomes, fully automated
+interventions appeared more effective (d = 0.55) than guided interventions (d = 0.35).
+Conclusions: Digital mental health interventions are associated with beneficial effects for college students when measured in
+terms of anxiety and depression symptom severity. For anxiety, fully automated interventions may be more effective than guided
+interventions to reduce symptom severity.
+1 | Introduction mental health difficulties in young people have consequently
+been described as representing a “dangerous phase” and an
+Mental health difficulties represent a growing global burden ignored risk factor for age- related medical illness later in life
+with up to 60% of young people meet the criteria for a diagno- (McGorry et al. 2024). Rates of mental health difficulties among
+sis of depression and/or anxiety at any given point during their young people have risen substantially in the last decade, rep-
+young adulthood (McGorry et al. 2024). The rising incidence of resenting a 78% increase in 2017 compared to 2008 (Twenge
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium, provided the original
+work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2025 The Author(s). Early Intervention in Psychiatry published by John Wiley & Sons Australia, Ltd.
+Early Intervention in Psychiatry, 2025; 19:e70017 1 of 20
+https://doi.org/10.1111/eip.70017
+
+et al. 2019). Studies conducted in the US report that since the and Kim 2020), as they are capable of being directly accessi-
+COVID- 19 pandemic, approximately 75% of young people have ble to people with no- to- low human resources, at any time of
+reported worsening mental health (Bell et al. 2023). These the day at the point of need, and have the potential to promote
+changes are reflected in multiple indicators, including per- self- management of mental health problems (Andersson and
+ceived poor mental health (Wiens et al. 2020), anxiety disorders Titov 2014; Gan et al. 2021). Moreover, previous research on
+(Goodwin et al. 2020), and depression (Goodwin et al. 2022). self- help interventions for depressive symptoms and anxiety dis-
+Given that approximately 63% of mental health problems are es- orders on adult populations has shown promising results, sug-
+tablished by the age of 25 (Solmi et al. 2022), early intervention gesting that the effectiveness of these interventions is similar
+for mental health difficulties in young adulthood is important to in- person mental health treatment (van't Hof, Cuijpers, and
+and has potential to yield significant benefits across the lifespan Stein 2009; Cuijpers et al. 2010; Leung et al. 2022).
+(Kessler et al. 2005; D'Adamo et al. 2023). In western countries,
+a majority of 18–25- year- old attend some form of third level edu-
+cation; for example, the OECD (2022) estimate that an average of 1.1 | Guided Versus Fully Automated Digital
+54% attend some form of third level, siding to 59% in the EU22. Interventions
+By taking action long before mental health problems worsen or
+by preventing their onset (Colizzi, Lasalvia, and Ruggeri 2020), Digital interventions have been sub- categorised as either inter-
+early intervention has the potential to avoid significant burden ventions that are fully digitally based/automated or interven-
+among college students including academic failure, interper- tions with some level of human support/guidance, e.g. from
+sonal problems and substance abuse (King et al. 2021). a therapist or peer. The later have been variously termed as
+‘guided’ digital interventions (Pineda et al. 2023) or ‘blended’
+For young adults, the college years are particularly important as digital interventions (Erbe et al. 2017; Valentine et al. 2020). In
+they can involve multiple social and academic stressors such as this study, we refer to the former as ‘fully automated’ interven-
+academic demands, financial worries, and loneliness, which in- tions and the later as ‘guided’ interventions. Guided interven-
+creases the risk for mental health difficulties (Duffy et al. 2019; tions can be further sub- categorised into asynchronous therapy,
+Campbell et al. 2022). Further, emerging adulthood, which coin- where there is a delay between responses (e.g., emails and text),
+cides with transition to college, represents the peak period of risk and synchronous therapy, which refers to methods where pro-
+for the onset of mental health problems (Kessler et al. 2007; Duffy viders and clients communicate at the same time, such as a
+et al. 2020). According to a 2017 WHO study of approximately phone call or a video conference (Philippe et al. 2022).
+14 000 students from across eight countries, approximately one in
+three screened positive for at least one common DSM- IV anxiety, This distinction between guided and fully automated digital in-
+mood, or substance disorder. Previous evidence shows that 25% terventions may be important in terms of level of engagement
+of university students experience depression and 14% experience and adherence (Lattie et al. 2019). Forbes et al. (2023) defined
+suicide related outcomes (Auerbach et al. 2018). Similarly, a lon- adherence as “the actual digital intervention use compared with
+gitudinal study by Duffy et al. (2020) revealed that one- third of intended use” and engagement as “to which extent patients inter-
+first- year undergraduate students endorse clinically significant act with an intervention.” Moreover, study attrition refers to “fail-
+depressive and anxiety symptoms at entry to university. ure to complete the research protocol associated with an online
+intervention” (Linardon and Fuller- Tyszkiewicz 2020). A wide
+Rates of mental health service utilisation among college stu- range of engagement rates (26% and 100%; Stanic et al. 2021;
+dents have also increased considerably (Lipson, Lattie, and Winter et al. 2022), and attrition rates (23%–64%; Linardon and
+Eisenberg 2019; Oswalt et al. 2020; Osborn et al. 2022). For ex- Fuller- Tyszkiewicz 2020) have been reported for digital interven-
+ample, in 2017, 94% of universities in the UK reported an increase tions. A systematic review by Borghouts et al. (2021) suggested
+in demand for counselling services compared to the prior five that interventions that include some levels of prompting were as-
+years (Thorley 2017; Worsley, Pennington, and Corcoran 2022). sociated with improved adherence but appeared agnostic about
+Similarly, a study in the US by Oswalt et al. (2020) using national whether this needed to come from another human or was simply
+data reported an increase of 4.3% in service utilisation among an automated reminder. By comparison, research on traditional
+college students between 2009 and 2015. This has been challeng- mental health care has suggested that human guidance is an im-
+ing for students' mental health services, in terms of service pro- portant factor that increases intervention efficacy and therefore
+vision and financing, resulting in longer waiting times (Walsh intervention engagement (Ebert et al. 2018; Musiat et al. 2022).
+et al. 2022) and only short- term interventions being made avail-
+able with the consequent risk of not being able to provide quality A number of psychological theories have provided suggestions
+treatment (Hallett 2012; Harrison and Gordon 2021). as to why human support or guidance may be important for ad-
+herence. For example, the therapeutic alliance is suggested to
+In response to this high demand for mental health services benefit outcomes because of a collaborative agreement between
+among college students, there is a growing interest in the use therapist and client on the goals of the treatment, the tasks, and
+of digital mental health interventions (DMHIs). DMHIs are the development of a personal bond (Ardito and Rabellino 2011).
+digitally delivered interventions which may be based on well- By comparison, the supportive- accountability model (Mohr,
+established psychological treatments (Gan et al. 2021). DMHIs Cuijpers, and Lehman 2011) proposes that adherence to on-
+have the potential to offer a scalable, cost- effective, and acces- line interventions increases when human support is provided
+sible solution to increase access to mental health services and on account of a sense of accountability to a coach that is seen
+reduce burden on college service delivery systems (Lipson, as trustworthy. However, mixed results have been reported on
+Lattie, and Eisenberg 2019; Schueller and Torous 2020; Ha the influence of support in DMHIs, especially among college
+2 of 20 Early Intervention in Psychiatry, 2025
+
+students, as some studies such as Harrer et al. (2018) reported health difficulties and that for both anxiety and depressive out-
+that support did not affect intervention effectiveness, whereas comes, guided interventions will be more effective than fully
+others such as Conley et al. (2016) concluded that support automated ones.
+yielded greater effects. Some of the reasons for this may be that
+the effectiveness of human support varies across populations
+and based on the characteristics (e.g., training level) of the sup- 2 | Methods
+port provider, which may explain the variability of these results
+(Werntz et al. 2023). Moreover, Harrer et al. (2018) proposed that The reporting of the present systematic review was based on
+for university students, there may be other factors that are more the Preferred Reporting Items for Systematic Review and Meta-
+important than the provision of guidance but more research is Analyses (PRISMA; Page et al. 2021). A protocol of the present
+needed to determine what these factors may be. The relevance of review was previously registered in PROSPERO (February 3,
+these hypothesised factors need to be evaluated in order to better 2024; CRD42024504265) (Figure 1).
+understand the relationship between engagement and level of
+automaticity/guidance for college students (Harith et al. 2022).
+2.1 | Inclusion Criteria
+1.2 | Therapeutic Approach and Mode of Delivery The Population, Intervention, Comparator, Outcome, and Study
+design (PICOS) framework (McKenzie et al. 2019) was used to
+Other relevant factors in understanding young people's engage- guide inclusion criteria eligibility.
+ment with digital mental health interventions include the thera-
+peutic approach and the mode of delivery. In terms of therapeutic In terms of population (1), only studies that included univer-
+approach, cognitive behavioural therapy (CBT) represents the sity students with mental health difficulties, by inclusion of
+leading therapeutic approach among DMHIs (Balcombe and De assessment (i.e., GAD- 7, PHQ- 9), were included. Studies of ad-
+Leo 2022). Recent studies have demonstrated the positive effects olescents, children or young people that are not enrolled in a
+of internet- based CBT (iCBT) in reducing mental health symp- third- level institution were excluded. University students had to
+toms among college students (McCall et al. 2018). Acceptance be in the 18–25 age range to be eligible. Eligible interventions
+and commitment therapy (ACT) has also been adopted for online (2) included any studies that used a digital mental health inter-
+treatment (Levin, Hicks, and Krafft 2022) and has been found vention based on standardised psychological interventions, such
+to effectively treat mental health issues such as anxiety and as CBT, mindfulness, ACT, etc. All types of digital tools were
+depression among university students (Hemmings et al. 2021). included. In terms of comparator (3), eligible studies included
+Modes of delivery may include mobile applications (apps), vir- those employing usual care or control groups that received no in-
+tual or augmented- reality, web- based interventions, chatbots or tervention, or an alternative intervention. Studies that employed
+conversational agents to name a few. A systematic overview by a waiting list were also included. Studies reporting any type of
+Lehtimaki et al. (2021) found that computerised CBT was effec- mental health outcome measure (4) were included. Finally, (5)
+tive at alleviating symptoms of depression and anxiety in young peer- reviewed English language feasibility studies, randomised
+people, whereas the effectiveness of other DMHIs such as thera- controlled trials, non- randomised controlled trials, other types
+peutic video games or mobile apps remained inconclusive. of randomised trials, longitudinal studies, and mixed methods
+pilot, published in the last 6 years were included in this review.
+1.3 | The Present Study
+2.2 | Search Strategy
+Considering the rapid growth of DMHIs and the high prevalence
+of mental health difficulties among university students, further A scoping of the literature was conducted by using Google
+systematic examination of the existing literature is needed, as Scholar and PubMed to identify the types of available studies
+evidence suggests that engagement with DMHIs among college for synthesis. Moreover, results from a parallel scoping review
+students is low (Melcher et al. 2022; D'Adamo et al. 2023), and revealed that the vast majority of research on digital mental
+students in need of care may not be reached or do not utilise health interventions for university students was conducted
+these treatment tools (Fleming et al. 2018). Moreover, although since 2018 onwards. Therefore, to ensure that our study reports
+previous reviews have focused on the effectiveness of DMHIs on the most up to date literature, we decided to include stud-
+among university students (D'Adamo et al. 2023; Montagni ies that were conducted in the last 6 years. As a follow up, we
+et al. 2020; Riboldi et al. 2023) there seems to be a gap of knowl- conducted a search in February 2024 of the following databases:
+edge in terms of systematic reviews of DMHIs among clinical PubMed, EBSCOhost (CINHAHL/PsycINFO/PsycArticles),
+and sub- clinical college student populations. Students are ex- and Web of Science using the keywords and search terms pre-
+posed to a large variety of stressors, which increases their level sented in Table 1. Searches were limited to English language
+of anxiety and stress, and therefore the risk of developing men- peer- reviewed articles published from 2018 to 2024.
+tal health difficulties. Thus, the current systematic review and
+meta- analysis aims to (a) estimate the effectiveness of DMHIs
+directed at university students that already present with mental 2.3 | Selection Process
+health difficulties, and (b) to determine if guided interventions
+are more effective than fully automated ones. We expect to find A three- step approach was used to evaluate studies accord-
+that DMHIs will be effective for university students with mental ing to the selection criteria. First, all records were imported to
+3 of 20
+
+FIGURE 1 | PRISMA flow diagram.
+TABLE 1 | Keywords and search terms used in the systematic review.
+1 (“Mental health issues” OR “mental health problems” OR “mental illness” OR “mental problems” OR “mental
+disorders” OR “mental health disorders” OR “psychiatric diagnosis” OR “psychiatric disorder”)
+AND
+2 (“University students” OR “college students” OR “third- level students” OR “undergraduate students”
+OR “postgraduate students” OR students OR “graduate students” OR “first- year students” OR “second-
+year students” OR “third- year students” OR “fourth- year students” OR “final- year students”)
+AND
+3 (Interventions OR program* OR therap* OR implementation OR evaluation OR develop*)
+AND
+4 (“digital interventions” or “Computer Assisted Therapy” or “Online Therapy” or Mhealth or Ehealth or M- Health
+or E- Health or “M Health” or “E Health” or Web- based or “Web based” or Internet- based or “Internet based” or
+App or Application or “Mobile phone” or Text or SMS or Computer* or “artificial intelligence” or AI or online
+or Virtual or Cyber or Interactive or Digital Technolog* or “conversational user interface” or “chatbot*”)
+Covidence (Veritas Health Innovation 2020), where duplicates 2.4 | Data Extraction
+were removed. In the second stage, title and abstract screening
+was conducted by at least 2 of the 3 reviewers for agreement Details about the DMHI used in each study were extracted
+(A.M., C.K., C.P.) and full- text articles were retrieved. In the independently by two reviewers (A.M. and C.K.). Relevant
+third stage, the full- text articles were screened for eligibility information included study design, age, and participant char-
+(A.M., C.K., C.P.). Differences between the reviewers were re- acteristics. We also included details about the measurements
+solved by consensus. used as eligibility criteria reported in the studies to justify
+4 of 20 Early Intervention in Psychiatry, 2025
+
+the presence of mental health difficulties (e.g., He et al. 2022: 3 | Results
+“average score of the depression subscale in the College
+Students Mental Health Screening Scale (CSMHSS) within 3.1 | Search and Selection
+2 to 3”). Discrepancies were resolved by consensus (A.M.
+and G.D.). A total of 3616 references were imported into Covidence for
+initial abstract screening. After removing duplicates, the titles,
+and abstracts of 2576 studies were screened and 2420 studies
+2.5 | Quality Assessment were excluded as not meeting inclusion criteria. A total of 156
+studies were then assessed for full- text eligibility screening,
+To assess for risk of bias, two reviewers (A.M. and C.K.) con- resulting in 34 studies that met the inclusion criteria; 21 of
+ducted the assessments independent. The reviewers used the these studies had 2- armed RCTs that could be included in the
+Cochrane Risk of Bias Tool (version 1) for Randomised Controlled meta-a nalysis.
+Trials (Higgins et al. 2011). Regarding non- randomised studies,
+the Risk of Bias in Non- Randomised Studies of Interventions
+(ROBINS- I) tool (Sterne et al. 2016) was used. Assessment of 3.2 | Study Characteristics
+risk of bias based was judged as low/high/unclear risk of bias
+based on each of the criteria. Table 2 summarises the characteristics of included studies.
+In terms of study location, 13 (38%) of the studies were con-
+ducted in the United States (Haeger, Davis, and Levin 2022;
+2.6 | Meta- Analysis Thomas et al. 2023; Palacios et al. 2018; Attridge et al. 2020;
+Six et al. 2022; Papini et al. 2023; Newman et al. 2021; Short
+Eligibility criteria for the meta- analysis included studies with a and Schmidt 2020; Ruehlman and Karoly 2023; O'Bryan
+two- armed RCT that reported anxiety and depression outcomes. et al. 2021; Bautista et al. 2022; Rackoff et al. 2022; Suffoletto
+Two studies (Hides et al. 2019; Six et al. 2022) were excluded et al. 2021; Levin, Hicks, and Krafft 2022); 4 (12%) in the
+from the meta- analysis as these did not have available outcome United Kingdom (Cook, Mostazir, and Watkins 2019; Ponzo
+data. The Comprehensive Meta- Analysis Software package et al. 2020; Broglia, Millings, and Barkham 2019; Kingston
+(CMA, version 4; Borenstein et al. 2013) was used to conduct the et al. 2020) and China (Sit et al. 2022; He et al. 2022; Zhao
+analysis, based on a random effects model. et al. 2022; Sun et al. 2022); 3 (9%) in Germany (Hennemann
+et al. 2022; Harrer et al. 2018; Bruhns et al. 2021); 2 (6%) in
+Australia (Dear et al. 2019; Hides et al. 2019); 1 (3%) in Canada
+Two analyses of effectiveness were conducted: the first fo-
+(McCall et al. 2018), Republic of Korea (Kim and Lee 2023),
+cused on DMHIs that reported outcomes for severity of anxiety
+Colombia (Salamanca- Sanabria et al. 2020), the Netherlands
+symptoms (Salamanca- Sanabria et al. 2020; Harrer et al. 2018;
+(Karyotaki et al. 2022), Lithuania (Dumarkaite et al. 2022),
+Karyotaki et al. 2022; Ponzo et al. 2020; Papini et al. 2023;
+Finland (Räsänen, Muotka, and Lappalainen 2023), India
+O'Bryan et al. 2021; Sun et al. 2022; Suffoletto et al. 2021;
+(Newman et al. 2021), and Pakistan (Akram and Arshad 2022).
+McCall et al. 2018; Bautista et al. 2022; Short and Schmidt 2020;
+A total of 6234 participants were included in this system-
+Newman et al. 2021; Levin, Hicks, and Krafft 2022; Dumarkaite
+atic review. Sample size ranged from 11 (Haeger, Davis,
+et al. 2022); the second focused on DMHIs that reported out-
+and Levin 2022) to 1080 (Dear et al. 2019); and participants'
+comes for depressive symptom severity (Salamanca- Sanabria
+mean age ranged from 18.53 to 25 (mean = 21.21, SD = 3.03).
+et al. 2020; Bruhns et al. 2021; Harrer et al. 2018; Karyotaki
+Regarding study design, 74% (25/34) of studies were RCTs
+et al. 2022; Kim and Lee 2023; Ponzo et al. 2020; Zhao et al. 2022;
+(Räsänen, Muotka, and Lappalainen 2023; Cook, Mostazir,
+Kingston et al. 2020; Sun et al. 2022; Suffoletto et al. 2021;
+and Watkins 2019; He et al. 2022; Six et al. 2022; Salamanca-
+Ruehlman and Karoly 2023; Newman et al. 2021; Levin, Hicks,
+Sanabria et al. 2020; Harrer et al. 2018; Karyotaki et al. 2022;
+and Krafft 2022; Räsänen, Muotka, and Lappalainen 2023;
+Kim and Lee 2023; Papini et al. 2023; Newman et al. 2021;
+Dumarkaite et al. 2022).
+Short and Schmidt 2020; McCall et al. 2018; Ruehlman and
+Karoly 2023; O'Bryan et al. 2021; Bautista et al. 2022; Zhao
+Between- groups standardised mean differences (SMD) were
+et al. 2022; Ponzo et al. 2020; Rackoff et al. 2022; Bruhns
+calculated and used as effect sizes. Sensitivity analyses were
+et al. 2021; Suffoletto et al. 2021; Sun et al. 2022; Levin, Hicks,
+performed to examine robustness of the overall findings. The
+and Krafft 2022; Dumarkaite et al. 2022; Kingston et al. 2020;
+Q statistic was used to assess study heterogeneity (Borenstein
+Hides et al. 2019), 9% (3/34) were within groups pre- post trials
+et al. 2009). The I2 statistic was also calculated to estimate the
+(Haeger, Davis, and Levin 2022; Sit et al. 2022; Akram and
+percentage of variance in the observed effects owing to the vari-
+Arshad 2022); 6% (2/34) were non-r andomised trials (Palacios
+ance in true effects; with I2 ≥ 75% indicating considerable het- et al. 2018; Broglia, Millings, and Barkham 2019); and the
+erogeneity (Higgins et al. 2003).
+remaining papers included a longitudinal study (Attridge
+et al. 2020), an exploratively secondary analysis (Hennemann
+Subgroup analyses were also performed to ascertain the ef- et al. 2022), a prospective study (Dear et al. 2019), and a micro-
+fect of level of guidance on effectiveness of interventions. randomised trial (Thomas et al. 2023). Of note, out of the 25
+Finally, publication bias was examined by visual examina- RCTs, 16 (64%) used a waitlist control (Räsänen, Muotka, and
+tion of funnel plots and the trim- and- fill method (Duval and Lappalainen 2023; Salamanca- Sanabria et al. 2020; Harrer
+Tweedie 2000). et al. 2018; Kim and Lee 2023; Papini et al. 2023; Newman
+5 of 20
+
+6 of 20 Early Intervention in Psychiatry, 2025
+.weiver citametsys eht ni dedulcni
+seiduts
+43
+eht
+fo
+yrammuS
+| 2
+ELBAT
+namuH
+htlaeh
+latneM
+lacigolohcysP
+naeM
+latoT
+dna
+ydutS
+sgnidnif
+niaM
+troppus
+serusaem
+noitaruD
+tnemtaert
+lortnoC
+ngised
+ydutS
+airetirc htlaeh latnem elpmaS
+)DS(
+ega
+N
+yrtnuoc
+stnapicitraP
+oN
+,noisserpeD—SSAD
+skeew
+8
+TCA
+toN
+nepo
+,tsop
+-erp
+A
+tnemecalp dedulcni airetirc ytilibigilE
+55.32
+11
+,sivaD
+,regeaH
+.1
+no devorpmi
+ssertS
+dna
+yteixnA
+elbacilppA
+ngised
+lairt
+tsael ta htiw tsil gnitiaw CCC eht no
+)11.5(
+)2202(
+niveL
+dna
+dna noisserped
+lacigolohcysP—II
+-QAA
+deludehcs tsrif rieht erofeb skeew 2
+ASU
+sa smotpmys
+yteixna
+ytilibixelfni
+,tnemtnioppa ypareht ecaf -ot -ecaf
+lacigolohcysp
+sa
+llew
+noisuf evitingoC—QFC
+fo melborp gnitneserp a gnivah dna
+ytilibixelfni
+ssenlufdniM—SMLHP
+yduts ehT .yteixna ro/dna noisserped
+.sessecorp
+gnivil
+deulav
+-QV
+rof stnapicitrap neercs ylevitca ton did
+lanoitomE—SASE
+daetsni dna ,yteixna dna noisserped
+ssenerawa
+-fles
+noitercsid s'naicinilc CCC eht no deiler slaudividni ot slairetam edivorp ot .smelborp gnitneserp eseht htiw
+noitnevretni
+ehT
+oN
+noisserpeD—2
+-QHP
+skeew
+2
+TCA
+on
+,seY
+-orciM
+stneduts sutats noitareneg -tsriF
+35.81
+53
+samohT
+.2
+-seulav
+desaercni
+ssertS deviecreP—4
+-SSP
+noitnevretni
+desimodnar
+raey -4 a detelpmoc ton dah stnerap(
+)35.0(
+)3202(
+.la
+te
+ruoivaheb
+desab
+)TRM(
+lairt
+ssertsid troper ot dah )eerged egelloc
+ASU
+esaerced
+ton
+did
+tub
+taht syad 7 sal eht ro erom ro 4 no
+.ruoivaheb
+ecnadiova
+.gninoitcnuf htiw derefretni
+noitnevretni
+ehT
+evisserped
+decuder
+ton tub
+smotpmys
+.sserts
+deviecrep
+,desab
+-TCA
+seY
+evitcejbuS—FS
+-CHM
+1( snoisses
+8
+TCA
+tsiltiaw
+,seY
+TCR
+demra
+-2
+ot dah stneduts ,elbigile eb oT
+)25.4(
+52
+321
+,nenäsäR
+.3
+tenretni
+dednelb
+,lanoitome
+,lacigolohcysp
+)keew
+rep
+mrof emos gnicneirepxe troper
+dna
+,aktouM
+htiw snoitnevretni
+gnieb -llew
+laicos
+dna
+sa hcus ,ssertsid lacigolohcysp fo
+)3202(
+nenialappaL
+derutcurts
+-imes
+ssertS deviecreP—01
+-SSP
+.yteixna ro/dna ,doom wol ,sserts
+dnalniF
+kcabdeef
+hcaoc
+noisserpeD—9
+-QHP
+yllaminim
+dna
+nac serutaef
+deroliat
+sa evitceffe
+sa
+eb
+htiw snoitnevretni desilanosrep
+ylluf
+.kcabdeef esaerced
+tnacifingiS
+seY
+noisserpeD—9
+-QHP
+, -3
+;skeew
+6
+TAB
+toN
+nA
+a dah yeht fi dedulcni erew stnedutS
+9.81
+93
+)2202(
+.la
+te
+tiS
+.4
+,noisserped
+fo
+yteixnA—7
+-DAG
+htnom
+-6
+dna
+elbacilppA
+,dellortnocnu
+9 -eriannoitseuQ htlaeH tneitaP fo erocs
+)49.0(
+anihC
+-fles dna
+,yteixna
+yteixnA—5
+-OHW
+pu
+-wollof
+demra
+-elgnis
+rehgih ro 01 fo )9 -QHP(
+.smelborp
+denifed
+gnieb
+-llew
+dna
+lairt
+tolip
+ssertS—SPOLOHCYSP
+esaerced
+tnacifingiS
+seY
+noisserpeD—9
+-QHP
+;skeew
+7
+TBC
+toN
+-noN
+rof dlohserht eht teem ot dah stnedutS
+A/N
+201
+soicalaP
+.5
+,noisserped
+ni
+yteixnA—7
+-DAG
+htnom
+-3
+elbacilppA
+desimodnaR
+eht no +5 fo erocs( noisserped dlim
+)8102(
+.la
+te
+.sserts dna
+,yteixna
+ssertS—12
+-SSAD
+pu
+-wollof
+fo lairT
+,)7 -DAG eht no +5( yteixna ,)9 -QHP
+ASU
+,ytilibatpecca
+sserts 12 -SSAD eht no +51( sserts ro
+,ssenevitceffe
+)2 yb erocs gniylpitlum retfa ,elacsbus
+noitcafsitas
+dna
+)seunitnoC(
+
+7 of 20
+)deunitnoC(
+| 2 ELBAT
+namuH
+htlaeh
+latneM
+lacigolohcysP
+naeM
+latoT
+dna ydutS
+sgnidnif
+niaM
+troppus
+serusaem
+noitaruD
+tnemtaert
+lortnoC
+ngised
+ydutS
+airetirc htlaeh latnem elpmaS
+)DS(
+ega
+N
+yrtnuoc
+tnacifingiS
+seY
+yrroW—QWSP
+skeew
+6
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-3
+eht evoba erocs ot dah stnedutS
+14.02
+532
+,rizatsoM
+,kooC
+.6
+ni stnemevorpmi
+noisserpeD—9
+-QHP
+eno tsael ta no elitnecrep ht57
+)5.1(
+)9102(
+sniktaW
+dna
+,yrrow
+,noitanimur
+yteixnA—7
+-DAG
+:noitanimur/yrrow fo erusaem
+KU
+evisserped
+dna
+noitanimuR—SRR
+yrroW etatS nneP eht no 05 ≥
+.smotpmys
+eht no 04 ≥ ;)QWSP( eriannoitseuQ )SRR( elacS esnopseR evitanimuR
+dereviled
+-tenretnI
+seY
+citamoS—51
+-QHP
+shtnom
+-51
+-6,
+-3
+TBC
+tsiltiaw
+,seY
+ylevitarolpxE
+stneduts dedulcni airetirc ytilibigilE
+06.42
+941
+nnamenneH
+.7
+laruoivaheb
+evitingoc
+ssertsid
+fo
+smotpmys
+pu
+-wollof
+yradnoces
+motpmys citamos detavele htiw
+)61.5(
+)2202(
+.la
+te
+htiw
+ypareht
+esrevdA—21
+-DSS
+a fo
+sisylana
+4 ≥ erocs a yb detacidni sa ,ssertsid
+ynamreG
+si ecnadiug
+raluger
+laruoivaheb
+-ohcysp
+,demra
+owt
+,eriannoitseuQ htlaeH tneitaP eht
+no
+yllacoviuqenu
+ton
+citamos
+eht
+fo
+smotpmys
+TCR
+puorg
+)51 -QHP( elacs motpmys citamos
+ot
+roirepus
+redrosid
+motpmys
+dnamed
+-no
+-ecnadiug
+noisserpeD—9
+-QHP
+yteixnA—7
+-DAG
+lanoitcnuF—IDP
+ytilibasid
+lacinilc
+egraL
+seY
+noisserpeD—9
+-QHP
+skeew
+8
+TBC
+toN
+,egral
+A
+,SPAC eht ot detneserp ohw stnedutS
+32
+0801
+)9102(
+.la te raeD
+.8
+ni
+snoitcuder
+yteixnA—7
+-DAG
+elbacilppA
+,evitcepsorp
+,sserts fo smotpmys detroper -fles
+dna
+ailartsuA
+fo
+smotpmys
+puorg
+-elgnis
+dna noisserped ro ,doom wol ,yteixna
+yteixna
+htob
+VI
+-esahP
+.tnemtaert lacigolohcysp detnaw
+noisserped
+dna
+lairt
+lacinilc
+.devresbo
+erew
+tnacifingiS
+seY
+noisserpeD—9
+-QHP
+snoisses
+8
+TBC
+evitca
+,seY
+,dnilb
+-elgnis
+A
+na htiw stneduts egelloC
+87.81
+841
+)2202(
+.la te
+eH
+.9
+ni
+snoitcuder
+rep
+eciwt(
+lortnoc
+demra
+-3
+noisserped eht fo erocs egareva
+)98.0(
+anihC
+.noisserped
+.htnom
+1
+)keew
+desimodnar
+stnedutS egelloC eht ni elacsbus
+lairt
+dellortnoc
+elacS gnineercS htlaeH latneM .3 ot 2 nihtiw )SSHMSC(
+tnacifingiS
+seY
+noisserpeD—9
+-QHP
+;skeew
+5
+TBC
+toN
+,lanidutignoL
+remotsuc a morf eb ot dah sresU
+97.32
+159
+egdirttA
+.01
+rof stnemevorpmi
+yteixnA—7
+-DAG
+htnom
+-3
+elbacilppA
+detaeper
+rehgih eht ni eviL ot nraeL fo
+)39.6(
+)0202(
+.la
+te
+,yteixna
+,sserts
+yteixnA
+laicoS—NIPS
+pu
+-wollof
+serusaem
+a ,.e.i( tnemges tekram noitacude
+ASU
+.ainmosni
+dna ,yrrow
+ainmosnI—SOM
+ngised
+hcraeser
+erew sresU .)ytisrevinu ro egelloc level tneiciffus a ta eb ot deriuqer )sutats lacinilc( ytireves lacinilc
+fo
+esu margorp fo trats eht ta
+stluser
+esehT
+oN
+noisserpeD—8
+-QHP
+shtnom
+-4
+TBC
+evitca
+,seY
+TCR
+demra
+-2
+evif fo erocs a gnivah stnedutS
+77.02
+49
+)2202(
+.la te xiS
+.11
+TBC
+taht
+etacidni
+yteixnA—7
+-DAG
+lortnoc
+8 -QHP eht no rehgih ro
+)45.2(
+ASU
+,sppa
+htlaeh
+latnem
+ssertS—01
+-SSP
+,traeHriA
+sa hcus
+dna evitisoP—SANAP
+laitnetop
+eht evah
+tceffA
+evitageN
+evisserped
+ecuder
+ot
+a revo
+smotpmys
+noitnevretni
+trohs
+doirep
+)seunitnoC(
+
+8 of 20 Early Intervention in Psychiatry, 2025
+)deunitnoC(
+| 2 ELBAT
+namuH
+htlaeh
+latneM
+lacigolohcysP
+naeM
+latoT
+dna
+ydutS
+sgnidnif
+niaM
+troppus
+serusaem
+noitaruD
+tnemtaert
+lortnoC
+ngised
+ydutS
+airetirc htlaeh latnem
+elpmaS
+)DS(
+ega
+N
+yrtnuoc
+stceffe
+tnacifingiS
+seY
+noisserpeD—9
+-QHP
+snoisses
+5
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-2
+ot dlim htiw stneduts
+egelloC
+51.22
+051
+-acnamalaS
+.21
+noisserped
+rof
+yteixnA—7
+-DAG
+smotpmys evisserped
+ereves yletaredom
+)47.4(
+airbanaS
+yteixna
+dna
+htlaeH tneitaP eht
+yb denimreted
+)0202(
+.la
+te
+91–01 fo serocs 9—eriannoitseuQ
+aibmoloC
+rof stceffe
+tnacifingiS
+seY
+ssertS
+deviecreP—4
+-SSP
+skeew
+8
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-2
+detavele htiw stneduts
+ytisrevinU
+)1.4(
+1.42
+051
+rerraH
+.31
+,noisserped
+,sserts
+noisserpeD—D
+-SEC
+)8 ≥ 4 -SSP( sserts deviecrep
+fo slevel
+)8102(
+.la
+te
+,gnieb
+-llew
+,yteixna
+yteixnA
+etatS—IATS
+ynamreG
+lanoitome
+dna
+lareneG—5
+-OHW
+.noitsuahxe
+gnieb
+-llew
+lanoitomE—IBM noitsuahxE
+a fo
+ecnedive
+oN
+seY
+noisserpeD—9
+-QHP
+;skeew
+8
+TBC
+evitca
+,seY
+TCR
+demra
+-2
+etaredom ot dlim htiw
+stneduts egelloC
+19.12
+001
+ikatoyraK
+.41
+neewteb
+ecnereffid
+yteixnA—7
+-DAG
+htnom
+-3
+lortnoc
+yb denifed noisserped
+fo smotpmys
+)16.2(
+)2202(
+.la
+te
+noitnevretni
+eht
+pu
+-wollof
+4 fo erocs ffo -tuc eht
+evoba gnirocs
+sdnalrehteN
+.lortnoc
+eht dna
+eriannoitseuQ htlaeH
+tneitaP eht no
+sa smotpmys yteixna
+ro/dna )9 -QHP(
+ffo -tuc eht evoba gnirocs
+yb gninifed
+yteixnA desilareneG
+eht no 4 fo erocs
+.)7 -DAG( smeti 7—elacs
+redrosiD
+margorp
+ehT
+seY
+citamuarT—QSELS
+ylkeew
+7
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-2
+elamef eb ot dah stnapicitrap
+ehT
+A/N
+43
+dna miK
+.51
+-tsop
+decuder
+secneirepxe
+snoisses
+citamuart a htiw stneduts
+egelloc
+)3202(
+eeL
+dna sserts
+citamuart
+-tsoP—R
+-SEI
+skeew
+4+
+sserts citamuarttsop
+dna ecneirepxe
+aeroK
+fo cilbupeR
+smotpmys
+noisserped
+sserts
+citamuart
+.noisses
+tsoob
+hcihw ,66–22 fo serocs
+motpmys
+devorpmi
+dna
+noisserpeD—D
+-SEC
+desongaid eb nac
+taht ffotuc a si
+htlaeh
+lanoitcnuf
+htlaeH
+lanoitcnuF
+a si 66 evoba gnihtyna
+;DSTP sa
+.tnemtsujda
+dna
+tnemssessA
+nrettaP
+tonnac taht noitidnoc
+DSTP ereves
+looT
+gnineercS
+yduts siht ni desserdda
+ylbatius eb
+naem
+tnacifingiS
+oN
+ytivitisneS
+yteixnA—IASS
+shtnom
+-2
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-2
+etapicitrap ot detivni
+erew stnedutS
+27.91
+951
+inipaP
+.61
+.yteixna
+ni noitcuder
+pu
+-wollof
+hgih dah yeht fi
+yduts siht ni
+)24.1(
+)3202(
+.la
+te
+na sa denifed ,ytivitisnes
+yteixna
+ASU
+22 naht retaerg erocs
+latot 3 -ISA
+tnacifingiS
+seY
+yteixnA—VI
+-Q
+-DAG
+ni
+snoisses
+6
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-2
+lacinilc rof airetirc
+tem stnedutS
+09.91
+222
+namweN
+.71
+DAG
+ni
+snoitcuder
+yrroW—QWSP
+;shtnom
+-3
+DAG dlohserhtbus
+ro
+)65.1(
+)1202(
+.la
+te
+dna ,yrrow
+,ytireves
+noisserpeD—D
+-SSAD
+htnom
+-6
+aidnI
+smotpmys
+evisserped
+pu
+-wollof
+)seunitnoC(
+
+9 of 20
+)deunitnoC(
+|
+2 ELBAT
+namuH
+htlaeh
+latneM
+lacigolohcysP
+naeM
+latoT
+dna ydutS
+sgnidnif niaM
+troppus
+serusaem
+noitaruD
+tnemtaert
+lortnoC
+ngised
+ydutS
+airetirc
+htlaeh latnem elpmaS
+)DS(
+ega
+N
+yrtnuoc
+tseggus sgnidniF
+oN
+sdia ytefaS—SAS
+dna
+, -6
+TBC
+evitca
+,seY
+TCR
+demra
+-2
+etapicitrap
+ot detivni erew stnedutS
+34.91
+16
+dna
+trohS
+.81
+ytefas gnitegrat
+taht
+suoirav
+ot
+detaler
+htnom
+-21
+lortnoc
+,yevrus gnineercs
+a detelpmoc yeht
+fi
+)40.2(
+)0202(
+tdimhcS
+yteixna rof
+sdia
+.sredrosid
+yteixna
+pu
+-wollof
+eht evoba
+DS 1 tsael ta derocs dna
+ASU
+ainmosni
+dna
+detaler -ainmosnI—QBRS
+yteixna detaiverbba
+no naem elpmas
+elbatpecca
+si
+sruoivaheb
+ytefas
+dna ,)eriannoitseuQ
+yrroW etatS nneP(
+ni evitceffe
+dna
+ainmosni fo
+ytireveS—ISI
+)xednI ytireveS
+ainmosnI( ainmosni
+tegrat eht gnicuder
+yrroW—QWSP
+ytefas ,msinahcem
+yteixnA—IAB
+.yrrow sa llew
+sa ,sdia
+evissesbO—SCOD evislupmoc DSTP—5
+-LCP
+noitcuder tnacifingiS
+oN
+yteixna laicoS—6
+-SAIS
+;noisses
+elgniS
+TBC
+tsiltiaw
+seY
+TCR
+demra
+-2
+gnicneirepxe
+erew taht stnedutS
+68.12
+101
+llaCcM
+.91
+.yteixna laicos
+ni
+evitageN—ENF
+htnom
+-1
+.yteixna
+laicos fo eerged emos
+)05.5(
+)8102(
+.la
+te
+noitaulave
+pu
+-wollof
+adanaC
+ytilauQ—FS
+-Q -SEL
+-Q
+,tnemyojne
+,efil fo
+noitcafsitas
+dna
+rewol tnacifingiS
+oN
+noisserpeD—8
+-QHP
+thnom
+-1
+;keew
+1
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-2
+,noisserped
+fo smotpmys htiw stnedutS
+24.91
+86
+dna
+namlheuR
+.02
+.noisserped fo
+slevel
+evitingoC—tseuQ
+-DC
+pu
+wollof
+8 -QHP
+eht gnisu dessessa
+)48.1(
+)3202(
+yloraK
+snoitrotsid
+ASU
+eht ni slaudividnI
+oN
+ytivitisnes yteixnA—3
+-ISA
+,noisses
+elgniS
+TBC
+obecalp
+,seY
+TCR
+demra
+-2
+slevel detavele
+detroper ohw stnedutS
+86.91
+86
+nayrB'O
+.12
+noitidnoc evitca
+yteixna htlaeH—IAHS
+keew
+-2
+yb denimreted
+sa yteixna htlaeh
+fo
+)1202(
+.la
+te
+retaerg detibihxe
+pu
+-wollof
+evoba DS
+1 tsael ta erocs IAHS
+a
+ASU
+SA ni snoitcuder
+detroper taht
+dna ;naem tneduts
+eht
+eht ot derapmoc
+na yb denimreted
+sa SA detavele
+.noitidnoc lortnoc
+DS 1 tsael
+ta gnillaf erocs 3 -ISA
+naem
+lacinilcnon eht evoba
+fo etar tnacifingiS
+seY
+yteixna laicoS—6
+-SAIS
+;skeew
+7
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-2
+ro 6 fo
+erocs a htiw stnedutS
+68.12
+53
+atsituaB
+.22
+laicos ni enilced
+htnom
+-3
+aibohP laicoS
+iniM eht no rehgih
+)28.4(
+)2202(
+.la
+te
+serocs yteixna
+pu
+-wollof
+)NIPS
+-iniM( yrotnevnI
+ASU
+.emit revo tnacifingiS
+oN
+evisserpeD—II
+-IDB
+sraey
+3
+TCA
++
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-2
+evisserped
+htiw stnedutS
+57.12
+281
+oahZ
+.32
+ni snoitcuder
+smotpmys
+kceB eht
+ot gnidrocca ,smotpmys
+)33.1(
+)2202(
+.la
+te
+smotpmys evisserped
+evitisoP—FS
+-CHM
+a dna ,II
+-yrotnevnI noisserpeD
+anihC
+tnemevorpmi
+dna
+htlaeh
+latnem
+.weivretni
+derutcurts -imes
+evitisop
+ni
+.htlaeh latnem tnacifingiS
+oN
+yteixna etatS—6
+-S -IATS
+skeew
+7
+TAB
++
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-2
+eht no stniop
+41 > derocs taht stnedutS
+78.91
+262
+oznoP
+.42
+yteixna ni snoitcuder
+,yteixnA—12
+-SSAD
+12 -elacS ssertS
+dna yteixnA ,noisserpeD
+)97.1(
+)0202(
+.la
+te
+desaercni
+dna
+noisserped
+dna
+,sserts
+7 > ro elacsbus
+sserts )12 -SSAD( smeti
+KU
+.gnieb -llew deviecrep
+deviecreP—SBWMEW
+elacsbus yteixna
+12 -SSAD eht no stniop
+gnieb
+-llew
+)seunitnoC(
+
+10 of 20 Early Intervention in Psychiatry, 2025
+)deunitnoC(
+|
+2 ELBAT
+namuH
+htlaeh
+latneM
+lacigolohcysP
+naeM
+latoT
+dna
+ydutS
+sgnidnif
+niaM
+troppus
+serusaem
+noitaruD
+tnemtaert
+lortnoC
+ngised
+ydutS
+airetirc htlaeh latnem elpmaS
+)DS(
+ega
+N
+yrtnuoc
+tnacifingis
+oN
+seY
+noisserpeD—9
+-QHP
+,noisses
+elgniS
+ssenlufdniM
++
+TBC
+evitca
+,seY
+,demra
+-2
+dah ohw stneduts gnikees -pleH
+)76.3(
+22
+83
+,ailgorB
+.52
+secnereffid
+yteixnA—7
+-DAG
+keew
+-1
+lortnoc
+dezimodnarnon
+dna gnillesnuoc rof detpecca neeb
+dna
+,sgnilliM
+ni segnahc—01
+-EROC
+,pu -wollof
+ngised
+no airetirc lacinilc etaredom tem
+)9102(
+mahkraB
+lacigolohcysp
+lareneg
+htnom
+-1 dna
+emoctuo desidradnats owt fo eno
+KU
+.gninoitcnuf
+.pu -wollof
+.noisserped ro yteixna rof serusaem
+segnahc—26
+-SPACC
+htlaeh
+latnem
+ni
+tnacifingis
+oN
+oN
+,sserts—12
+-SSAD
+skeew
+2
+AP
++
+TBC
+evitca
+,seY
+TCR
+demra
+-2
+etaredom detroper ohw stnedutS
+44.02
+585
+ffokcaR
+.62
+sserts
+ni segnahc
+noisserped
+dna
+,yteixna
+lortnoc
+eht gnirud sserts rehgih ro
+)05.4(
+)2202(
+.la te
+.noisserped
+dna
+cimednap 91 -DIVOC
+ASU
+noitcuder
+tnacifingiS
+oN
+noisserped—9
+-QHP
+;skeew
+6
+TBD
++
+AP
++
+TBC
+tsiltiaw
+,seY
+TCR
+demra
+-2
+smotpmys evisserped gnivah stnedutS
+59.22
+325
+snhurB
+.72
+evisserped
+ni
+meetse
+-fles—ESR
+htmom
+-3
+.9 -QHP eht yb derusaem
+)53.3(
+)1202(
+.la te
+a dna
+smotpmys
+—FERB
+-LOWOHW
+pu -wollof
+ynamreG
+esaercni
+tnacifingis
+efil
+fo ytilauq
+.meetse
+-fles
+ni
+latnem
+ni snoitcudeR
+oN
+latneM—SESHM
+keew
+-6
+;skeew
+4
+TBD
++
+AP
++
+TBC
+evitca
+,seY
+TCR
+demra
+-2
+latnem tnerruc :airetirc noisulcnI
+7.81
+25
+otteloffuS
+.82
+smotpmys
+htlaeh
+ycaciffe
+-fles
+htlaeh
+pu -wollof
+lortnoc
+ni detnemucod sisongaid htlaeh
+)54.0(
+)1202(
+.la te
+dna
+emit revo
+lacigolohcysp—SPACC
+ro drocer lacidem cinortcele rieht
+ASU
+-neewteb
+tnacifingis
+smotpmys
+secivres htlaeh latnem deviecer
+.stceffe
+puorg
+, -tnerap , -fles rep shtnom 3 nihtiw hgih detaudarg ,troper -naicinilc
+ro
+ro egelloc dnetta ot nalp ,loohcs .skeew 6 nihtiw noitacude rehgih
+ssenlufdnim
+htoB
+seY
+yteixnA—7
+-DAG
+;thnom
+-1
+ssenlufdniM
+evitca
+,seY
+TCR
+demra
+-2
+detavele gnicneirepxe stnedutS
+A/N
+411
+)2202(
+.la
+te nuS
+.92
+,troppus
+laicos
+dna
+noisserpeD—9
+-QHP
+thnom
+-3
+lortnoc
+rieht taht hcus ,ssertsid lacigolohcysp
+anihC
+aiv
+dereviled
+lanoitisopsid—SAAM
+pu -wollof
+smotpmys yteixna ro noisserped
+wohs
+,htlaeHm
+ssenlufdnim
+eht no ffotuc dlim eht evoba ro
+ta
+gnicuder
+ni esimorp
+deviecrep—SSPSM
+9 -eriannoitseuQ htlaeH tneitaP
+dna
+ssertsid
+troppus
+laicos
+desilareneG meti -7 eht dna )9 -QHP(
+.yteixna
+gnisserdda
+)7 -DAG( elacS redrosiD yteixnA
+yranimilerp
+yreV
+oN
+lacigolohcysp—43
+-SPACC
+shtnom
+-3
+ssenlufdniM
+tsiltiaw
+,seY
+TCR
+demra
+-2
+eht rof tsiltiaw eht no stnedutS
+34.02
+32
+,skciH
+,niveL
+.03
+dnuof
+saw troppus
+smotpmys
+secivreS lacigolohcysP dna gnillesnuoC
+)64.2(
+)2202(
+tffarK
+dna
+ppa
+laitnetop
+rof
+evitisop—FS
+-CHM
+tnemtaert gnikees yltnerruc ,ertnec
+ASU
+ot evitaler
+ycaciffe
+htlaeh
+latnem
+emit tiaw detcepxe na htiw SPAC
+ta
+,noitidnoc
+lortnoc
+eht
+secivres rof skeew 2 tsael ta fo
+rof
+ylralucitrap
+,yteixna
+,noisserped
+.ssertsid
+llarevo
+dna
+segnahc
+tnacifingiS
+seY
+stneve
+citamuarT—5
+-CEL
+snoisses
+8
+ssenlufdniM
+tsiltiaw
+,seY
+TCR
+demra
+-2
+lacinilc eht tem ohw stnedutS
+13.32
+07
+etiakramuD
+.13
+serocs
+DSTPC
+ni
+fo smotpmyS—QTI
+)yad
+rep 1(
+,DSTPC ,DSTP rof airetirc ecnacifingis
+)11.3(
+)2202(
+.la te
+.spuorg
+neewteb
+DSTPC
+dna
+DSTP
+noitnevretnI
+noitasinagro -fles ni secnabrutsid
+ro
+ainauhtiL
+rof ssecca
+lanoitcnuf tuohtiw ro htiw smotpmys
+shtnom
+3
+eht htiw derusaem sa tnemriapmi eriannoitseuQ amuarT lanoitanretnI
+)seunitnoC(
+
+et al. 2021; McCall et al. 2018; Hides et al. 2019; Ruehlman
+and Karoly 2023; Bautista et al. 2022; Zhao et al. 2022; Ponzo et al. 2020; Bruhns et al. 2021; Levin, Hicks, and Krafft 2022;
+Akram and Arshad 2022; Dumarkaite et al. 2022), 8 (32%) used
+an active control (He et al. 2022; Six et al. 2022; Karyotaki
+et al. 2022; Short and Schmidt 2020; Rackoff et al. 2022;
+Suffoletto et al. 2021; Sun et al. 2022; Kingston et al. 2020),
+and 1 (4%) used a placebo control (O'Bryan et al. 2021).
+Table S3 (Supporting Information) provides an overview of
+the sample characteristics. It is important to highlight that
+only four studies (Karyotaki et al. 2022; Broglia, Millings, and Barkham 2019; Palacios et al. 2018; Kingston et al. 2020)
+provided details about the inclusion of international students
+in their sample, and only six studies (Salamanca- Sanabria
+et al. 2020; Bruhns et al. 2021; Harrer et al. 2018; Räsänen,
+Muotka, and Lappalainen 2023) provided details about the
+field of study of their sample. Therefore, it was difficult to
+draw conclusions on the impact of these factors on the effect
+of the interventions.
+3.3 | Types of Intervention
+Regarding the focus of the interventions, 53% (18/34) of the
+studies were based on CBT only (Palacios et al. 2018; Cook,
+Mostazir, and Watkins 2019; Hennemann et al. 2022; Dear
+et al. 2019; He et al. 2022; Attridge et al. 2020; Six et al. 2022;
+Salamanca-S anabria et al. 2020; Harrer et al. 2018; Karyotaki
+et al. 2022; Kim and Lee 2023; Papini et al. 2023; Newman
+et al. 2021; Short and Schmidt 2020; McCall et al. 2018;
+Ruehlman and Karoly 2023; O'Bryan et al. 2021; Bautista
+et al. 2022); 18% (6/34) were based on a multicomponent treat-
+ment (Zhao et al. 2022; Ponzo et al. 2020; Broglia, Millings,
+and Barkham 2019; Rackoff et al. 2022; Bruhns et al. 2021;
+Suffoletto et al. 2021); 12% (4/34) were based on mindfulness
+(Sun et al. 2022; Levin, Hicks, and Krafft 2022; Dumarkaite
+et al. 2022; Kingston et al. 2020); 9% (3/34) were based on ACT
+(Akram and Arshad 2022; Hides et al. 2019); 6% (2/34) were
+based on other types of treatment (Akram and Arshad 2022; Hides et al. 2019); and one study (3%) was based on behavioural
+activation (BAT) (Sit et al. 2022). Digital interventions were
+designed to address a range of mental health symptoms, in- cluding depression, anxiety, and stress. The included studies
+used either the Beck Depression Inventory (Beck, Ward, and
+Mendelson 1961; Beck, Steer, and Brown 1996), the Centre
+for Epidemiological Studies Depression Scale (Radloff 1977),
+the Patient Health Questionnaire (Kroenke et al. 1998, 2009;
+Kroenke, Spitzer, and Williams 2001) or the Depression,
+Anxiety and Stress Scale (Lovibond and Lovibond 1995) as
+outcomes measures of depressive symptoms. Moreover, the
+Generalised Anxiety Disorder scale (Spitzer et al. 2006), the
+Beck Anxiety Inventory (Beck et al. 1988), and the Depression,
+Anxiety and Stress Scale (Lovibond and Lovibond 1995) were
+used as outcomes measures of anxiety symptoms.
+3.4 | Type of Support
+Half (17/34) of the studies were based on guided DMHIs that
+included some level of human support (Räsänen, Muotka, and
+11 of 20
+)deunitnoC(
+| 2 ELBAT
+namuH
+htlaeh
+latneM
+lacigolohcysP
+naeM
+latoT
+dna
+ydutS
+sgnidnif
+niaM
+troppus
+serusaem
+noitaruD
+tnemtaert
+lortnoC
+ngised
+ydutS
+airetirc
+htlaeh
+latnem
+elpmaS
+)DS(
+ega
+N
+yrtnuoc
+tnacifingiS
+oN
+noisserpeD—12
+-D
+-SSAD
+skeew
+4
+ssenlufdniM
+evitca
+,seY
+TCR
+demra
+-2
+fo slevel
+detavele
+htiw
+stnedutS
+4.32
+602
+notsgniK
+.23
+ni snoitcuder
+lortnoc
+)01 ≥ ;D
+-SSAD(
+smotpmys
+evisserped
+)35.6(
+)0202(
+.la
+te
+.noisserped
+KU
+lacitsitats
+ehT
+oN
+aimyhtixelA—02
+-SAT
+1(
+snoisses
+4
+aimyhtixelA(
+rehtO
+tsiltiaw
+,seY
+-isauq
+tolip
+A
+stnapicitrap
+eseht
+fo
+noisulcni
+ehT
+)5.1(
+02
+02
+dna markA
+.33
+a dewohs
+sisylana
+fo ecneserp—QSHM
+)keew
+rep
+noitcuder
+latnemirepxe
+ro rehtehw
+no
+desab
+denimreted
+saw
+)2202( dahsrA
+noitcuder
+tnacifingis
+sredrosid
+lacigolohcysp
+)TRA
+,tnemtaert
+yduts
+serocs(
+etaredom
+deniatbo
+yeht
+ton
+natsikaP
+'stnapicitrap
+eht
+ni
+seitilibasid
+lacisyhp
+ro
+serocs(
+hgih
+ro )06
+dna
+25
+neewteb
+sa ,aimyhtixela
+fo smotpmys—R
+-LCS
+otnoroT
+eht
+no serocs
+)evoba
+ro
+16
+noisserped
+sa llew
+lacigolohcysp
+nommoc
+)02
+-SAT(
+elacS
+aimyhtixelA
+.yteixna
+dna
+sredrosid
+tnacifingis
+fo kcaL
+oN
+noitomE—FS
+-SRED
+;skeew
+4
+cimanyD(
+rehtO
+tsiltiaw
+,seY
+TCR
+demra
+-2
+ssertsid
+dlim
+detroper
+ohw
+stnedutS
+)5.2(
+2.91
+961
+sediH
+.43
+secnereffid
+noitalugersyd
+htnom
+-2
+-noitavitom
+-ofni
+01 relsseK
+eht
+no
+htnom
+tsap
+eht
+ni
+)9102(
+.la
+te
+.spuorg
+neewteb
+lacigolohcysp—01K
+pu
+-wollof
+laruoivaheb
+)71 > 01K(
+elacs
+ssertsiD
+lacigolohcysP
+ailartsuA
+ssertsid
+htlaeh
+slliks
+latnem—FS
+-CHM
+)ledom
+ruoivaheb
+gnieb
+-llew
+.ygolohcysp
+evitisop
+,AP
+;ypareht
+ruoivaheb
+lacitcelaid
+,TBD
+;ypareht
+laruoivaheb
+-evitingoc
+,TBC
+;noitavitca
+laruoivaheb
+,TAB
+;ypareht
+tnemtimmoc
+dna
+ecnatpecca
+,TCA
+:snoitaiverbbA
+
+Lappalainen 2023; Sit et al. 2022; Palacios et al. 2018; Cook, ACT, multicomponent). Additionally, there were differences in
+Mostazir, and Watkins 2019; Hennemann et al. 2022; Dear the measurements of outcomes (i.e., PHQ- 9, DASS- D, CCAPS,
+et al. 2019; He et al. 2022; Attridge et al. 2020; Salamanca- BDI- II) (Cordero and Dans 2021).
+Sanabria et al. 2020; Harrer et al. 2018; Karyotaki et al. 2022;
+Kim and Lee 2023; Newman et al. 2021; Bautista et al. 2022;
+Broglia, Millings, and Barkham 2019; Sun et al. 2022; 3.5.2 | Anxiety
+Dumarkaite et al. 2022) and the other half (17/34) were based
+on fully automated DMHIs (Haeger, Davis, and Levin 2022; The aggregate effect of treatment on anxiety, as displayed on
+Thomas et al. 2023; Six et al. 2022; Papini et al. 2023; Short and Figure 3, d = 0.46, suggested a medium effect size across the
+Schmidt 2020; McCall et al. 2018; Ruehlman and Karoly 2023; studies included (k = 15; n = 1848; Cohen's d = 0.46, 95% CI
+O'Bryan et al. 2021; Zhao et al. 2022; Ponzo et al. 2020; Rackoff 0.31–0.61; p < 0.001). There was also evidence of significant het-
+et al. 2022; Bruhns et al. 2021; Suffoletto et al. 2021; Levin, Hicks, erogeneity (Q = 28.16; p = 0.001; I2 = 5.28; T2 = 0.04; t = 0.20),
+14
+and Krafft 2022; Kingston et al. 2020; Akram and Arshad 2022; which can be explained due to differences in the type of inter-
+Hides et al. 2019). ventions, delivery type, psychological treatment, and measure-
+ments of outcomes (i.e., GAD- 7, BAI, DASS- 21).
+Table S4 (Supporting Information) provides an overview of the
+support provided in the nine guided interventions included in
+the meta- analysis. Six studies (67%) reported that the support 3.6 | Subgroup Analyses
+was provided by a postgraduate level student in Psychology
+(Räsänen, Muotka, and Lappalainen 2023; Salamanca-S anabria Subgroup analyses were conducted for both anxiety and de-
+et al. 2020; Harrer et al. 2018; Karyotaki et al. 2022; Sun pression to examine whether the treatment effect differed
+et al. 2022; Dumarkaite et al. 2022), 1 (11%) by a trained rational across psychological treatment (see Table 3) and interven-
+emotive behaviour therapy counsellor (Kim and Lee 2023), one tion type (see Table 4). For depression, the largest effect
+(11%) by trained clinicians in Psychology (Newman et al. 2021), size was observed for CBT (k = 6; Cohen's d = 0.69, 95% CI
+and one (11%) by a peer- support worker (Bautista et al. 2022). 0.37–1.02, p < 0.001), followed by mindfulness (k = 4; Cohen's
+Moreover, the support provided was generally asynchronous d = 0.55, 95% CI 0.34–0.75, p < 0.001), and multicomponent
+and provided online. Finally, it is important to highlight that interventions (k = 5; Cohen's d = 0.46, 95% CI 0.01–0.83,
+the studies included in this review that were based on guided p = 0.013). Guided interventions (k = 8; Cohen's d = 0.56, 95%
+interventions reported mixed results in terms of whether human CI 0.32–0.80, p < 0.001) appeared to be slightly more effective
+guidance increased adherence to the digital interventions (see than fully automated interventions (k = 8; Cohen's d = 0.53,
+Table S4). 95% CI 0.26–0.80, p < 0.001).
+In regard to the studies that focused on anxiety, subgroups anal-
+3.5 | Meta- Analysis of Effectiveness yses revealed that CBT was also the most effective (k = 9; Cohens'
+d = 0.53, 95% CI 0.23–0.76, p < 0.01), followed by mindfulness
+Of the 34 studies included in our review, 21 (62%) reported (k = 4; Cohens' d = 0.50, 95% CI 0.02–0.98, p = 0.04), and multicom-
+data that could be included in the meta- analysis. Of these, six ponent interventions (k = 3; Cohens' d = 0.43, 95% CI 0.03–0.57,
+studies (28%) reported depression outcomes only (Räsänen, p < 0.001). For anxiety, contrary to our hypotheses, larger effect
+Muotka, and Lappalainen 2023; Kim and Lee 2023; Bruhns sizes were observed for fully automated interventions (k = 8;
+et al. 2021; Kingston et al. 2020; Ruehlman and Karoly 2023; Cohen's d = 0.55, 95% CI 0.35–0.61, p = 0.002) compared to guided
+Zhao et al. 2022), nine studies (43%) reported both anxiety and interventions (k = 7; Cohen's d = 0.35, 95% CI 0.13–0.58, p < 0.001).
+depression outcomes (Suffoletto et al. 2021; Ponzo et al. 2020;
+Rackoff et al. 2022; Levin, Hicks, and Krafft 2022; Newman
+et al. 2021; Dumarkaite et al. 2022; Karyotaki et al. 2022; Harrer 3.7 | Risk of Bias
+et al. 2018), and six studies (29%) reported anxiety outcomes
+only (Bautista et al. 2022; Papini et al. 2023; McCall et al. 2018; In relation to the study design, 76% (26/34) of studies were RCTs
+O'Bryan et al. 2021; Short and Schmidt 2020; Sun et al. 2022). No and were rated according to the RoB- 1 (Higgins et al. 2011),
+evidence of publication bias was observed throughout the stud- and 24% (8/34) were non- randomised controlled trials and
+ies (see Supporting Information). were rated according to the ROBINS- I (Sterne et al. 2016). As
+shown in Figure 4, overall, 46% (12/26) of studies were rated on
+the RoB- 1 with “some concerns” (22, 6, 31, 34, 30, 17, 21, 16, 26,
+3.5.1 | Depression 20, 19, 23) in relation to risk of bias; 31% (8/26) were rated with
+“low risk” (24, 27, 13, 9, 14, 15, 3, 28); and 23% (6/26) were rated
+The aggregate effect of treatment on depression, as displayed with “high risk” (32, 19, 12, 11, 29, 2). Performance bias was
+on Figure 2, d = 0.55, suggested a medium effect size across the most prevalent domain of concern, followed by attrition
+the studies included (k = 16; n = 2316; Cohen's d = 0.55, 95% CI bias resulting from unblinding of participants and self- report
+0.37–0.72; p < 0.001). There was evidence of significant hetero- measures. A total of 24% (3/34) of non- RCTs were rated using
+geneity (Q = 54.71; p < 0.001; I2 = 72.58; T2 = 0.08; t = 0.23), the Risk of Bias in Non- Randomised Studies of Interventions
+15
+which may be explained due to differences in the digital inter- (ROBINS- I) tool; 71% (5/7) of the studies were rated with “mod-
+ventions that were used; including length, intervention type (i.e., erate risk” (33, 10, 25, 1, 7), and 29% (2/7) were rated with “low
+blended or self- help), and psychological treatment (i.e., CBT, risk” (8, 5).
+12 of 20 Early Intervention in Psychiatry, 2025
+
+Group by Study name Statistics for each study Std diff in means and 95% CI
+Intervention type
+Std diff Lower Upper Relative
+in means limit limit p-Value weight
+Fully-automated Bruhns 2021 0.182 -0.060 0.424 0.141 15.47
+Fully-automated Ponzo 2020 0.230 -0.136 0.595 0.218 13.31
+Fully-automated Rackoff 2023 0.382 0.219 0.546 0.000 16.62
+Fully-automated Zhao 2022 1.276 0.943 1.609 0.000 13.90
+Fully-automated Kingston 2020 0.684 0.403 0.965 0.000 14.82
+Fully-automated Suffoletto 2021 0.216 -0.374 0.805 0.474 9.52
+Fully-automated Ruehlman 2023 0.785 0.220 1.351 0.007 9.88
+Fully-automated Levin 2022 0.490 -0.346 1.327 0.251 6.48
+Fully-automated Pooled 0.531 0.264 0.798 0.000
+Guided Salamanca-Sanabria 2020 0.907 0.383 1.432 0.001 10.54
+Guided Harrer 2018 0.628 0.300 0.956 0.000 15.04
+Guided Karyotaki 2021 0.004 -0.447 0.455 0.988 12.09
+Guided Kim 2023 1.734 0.945 2.524 0.000 6.50
+Guided Sun 2022 0.265 -0.121 0.651 0.178 13.60
+Guided Newman 2021 0.602 0.332 0.871 0.000 16.51
+Guided Rasanen, 2023 0.377 0.021 0.734 0.038 14.32
+Guided Dumarkaite 2021 0.627 0.144 1.110 0.011 11.39
+Guided Pooled 0.564 0.321 0.807 0.000
+Overall Pooled 0.549 0.369 0.729 0.000
+-1.00 -0.50 0.00 0.50 1.00
+Favours Control Favours Intervention
+FIGURE 2 | Forest plot of summary statistics (SMD—Cohen's d) for digital interventions targeting depression among university students.
+Group by Study name Statistics for each study Std diff in means and 95% CI
+Intervention type
+Std diff Lower Upper Relative
+in means limit limit p-Value weight
+Fully-automated Ponzo 2023 0.464 0.095 0.833 0.014 14.92
+Fully-automated Papini 2022 0.569 0.252 0.886 0.000 17.07
+Fully-automated Rackoff 2023 0.437 0.273 0.601 0.000 24.30
+Fully-automated O'Bryan 2021 1.289 0.766 1.812 0.000 10.06
+Fully-automated Suffoletto 2021 0.189 -0.400 0.779 0.529 8.55
+Fully-automated McCall 2018 0.846 0.329 1.363 0.001 10.21
+Fully-automated Short 2020 0.170 -0.356 0.696 0.526 9.98
+Fully-automated Levin 2022 0.628 -0.216 1.472 0.145 4.92
+Fully-automated Pooled 0.553 0.347 0.758 0.000
+Guided Salamanca-Sanabria 2020 0.573 0.061 1.086 0.028 11.52
+Guided Harrer 2018 0.761 0.430 1.093 0.000 17.93
+Guided Karyotaki 2021 0.040 -0.411 0.491 0.863 13.36
+Guided Sun 2022 0.012 -0.372 0.396 0.951 15.75
+Guided Bautista 2022 0.253 -0.419 0.925 0.460 7.98
+Guided Newman 2021 0.297 0.032 0.562 0.028 20.97
+Guided Dumarkaite 2021 0.502 0.023 0.981 0.040 12.49
+Guided Pooled 0.355 0.133 0.577 0.002
+Overall Pooled 0.461 0.310 0.612 0.000
+-1.00 -0.50 0.00 0.50 1.00
+Favours Control Favours Intervention
+FIGURE 3 | Forest plot of summary statistics (SMD—Cohen's d) for digital interventions targeting anxiety among university students.
+4 | Discussion health interventions for university students with mental health
+difficulties. While previous reviews had focused on non- clinical
+4.1 | Summary of Findings student populations (i.e., Harrer et al. 2018; Lattie et al. 2019;
+D'Adamo et al. 2023) this study focused specifically on mental
+This systematic review and meta- analysis aimed to synthesise health symptoms as measured by standardised psychological
+the published literature on the effectiveness of digital mental measures such as the GAD- 7 and the PHQ- 9. We hypothesised
+13 of 20
+
+TABLE 3 | Subgroup analysis of digital mental health interventions TABLE 4 | Subgroup analysis of digital mental health interventions
+based on type of psychological treatment compared to controls. based on type of intervention compared to controls.
+Number Number
+of studies Cohen's d of Studies Cohen's d
+(n = 20) (95% CI) p (n = 21) (95% CI) p
+Depression (n = 15) Depression (n = 16)
+CBT 6 0.69 < 0.001 Guided 8 0.56 < 0.001
+(0.33–1.72) interventions (0.32–0.80)
+Mindfulness 4 0.55 < 0.001 Fully 8 0.53 < 0.001
+(0.07–1.02) automated (0.26–0.80)
+Multicomponent 5 0.46 0.01 Anxiety (n = 15)
+(0.01–0.83)
+Guided 7 0.35 0.002
+Anxiety (n = 15) interventions (0.13–0.58)
+CBT 9 0.53 < 0.001 Fully 8 0.55 < 0.001
+(0.23–0.77) automated (0.35–0.61)
+Mindfulness 3 0.23 0.13 Note: Two separate meta- analysis were conducted; one for depressive outcomes
+(n = 16), and one for anxiety outcomes (n = 15); of which n = 11 studies reported
+(0.09–0.67)
+both anxiety and depressive outcomes, n = 6 reported depressive outcomes only,
+and n = 5 reported anxiety outcomes only. Subgroup analyses were conducted
+Multicomponent 3 0.43 < 0.001
+with n = 21 studies for intervention type.
+(0.28–0.57)
+Note: Two separate meta- analysis were conducted; one for depressive outcomes
+(n = 16), and one for anxiety outcomes (n = 15); of which n = 11 studies reported
+both anxiety and depressive outcomes, n = 6 reported depressive outcomes only, Finally, results from our sub- group analyses further suggested
+and n = 5 reported anxiety outcomes only. Subgroup analyses were conducted that the effectiveness of these interventions varied in terms of
+with n = 20 studies for type of psychological treatment. One study based on ACT
+the presence or absence of human guidance, and in terms of the
+(Räsänen, Muotka, and Lappalainen 2023) was excluded as it disrupted the even
+distribution of studies in each category. type of psychological treatment behind the intervention (CBT,
+mindfulness, etc.).
+that DMHIs would be effective for university students with on-
+going mental health difficulties, and that interventions incorpo- 4.2 | The Role of Human Guidance
+rating human interventions would be more effective than fully
+automated interventions. In terms of depressive symptom severity, the presence of human
+guidance was observed to significantly influence the size of the
+Overall, in terms of efficacy and size of effect, our results sug- effect observed, which aligns with the results of previous meta-
+gested significant, medium- sized benefits of DMHIs when analytic reviews on digital interventions in the treatment of
+measured in terms of either depressive symptom severity or depression (Richards and Richardson 2012; Moshe et al. 2021).
+anxious symptom severity in participating students. These These reviews focused mostly on adult populations, however,
+beneficial effects are consistent with past systematic reviews our study focused on the potential of human guidance in digital
+and meta- analyses. For example, Lattie et al. (2019) conducted interventions to improve depression symptom severity for uni-
+a systematic review that aimed to synthesise the literature on versity students with mental health difficulties.
+the effectiveness, usability, acceptability, uptake and adop-
+tion of DMHIs for anxiety and depression, and enhancing Contrary to our hypothesis, when considering symptom se-
+well- being among university students. These authors reported verity in anxiety, we observed a somewhat higher overall ef-
+that these interventions were effective in producing beneficial fect size for fully automated interventions (d = 0.55) compared
+changes in the psychological outcome variables measured. In to guided interventions (d = 0.35). A recent meta- analysis by
+terms of meta- analyses, Ferrari et al. (2022) found small- to- Pauley et al. (2023) reported no differences between guided and
+moderate effects in favour to DMHIs on improving psycho- unguided interventions in the treatment of anxiety disorders for
+logical wellbeing in university students. However, our review adult samples. These differing findings may reflect differences
+extends these previous findings by focusing on changes in se- in the study population, and the amount and type of guidance
+verity of symptoms of depression and anxiety among college provided.
+students, as well as providing evidence of the effectiveness of
+human support on these interventions. More recent reviews Regarding why 1:1 human guidance appeared to be more import-
+such as D'Adamo et al. (2023) have focused on examining ant to outcome when measured in terms of depressive symptom
+reach and uptake of DMHIs based on CBT for college students. severity rather than anxiety symptom severity, in the absence
+Our study expands this literature by focusing on the effective- of an a priori hypothesis we can only speculate about why this
+ness of these interventions for college students with mental was observed. For example, motivation could be one factor that
+health difficulties, as well as not limiting the inclusion of the explains why our results suggest a benefit for human guidance
+studies to those that included interventions based on CBT. in symptoms of depression severity compared to anxiety severity
+14 of 20 Early Intervention in Psychiatry, 2025
+
+FIGURE 4 | Risk of bias assessment using the Cochrane risk of bias tool (version 1) for RCTs.
+for university students with mental health difficulties. It has will be important to test in future studies, particularly given the
+been suggested that motivation acts as a moderator of the effect well- established overlap in anxious and depressive symptom
+of accountability; more specifically, the more intrinsically moti- presentation in many individuals.
+vated clients are, the less support they require (Mohr, Cuijpers,
+and Lehman 2011). In this context, the self- determination the- It is important to note that the majority of guided interventions
+ory (Ryan and Deci 2000) differentiates between intrinsic mo- included in this study were provided by graduate psychology
+tivation, referring to doing something because it is inherently students instead of trained clinicians. Although previous re-
+interesting, and extrinsic motivation, which refers to doing views (Leung et al. 2022; Werntz et al. 2023) have reported no
+something because it leads to an external outcome. Clinically, significant differences for clinician versus non- clinician guid-
+individuals experiencing anxiety related difficulties may have ance on DMHIs, there are important limitations that need to be
+higher intrinsic motivation (Winch, Moberly, and Dickson 2015) considered. Firstly, the authors of previous reviews have high-
+than individuals experiencing higher levels of depressive symp- lighted the lack of detail available regarding the level of training
+toms given that lower motivation and a need for extrinsic mo- or background of the individuals' providing support, limiting
+tivation (e.g., the support of others) is a clinical feature often their ability to draw conclusions about the actual role of train-
+associated with this group (Ling et al. 2016). Human support as ing of support providers on the efficacy of human support for
+part of a DMHI may provide a therapeutic alliance that increases DMHIs. Moreover, these reviews were not limited to college stu-
+extrinsic motivation, explaining why this group might benefit dent samples; it is likely that the benefits of human guidance
+more from the human guidance component. This hypothesis may well vary in terms of sample characteristics and outcome.
+15 of 20
+
+We speculate that for the studies included in this review, which Overall, the existing studies included in this review focused
+focused specifically on university students with mental health only on mental health symptom severity. It is not clear how
+difficulties, engaging non- clinicians in digital interventions long participants had been struggling with these mental health
+may have represented a risk for the quality of support pro- difficulties and whether students had entered university with
+vided and the effectiveness of digital interventions. Again, fu- these symptoms or developed them during college. This lack
+ture studies will benefit from an examination of the influence of evidence concerning the longevity of mental health symp-
+of clinically versus non- clinically trained guidance in digital toms among college students is a notable gap in current data-
+mental health interventions for university students with mental sets. Similarly, symptom severity is not the same as a clinically
+health difficulties. It is also important to note that our results confirmed diagnosis, which typically was not reported in these
+might not guarantee maintenance of treatment gains. Therefore, studies, preventing us from drawing specific conclusions about
+future research should address this issue in order to guarantee illness subtypes.
+the value of these DMHIs as an alternative to traditional face
+to face interventions (perhaps for students presenting with mild
+symptom severity), or for students who are either waiting to start 4.5 | Conclusions
+1:1 intervention or who have completed a brief 1:1 psychological
+intervention and are seeking to sustain their recovery. Digital mental health interventions have the potential to im-
+prove the mental health of university students that present
+with mental health difficulties. To date, the majority of re-
+4.3 | Type of Psychological Interventions search on DMHIs has focused on non- clinical populations
+rather than on clinical interventions that can be integrated
+Unsurprisingly, CBT- based interventions were the most widely with the counselling services in third- level institutions. This
+reported (similar to the literature on traditional 1:1 psycho- review demonstrates that DMHIs are an effective approach to
+logical interventions). CBT- based interventions also appeared improve the mental health of university students with mental
+to be the most effective for reducing severity of symptoms of health difficulties. The findings suggests that while human
+depression and anxiety when compared to other psychological guidance may be beneficial when targeting depressive symp-
+therapies such as mindfulness. This evidence is in line with an tom severity, fully automated interventions may be sufficient
+umbrella review that synthesised evidence on digital health in- to achieve a reduction in symptom severity. These results are
+terventions targeting university students, which indicated that encouraging, as designing interventions that require minimal
+computer- based CBT was one of the factors associated with clinical guidance or support can increase the accessibility
+effectiveness (Harith et al. 2022). CBT is a widely used inter- and cost efficiency of digital interventions for students expe-
+vention modality that aims to identify maladaptive patterns of riencing anxiety. Moreover, this review further supports the
+thinking, emotional responses, or behaviour and replace these integration of guidance in digital interventions aimed at im-
+with more adaptive responses (Lehtimaki et al. 2021). Several proving depression.
+reviews have identified that most digital interventions focus
+on evaluating CBT (Lattie et al. 2019; Lattie, Stiles- Shields,
+and Graham 2022; Lehtimaki et al. 2021), while other inter-
+ventions such as mindfulness, acceptance and commitment Acknowledgements
+therapy (ACT), or interpersonal therapy remain somewhat The authors would like to acknowledge the funders which supported
+under- evaluated. In line with these reviews, further studies of this work through the Atlantic Futures project. Atlantic Futures is a
+other digital psychological interventions are needed to confirm €4 million 4- year cross- border research project funded by The North–
+South Research Programme (422560). The North–South Research
+whether CBT- based interventions are in fact more effective
+Programme is a collaborative scheme funded through the Government's
+than these other modalities.
+Shared Island Fund. It is administered by the Higher Education
+Authority (HEA) on behalf of the Department of Further and Higher
+Education, Research, Innovation and Science. The authors would also
+4.4 | Limitations like to acknowledge Prof Siobhan O'Neill and Jamie McNulty as part of
+this research project.
+Our work has some limitations. First of all, we note the hetero-
+geneity in digital interventions including length, intervention Conflicts of Interest
+type, psychological treatment, and differences in the measure-
+The authors declare no conflicts of interest.
+ments of outcomes. Our search strategy was not limited to RCTs
+and the inclusion of multiple trial designs is likely to have led
+Data Availability Statement
+to higher heterogeneity of the data included. However, we per-
+formed sub- groups analyses to examine the sources of heteroge- The data that support the findings of this study are available from the
+neity. Secondly, the majority of studies included in this review corresponding author upon reasonable request.
+were based on CBT (53%), which may have impacted the favour-
+able effects of this treatment in comparison with other psycho-
+References
+logical treatments, as these appeared to be under- represented.
+Akram, A., and T. Arshad. 2022. “Alexithymia Reduction Treatment:
+Thus, the results of this review should be interpreted with cau-
+A Pilot Quasi- Experimental Study for Remediation of Alexithymia and
+tion. Finally, for the meta- analysis, we could not extract data
+Its Consequent Effects on the General Mental Health of University
+from 13 studies, due to a lack of available outcome data, which Students.” Counselling and Psychotherapy Research 22, no. 4: 902–912.
+made the pool of data of included studies smaller. https:// doi. org/ 10. 1002/ capr. 12571 .
+16 of 20 Early Intervention in Psychiatry, 2025
+
+Andersson, G., and N. Titov. 2014. “Advantages and Limitations of Conley, C. S., J. A. Durlak, J. B. Shapiro, A. A. Kirsch, and E. Zahniser.
+Internet- Based Interventions for Common Mental Disorders.” World 2016. “A Meta- Analysis of the Impact of Universal and Indicated
+Psychiatry 13, no. 1: 4–11. https:// doi. org/ 10. 1002/ wps. 20083 . Preventative Technology- Delivered Interventions for Higher Education
+Students.” Prevention Science: the Official Journal of the Society for
+Ardito, R. B., and D. Rabellino. 2011. “Therapeutic Alliance and
+Prevention Research 17, no. 6: 659–678. https:// doi. org/ 10. 1007/ s1112
+Outcome of Psychotherapy: Historical Excursus, Measurements, and
+1- 016- 0662- 3.
+Prospects for Research.” Frontiers in Psychology 2: 270. https:// doi. org/
+10. 3389/ fpsyg. 2011. 00270 . Cook, L., M. Mostazir, and E. Watkins. 2019. “Reducing Stress and
+Preventing Depression (RESPOND): Randomized Controlled Trial of
+Attridge, M. D., R. C. Morfitt, D. J. Roseborough, and E. R. Jones.
+Web- Based Rumination- Focused Cognitive Behavioral Therapy for
+2020. “Internet- Based Cognitive- Behavioral Therapy for College
+High- Ruminating University Students.” Journal of Medical Internet
+Students With Anxiety, Depression, Social Anxiety, or Insomnia: Four
+Research 21, no. 5: e11349. https:// doi. org/ 10. 2196/ 11349 .
+Single- Group Longitudinal Studies of Archival Commercial Data and
+Replication of Employee User Study.” JMIR Formative Research 4, no. 7: Cordero, C. P., and A. L. Dans. 2021. “Key Concepts in Clinical
+e17712. https:// doi. org/ 10. 2196/ 17712 . Epidemiology: Detecting and Dealing With Heterogeneity in Meta-
+Analyses.” Journal of Clinical Epidemiology 130: 149–151. https:// doi.
+Auerbach, R. P., P. Mortier, R. Bruffaerts, et al. 2018. “WHO World
+org/ 10. 1016/j. jclin epi. 2020. 09. 045.
+Mental Health Surveys International College Student Project:
+Prevalence and Distribution of Mental Disorders.” Journal of Abnormal Cuijpers, P., T. Donker, A. van Straten, J. Li, and G. Andersson. 2010.
+Psychology 127, no. 7: 623–638. https:// doi. org/ 10. 1037/ abn00 00362 . “Is Guided Self- Help as Effective as Face- To- Face Psychotherapy for
+Depression and Anxiety Disorders? A Systematic Review and Meta-
+Balcombe, L., and D. De Leo. 2022. “Evaluation of the Use of Digital
+Analysis of Comparative Outcome Studies.” Psychological Medicine 40,
+Mental Health Platforms and Interventions: Scoping Review.”
+no. 12: 1943–1957. https://d oi.o rg/1 0.1 017/S 00332 91710 000772.
+International Journal of Environmental Research and Public Health 20,
+no. 1: 362. https:// doi. org/ 10. 3390/ ijerp h2001 0362. D'Adamo, L., L. Paraboschi, A. C. Grammer, et al. 2023. “Reach and
+Uptake of Digital Mental Health Interventions Based on Cognitive-
+Bautista, C. L., A. L. Ralston, R. L. Brock, and D. A. Hope. 2022. Behavioral Therapy for College Students: A Systematic Review.” Journal
+“Peer Coach Support in Internet- Based Cognitive Behavioral Therapy of Behavioral and Cognitive Therapy 33, no. 2: 97–117. https:// doi. org/ 10.
+for College Students With Social Anxiety Disorder: Efficacy and 1016/j.j bct.2 023.0 5.0 02.
+Acceptability.” Cogent Psychology 9, no. 1: 2040160. https:// doi. org/ 10.
+1080/ 23311 908. 2022. 2040160. Dear, B. F., B. Johnson, A. Singh, et al. 2019. “Examining an Internet-
+Delivered Intervention for Anxiety and Depression When Delivered as a
+Beck, A. T., C. Ward, and M. Mendelson. 1961. “Beck Depression Part of Routine Care for University Students: A Phase IV Trial.” Journal
+Inventory (BDI).” Archives of General Psychiatry 4: 561–571. of Affective Disorders 256: 567–577. https:// doi. org/ 10. 1016/j. jad. 2019.
+Beck, A. T., N. Epstein, G. Brown, and R. A. Steer. 1988. “An Inventory 06.0 44.
+for Measuring Clinical Anxiety: Psychometric Properties.” Journal of Duffy, A., C. Keown- Stoneman, S. Goodday, et al. 2020. “Predictors
+Consulting and Clinical Psychology 56: 893–897. of Mental Health and Academic Outcomes in First- Year University
+Students: Identifying Prevention and Early- Intervention Targets.”
+Beck, A., R. Steer, and G. Brown. 1996. BDI- II, Beck Depression Inventory:
+BJPsych Open 6, no. 3: e46. https:// doi. org/ 10. 1192/ bjo. 2020. 24.
+Manual. Psychological Corporation.
+Duffy, A., K. E. Saunders, G. S. Malhi, et al. 2019. “Mental Health Care
+Bell, I. H., J. Nicholas, A. Broomhall, et al. 2023. “The Impact of COVID- 19
+for University Students: A Way Forward?” Lancet Psychiatry 6, no. 11:
+on Youth Mental Health: A Mixed Methods Survey.” Psychiatry Research
+885–887. https:// doi. org/ 10. 1016/ S2215 - 0366(19) 30275 - 5.
+321: 115082. https:// doi. org/ 10. 1016/j. psych res. 2023. 115082.
+Dumarkaite, A., I. Truskauskaite- Kuneviciene, G. Andersson,
+Borenstein, M., L. Hedges, J. Higgins, and H. Rothstein. 2013.
+and E. Kazlauskas. 2022. “The Effects of Online Mindfulness-
+Comprehensive Meta- Analysis Version 3. Biostat.
+Based Intervention on Posttraumatic Stress Disorder and Complex
+Borenstein, M., L. V. Hedges, J. P. T. Higgins, and H. R. Rothstein. 2009. Posttraumatic Stress Disorder Symptoms: A Randomized Controlled
+Introduction to Meta-A nalysis. John Wiley & Sons. Trial With 3- Month Follow- Up.” Frontiers in Psychiatry 13: 799259.
+https://d oi.o rg/1 0.3 389/f psyt.2 022.7 99259.
+Borghouts, J., E. Eikey, G. Mark, et al. 2021. “Barriers to and Facilitators
+of User Engagement With Digital Mental Health Interventions: Duval, S., and R. Tweedie. 2000. “Trim and Fill: A Simple Funnel- Plot-
+Systematic Review.” Journal of Medical Internet Research 23, no. 3: Based Method of Testing and Adjusting for Publication Bias in Meta-
+e24387. https:// doi. org/ 10. 2196/ 24387 . Analysis.” Biometrics 56, no. 2: 455–463. https:// doi. org/ 10. 1111/j.
+0006-3 41x.2 000.0 0455.x .
+Broglia, E., A. Millings, and M. Barkham. 2019. “Counseling With
+Guided Use of a Mobile Well- Being App for Students Experiencing Ebert, D. D., C. Buntrock, D. Lehr, et al. 2018. “Effectiveness of
+Anxiety or Depression: Clinical Outcomes of a Feasibility Trial Web- and Mobile- Based Treatment of Subthreshold Depression With
+Embedded in a Student Counseling Service.” JMIR mHealth and Adherence- Focused Guidance: A Single- Blind Randomized Controlled
+uHealth 7, no. 8: e14318. https:// doi. org/ 10. 2196/ 14318 . Trial.” Behavior Therapy 49, no. 1: 71–83. https:// doi. org/ 10. 1016/j. beth.
+2017.0 5.0 04.
+Bruhns, A., T. Lüdtke, S. Moritz, and L. Bücker. 2021. “A Mobile- Based
+Intervention to Increase Self- Esteem in Students With Depressive Erbe, D., H. C. Eichert, H. Riper, and D. D. Ebert. 2017. “Blending Face-
+Symptoms: Randomized Controlled Trial.” JMIR mHealth and uHealth To- Face and Internet- Based Interventions for the Treatment of Mental
+9, no. 7: e26498. https:// doi. org/ 10. 2196/ 26498 . Disorders in Adults: Systematic Review.” Journal of Medical Internet
+Research 19, no. 9: e306. https:// doi. org/ 10. 2196/ jmir. 6588.
+Campbell, F., L. Blank, A. Cantrell, et al. 2022. “Factors That Influence
+Mental Health of University and College Students in the UK: A Ferrari, M., S. Allan, C. Arnold, et al. 2022. “Digital Interventions for
+Systematic Review.” BMC Public Health 22: 1778. https:// doi. org/ 10. Psychological Well- Being in University Students: Systematic Review
+1186/s 12889 -0 22-1 3943- x . and Meta- Analysis.” Journal of Medical Internet Research 24, no. 9:
+e39686. https:// doi. org/ 10. 2196/ 39686 .
+Colizzi, M., A. Lasalvia, and M. Ruggeri. 2020. “Prevention and Early
+Intervention in Youth Mental Health: Is It Time for a Multidisciplinary Fleming, T., L. Bavin, M. Lucassen, K. Stasiak, S. Hopkins, and S. Merry.
+and Trans- Diagnostic Model for Care?” International Journal of Mental 2018. “Beyond the Trial: Systematic Review of Real- World Uptake and
+Health Systems 14: 23. https:// doi. org/ 10. 1186/ s1303 3- 020- 00356 - 9. Engagement With Digital Self- Help Interventions for Depression, Low
+17 of 20
+
+Mood, or Anxiety.” Journal of Medical Internet Research 20, no. 6: e199. Higgins, J. P., D. G. Altman, P. C. Gøtzsche, et al. 2011. “The Cochrane
+https:// doi. org/ 10. 2196/ jmir. 9275. Collaboration's Tool for Assessing Risk of Bias in Randomised Trials.”
+BMJ 343: d5928. https:// doi. org/ 10. 1136/ bmj. d5928 .
+Forbes, A., M. R. Keleher, M. Venditto, and F. DiBiasi. 2023. “Assessing
+Patient Adherence to and Engagement With Digital Interventions for Higgins, J. P., S. G. Thompson, J. J. Deeks, and D. G. Altman. 2003.
+Depression in Clinical Trials: Systematic Literature Review.” Journal “Measuring Inconsistency in Meta- Analyses.” BMJ (Clinical Research
+of Medical Internet Research 25: e43727. https:// doi. org/ 10. 2196/ 43727 . Edition) 327, no. 7414: 557–560. https:// doi. org/ 10. 1136/ bmj. 327.
+7414. 557.
+Gan, D. Z., L. McGillivray, J. Han, H. Christensen, and M. Torok. 2021.
+“Effect of Engagement With Digital Interventions on Mental Health Karyotaki, E., A. M. Klein, M. Ciharova, et al. 2022. “Guided Internet-
+Outcomes: A Systematic Review and Meta- Analysis.” Frontiers in Based Transdiagnostic Individually Tailored Cognitive Behavioral
+Digital Health 3: 764079. https://d oi.o rg/1 0.3 389/f dgth.2 021.7 64079. Therapy for Symptoms of Depression and/or Anxiety in College
+Students: A Randomized Controlled Trial.” Behaviour Research and
+Goodwin, R. D., A. H. Weinberger, J. H. Kim, M. Wu, and S. Galea. 2020.
+Therapy 150: 104028. https:// doi. org/ 10. 1016/j. brat. 2021. 104028.
+“Trends in Anxiety Among Adults in the United States, 2008–2018:
+Rapid Increases Among Young Adults.” Journal of Psychiatric Research Kessler, R. C., G. P. Amminger, S. Aguilar- Gaxiola, J. Alonso, S. Lee,
+130: 441–446. https:// doi. org/ 10. 1016/j. jpsyc hires. 2020. 08. 014. and T. B. Ustün. 2007. “Age of Onset of Mental Disorders: A Review of
+Recent Literature.” Current Opinion in Psychiatry 20, no. 4: 359–364.
+Goodwin, R. D., L. C. Dierker, M. Wu, S. Galea, C. W. Hoven, and A. H.
+https:// doi. org/ 10. 1097/ YCO. 0b013 e3281 6ebc8c.
+Weinberger. 2022. “Trends in US Depression Prevalence From 2015 to
+2020: The Widening Treatment Gap.” American Journal of Preventive Kessler, R. C., P. Berglund, O. Demler, R. Jin, K. R. Merikangas, and E.
+Medicine 63, no. 5: 726–733. https:// doi. org/ 10. 1016/j. amepre. 2022. E. Walters. 2005. “Lifetime Prevalence and Age- Of- Onset Distributions
+05. 014. of DSM- IV Disorders in the National Comorbidity Survey Replication.”
+Archives of General Psychiatry 62, no. 6: 593–602.
+Ha, S. W., and J. Kim. 2020. “Designing a Scalable, Accessible, and
+Effective Mobile App Based Solution for Common Mental Health Kim, S., and K. Lee. 2023. “Development and Evaluation of an Online
+Problems.” International Journal of Human- Computer Interaction 36, Mental Health Program for Traumatized Female College Students: A
+no. 14: 1354–1367. https:// doi. org/ 10. 1080/ 10447 318. 2020. 1750792. Randomized Controlled Trial.” Archives of Psychiatric Nursing 43: 118–
+126. https:// doi. org/ 10. 1016/j. apnu. 2023. 01. 003.
+Haeger, J. A., C. H. Davis, and M. E. Levin. 2022. “Utilizing ACT
+Daily as a Self- Guided App for Clients Waiting for Services at a College King, N., W. Pickett, S. H. McNevin, et al. 2021. “Mental Health Need of
+Counseling Center: A Pilot Study.” Journal of American College Health Students at Entry to University: Baseline Findings From the U- Flourish
+70, no. 3: 742–749. https:// doi. org/ 10. 1080/ 07448 481. 2020. 1763366. Student Well- Being and Academic Success Study.” Early Intervention in
+Psychiatry 15, no. 2: 286–295. https:// doi. org/ 10. 1111/ eip. 12939 .
+Hallett, C. 2012. “Is There Time Enough? Ethical Dilemmas Inherent
+in Offering Time Limited Work in the University.” British Journal of Kingston, J., L. Becker, J. Woeginger, and L. Ellett. 2020. “A Randomised
+Psychotherapy 28: 249–263. https:// doi. org/ 10. 1111/j. 1752- 0118. 2012. Trial Comparing a Brief Online Delivery of Mindfulness- Plus- Values
+01285. x. Versus Values Only for Symptoms of Depression: Does Baseline Severity
+Matter?” Journal of Affective Disorders 276: 936–944. https:// doi. org/ 10.
+Harith, S., I. Backhaus, N. Mohbin, H. T. Ngo, and S. Khoo. 2022. 1016/j.j ad.2 020.0 7.0 87.
+“Effectiveness of Digital Mental Health Interventions for University
+Kroenke, K., R. L. Spitzer, and J. B. Williams. 2001. “The Phq- 9.”
+Students: An Umbrella Review.” PeerJ 10: e13111. https:// doi. org/ 10.
+Journal of General Internal Medicine 16: 606–613.
+7717/ peerj. 13111 .
+Kroenke, K., R. L. Spitzer, F. V. deGruy, and R. Swindle. 1998. 15-
+Harrer, M., S. H. Adam, R. J. Fleischmann, et al. 2018. “Effectiveness
+Item Patient Health Questionnaire (PHQ- 15) [Database Record]. APA
+of an Internet- and App- Based Intervention for College Students With
+PsycTests.
+Elevated Stress: Randomized Controlled Trial.” Journal of Medical
+Internet Research 20, no. 4: e136. https:// doi. org/ 10. 2196/ jmir. 9293. Kroenke, K., R. L. Spitzer, J. B. W. Williams, and B. Löwe. 2009. Patient
+Health Questionnaire- 4 (PHQ- 4) [Database Record]. APA PsycTests.
+Harrison, G., and E. Gordon. 2021. “Counsellors' Experiences of
+Providing Counselling to Students in University- Level Institutions in Lattie, E. G., C. Stiles- Shields, and A. K. Graham. 2022. “An Overview
+Ireland: An Evolving Phenomenon.” Counselling and Psychotherapy of and Recommendations for More Accessible Digital Mental Health
+Research 21, no. 4: 805–815. https:// doi. org/ 10. 1002/ capr. 12441 . Services.” Nature Reviews Psychology 1, no. 2: 87–100. https:// doi. org/
+10.1 038/s 44159 -0 21-0 0003- 1 .
+He, Y., L. Yang, X. Zhu, et al. 2022. “Mental Health Chatbot for Young
+Adults With Depressive Symptoms During the COVID- 19 Pandemic: Lattie, E. G., E. C. Adkins, N. Winquist, C. Stiles- Shields, Q. E. Wafford,
+Single- Blind, Three- Arm Randomized Controlled Trial.” Journal of and A. K. Graham. 2019. “Digital Mental Health Interventions for
+Medical Internet Research 24, no. 11: e40719. https:// doi. org/ 10. 2196/ Depression, Anxiety, and Enhancement of Psychological Well- Being
+40719. Among College Students: Systematic Review.” Journal of Medical
+Internet Research 21, no. 7: e12869. https:// doi. org/ 10. 2196/ 12869 .
+Hemmings, N. R., J. M. Kawadler, R. Whatmough, et al. 2021.
+“Development and Feasibility of a Digital Acceptance and Commitment Lehtimaki, S., J. Martic, B. Wahl, K. T. Foster, and N. Schwalbe. 2021.
+Therapy–Based Intervention for Generalized Anxiety Disorder: Pilot “Evidence on Digital Mental Health Interventions for Adolescents and
+Acceptability Study.” JMIR Formative Research 5, no. 2: e21737. https:// Young People: Systematic Overview.” JMIR Mental Health 8, no. 4:
+doi. org/ 10. 2196/ 21737 . e25847. https:// doi. org/ 10. 2196/ 25847 .
+Hennemann, S., K. Böhme, M. Kleinstäuber, et al. 2022. “Is Therapist Leung, C., J. Pei, K. Hudec, F. Shams, R. Munthali, and D. Vigo. 2022.
+Support Needed? Comparing Therapist- and Self- Guided Internet- Based “The Effects of Non- Clinician Guidance on Effectiveness and Process
+CBT for Somatic Symptom Distress (iSOMA) in Emerging Adults.” Outcomes in Digital Mental Health Interventions: Systematic Review
+Behavior Therapy 53, no. 6: 1205–1218. https:// doi. org/ 10. 1016/j. beth. and Meta- Analysis.” Journal of Medical Internet Research 24, no. 6:
+2022.0 6.0 06. e36004. https:// doi. org/ 10. 2196/ 36004 .
+Hides, L., G. Dingle, C. Quinn, et al. 2019. “Efficacy and Outcomes of Levin, M. E., E. T. Hicks, and J. Krafft. 2022. “Pilot Evaluation of the
+a Music- Based Emotion Regulation Mobile App in Distressed Young Stop, Breathe & Think Mindfulness App for Student Clients on a College
+People: Randomized Controlled Trial.” JMIR mHealth and uHealth 7, Counselling Centre Waitlist.” Journal of American College Health 70,
+no. 1: e11482. https:// doi. org/ 10. 2196/ 11482 . no. 1: 165–173. https:// doi. org/ 10. 1080/ 07448 481. 2020. 1728281.
+18 of 20 Early Intervention in Psychiatry, 2025
+
+Linardon, J., and M. Fuller- Tyszkiewicz. 2020. “Attrition and Adherence Meta-A nalysis.” International Journal of Mental Health Systems 16, no.
+in Smartphone- Delivered Interventions for Mental Health Problems: 1: 57. https:// doi. org/ 10. 1186/ s1303 3- 022- 00569 - 0.
+A Systematic and Meta- Analytic Review.” Journal of Consulting and
+Oswalt, S. B., A. M. Lederer, K. Chestnut- Steich, C. Day, A. Halbritter,
+Clinical Psychology 88, no. 1: 1–13. https:// doi. org/ 10. 1037/ ccp00 00459 .
+and D. Ortiz. 2020. “Trends in College Students' Mental Health
+Ling, Y., Y. He, Y. Wei, W. Cen, Q. Zhou, and M. Zhong. 2016. “Intrinsic Diagnoses and Utilization of Services, 2009- 2015.” Journal of American
+and Extrinsic Goals as Moderators of Stress and Depressive Symptoms College Health 68, no. 1: 41–51. https:// doi. org/ 10. 1080/ 07448 481. 2018.
+in Chinese Undergraduate Students: A Multi- Wave Longitudinal Study.” 1515748.
+BMC Psychiatry 16: 1–8. https:// doi. org/ 10. 1186/ s1288 8- 016- 0842- 5.
+Page, M. J., J. E. McKenzie, P. M. Bossuyt, et al. 2021. “The PRISMA
+Lipson, S. K., E. G. Lattie, and D. Eisenberg. 2019. “Increased Rates of 2020 Statement: An Updated Guideline for Reporting Systematic
+Mental Health Service Utilization by U.S. College Students: 10- Year Reviews.” Systematic Reviews 10: 89. https:// doi. org/ 10. 1186/ s1364 3-
+Population- Level Trends (2007- 2017).” Psychiatric Services (Washington, 021- 01626 - 4.
+DC) 70, no. 1: 60–63. https:// doi. org/ 10. 1176/ appi. ps. 20180 0332.
+Palacios, J. E., D. Richards, R. Palmer, et al. 2018. “Supported Internet-
+Lovibond, S. H., and P. F. Lovibond. 1995. Depression Anxiety Stress Delivered Cognitive Behavioral Therapy Programs for Depression,
+Scales (DASS—21, DASS—42) [Database record]. APA PsycTests. Anxiety, and Stress in University Students: Open, Non- Randomised
+Trial of Acceptability, Effectiveness, and Satisfaction.” JMIR Mental
+McCall, H. C., C. G. Richardson, F. D. Helgadottir, and F. S. Chen.
+Health 5, no. 4: e11467. https:// doi. org/ 10. 2196/ 11467 .
+2018. “Evaluating a Web- Based Social Anxiety Intervention Among
+University Students: Randomized Controlled Trial.” Journal of Medical Papini, S., J. Jacquart, E. D. Zaizar, M. J. Telch, and J. A. Smits. 2023.
+Internet Research 20, no. 3: e91. https://d oi.o rg/1 0.2 196/j mir.8 630. “Targeting Anxiety Sensitivity With Evidence- Based Psychoeducation:
+A Randomized Waitlist- Controlled Trial of a Brief Standalone Digital
+McGorry, P. D., C. Mei, N. Dalal, et al. 2024. “The Lancet Psychiatry
+Intervention.” Cognitive and Behavioral Practice 30, no. 4: 678–691.
+Commission on Youth Mental Health.” Lancet Psychiatry 11, no. 9:
+https://d oi.o rg/1 0.1 016/j.c bpra.2 022.0 4.0 01.
+731–774.
+Pauley, D., P. Cuijpers, D. Papola, C. Miguel, and E. Karyotaki. 2023.
+McKenzie, J. E., S. E. Brennan, R. E. Ryan, H. J. Thomson, R. V.
+“Two Decades of Digital Interventions for Anxiety Disorders: A
+Johnston, and J. Thomas. 2019. “Defining the Criteria for Including
+Systematic Review and Meta- Analysis of Treatment Effectiveness.”
+Studies and How They Will Be Grouped for the Synthesis.” Cochrane
+Psychological Medicine 53, no. 2: 567–579. https:// doi. org/ 10. 1017/ S0033
+Handbook for Systematic Reviews of Interventions, edited by J. P.
+29172 1001999.
+Higgins, J. Thomas, J. Chandler, 33–65. Wiley. https://d oi.o rg/1 0.1 002/
+97811 19536 604. ch3. Philippe, T. J., N. Sikder, A. Jackson, et al. 2022. “Digital Health
+Interventions for Delivery of Mental Health Care: Systematic and
+Melcher, J., E. Camacho, S. Lagan, and J. Torous. 2022. “College Student
+Comprehensive Meta- Review.” JMIR Mental Health 9, no. 5: e35159.
+Engagement With Mental Health Apps: Analysis of Barriers to Sustained
+https:// doi. org/ 10. 2196/ 35159 .
+Use.” Journal of American College Health 70, no. 6: 1819–1825. https://
+doi. org/ 10. 1080/ 07448 481. 2020. 1825225. Pineda, B. S., R. Mejia, Y. Qin, J. Martinez, L. G. Delgadillo, and
+R. F. Muñoz. 2023. “Updated Taxonomy of Digital Mental Health
+Mohr, D. C., P. Cuijpers, and K. Lehman. 2011. “Supportive
+Interventions: A Conceptual Framework.” mHealth 9: 28. https:// doi.
+Accountability: A Model for Providing Human Support to Enhance
+org/ 10. 21037/ mheal th- 23- 6.
+Adherence to eHealth Interventions.” Journal of Medical Internet
+Research 13, no. 1: e30. https:// doi. org/ 10. 2196/ jmir. 1602. Ponzo, S., D. Morelli, J. M. Kawadler, N. R. Hemmings, G. Bird, and D.
+Plans. 2020. “Efficacy of the Digital Therapeutic Mobile App BioBase
+Montagni, I., C. Tzourio, T. Cousin, J. A. Sagara, J. Bada- Alonzi, and
+to Reduce Stress and Improve Mental Well- Being Among University
+A. Horgan. 2020. “Mental Health- Related Digital Use by University
+Students: Randomized Controlled Trial.” JMIR mHealth and uHealth 8,
+Students: A Systematic Review.” Telemedicine Journal and e- Health:
+no. 4: e17767. https:// doi. org/ 10. 2196/ 17767 .
+The Official Journal of the American Telemedicine Association 26, no. 2:
+131–146. https:// doi. org/ 10. 1089/ tmj. 2018. 0316. Rackoff, G. N., E. E. Fitzsimmons- Craft, C. B. Taylor, D. Eisenberg, D.
+E. Wilfley, and M. G. Newman. 2022. “A Randomized Controlled Trial
+Moshe, I., Y. Terhorst, P. Philippi, et al. 2021. “Digital Interventions for
+of Internet- Based Self- Help for Stress During the COVID- 19 Pandemic.”
+the Treatment of Depression: A Meta- Analytic Review.” Psychological
+Journal of Adolescent Health: Official Publication of the Society for
+Bulletin 147, no. 8: 749–786. https:// doi. org/ 10. 1037/ bul00 00334 .
+Adolescent Medicine 71, no. 2: 157–163. https:// doi. org/ 10. 1016/j. jadoh
+Musiat, P., C. Johnson, M. Atkinson, S. Wilksch, and T. Wade. 2022. “Impact ealth.2 022.0 1.2 27.
+of Guidance on Intervention Adherence in Computerised Interventions
+Radloff, L. S. 1977. “The CES- D Scale a Self- Report Depression Scale
+for Mental Health Problems: A Meta- Analysis.” Psychological Medicine
+for Research in the General Population.” Applied Psychological
+52, no. 2: 229–240. https:// doi. org/ 10. 1017/ S0033 29172 1004621.
+Measurement 1: 385–401.
+Newman, M. G., N. Kanuri, G. N. Rackoff, N. C. Jacobson, M. J. Bell,
+Räsänen, P., J. Muotka, and R. Lappalainen. 2023. “Examining
+and C. B. Taylor. 2021. “A Randomized Controlled Feasibility Trial of
+Coaches' Asynchronous Written Feedback in Two Blended ACT-
+Internet- Delivered Guided Self- Help for Generalized Anxiety Disorder
+Based Interventions for Enhancing University students' Wellbeing and
+(GAD) Among University Students in India.” Psychotherapy (Chicago,
+Reducing Psychological Distress: A Randomized Study.” Journal of
+IL) 58, no. 4: 591–601. https:// doi. org/ 10. 1037/ pst00 00383 .
+Contextual Behavioral Science 29: 98–108. https:// doi. org/ 10. 1016/j. jcbs.
+O'Bryan, E. M., A. C. McLeish, A. M. Norr, et al. 2021. “A Randomized 2023.0 6.0 06.
+Controlled Trial Evaluating the Efficacy of a Brief Computerized
+Riboldi, I., D. Cavaleri, A. Calabrese, et al. 2023. “Digital Mental Health
+Anxiety Sensitivity Reduction Intervention for Health Anxiety.”
+Interventions for Anxiety and Depressive Symptoms in University
+Journal of Anxiety Disorders 82: 102425. https:// doi. org/ 10. 1016/j. janxd
+Students During the COVID- 19 Pandemic: A Systematic Review of
+is.2 021.1 02425.
+Randomized Controlled Trials.” Revista de Psiquiatria y Salud Mental
+OECD Indicators. 2022. “Education at a Glance, 2022, Editions OECD 16: 47–58. https://d oi.o rg/1 0.1 016/j.r psm.2 022.0 4.0 05.
+2021.” https:// www. oecd. org/ en/ publi catio ns/ educa tion- at- a- glanc e-
+Richards, D., and T. Richardson. 2012. “Computer- Based Psychological
+2022_ 31971 52b- en. html.
+Treatments for Depression: A Systematic Review and Meta- Analysis.”
+Osborn, T. G., S. Li, R. Saunders, and P. Fonagy. 2022. “University Clinical Psychology Review 32, no. 4: 329–342. https:// doi. org/ 10. 1016/j.
+Students' Use of Mental Health Services: A Systematic Review and cpr.2 012.0 2.0 04.
+19 of 20
+
+Ruehlman, L., and P. Karoly. 2023. “A Pilot Test of Internet- Delivered 2005–2017.” Journal of Abnormal Psychology 128, no. 3: 185–199. https://
+Brief Interactive Training Sessions for Depression: Evaluating Dropout, doi. org/ 10. 1037/ abn00 00410 .
+Uptake, Adherence, and Outcome.” Journal of American College Health
+Valentine, L., C. McEnery, I. Bell, et al. 2020. “Blended Digital and Face-
+71, no. 7: 2131–2139. https:// doi. org/ 10. 1080/ 07448 481. 2021. 1961781.
+To- Face Care for First- Episode Psychosis Treatment in Young People:
+Ryan, R. M., and E. L. Deci. 2000. “Intrinsic and Extrinsic Motivations: Qualitative Study.” JMIR Mental Health 7, no. 7: e18990. https:// doi. org/
+Classic Definitions and New Directions.” Contemporary Educational 10. 2196/ 18990 .
+Psychology 25, no. 1: 54–67. https:// doi. org/ 10. 1006/ ceps. 1999. 1020.
+van't Hof, E., P. Cuijpers, and D. J. Stein. 2009. “Self- Help and Internet-
+Salamanca- Sanabria, A., D. Richards, L. Timulak, et al. 2020. Guided Interventions in Depression and Anxiety Disorders: A
+“A Culturally Adapted Cognitive Behavioral Internet- Delivered Systematic Review of Meta- Analyses.” CNS Spectrums 14, no. 2 Suppl 3:
+Intervention for Depressive Symptoms: Randomized Controlled Trial.” 34–40. https:// doi. org/ 10. 1017/ s1092 85290 0027279.
+JMIR Mental Health 7, no. 1: e13392. https:// doi. org/ 10. 2196/ 13392 .
+Veritas Health Innovation. 2020. Covidence Systematic Review
+Schueller, S. M., and J. Torous. 2020. “Scaling Evidence- Based Software. http://w ww.c ovide nce.o rg.
+Treatments Through Digital Mental Health.” American Psychologist 75,
+Walsh, S., J. Cullinan, D. Flannery, and B. Kennelly. 2022. “Modelling
+no. 8: 1093–1104. https:// doi. org/ 10. 1037/ amp00 00654 .
+Student Preferences for the Design of Campus Counselling Services.”
+Short, N. A., and N. B. Schmidt. 2020. “Developing and Testing a Novel, Studies in Higher Education 47, no. 2: 305–317. https:// doi. org/ 10. 1080/
+Computerized Insomnia and Anxiety Intervention to Reduce Safety 030750 79.2 020.1 744124.
+Aids Among an At- Risk Student Sample: A Randomized Controlled
+Werntz, A., S. Amado, M. Jasman, A. Ervin, and J. E. Rhodes. 2023.
+Trial.” Behavior Therapy 51, no. 1: 149–161. https:// doi. org/ 10. 1016/j.
+“Providing Human Support for the Use of Digital Mental Health
+beth.2 019.0 5.0 12.
+Interventions: Systematic Meta- Review.” Journal of Medical Internet
+Sit, H. F., I. W. Hong, S. Burchert, et al. 2022. “A Feasibility Study of Research 25: e42864. https:// doi. org/ 10. 2196/ 42864 .
+the WHO Digital Mental Health Intervention Step- By- Step to Address
+Wiens, K., A. Bhattarai, P. Pedram, et al. 2020. “A Growing Need for
+Depression Among Chinese Young Adults.” Frontiers in Psychiatry 12:
+Youth Mental Health Services in Canada: Examining Trends in Youth
+812667. https://d oi.o rg/1 0.3 389/f psyt.2 021.8 12667.
+Mental Health From 2011 to 2018.” Epidemiology and Psychiatric
+Six, S. G., K. A. Byrne, H. Aly, and M. W. Harris. 2022. “The Effect of Sciences 29: e115. https:// doi. org/ 10. 1017/ S2045 79602 0000281.
+Mental Health App Customization on Depressive Symptoms in College
+Winch, A., N. J. Moberly, and J. M. Dickson. 2015. “Unique Associations
+Students: Randomized Controlled Trial.” JMIR Mental Health 9, no. 8:
+Between Anxiety, Depression and Motives for Approach and Avoidance
+e39516. https:// doi. org/ 10. 2196/ 39516 .
+Goal Pursuit.” Cognition & Emotion 29, no. 7: 1295–1305. https:// doi.
+Solmi, M., J. Radua, M. Olivola, et al. 2022. “Age at Onset of Mental org/ 10. 1080/ 02699 931. 2014. 976544.
+Disorders Worldwide: Large- Scale Meta- Analysis of 192 Epidemiological
+Winter, N., L. Russell, A. Ugalde, V. White, and P. Livingston. 2022.
+Studies.” Molecular Psychiatry 27, no. 1: 281–295. https:// doi. org/ 10.
+“Engagement Strategies to Improve Adherence and Retention in Web-
+1038/ s4138 0- 021- 01161 - 7.
+Based Mindfulness Programs: Systematic Review.” Journal of Medical
+Spitzer, R. L., K. Kroenke, J. B. W. Williams, and B. Löwe. 2006. Internet Research 24, no. 1: e30026. https://d oi.o rg/1 0.2 196/3 0026.
+Generalized Anxiety Disorder 7 (GAD- 7) [Database Record]. APA
+Worsley, J. D., A. Pennington, and R. Corcoran. 2022. “Supporting
+PsycTests.
+Mental Health and Wellbeing of University and College Students: A
+Stanic, J., J. Barth, N. Danon, G. Bondolfi, F. Jermann, and M. Eicher. Systematic Review of Review- Level Evidence of Interventions.” PLoS
+2021. “Adherence to Standardized 8- Week Mindfulness- Based One 17, no. 7: e0266725. https:// doi. org/ 10. 1371/ journ al. pone. 0266725.
+Interventions Among Women With Breast or Gynecological Cancer:
+Zhao, C., B. E. Wampold, Z. Ren, L. Zhang, and G. Jiang. 2022. “The
+A Scoping Review.” Journal of Psychosocial Oncology Research and
+Efficacy and Optimal Matching of an Internet- Based Acceptance and
+Practice 3, no. 2: e048. https://d oi.o rg/1 0.1 097/O R9.0 00000 00000 00048.
+Commitment Therapy Intervention for Depressive Symptoms Among
+Sterne, J. A., M. A. Hernán, B. C. Reeves, et al. 2016. “ROBINS- I: A Tool University Students: A Randomized Controlled Trial in China.” Journal
+for Assessing Risk of Bias in Non- Randomised Studies of Interventions.” of Clinical Psychology 78, no. 7: 1354–1375. https:// doi. org/ 10. 1002/
+BMJ 355: i4919. https:// doi. org/ 10. 1136/ bmj. i4919 . jclp. 233.
+Suffoletto, B., T. Goldstein, D. Gotkiewicz, E. Gotkiewicz, B. George,
+and D. Brent. 2021. “Acceptability, Engagement, and Effects of a Supporting Information
+Mobile Digital Intervention to Support Mental Health for Young Adults
+Additional supporting information can be found online in the
+Transitioning to College: Pilot Randomized Controlled Trial.” JMIR
+Supporting Information section.
+Formative Research 5, no. 10: e32271. https:// doi. org/ 10. 2196/ 32271 .
+Sun, S., D. Lin, S. Goldberg, et al. 2022. “A Mindfulness- Based Mobile
+Health (mHealth) Intervention Among Psychologically Distressed
+University Students in Quarantine During the COVID- 19 Pandemic: A
+Randomized Controlled Trial.” Journal of Counseling Psychology 69, no.
+2: 157–171. https:// doi. org/ 10. 1037/ cou00 00568 .
+Thomas, E. B. K., T. Sagorac Gruichich, J. M. Maronge, et al. 2023.
+“Mobile Acceptance and Commitment Therapy With Distressed First-
+Generation College Students: Microrandomized Trial.” JMIR Mental
+Health 10: e43065. https:// doi. org/ 10. 2196/ 43065 .
+Thorley, C. 2017. Not by Degrees: Improving Student Mental Health in the
+UK's Universities. Institute for Public Policy Research [IPPR]. www.i ppr.
+org/ publi catio ns/ not- by- degrees.
+Twenge, J. M., A. B. Cooper, T. E. Joiner, M. E. Duffy, and S. G. Binau.
+2019. “Age, Period, and Cohort Trends in Mood Disorder Indicators
+and Suicide- Related Outcomes in a Nationally Representative Dataset,
+20 of 20 Early Intervention in Psychiatry, 2025
+
