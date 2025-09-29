@@ -9,10 +9,10 @@ import json
 import re
 
 # Config
-# TXT_DIR = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/raw_data/text_data")
-TXT_DIR = os.path.expanduser("/home/worawit/Documents/allProject/realProject/mental_health_chatbot/raw_data/text_example")
-# CHUNK_DIR = os.path.expanduser("/home/worawit/Documents/allProject/realProject/mental_health_chatbot/data/text_chunk")
-CHUNK_DIR = os.path.expanduser("/home/worawit/Documents/allProject/realProject/mental_health_chatbot/data/text_chunk_example")
+TXT_DIR = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/raw_data/text_data")
+# TXT_DIR = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/raw_data/text_example")
+CHUNK_DIR = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/data/text_chunk")
+# CHUNK_DIR = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/data/text_chunk_example")
 CHUNK_SIZE = 800      # จำนวนตัวอักษรต่อ chunk
 CHUNK_OVERLAP = 200   # ตัวอักษรทับซ้อนระหว่าง chunks
 
