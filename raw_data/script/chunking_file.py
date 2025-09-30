@@ -7,12 +7,20 @@ import hashlib
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import json
 import re
+from ...path import get_path
+
+# BASE_PATH
+BASE_DIR,PATH = get_path()
+
+# PATH
+DATA_PATH = os.path.join(BASE_DIR, PATH["DATA_PATH"])
+RAW_DATA_PATH = os.path.join(BASE_DIR, PATH["RAW_DATA_PATH"])
 
 # Config
-TXT_DIR = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/raw_data/text_data")
-# TXT_DIR = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/raw_data/text_example")
-CHUNK_DIR = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/data/text_chunk")
-# CHUNK_DIR = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/data/text_chunk_example")
+TXT_DIR = os.path.expanduser(f"{RAW_DATA_PATH}/text_data")
+CHUNK_DIR = os.path.expanduser(f"{DATA_PATH}/text_chunk")
+# TXT_DIR = os.path.expanduser(f"{RAW_DATA_PATH}/text_example")
+# CHUNK_DIR = os.path.expanduser(f"{DATA_PATH}/text_chunk_example")
 CHUNK_SIZE = 800      # จำนวนตัวอักษรต่อ chunk
 CHUNK_OVERLAP = 200   # ตัวอักษรทับซ้อนระหว่าง chunks
 

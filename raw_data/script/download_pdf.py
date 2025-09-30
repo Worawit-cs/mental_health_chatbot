@@ -3,7 +3,10 @@ This module is use for download pdf if you have source(URL) in .txt file use wit
 '''
 import os
 import requests
-PATH_RAW_SOURCE_DATA = "/home/worawit/Documents/allProject/realProject/mental_health_chatbot/raw_data/university_students_mental_health_OA_package/university_students_mental_health_OA_links.txt"
+from ...path import get_path
+BASE_DIR,PATH = get_path()
+PDF_SOURCE = os.path.join(BASE_DIR, PATH["PDF_SOURCE"])
+PATH_RAW_SOURCE_DATA = f"{PDF_SOURCE}/university_students_mental_health_OA_links.txt"
 all_links = []
 with open(PATH_RAW_SOURCE_DATA, "r") as file:
     for link in file:

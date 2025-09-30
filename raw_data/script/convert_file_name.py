@@ -3,10 +3,16 @@ This module is use for trans pdf to txt file directed by Wit
 '''
 import os
 import pdfplumber
+from ...path import get_path
+
+BASE_DIR,PATH = get_path()
+RAW_DATA_PATH = os.path.join(BASE_DIR, PATH["RAW_DATA_PATH"])
+
+
 
 # Define directories
-raw_data_dir = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/raw_data/pdf_data")
-data_dir = os.path.expanduser("~/Documents/allProject/realProject/mental_health_chatbot/raw_data/text_data")
+raw_data_dir = os.path.expanduser(f"{RAW_DATA_PATH}/pdf_data")
+data_dir = os.path.expanduser(f"{RAW_DATA_PATH}/text_data")
 
 # Ensure the output directory exists
 os.makedirs(data_dir, exist_ok=True)

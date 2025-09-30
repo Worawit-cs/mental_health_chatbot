@@ -2,7 +2,7 @@
 set -euo pipefail
 
 SRC="$HOME/Downloads"
-DST="$HOME/Documents/allProject/realProject/mental_health_chatbot/raw_data/pdf_data"
+DST="$(pwd)"
 
 mkdir -p -- "$DST"
 
@@ -12,7 +12,7 @@ today=$(date +%F)
 moved=false
 
 # ไล่เช็คไฟล์ทั้งหมดใน Downloads
-for f in "$SRC"/*; do
+for f in "$SRC"/*.pdf; do
   [[ -f "$f" ]] || continue   # ข้ามถ้าไม่ใช่ไฟล์ปกติ
 
   # เอา mtime ของไฟล์นี้มาเป็น YYYY-MM-DD
