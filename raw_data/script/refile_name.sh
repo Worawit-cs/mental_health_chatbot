@@ -1,7 +1,8 @@
 # This Module is refile name to correcting standard file name directed by Wit
 #!/bin/bash
 
-my_dir="/home/worawit/Documents/allProject/realProject/mental_health_chatbot/raw_data/pdf_data"
+cd "$(dirname "$0")/../pdf_data" || { echo "ไม่พบโฟลเดอร์ pdf_data"; exit 1; }
+my_dir="$(pwd)"
 
 # ตรวจสอบว่ามีโฟลเดอร์จริงไหม
 [ -d "$my_dir" ] || { echo "โฟลเดอร์ไม่พบ: $my_dir"; exit 1; }
