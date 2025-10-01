@@ -7,7 +7,6 @@ import streamlit as st
 from pathlib import Path
 import time as t
 import json
-from backend.rag_util import RAG
 
 # **********************************
 # # Add project root to path
@@ -20,6 +19,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 from path import get_path 
+from backend.rag_util import RAG
 
 BASE_DIR,PATH = get_path()
 IMAGE_PATH = os.path.join(BASE_DIR, PATH["IMAGE_PATH"])
