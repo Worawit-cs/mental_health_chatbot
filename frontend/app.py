@@ -6,6 +6,7 @@ import os
 import streamlit as st
 from pathlib import Path
 import time as t
+import json
 
 # **********************************
 # # Add project root to path
@@ -52,6 +53,9 @@ QUICK_TOPICS = [
     {"key": "dep_students",   "TH": "ภาวะซึมเศร้าในนักศึกษา",           "ENG": "Depression in students"},
     {"key": "stress_students","TH": "ความเครียดในนักศึกษา",            "ENG": "Stress in students"},
 ]
+
+# ===== Conversation Count =====
+iConver = 0
 
 def get_quick_label(key: str, lang: str) -> str:
     for item in QUICK_TOPICS:
@@ -146,10 +150,50 @@ def answer_text(message):
         yield msg + " "
         t.sleep(0.07)
 
+def updateJson(topic, lang, msg):
+    global BASE_DIR,PATH
+    INPUT_PATH = os.path.join(BASE_DIR, PATH["INPUT_PATH"])
+    with open(f"{INPUT_PATH}/input.json", "r", encoding="utf-8") as f:
+        input = json.load(f)
+
+    # change topic to eng
+    if lang == "TH":
+        for i in QUICK_TOPICS:
+            if i["TH"] == topic:
+                topic = i["ENG"]
+                break
+
+    # update
+    input["count"] += 1
+    input["topic"] = topic
+    input["lang"] = lang
+    input["massage"] +=  f"Conversation {input['count']}: {msg}\n"
+
+    with open(f"{INPUT_PATH}/input.json", "w", encoding="utf-8") as f:
+        json.dump(input, f, indent=2, ensure_ascii=False)
+
+def reset_inputJson():
+    global BASE_DIR,PATH
+    INPUT_PATH = os.path.join(BASE_DIR, PATH["INPUT_PATH"])
+    with open(f"{INPUT_PATH}/input.json", "r", encoding="utf-8") as f:
+        input = json.load(f)
+
+    for key in input:
+        input[key] = "" if isinstance(input[key],str) else 0
+    
+    with open(f"{INPUT_PATH}/input.json", "w", encoding="utf-8") as f:
+        json.dump(input, f, indent=2, ensure_ascii=False)
+
+
 def web_page():
     global user_prompt
     lang = st.session_state.lang
     quick_key = st.session_state.quick_key
+
+    if "initialized" not in st.session_state:
+        reset_inputJson()
+        st.session_state.initialized = True
+
     #head and logo top page
     col1, col2= st.columns([0.1, 0.9])
     with col1:
@@ -204,14 +248,21 @@ def web_page():
                 print(f"DEBUGGING UER_PROMPT: {user_prompt}")
                 response = reponse_message(prompt)
 
-
+                updateJson(selected_label, new_lang ,prompt)
                 # Display response
                 ans = answer_text(response)
                 st.write_stream(ans)
 
                 st.session_state.messages.append(
                     {"role": "assistant", "content": response})
+def test_json():
+    global BASE_DIR,PATH
+    INPUT_PATH = os.path.join(BASE_DIR, PATH["INPUT_PATH"])
+    with open(f"{INPUT_PATH}/input.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    print(data)
+
 def main():
     web_page()
-if __name__ == "__main__":
-    main()
+    test_json()
+page()
