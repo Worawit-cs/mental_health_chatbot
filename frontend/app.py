@@ -7,6 +7,7 @@ import streamlit as st
 from pathlib import Path
 import time as t
 import json
+from backend.rag_util import RAG
 
 # **********************************
 # # Add project root to path
@@ -28,8 +29,8 @@ st.set_page_config(page_title="AI+ CARE YOU", layout="wide")
 
 APP_DIR = Path(__file__).parent          
 ASSETS_DIR = APP_DIR                      
-USER_AVATAR_PATH = Path(rf"{IMAGE_PATH}\user_image.png")
-BOT_AVATAR_PATH  = Path(rf"{IMAGE_PATH}\bot.png")
+USER_AVATAR_PATH = Path(rf"{IMAGE_PATH}/user_image.png")
+BOT_AVATAR_PATH  = Path(rf"{IMAGE_PATH}/bot.png")
 
 # ==================================================================
 # Intitialize input
@@ -144,7 +145,9 @@ def reponse_message(message):
     if STATUS:
         return "You should contact CMU CARE\n Here is our contac:\nFacebook:CMU Care\nPhone:xxx-xxx-xxxx"
     else:
-        return "Hello!,What do you want to talk with me?"
+        temp = RAG().test("USER_INPUT : " + message)["answer"]
+        print(temp)
+        return temp.get("advice_answer", "I couldn't find reliable context.")
 def answer_text(message):
     for msg in message.split(" "):
         yield msg + " "
@@ -167,7 +170,7 @@ def updateJson(topic, lang, msg):
     input["count"] += 1
     input["topic"] = topic
     input["lang"] = lang
-    input["massage"] +=  f"Conversation {input['count']}: {msg}\n"
+    input["message"] +=  f"Conversation {input['count']}: {msg}\n"
 
     with open(f"{INPUT_PATH}/input.json", "w", encoding="utf-8") as f:
         json.dump(input, f, indent=2, ensure_ascii=False)
@@ -265,4 +268,7 @@ def test_json():
 def main():
     web_page()
     test_json()
-page()
+
+if __name__ == "__main__":
+    main()
+

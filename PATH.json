@@ -4,5 +4,6 @@
     "BACKEND_PATH":"backend/",
     "FRONT_PATH":"front_end/",
     "PDF_SOURCE":"raw_data/source",
-    "IMAGE_PATH":"frontend/image/"
+    "IMAGE_PATH":"frontend/image/",
+    "INPUT_PATH":"data/input_data/"
 }
