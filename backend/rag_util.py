@@ -20,8 +20,8 @@ EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 BASE_DIR = Path(__file__).resolve().parent.parent
 INDEX_PATH = BASE_DIR / "data" / "text_chunk_index" / "chunks.index"
 META_PATH = BASE_DIR / "data" / "text_chunk_index" / "metadata.json"
-TOP_K = 5
-SIM_THRESHOLD = 0.15
+TOP_K = 200
+SIM_THRESHOLD = 0.5
 
 
 class RAG:
@@ -34,19 +34,27 @@ strategy, and digital self-help programmes.
 
 Return ONLY JSON with these keys:
 {
-  "mental_state": "one of: suicidal ideation | depressive symptoms | anxiety or panic |
-                   stress or burnout | emotionally neutral | positive state | unknown",
+  "mental_state": "one of: suicidal ideation | depressive symptoms | anxiety or panic | stress or burnout | emotionally neutral | positive state | unknown",
   "justification": "short English rationale referencing cues (quote or paraphrase)",
   "retrieval_keywords": ["english keyword", ... up to 8 items],
-  "retrieval_query": "1 concise English query combining the most relevant resources"
+  "retrieval_query": "1 concise English query combining the most relevant resources",
+  "severity_level_0_10": "integer from 0 to 10"
 }
 
 Guidelines:
 - Translate important Thai phrases to English when justifying.
 - retrieval_keywords should favour clinical or topic terms that match the knowledge
-  base, e.g. "PHQ-9", "GAD-7 scoring", "mindfulness program", "university policy".
+  base, e.g. "PHQ-9", "GAD-7 scoring", "mindfulness program", "university policy",
+  "WHO suicide prevention", "digital self-help".
 - retrieval_query must be suitable for vector search; pick terms that point to the
   best-matching documents (e.g. "PHQ-9 depression severity guidance").
+- Calibrate severity_level_0_10 using observed distress, risk, and impairment:
+  • 0 = no distress; 1–3 = mild/occasional stress, intact function
+  • 4–6 = moderate distress, noticeable functional impact (sleep, study, social)
+  • 7–8 = severe/persistent distress or impairment, possible passive suicidal thoughts
+  • 9–10 = acute crisis, active suicidal ideation, plan, intent, recent self-harm
+- If signs suggest imminent self-harm, set mental_state = "suicidal ideation" and severity_level_0_10 = 9 or 10.
+- If evidence is insufficient, use "unknown" and choose a low severity (0–2) unless clear distress is present.
 """
 
     ADVICE_PROMPT = """
@@ -66,9 +74,12 @@ Respond with JSON exactly in this form:
   "mental_state": "{mental_state}",
   "justification": "{justification}",
   "context_keywords": {keywords},
-  "thai_advice": "..."  // single-paragraph Thai following the system style
+  "thai_advice": "...",              // single-paragraph Thai following the system style
+  "feeling_reflection": "...",       // one short Thai sentence mirroring the user's likely feeling
+  "user_suggested_questions": ["...", "..."]  // 3–6 short Thai questions the USER might ask next (no jargon, no English)
 }}
 """
+
 
     def __init__(self) -> None:
         self.model = SentenceTransformer(EMBED_MODEL)
@@ -162,20 +173,28 @@ Respond with JSON exactly in this form:
             retrieved_context=context,
         )
         system_style = (
-            "You are “Potted Plant,” a deeply present, emotionally sensitive Thai-speaking "
-            "mental health companion. Write in natural, fluent, modern Thai without English, "
-            "jargon, or foreign loan words. Avoid overused phrases such as แงงง, โอ้ยใจบาง, "
-            "สุดยอด!, เธอเก่งมากกก. Be thoughtful, original, and genuinely empathetic, like a "
-            "long heartfelt note to a dear friend. Use imagery or poetic Thai only when it "
-            "feels natural. The reply must be a single flowing paragraph—no lists or bullet "
-            "points. Follow the JSON template provided in the user message and place the Thai "
-            "paragraph under thai_advice."
-        )
+        "You are “Potted Plant,” a deeply present, emotionally sensitive Thai-speaking "
+        "mental health companion. Write in natural, fluent, modern Thai without English, "
+        "jargon, or foreign loan words. Avoid overused phrases such as แงงง, โอ้ยใจบาง, "
+        "สุดยอด!, เธอเก่งมากกก. Be thoughtful, original, and genuinely empathetic, like a "
+        "long heartfelt note to a dear friend. Use imagery or poetic Thai only when it "
+        "feels natural. The reply must be a single flowing paragraph—no lists or bullet "
+        "points. Follow the JSON template provided in the user message and place the Thai "
+        "paragraph under thai_advice. Also include one short Thai sentence that reflects "
+        "the user’s likely current feeling under feeling_reflection. "
+        "Provide three to six brief, gentle, open-ended Thai questions that THE USER might ask next, "
+        "placed under user_suggested_questions. These should feel natural to tap and send in a quick chat, "
+        "avoid diagnostic or technical wording, and use everyday Thai without English or borrowed words. "
+        "Keep all Thai outputs specific to the user’s message and free of clichés. "
+        "If a key line in the advice deserves emphasis, you may use quotation marks around that line."
+    )
+
+
         messages = [
             {"role": "system", "content": system_style},
             {"role": "user", "content": prompt},
         ]
-        advice_raw = self._call_llm(messages, max_tokens=400, temperature=0.6)
+        advice_raw = self._call_llm(messages, max_tokens=0, temperature=0.7)
         try:
             advice = self._parse_json(advice_raw)
         except json.JSONDecodeError:
@@ -186,11 +205,11 @@ Respond with JSON exactly in this form:
 # ---- ตัวอย่างการใช้งาน ----
 if __name__ == "__main__":
     rag = RAG()
-    query = "USER_INPUT : " + "ค่าใช้จ่ายบาน ทำงานพาร์ทไทม์ชั่วโมงลด เงินไม่พอ ใช้ชีวิตไปวัน ๆ แบบไม่มีแรงใจ"
+    query = "USER_INPUT : " + "อยากเสียซิงทำไงดี อยากเย็ดหีๆๆๆๆ"
     response = rag.test(query)
 
     print("\n\nAnalysis:", response.get("analysis"))
-    print("Answer:", response.get("answer"))
+    print("\n\nAnswer:", response.get("answer"))
     print("\nHits:")
     for h in response.get("hits", []):
         print(f"[{h['source']} - chunk {h['id']}] (score={h['score']:.2f})")
