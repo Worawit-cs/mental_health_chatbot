@@ -139,19 +139,6 @@ def display_chat_messages():
         with st.chat_message(message["role"], avatar=avatar):
             st.markdown(message["content"])
 
-def reponse_message(message):
-    STATUS = False
-
-    if STATUS:
-        return "You should contact CMU CARE\n Here is our contac:\nFacebook:CMU Care\nPhone:xxx-xxx-xxxx"
-    else:
-        temp = RAG().test("USER_INPUT : " + message)["answer"]
-        print(temp)
-        return temp.get("advice_answer", "I couldn't find reliable context.")
-def answer_text(message):
-    for msg in message.split(" "):
-        yield msg + " "
-        t.sleep(0.07)
 
 def updateJson(topic, lang, msg):
     global BASE_DIR,PATH
@@ -187,12 +174,20 @@ def reset_inputJson():
     with open(f"{INPUT_PATH}/input.json", "w", encoding="utf-8") as f:
         json.dump(input, f, indent=2, ensure_ascii=False)
 
+def reponse_message(message):
+    temp = RAG().test("USER_INPUT : " + message)["answer"]
+    print(temp)
+    return temp.get("advice_answer", "I couldn't find reliable context.")
+def answer_text(message):
+    for msg in message:
+        yield msg 
+        t.sleep(0.01)
 
 def web_page():
     global user_prompt
     lang = st.session_state.lang
     quick_key = st.session_state.quick_key
-
+    # Reset json when open new tab
     if "initialized" not in st.session_state:
         reset_inputJson()
         st.session_state.initialized = True
@@ -221,7 +216,7 @@ def web_page():
             current_idx = get_quick_index_from_key(st.session_state.quick_key)
             selected_label = st.selectbox('', quick_labels, index=current_idx)
             
-            user_prompt += selected_label + " \nmesage: "
+            user_prompt += selected_label
             
             # st.session_state.llm_client.mode(selected_label)
                 #**********************************
@@ -249,9 +244,9 @@ def web_page():
                     #chat is funtoin in llm_client file
                 user_prompt += prompt
                 print(f"DEBUGGING UER_PROMPT: {user_prompt}")
+                updateJson(selected_label, new_lang ,prompt)
                 response = reponse_message(prompt)
 
-                updateJson(selected_label, new_lang ,prompt)
                 # Display response
                 ans = answer_text(response)
                 st.write_stream(ans)

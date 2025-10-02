@@ -218,13 +218,13 @@ Respond with JSON exactly in this form:
 
 
 # ---- ตัวอย่างการใช้งาน ----
-if __name__ == "__main__":
-    rag = RAG()
-    query = "USER_INPUT : " + "ช่วงนี้โคตรจะเศร้า ทำอะไรก้ไม่ดี รู้สึกเหมือนไม่มีค่าในสังคมเลยอะ"
-    response = rag.test(query)
+# if __name__ == "__main__":
+#     rag = RAG()
+#     query = "USER_INPUT : " + "ช่วงนี้โคตรจะเศร้า ทำอะไรก้ไม่ดี รู้สึกเหมือนไม่มีค่าในสังคมเลยอะ"
+#     response = rag.test(query)
 
-    print("\n\nAnalysis:", response.get("analysis"))
-    print("\n\nAnswer:", response.get("answer"))
-    print("\nHits:")
-    for h in response.get("hits", []):
-        print(f"[{h['source']} - chunk {h['id']}] (score={h['score']:.2f})")
+#     print("\n\nAnalysis:", response.get("analysis"))
+#     print("\n\nAnswer:", response.get("answer"))
+#     print("\nHits:")
+#     for h in response.get("hits", []):
+#         print(f"[{h['source']} - chunk {h['id']}] (score={h['score']:.2f})")
