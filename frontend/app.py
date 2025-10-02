@@ -154,10 +154,9 @@ def updateJson(topic, lang, msg):
                 break
 
     # update
-    input["count"] += 1
     input["topic"] = topic
     input["lang"] = lang
-    input["message"] +=  f"Conversation {input['count']}: {msg}\n"
+    input["message"].append(f"Conversation {len(input['message'])+1}: {msg}\n")
 
     with open(f"{INPUT_PATH}/input.json", "w", encoding="utf-8") as f:
         json.dump(input, f, indent=2, ensure_ascii=False)
@@ -169,7 +168,7 @@ def reset_inputJson():
         input = json.load(f)
 
     for key in input:
-        input[key] = "" if isinstance(input[key],str) else 0
+        input[key] = "" if isinstance(input[key], str) else []
     
     with open(f"{INPUT_PATH}/input.json", "w", encoding="utf-8") as f:
         json.dump(input, f, indent=2, ensure_ascii=False)
