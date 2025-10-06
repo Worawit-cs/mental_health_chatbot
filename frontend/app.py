@@ -265,7 +265,7 @@ def web_page():
     with st.sidebar:
         # change_language
         st.markdown(TEXT[st.session_state.lang]["language"])
-        new_lang = st.selectbox('', ['TH','ENG'],
+        new_lang = st.selectbox(' ', ['TH','ENG'],
                                 index=['TH','ENG'].index(st.session_state.lang)) 
         # st.session_state.llm_client.change(new_lang)
             #**********************************
@@ -280,7 +280,7 @@ def web_page():
         st.write(TEXT[st.session_state.lang]["consult"])
         quick_labels = [item[st.session_state.lang] for item in QUICK_TOPICS]
         current_idx = get_quick_index_from_key(st.session_state.quick_key)
-        selected_label = st.selectbox('', quick_labels, index=current_idx)
+        selected_label = st.selectbox(' ', quick_labels, index=current_idx)
         
         user_prompt += selected_label + " \nmesage: "
         

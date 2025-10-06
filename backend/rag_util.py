@@ -26,8 +26,6 @@ TOP_K = 100
 SIM_THRESHOLD = 0.5
 
 
-
-
 class RAG:
     ANALYZE_PROMPT = """
 You are a bilingual ({language}/English) mental-health analyst. A {language}-speaking student just
@@ -118,7 +116,9 @@ Respond with JSON exactly in this form:
             messages=messages,
             max_tokens=max_tokens,
             temperature=temperature,
+            top_p=1,
         )
+        print(response.choices[0].message["content"])
         return response.choices[0].message["content"].strip()
 
     def analyze_user_input(self, user_input: str,language) -> Dict[str, Any]:
@@ -206,7 +206,7 @@ Respond with JSON exactly in this form:
 
 
         messages = [
-            {"role": "system", "content": system_style.format(language=language) + "\n\n" + input_.get("message")},
+            {"role": "system", "content": system_style.format(language=language) + "\n\n" + ''.join(input_.get("message", []))},
             {"role": "user", "content": prompt},
         ]
         advice_raw = self._call_llm(messages, max_tokens=0, temperature=0.7)
