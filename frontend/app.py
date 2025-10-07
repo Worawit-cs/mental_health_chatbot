@@ -225,6 +225,17 @@ def updateJson(topic, lang, msg):
     with open(f"{INPUT_PATH}/input.json", "w", encoding="utf-8") as f:
         json.dump(input_data, f, indent=2, ensure_ascii=False)
 
+def suggested_text(response):
+    suggested_text = response.get("user_suggested_questions", [])
+    if len(suggested_text) <= 0:
+        return
+
+    for i in range(3):
+        if not suggested_text[i]:
+            break
+        
+        st.markdown("- "+suggested_text[i])
+
 def reset_inputJson():
     global BASE_DIR, PATH
     INPUT_PATH = os.path.join(BASE_DIR, PATH["INPUT_PATH"])
@@ -384,6 +395,8 @@ def web_page():
 
                 ans = answer_text(advice_text)
                 st.write_stream(ans)
+
+                suggested_text(response)
 
                 st.session_state.messages.append(
                     {"role": "assistant", "content": advice_text})
