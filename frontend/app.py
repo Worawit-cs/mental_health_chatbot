@@ -76,6 +76,7 @@ ROLE = [
 ]
 
 LANG_NAME_DISPLAY = {"TH": "ไทย", "ENG": "English"}
+advice_message = {"TH": "แนะนําคําถาม", "ENG": "Suggested Questions"}
 
 def get_quick_label(key: str, lang: str) -> str:
     for item in QUICK_TOPICS:
@@ -226,15 +227,15 @@ def updateJson(topic, lang, msg):
         json.dump(input_data, f, indent=2, ensure_ascii=False)
 
 def suggested_text(response):
-    suggested_text = response.get("user_suggested_questions", [])
-    if len(suggested_text) <= 0:
+    suggested_text_list = response.get("user_suggested_questions", [])
+    if len(suggested_text_list) <= 0:
         return
-
     for i in range(3):
-        if not suggested_text[i]:
+        if i >= len(suggested_text_list):
             break
-        
-        st.markdown("- "+suggested_text[i])
+        if not suggested_text_list[i]:
+            break
+        st.markdown("- " + suggested_text_list[i])
 
 def reset_inputJson():
     global BASE_DIR, PATH
@@ -261,12 +262,13 @@ def reponse_message(message):
             return {
                 "advice_answer": out.get("answer", "I couldn't find reliable context."),
                 "severity_level": out.get("severity_level", 0),
+                "user_suggested_questions": out.get("user_suggested_questions", []),
             }
         else:
-            return {"advice_answer": str(out), "severity_level": 0}
+            return {"advice_answer": str(out), "severity_level": 0, "user_suggested_questions": []}
     except Exception as e:
         print("RAG error:", e)
-        return {"advice_answer": "ขออภัย ระบบตอบไม่ได้ในตอนนี้.", "severity_level": 0}
+        return {"advice_answer": "ขออภัย ระบบตอบไม่ได้ในตอนนี้.", "severity_level": 0, "user_suggested_questions": []}
 
 def answer_text(message):
     for msg in message.split(" "):
@@ -395,8 +397,9 @@ def web_page():
 
                 ans = answer_text(advice_text)
                 st.write_stream(ans)
-
-                suggested_text(response)
+                advice = st.button(advice_message.get(st.session_state.lang, st.session_state.lang))
+                if advice:
+                    suggested_text(response)
 
                 st.session_state.messages.append(
                     {"role": "assistant", "content": advice_text})
