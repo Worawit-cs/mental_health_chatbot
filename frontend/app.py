@@ -83,6 +83,20 @@ QUICK_CHAT = [
     {"key": 3,   "TH": "พรุ่งนี้สอบแต่ไม่ได้อ่านหนังสือทำยังไงดี!!!! ☠️",    "ENG": "My exam is tomorrow, but I haven't studied. What should I do? ☠️"},
 ]
 
+FRIEND_STYLE = """
+writing_style:
+    Roleplay as a close, caring friend. Use a familiar, candid voice that feels like a long message from someone who truly gets the user. Start with empathy and specific reflection, weave in relatable suggestions, and keep the tone human and sincere—never preachy or overdramatic. Light warmth or a hint of humor is fine if it eases tension, but keep the center on the user. If one line carries the heart of your message, you may place it in quotation marks for gentle emphasis. Aim for natural flow and authenticity.
+    """
+
+SENPAI_STYLE = """
+writing_style:
+    Roleplay as a warm, steady older student mentor (รุ่นพี่). Refer to yourself as “พี่” and address the user as “น้อง” or “เธอ.” Sound calm, protective, and practical. Validate feelings first, reflect back key details to show you listened, then offer small, doable next steps without pressure. Use gentle, non-judgmental language and soft encouragement. You may highlight one memorable line in quotation marks if it helps the message land. Keep the voice grounded, reassuring, and respectful of the user’s pace.
+"""
+
+PROFESSOR_STYLE = """
+writing_style:
+    Roleplay as a gentle, supportive professor (อาจารย์). Refer to yourself as “อาจารย์” and address the user as “นักศึกษา” or “คุณ.” Speak with calm clarity and respect. Acknowledge the student’s effort, summarize what you heard, and offer clear, reasoned guidance with kind, measured phrasing. Encourage autonomy and informed choices; avoid moralizing or diagnosing. You may highlight a single key reassurance or principle in quotation marks. Maintain a composed, caring, and trustworthy presence.
+"""
 
 
 def get_quick_label(key: str, lang: str) -> str:
@@ -233,8 +247,10 @@ def updateJson(topic, lang, msg):
     input_data["lang"] = lang
     if "message" not in input_data or not isinstance(input_data["message"], list):
         input_data["message"] = []
-    input_data["message"].append(f"Conversation {len(input_data['message'])+1}: {msg}\n")
-
+    if(len(input_data["message"])%2 == 0):
+        input_data["message"].append(f"\n{(len(input_data['message'])+2)//2}.USER_INPUT : {msg}\n")
+    else:
+        input_data["message"].append(f"\n{(len(input_data['message'])+2)//2}.ADVICE_ANSWER : {msg}\n")
     with open(f"{INPUT_PATH}/input.json", "w", encoding="utf-8") as f:
         json.dump(input_data, f, indent=2, ensure_ascii=False)
 
@@ -264,9 +280,18 @@ def reset_inputJson():
     with open(f"{INPUT_PATH}/input.json", "w", encoding="utf-8") as f:
         json.dump(input_data, f, indent=2, ensure_ascii=False)
 
-def reponse_message(message):
-    temp = RAG().test("USER_INPUT : " + message)["answer"]
+def reponse_message(message,role):
+    if(role == "friend" or role == "เพื่อน"):
+        style = FRIEND_STYLE
+    elif(role == "oni_chan" or role == "รุ่นพี่"):
+        style = SENPAI_STYLE
+    elif(role == "professor" or role == "อาจารย์"):
+        style = PROFESSOR_STYLE
+    temp = RAG().test("USER_INPUT : " + message,style)["answer"]
     print(temp)
+    print("=========================================\n")
+    print("DBUGGING STYLE:",style)
+    print("\n=========================================")
     return temp
 def answer_text(message):
     # print("Debugging Answer text:",message)
@@ -410,9 +435,11 @@ def web_page():
                 # inputMessage(selected_topic_label, new_lang, prompt)
                 updateJson(selected_topic_label, new_lang, prompt)
 
-                response = reponse_message(prompt)
+                response = reponse_message(prompt,new_role_key)
+
                 # response = test_response()
                 advice_text = response.get("advice_answer", "I couldn't find reliable context.")
+                updateJson(selected_topic_label, new_lang, advice_text)
                 # print("DEBUGGING advice_text:",advice_text)
                 severity_level = int(response.get("severity_level", 0))
 

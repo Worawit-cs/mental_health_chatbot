@@ -162,7 +162,7 @@ Respond with JSON exactly in this form:
             )
         return results
 
-    def test(self, query: str, k: int = TOP_K, threshold: float = SIM_THRESHOLD) -> Dict[str, Any]:
+    def test(self, query: str,style: str, k: int = TOP_K, threshold: float = SIM_THRESHOLD) -> Dict[str, Any]:
         global INPUT_PATH
         with open(f"{INPUT_PATH}", "r", encoding="utf-8") as f:
             input_ = json.load(f)
@@ -209,7 +209,7 @@ Respond with JSON exactly in this form:
 
 
         messages = [
-            {"role": "system", "content": system_style.format(language=language) + "\n\n" + ''.join(input_.get("message", []))},
+            {"role": "system", "content": system_style.format(language=language) + "\n\n" + style + "\n\n" + "HISTORY MESSAGES : \n" + ''.join(input_.get("message", []))},
             {"role": "user", "content": prompt},
         ]
         advice_raw = self._call_llm(messages, max_tokens=None, temperature=1)
