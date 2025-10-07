@@ -111,24 +111,26 @@ Respond with JSON exactly in this form:
         return []
 
     def _call_llm(self, messages: List[Dict[str, str]], *, max_tokens: int, temperature: float) -> str:
+        litellm.drop_params = True
         response = litellm.completion(
             model=MODEL,
             messages=messages,
             max_tokens=max_tokens,
             temperature=temperature,
-            top_p=1,
+            reasoning_effort="medium",
         )
-        print(response.choices[0].message["content"])
+        # print(response)
+        # print(response.choices[0].message.reasoning_content)
+        print(response.choices[0].message.content)
         return response.choices[0].message["content"].strip()
 
     def analyze_user_input(self, user_input: str,language) -> Dict[str, Any]:
         temp = self.ANALYZE_PROMPT.format(language=language)
         # print(temp)
-        messages = [
-            {"role": "system", "content": "You extract mental health signals."},
+        messages = [{"role": "system","content": "You extract mental health signals."},
             {"role": "user", "content": f"{temp}\n\nUser message:\n{user_input}"},
         ]
-        payload = self._call_llm(messages, max_tokens=350, temperature=0.1)
+        payload = self._call_llm(messages, max_tokens=None, temperature=1)
         analysis = self._parse_json(payload)
         if "retrieval_query" not in analysis or not analysis["retrieval_query"].strip():
             keywords = self._normalise_keywords(analysis)
@@ -201,7 +203,8 @@ Respond with JSON exactly in this form:
         "placed under user_suggested_questions. These should feel natural to tap and send in a quick chat, "
         "avoid diagnostic or technical wording, and use everyday {language} without English or borrowed words. "
         "Keep all {language} outputs specific to the user’s message and free of clichés. "
-        "If a key line in the advice deserves emphasis, you may use quotation marks around that line."
+        "If severity_level >= 8, explicitly suggest contacting AI CARE U XXXX "
+        "as the phone support line. If a key line in the advice deserves emphasis, you may use quotation marks around that line."
     )
 
 
@@ -209,7 +212,7 @@ Respond with JSON exactly in this form:
             {"role": "system", "content": system_style.format(language=language) + "\n\n" + ''.join(input_.get("message", []))},
             {"role": "user", "content": prompt},
         ]
-        advice_raw = self._call_llm(messages, max_tokens=0, temperature=0.7)
+        advice_raw = self._call_llm(messages, max_tokens=None, temperature=1)
         try:
             advice = self._parse_json(advice_raw)
         except json.JSONDecodeError:
@@ -217,7 +220,7 @@ Respond with JSON exactly in this form:
         return {"analysis": analysis, "answer": advice, "hits": filtered}
 
 
-# ---- ตัวอย่างการใช้งาน ----
+# # ---- ตัวอย่างการใช้งาน ----
 # if __name__ == "__main__":
 #     rag = RAG()
 #     query = "USER_INPUT : " + "ช่วงนี้โคตรจะเศร้า ทำอะไรก้ไม่ดี รู้สึกเหมือนไม่มีค่าในสังคมเลยอะ"
