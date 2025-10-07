@@ -76,7 +76,14 @@ ROLE = [
 ]
 
 LANG_NAME_DISPLAY = {"TH": "ไทย", "ENG": "English"}
-advice_message = {"TH": "แนะนําคําถาม", "ENG": "Suggested Questions"}
+advice_message = {"TH": "😁แนะนําคําถาม", "ENG": "😁Suggested Questions"}
+QUICK_CHAT = [
+    {"key": 1,   "TH": "เครียดเรื่องคะแนนสอบ 😩",    "ENG": "I'm stressed about my exam scores. 😩"},
+    {"key": 2,   "TH": "เครียดจนนอนไม่หลับแก้ยังไงดี 🫩",   "ENG": "I'm so stressed that I can't sleep. What can I do? 🫩"},
+    {"key": 3,   "TH": "พรุ่งนี้สอบแต่ไม่ได้อ่านหนังสือทำยังไงดี!!!! ☠️",    "ENG": "My exam is tomorrow, but I haven't studied. What should I do? ☠️"},
+]
+
+
 
 def get_quick_label(key: str, lang: str) -> str:
     for item in QUICK_TOPICS:
@@ -139,6 +146,11 @@ st.markdown("""
     [data-testid="stChatMessageContent"] p {
         white-space: pre-wrap; 
     }
+    .sidebar-title {
+    font-size: 1000px; /* Adjust the font size as needed */
+    font-weight: bold; /* Optional: make the title bold */
+    color: #333333; /* Optional: set a specific color */
+    }
 
     </style>
 """, unsafe_allow_html=True)
@@ -158,7 +170,7 @@ TEXT = {
         "placeholder": "พิมพ์ข้อความของคุณที่นี่...",
         "language": "ภาษา",
         "consult": "ปรึกษา",
-        "first_message": "สวัสดี ไอควาย เอ้ย ดูแลตัวเองไม่เป็นรึไง ต้องมาปรึกษากู",
+        "first_message": "สวัสดี ผม AI+ CARE YOU มีอะไรให้ผมช่วยไหมครับ ? 👨🏻‍⚕️",
         "role": "บทบาท"
     },
     "ENG": {
@@ -168,7 +180,7 @@ TEXT = {
         "placeholder": "Type your message here...",
         "language": "Language",
         "consult": "Consult",
-        "first_message": "Hello, I think your life is very messy, let's fix it together.",
+        "first_message": "Hello! I’m AI+ CARE YOU. What can I do for you today ? 👨🏻‍⚕️",
         "role": "Role"
     }
 }
@@ -228,11 +240,11 @@ def updateJson(topic, lang, msg):
 
 def suggested_text(response):
     suggested_text_list = response.get("user_suggested_questions", [])
+    # print("\n\n\n\n",suggested_text_list)
     if len(suggested_text_list) <= 0:
         return
+    st.markdown(advice_message.get(st.session_state.lang,"TH"))
     for i in range(3):
-        if i >= len(suggested_text_list):
-            break
         if not suggested_text_list[i]:
             break
         st.markdown("- " + suggested_text_list[i])
@@ -253,33 +265,25 @@ def reset_inputJson():
         json.dump(input_data, f, indent=2, ensure_ascii=False)
 
 def reponse_message(message):
-    """
-    พยายามเรียกใช้ RAG().test(...) แล้วรีเทิร์น dict ที่มี advice_answer / severity_level เสมอ
-    """
-    try:
-        out = RAG().test("USER_INPUT : " + message)
-        if isinstance(out, dict):
-            return {
-                "advice_answer": out.get("answer", "I couldn't find reliable context."),
-                "severity_level": out.get("severity_level", 0),
-                "user_suggested_questions": out.get("user_suggested_questions", []),
-            }
-        else:
-            return {"advice_answer": str(out), "severity_level": 0, "user_suggested_questions": []}
-    except Exception as e:
-        print("RAG error:", e)
-        return {"advice_answer": "ขออภัย ระบบตอบไม่ได้ในตอนนี้.", "severity_level": 0, "user_suggested_questions": []}
-
+    temp = RAG().test("USER_INPUT : " + message)["answer"]
+    print(temp)
+    return temp
 def answer_text(message):
+    # print("Debugging Answer text:",message)
     for msg in message.split(" "):
         yield msg + " "
         t.sleep(0.07)
 
 def answer_text_first(message):
     for msg in message.split(" "):
-        print(msg)
+        # print(msg)
         yield msg + " "
         t.sleep(0.07)
+def test_response():
+    return {
+        "advice_answer":"kuy",
+        "user_suggested_questions":["1","2","3"]
+    }
 
 @st.dialog("ติดต่อ")
 def popup():
@@ -289,7 +293,7 @@ def popup():
 def web_page():
     global user_prompt
     lang = st.session_state.lang
-
+    prompt = st.chat_input(TEXT[st.session_state.lang]["placeholder"])
     # Reset json when open new tab
     if "initialized" not in st.session_state:
         reset_inputJson()
@@ -320,6 +324,7 @@ def web_page():
 
     # sidebar setting
     with st.sidebar:
+        st.title("Config   🛠")
         # change_language
         st.markdown(TEXT[st.session_state.lang]["language"])
         new_lang = st.selectbox(' ', ['TH','ENG'],
@@ -353,8 +358,7 @@ def web_page():
         st.write(TEXT[st.session_state.lang]["role"])
         role_labels = [item[st.session_state.lang] for item in ROLE]
         current_role_idx = get_role_index_from_key(st.session_state.role_key)
-        selected_role_label = st.selectbox('  ', role_labels, index=current_role_idx)
-
+        selected_role_label = st.selectbox('  ',role_labels,index=current_role_idx)
         #**********************************
         #mode is funtoin in llm_client file
 
@@ -362,12 +366,29 @@ def web_page():
         if new_role_key != st.session_state.role_key:
             st.session_state.role_key = new_role_key
             st.rerun()
-
+    
     init_session_state()
     display_chat_messages()
+    c1,c2,c3 = st.columns([1,1,1])
+    with c1:
+        msg = QUICK_CHAT[0][st.session_state.lang]
+        if st.button(msg ,width="stretch"):
+            prompt = msg
+            # return
+    with c2:
+        msg = QUICK_CHAT[1][st.session_state.lang]
+        if st.button(msg ,width="stretch"):
+            prompt = msg
+            # return
+    with c3:
+        msg = QUICK_CHAT[2][st.session_state.lang]
+        if st.button(msg ,width="stretch"):
+            prompt = msg
+            # return
 
+                                
     # chat_input
-    if prompt := st.chat_input(TEXT[st.session_state.lang]["placeholder"]):
+    if prompt:
         st.session_state.messages.append({"role": "user", "content": prompt})
 
         with st.chat_message("user", avatar=load_avatar_bytes(USER_AVATAR_PATH)):
@@ -386,21 +407,23 @@ def web_page():
                 )
                 print(f"DEBUGGING USER_PROMPT: {user_prompt_local}")
 
+                # inputMessage(selected_topic_label, new_lang, prompt)
                 updateJson(selected_topic_label, new_lang, prompt)
 
                 response = reponse_message(prompt)
+                # response = test_response()
                 advice_text = response.get("advice_answer", "I couldn't find reliable context.")
+                # print("DEBUGGING advice_text:",advice_text)
                 severity_level = int(response.get("severity_level", 0))
 
                 if severity_level >= 8:
                     popup()
-
                 ans = answer_text(advice_text)
                 st.write_stream(ans)
-                advice = st.button(advice_message.get(st.session_state.lang, st.session_state.lang))
-                if advice:
+                if severity_level >= 4:
                     suggested_text(response)
-
+                
+                
                 st.session_state.messages.append(
                     {"role": "assistant", "content": advice_text})
 
