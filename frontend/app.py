@@ -14,7 +14,7 @@ import json
 # sys.path.insert(0, str(project_root))
 # from utils.llm_client import LLMClient, get_available_models
 
-# Config PATH
+# ***************Config PATH***************
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 print(PROJECT_ROOT)
@@ -38,13 +38,13 @@ BASE_DIR, PATH = get_path()
 IMAGE_PATH = os.path.join(BASE_DIR, PATH["IMAGE_PATH"])
 
 st.set_page_config(page_title="AI+ CARE YOU", layout="wide")
-# EMBED_MODEL=sentence-transformers/all-MiniLM-L6-v2       #our embedding model
+
 
 APP_DIR = Path(__file__).parent
 ASSETS_DIR = APP_DIR
 # ---- แก้ path ให้ cross-platform ----
 USER_AVATAR_PATH = Path(IMAGE_PATH) / "user_image.png"
-BOT_AVATAR_PATH  = Path(IMAGE_PATH) / "bot.png"
+BOT_AVATAR_PATH  = Path(IMAGE_PATH) / "Bot.png"
 # BG_PATH  = Path(rf"{IMAGE_PATH}\BG.png")
 
 # ==================================================================
@@ -76,12 +76,13 @@ ROLE = [
 ]
 
 LANG_NAME_DISPLAY = {"TH": "ไทย", "ENG": "English"}
-advice_message = {"TH": "😁แนะนําคําถาม", "ENG": "😁Suggested Questions"}
+advice_message = {"TH": "😁 คําถามแนะนํา", "ENG": "😁 Suggested Questions"}
 QUICK_CHAT = [
     {"key": 1,   "TH": "เครียดเรื่องคะแนนสอบ 😩",    "ENG": "I'm stressed about my exam scores. 😩"},
     {"key": 2,   "TH": "เครียดจนนอนไม่หลับแก้ยังไงดี 🫩",   "ENG": "I'm so stressed that I can't sleep. What can I do? 🫩"},
     {"key": 3,   "TH": "พรุ่งนี้สอบแต่ไม่ได้อ่านหนังสือทำยังไงดี!!!! ☠️",    "ENG": "My exam is tomorrow, but I haven't studied. What should I do? ☠️"},
 ]
+POP_MESSAGE = [{"TH":"เบอร์โทรตอดต่อ","ENG":"Our contact"},{"TH":"เว็บไซต์","ENG":"Website"}]
 
 FRIEND_STYLE = """
 writing_style:
@@ -179,8 +180,8 @@ st.session_state.setdefault("role_key", "friend")
 TEXT = {
     "TH": {
         "subtitle_cols": [1.4, 0.6],
-        "title": "ปรึกษาด้านหัวใจไปกับ AI สุดน่ารัก",
-        "subtitle": "ที่ปรึกษาทางด้านอาการทางจิต ก่อนไปพบจิตแพทย์โดยตรง",
+        "title": "ปรึกษาด้านจิตใจไปกับ AI+ CARE YOU สุดน่ารัก 😊",
+        "subtitle": "ฉันเป็นแค่ chat bot ที่ปรึกษาทางด้านอาการทางจิตใจ ไม่ได้เป็นที่ปรึกษาแพทย์เฉพาะทางโดยตรง หากเธอรู้สึกไม่สบายใจมากๆฉันแนะนำไปพบจิตแพทย์โดยตรงนะ 😁",
         "placeholder": "พิมพ์ข้อความของคุณที่นี่...",
         "language": "ภาษา",
         "consult": "ปรึกษา",
@@ -189,8 +190,8 @@ TEXT = {
     },
     "ENG": {
         "subtitle_cols": [1.55, 0.6],
-        "title": "Heart-to-heart with a cute AI",
-        "subtitle": "A mental-health pre-consultation before seeing a psychiatrist",
+        "title": "Heart-to-heart with a cute AI+ CARE YOU 😊",
+        "subtitle": "I’m just a chat bot that provides support for mental health concerns — not a certified medical professional. If you’re feeling very distressed, I recommend seeing a psychiatrist directly 😁",
         "placeholder": "Type your message here...",
         "language": "Language",
         "consult": "Consult",
@@ -312,11 +313,14 @@ def test_response():
 
 @st.dialog("ติดต่อ")
 def popup():
-    st.write(f"เบอร์โทรตอดต่อ xxxxxxxxxxxxx")
-    st.link_button('เว็ปไซ','https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1')
+    contact = POP_MESSAGE[0][st.session_state.lang]
+    webside = POP_MESSAGE[1][st.session_state.lang]
+    st.write(f"เบอร์โทรตอดต่อ 097-924-8000")
+    st.link_button('เว็ปไซ','https://mentalhealth.cmu.ac.th/Views/Home/Home',width="stretch")
 
 def web_page():
     global user_prompt
+    quick_chat_status = True
     lang = st.session_state.lang
     prompt = st.chat_input(TEXT[st.session_state.lang]["placeholder"])
     # Reset json when open new tab
@@ -399,17 +403,14 @@ def web_page():
         msg = QUICK_CHAT[0][st.session_state.lang]
         if st.button(msg ,width="stretch"):
             prompt = msg
-            # return
     with c2:
         msg = QUICK_CHAT[1][st.session_state.lang]
         if st.button(msg ,width="stretch"):
             prompt = msg
-            # return
     with c3:
         msg = QUICK_CHAT[2][st.session_state.lang]
         if st.button(msg ,width="stretch"):
             prompt = msg
-            # return
 
                                 
     # chat_input
