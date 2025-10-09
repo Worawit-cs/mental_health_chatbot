@@ -116,8 +116,8 @@ Respond with JSON exactly in this form:
             model=MODEL,
             messages=messages,
             max_tokens=max_tokens,
-            temperature=temperature,
-            reasoning_effort="medium",
+            temperature=temperature
+            # reasoning_effort="medium",
         )
         # print(response)
         # print(response.choices[0].message.reasoning_content)
