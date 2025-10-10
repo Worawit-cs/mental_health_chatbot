@@ -15,6 +15,7 @@ import litellm
 from sentence_transformers import SentenceTransformer
 
 from .config import MODEL
+from .config import MODEL_ANALYZE
 
 # ---- Config ----
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
@@ -110,10 +111,10 @@ Respond with JSON exactly in this form:
             return [k.strip() for k in keywords if isinstance(k, str) and k.strip()]
         return []
 
-    def _call_llm(self, messages: List[Dict[str, str]], *, max_tokens: int, temperature: float) -> str:
+    def _call_llm(self, messages: List[Dict[str, str]], *, max_tokens: int, temperature: float,model_llm=MODEL) -> str:
         litellm.drop_params = True
         response = litellm.completion(
-            model=MODEL,
+            model=model_llm,
             messages=messages,
             max_tokens=max_tokens,
             temperature=temperature
@@ -130,7 +131,7 @@ Respond with JSON exactly in this form:
         messages = [{"role": "system","content": "You extract mental health signals."},
             {"role": "user", "content": f"{temp}\n\nUser message:\n{user_input}"},
         ]
-        payload = self._call_llm(messages, max_tokens=None, temperature=1)
+        payload = self._call_llm(messages, max_tokens=None, temperature=1,model_llm=MODEL_ANALYZE)
         analysis = self._parse_json(payload)
         if "retrieval_query" not in analysis or not analysis["retrieval_query"].strip():
             keywords = self._normalise_keywords(analysis)

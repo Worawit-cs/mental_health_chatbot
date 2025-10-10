@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import litellm
 load_dotenv()
 MODEL = os.getenv("MODEL")
+MODEL_ANALYZE = os.getenv("MODEL_ANALYZE")
 if not MODEL:
    raise SystemExit("Please set MODEL in your .env (e.g., groq/llama-3.3-70b-versatile).")
 
