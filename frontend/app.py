@@ -87,13 +87,13 @@ POP_MESSAGE = [{"TH":"เบอร์โทรตอดต่อ","ENG":"Our con
 ABOUT_MESSAGE = [
 
     {
-        "TH":"โปรเจกต์นี้ป็นส่วนนึงของโปรเจกต์ รายวิชา 204203 Computer Science Technology","ENG":"This project is part of the course project for 204203 Computer Science Technology."
+        "TH":"โปรเจกต์นี้เป็นส่วนนึงของโปรเจกต์ รายวิชา 204203 Computer Science Technology","ENG":"This project is part of the course project for 204203 Computer Science Technology."
     },
     {
-        "TH":"พวกเรามาจาก คณะวิทยาศาสตร์ สาขา วิทยาการคอมพิวเตอร์ ที่ชอบคุยปรึกษากับAIบ่อยๆเราจึงมีไอเดียที่จะทำchat botเป็นของตัวเองดูบ้างจึงเกิดAI+ CARE YOUขึ้นมาครับ","ENG":"We are students from the Faculty of Science, majoring in Computer Science. Since we often enjoy talking and consulting with AI, we came up with the idea of creating our own chatbot — and that’s how AI+ CARE YOU was born!"
+        "TH":"พวกเรามาจาก คณะวิทยาศาสตร์ สาขา วิทยาการคอมพิวเตอร์ ที่ชอบคุยปรึกษากับ AI อยู่บ่อยครั้ง พวกเราจึงมีไอเดียที่อยากจะทำ chat bot เป็นของตัวเองดูบ้างจึงเกิด AI+ CARE YOU นี้ขึ้นมา","ENG":"We are students from the Faculty of Science, majoring in Computer Science. Since we often enjoy talking and consulting with AI, we came up with the idea of creating our own chatbot — and that’s how AI+ CARE YOU was born!"
     },
     {
-        "TH":"AI+ CARE YOU เป็น chat bot นี้เหมาะสำหรับคนที่ต้องการ พูดคุย ระบาย และ ปรึกษา สามารถที่จะเลือกบทบาทของแชทบอทได้และเลือกหัวที่ต้องการคุยได้ ไม่ว่าคุณจะเจอปัญหาแบบไหนคุณสามารถบอกเราได้นะ เราพร้อมที่จะช่วยคุณเสมอ!","ENG":"AI+ CARE YOU is a chatbot designed for people who want someone to talk to, open up to, or seek advice from. You can choose the chatbot’s role and the topic you want to discuss. No matter what kind of problem you’re facing, you can always talk to us — we’re here to help you anytime!"
+        "TH":"AI+ CARE YOU เป็น chat bot ที่เหมาะสำหรับคนที่ต้องการพูดคุย ระบาย และ ต้องการคำปรึกษา ซึ่งสามารถเลือกบทบาทของแชทบอทและเลือกหัวข้อที่ต้องการคุยได้ ไม่ว่าคุณจะเจอปัญหาแบบไหนมาคุณสามารถพูดคุยกับเราได้ เราพร้อมที่จะช่วยคุณเสมอ!","ENG":"AI+ CARE YOU is a chatbot designed for people who want someone to talk to, open up to, or seek advice from. You can choose the chatbot’s role and the topic you want to discuss. No matter what kind of problem you’re facing, you can always talk to us — we’re here to help you anytime!"
     }
 
 ]
@@ -223,7 +223,7 @@ st.markdown("""
     div.stMarkdown p,
     [data-testid="stChatMessageContent"] p {
         white-space: pre-wrap;
-        font-size: 26px;
+        font-size: 24x;
         # font-family: 'Helvatica', sans-serif; /* Change the font family */ 
     }
     
