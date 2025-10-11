@@ -45,6 +45,7 @@ ASSETS_DIR = APP_DIR
 # ---- แก้ path ให้ cross-platform ----
 USER_AVATAR_PATH = Path(IMAGE_PATH) / "user_image.png"
 BOT_AVATAR_PATH  = Path(IMAGE_PATH) / "Bot.png"
+CS_CMU_PATH = Path(IMAGE_PATH)/"cs_cmu.png"
 # BG_PATH  = Path(rf"{IMAGE_PATH}\BG.png")
 
 # ==================================================================
@@ -72,7 +73,7 @@ QUICK_TOPICS = [
 ROLE = [
     {"key": "friend",      "TH": "เพื่อน",    "ENG": "Friend"},
     {"key": "professor",   "TH": "อาจารย์",   "ENG": "Professor"},
-    {"key": "oni_chan",    "TH": "รุ่นพี่",    "ENG": "Oni_chan"},
+    {"key": "oni_chan",    "TH": "รุ่นพี่",    "ENG": "Senior"},
 ]
 
 LANG_NAME_DISPLAY = {"TH": "ไทย", "ENG": "English"}
@@ -83,6 +84,20 @@ QUICK_CHAT = [
     {"key": 3,   "TH": "พรุ่งนี้สอบแต่ไม่ได้อ่านหนังสือทำยังไงดี!!!! ☠️",    "ENG": "My exam is tomorrow, but I haven't studied. What should I do? ☠️"},
 ]
 POP_MESSAGE = [{"TH":"เบอร์โทรตอดต่อ","ENG":"Our contact"},{"TH":"เว็บไซต์","ENG":"Website"}]
+ABOUT_MESSAGE = [
+
+    {
+        "TH":"โปรเจกต์นี้ป็นส่วนนึงของโปรเจกต์ รายวิชา 204203 Computer Science Technology","ENG":"This project is part of the course project for 204203 Computer Science Technology."
+    },
+    {
+        "TH":"พวกเรามาจาก คณะวิทยาศาสตร์ สาขา วิทยาการคอมพิวเตอร์ ที่ชอบคุยปรึกษากับAIบ่อยๆเราจึงมีไอเดียที่จะทำchat botเป็นของตัวเองดูบ้างจึงเกิดAI+ CARE YOUขึ้นมาครับ","ENG":"We are students from the Faculty of Science, majoring in Computer Science. Since we often enjoy talking and consulting with AI, we came up with the idea of creating our own chatbot — and that’s how AI+ CARE YOU was born!"
+    },
+    {
+        "TH":"AI+ CARE YOU เป็น chat bot นี้เหมาะสำหรับคนที่ต้องการ พูดคุย ระบาย และ ปรึกษา สามารถที่จะเลือกบทบาทของแชทบอทได้และเลือกหัวที่ต้องการคุยได้ ไม่ว่าคุณจะเจอปัญหาแบบไหนคุณสามารถบอกเราได้นะ เราพร้อมที่จะช่วยคุณเสมอ!","ENG":"AI+ CARE YOU is a chatbot designed for people who want someone to talk to, open up to, or seek advice from. You can choose the chatbot’s role and the topic you want to discuss. No matter what kind of problem you’re facing, you can always talk to us — we’re here to help you anytime!"
+    }
+
+]
+
 
 FRIEND_STYLE = """
 writing_style:
@@ -139,8 +154,20 @@ def get_role_key_from_label(label: str, lang: str) -> str:
 #setting text
 st.markdown("""
     <style>
-    div[data-baseweb="select"] { margin-top: -35px; }
-
+    body,
+    [data-testid="stAppViewContainer"],
+    section[data-testid="stSidebar"],[data-testid="stHeader"],[data-testid="stBottomBlockContainer"],[data-testid="stSidebar"] {
+        background-image: linear-gradient(135deg, #220b38 0%, #4a0a35 74%);
+        background-color: #220b38; 
+    }
+    
+    
+    div[data-baseweb="select"] { 
+        margin-top: -35px;
+        background-color: #220b38;
+     }
+            
+    
     [data-testid="stChatMessage"]{
         padding-top: 0.5rem; padding-bottom: 0.5rem;
     }
@@ -148,23 +175,62 @@ st.markdown("""
         display:flex; align-items:center; min-height:40px; padding-top:6px; margin-top:-4px;
     }
 
-    div.stButton > button { margin-top: -100px; }
-
-    section[data-testid="stSidebar"] { width: 320px !important; }
-
-    [data-testid="stAppViewContainer"]{
-        background: radial-gradient(70% 100% at 10% 0%, #2a0d1f, transparent 60%),
-                    linear-gradient(160deg, #0b0f1a 0%, #131327 40%, #1b0f2f 100%);
+    
+    div.stButton > button { 
+        margin-top: -100px;
+        background-color: #220b38;
+        
+    }
+    
+    
+    div.stButton > button:hover { 
+        # margin-top: -100px;
+        background-image: linear-gradient(135deg, #220b38 0%, #4a0a35 74%);
+        
     }
 
+
+    section[data-testid="stSidebar"] { 
+            width: 500px; 
+            !important; 
+            gap: 0.1rem;
+     }
+        
+
+    
+    
+    [data-testid="stSidebarContent"] h1 {
+        color: #FFFFF; /* Change the text color */
+        font-size: 40px; /* Adjust the font size */
+        # font-family: 'Arial', sans-serif; /* Change the font family */
+        padding: 0 0;
+    }
+    
+    
+    .stSelectbox div[data-baseweb="select"] > div:first-child {
+        background-color: #220b38; 
+    }
+            
+    
+    [data-testid="stSidebarContent"] p {
+        color: #FFFFF; /* Change the text color */
+        font-size: 24px; /* Adjust the font size */
+        # font-family: 'Arial', sans-serif; /* Change the font family */
+        # padding: 0 0;
+    }
+    
+    
     div.stMarkdown p,
     [data-testid="stChatMessageContent"] p {
-        white-space: pre-wrap; 
+        white-space: pre-wrap;
+        font-size: 26px;
+        # font-family: 'Helvatica', sans-serif; /* Change the font family */ 
     }
-    .sidebar-title {
-    font-size: 1000px; /* Adjust the font size as needed */
-    font-weight: bold; /* Optional: make the title bold */
-    color: #333333; /* Optional: set a specific color */
+    
+    .linear-separator {
+        border: none;
+        height: 2px; /* Adjust thickness as needed */
+        background: linear-gradient(to right, #ccc, #eee, #ccc); /* Linear gradient for the line */
     }
 
     </style>
@@ -184,7 +250,7 @@ TEXT = {
         "subtitle": "ฉันเป็นเพียงแชทบอทที่ช่วยรับฟังและให้คำปรึกษาเบื้องต้นนะ  ไม่ใช่ผู้เชี่ยวชาญหรือแพทย์โดยตรง แต่ถ้าฉันวิเคราะห์ได้ว่าคุณอาจอยู่ในระดับที่ควรพบแพทย์ฉันจะแจ้งให้คุณทราบเพื่อให้ได้รับการดูแลอย่างเหมาะสมนะ 💓",
         "placeholder": "พิมพ์ข้อความของคุณที่นี่...",
         "language": "ภาษา",
-        "consult": "ปรึกษา",
+        "consult": "เรื่อง",
         "first_message": "สวัสดี ผม AI+ CARE YOU มีอะไรให้ผมช่วยไหมครับ ? 👨🏻‍⚕️",
         "role": "บทบาท"
     },
@@ -194,7 +260,7 @@ TEXT = {
         "subtitle": "I'm just a chatbot here to listen and offer basic support — I'm not a professional or a doctor. But if I notice that your situation might need medical attention, I'll let you know so you can get the proper care 💓",
         "placeholder": "Type your message here...",
         "language": "Language",
-        "consult": "Consult",
+        "consult": "Topic",
         "first_message": "Hello! I’m AI+ CARE YOU. What can I do for you today ? 👨🏻‍⚕️",
         "role": "Role"
     }
@@ -320,7 +386,6 @@ def popup():
 
 def web_page():
     global user_prompt
-    quick_chat_status = True
     lang = st.session_state.lang
     prompt = st.chat_input(TEXT[st.session_state.lang]["placeholder"])
     # Reset json when open new tab
@@ -331,7 +396,7 @@ def web_page():
     #head and logo top page
     col1, col2 = st.columns([0.1, 0.9])
     with col1:
-        st.image(str(Path(IMAGE_PATH) / 'LOGO.png'), width=200)
+        st.image(str(Path(IMAGE_PATH) / 'LOGO.png'), width="stretch")
     with col2:
         st.title(TEXT[st.session_state.lang]["title"])
         c1, c2 = st.columns(TEXT[lang]["subtitle_cols"])
@@ -353,10 +418,20 @@ def web_page():
 
     # sidebar setting
     with st.sidebar:
-        st.title("Config   🛠")
-        # change_language
-        st.markdown(TEXT[st.session_state.lang]["language"])
-        new_lang = st.selectbox(' ', ['TH','ENG'],
+        col1,col2 = st.columns([3,1])
+        with col1:
+            st.title("Config",width="stretch")
+        with col2:
+            st.title("🛠",width="stretch")
+        st.markdown("<hr class='linear-separator'>", unsafe_allow_html=True)
+        # change_language 🌎
+        col1,col2 = st.columns([4,1])
+        with col1:
+            st.markdown(TEXT[st.session_state.lang]["language"],width="stretch")
+        with col2:
+            st.markdown("🌎",width="stretch")
+        
+        new_lang = st.selectbox(" ", ['TH','ENG'],
                                 index=['TH','ENG'].index(st.session_state.lang))
 
         #**********************************
@@ -367,8 +442,12 @@ def web_page():
             st.rerun()
         st.write(' ')
 
-        # quick chat
-        st.write(TEXT[st.session_state.lang]["consult"])
+        # quick chat 💬
+        col1,col2 = st.columns([4,1])
+        with col1:
+            st.markdown(TEXT[st.session_state.lang]["consult"],width="stretch")
+        with col2:
+            st.markdown("💬",width="stretch")
         quick_labels = [item[st.session_state.lang] for item in QUICK_TOPICS]
         current_quick_idx = get_quick_index_from_key(st.session_state.quick_key)
         selected_topic_label = st.selectbox(' ', quick_labels, index=current_quick_idx)
@@ -383,8 +462,12 @@ def web_page():
         st.write(' ')
         
 
-        # role
-        st.write(TEXT[st.session_state.lang]["role"])
+        # role 🎭
+        col1,col2 = st.columns([4,1])
+        with col1:
+            st.markdown(TEXT[st.session_state.lang]["role"],width="stretch")
+        with col2:
+            st.markdown("🎭",width="stretch")
         role_labels = [item[st.session_state.lang] for item in ROLE]
         current_role_idx = get_role_index_from_key(st.session_state.role_key)
         selected_role_label = st.selectbox('  ',role_labels,index=current_role_idx)
@@ -395,7 +478,24 @@ def web_page():
         if new_role_key != st.session_state.role_key:
             st.session_state.role_key = new_role_key
             st.rerun()
-    
+        st.write(" ")
+        
+        # About this project => background->rationale->How good it is
+        col1,col2 = st.columns([3,1])
+        with col1:
+            st.title("About Us",width="stretch")
+        with col2:
+            st.title("📜",width="stretch")
+        st.markdown("<hr class='linear-separator'>", unsafe_allow_html=True)
+        st.markdown(f"- {ABOUT_MESSAGE[0][st.session_state.lang]}")
+        st.markdown(f"- {ABOUT_MESSAGE[1][st.session_state.lang]}")
+        st.markdown(f"- {ABOUT_MESSAGE[2][st.session_state.lang]}")
+        col1,col2,col3 = st.columns([1,2,1])
+        with col2:
+            st.image(CS_CMU_PATH,width=200)
+        st.markdown("<h1 style='text-align: center;'> WE ARE ALL CS CMU ! 👨‍💻⌨ </h1>", unsafe_allow_html=True)
+            
+
     init_session_state()
     display_chat_messages()
     c1,c2,c3 = st.columns([1,1,1])
