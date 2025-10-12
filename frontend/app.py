@@ -214,7 +214,7 @@ st.markdown("""
     
     [data-testid="stSidebarContent"] p {
         color: #FFFFF; /* Change the text color */
-        font-size: 24px; /* Adjust the font size */
+        font-size: 26px; /* Adjust the font size */
         # font-family: 'Arial', sans-serif; /* Change the font family */
         # padding: 0 0;
     }
@@ -223,7 +223,7 @@ st.markdown("""
     div.stMarkdown p,
     [data-testid="stChatMessageContent"] p {
         white-space: pre-wrap;
-        font-size: 24x;
+        font-size: 24px;
         # font-family: 'Helvatica', sans-serif; /* Change the font family */ 
     }
     
