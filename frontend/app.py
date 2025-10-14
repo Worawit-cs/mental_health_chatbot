@@ -377,12 +377,12 @@ def test_response():
         "user_suggested_questions":["1","2","3"]
     }
 
-@st.dialog("ติดต่อ")
+@st.dialog("ติดต่อ 📌")
 def popup():
     contact = POP_MESSAGE[0][st.session_state.lang]
     webside = POP_MESSAGE[1][st.session_state.lang]
-    st.write(f"เบอร์โทรตอดต่อ 097-924-8000")
-    st.link_button('เว็ปไซ','https://mentalhealth.cmu.ac.th/Views/Home/Home',width="stretch")
+    st.write(f"เบอร์โทรติดต่อ 📞 097-924-8000")
+    st.link_button('เว็ปไซ 🌐','https://mentalhealth.cmu.ac.th/Views/Home/Home',width="stretch")
 
 def web_page():
     global user_prompt
