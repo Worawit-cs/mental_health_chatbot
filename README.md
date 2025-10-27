@@ -32,3 +32,4 @@ Conclusion
 
 By combining advanced AI frameworks, data structuring techniques, and conversational design principles, the Mental Health Chatbot project demonstrates how academic knowledge from 204203 can be effectively applied to real-world innovation. The integration of RAG and JSON Schema further enhances the chatbot’s capability, ensuring both technical robustness and meaningful human–AI interaction.
 
+<img width="3000" height="4314" alt="QR" src="https://github.com/user-attachments/assets/cbce8089-da1a-4b0f-be8e-70967e8c8b46" />
